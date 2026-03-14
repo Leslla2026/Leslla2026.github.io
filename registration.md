@@ -25,7 +25,7 @@ Conference fee **does not** include the social dinner and attendance and voting 
 <!-- Stile minimo incorporato (puoi spostarlo nel tuo style.scss se preferisci) -->
 <style>
   .fees-table {
-    width: 100%;
+    width: 50%;
     border-collapse: collapse;
   }
   .fees-table th,
