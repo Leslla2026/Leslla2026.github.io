@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: /index/
 ---
 
 {% include site-logo.html %}
