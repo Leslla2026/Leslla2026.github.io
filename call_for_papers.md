@@ -37,7 +37,7 @@ We invite researchers, practitioners, and volunteers committed to LESLLA-related
 - Teaching LESLLA learners: methods and tools
 - LESLLA teacher/volunteer training
 
-<ins>Session type descriptions:<ins>
+<ins>Session type descriptions:</ins>
 
 - **Virtual sessions** (August 20, 2026):
 <ins>Paper presentations<ins> (30 minutes): 20-minute Zoom synchronous presentations followed by a 10-minute period for questions and discussion.
