@@ -1,3 +1,12 @@
+---
+# Front matter obbligatorio: fa compilare lo SCSS a GitHub Pages
+---
+
+/* 1) Importa gli stili del tema attivo (qui: jekyll-theme-minimal) */
+@import "{{ site.theme }}";
+
+/* 2) Il tuo CSS personalizzato (quello che hai incollato) */
+
 /* ===========================
    BRAND (bordeaux) + link + titoli
    =========================== */
@@ -29,13 +38,13 @@ h1, h2, h3, h4, h5, h6{
    =========================== */
 
 /* Sidebar di sinistra del tema Minimal */
-.sidebar{ display: none; }
+.sidebar{ display: none !important; }  /* !important per vincere su regole del tema */
 
 /* Colonna contenuto */
 .main, .main-content{
-  float: none;
-  width: auto;
-  margin: 0;
+  float: none !important;
+  width: auto !important;
+  margin: 0 !important;
 }
 
 /* Contenitori centrali (variano di versione in versione) */
@@ -64,12 +73,12 @@ h1, h2, h3, h4, h5, h6{
   margin: 0;
   font-size: clamp(1.6rem, 4vw, 2.2rem);
   line-height: 1.15;
-  color: #fff; /* il titolo nel banner resta bianco */
+  color: #fff !important; /* titolo nel banner sempre bianco */
 }
 .page-banner__subtitle{
   margin: .30rem 0 0 0;
   font-size: clamp(1rem, 2.2vw, 1.15rem);
-  color: #fff;
+  color: #fff !important;
   opacity: .95;
 }
 
