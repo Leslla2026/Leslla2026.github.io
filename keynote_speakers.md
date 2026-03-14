@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Keynote speakers
+permalink: /keynote_speakers/
 ---
+
+{% include navigation.html %}
 
 # Keynote speakers
 
