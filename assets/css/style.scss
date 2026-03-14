@@ -1,15 +1,35 @@
-/* Colore bordeaux per i link del menu e del testo */
-a {
-  color: #8A0044;
-  text-decoration: none;
+/* Colore link + titoli testo */
+:root{
+  --brand: #8A0044;      /* bordeaux */
+  --brand-dark: #5F0030; /* hover */
 }
 
-a:hover {
-  color: #5F0030;
-  text-decoration: underline;
+a { color: var(--brand); text-decoration: none; }
+a:hover { color: var(--brand-dark); text-decoration: underline; }
+
+h1, h2, h3, h4, h5, h6 { color: var(--brand); }
+
+/* --- Banner di intestazione pagina --- */
+.page-banner{
+  background: var(--brand);
+  color: #fff;
+  padding: 1.25rem 1rem;
+  border-radius: 8px;
+  text-align: center;
+  margin: 0 0 1.25rem 0;
 }
 
-/* Titoli della pagina nello stesso colore */
-h1, h2, h3, h4, h5, h6 {
-  color: #8A0044;
+.page-banner__title{
+  margin: 0;
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  line-height: 1.15;
+  color: #fff; /* il titolo nel banner resta bianco */
+}
+
+/* opzionale: sottotitolo nel banner */
+.page-banner__subtitle{
+  margin: .3rem 0 0 0;
+  font-size: clamp(1rem, 2.2vw, 1.15rem);
+  opacity: .95;
+  color: #fff;
 }
