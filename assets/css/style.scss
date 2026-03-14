@@ -1,41 +1,71 @@
 ---
-# Front matter obbligatorio per la compilazione SCSS
+# Front matter obbligatorio per poter compilare SCSS
 ---
 
-/* Importa il tema Cayman come da README ufficiale */
-@import "{{ site.theme }}";
+/* Importa il tema Cayman come da istruzioni ufficiali */
+@import "{{ site.theme }}";  /* jekyll-theme-cayman */
+/* DOCUMENTATO QUI: https://github.com/pages-themes/cayman (Stili personalizzati via style.scss). [1](https://www.techbloat.com/how-to-add-jekyll-theme-to-github-pages.html) */
 
-/* ===============================
-   Palette A — Bordeaux & Ardesia
-   =============================== */
 
-/* Header */
-.page-header { background-color: #B30059; }
-.page-header h1,
-.page-header h2 { color: #FFFFFF !important; }
+/* =========================================================
+   PALETTE PERSONALIZZATA (Opzione B)
+   ========================================================= */
 
-.project-tagline { color: rgba(255,255,255,0.92); }
+:root{
+  --brand: #8A0044;          /* colore dei link e titoli */
+  --brand-dark: #5F0030;     /* hover */
+  --header-grad-start: #0B3D91; /* blu Oxford */
+  --header-grad-end:   #FFB400; /* oro caldo */
+  --text: #222222; 
+}
 
-/* Titoli nel contenuto */
-h1, h2, h3, h4, h5, h6 { color: #B30059; }
+/* ===== HEADER con gradiente personalizzato ===== */
+.page-header{
+  background-image: linear-gradient(
+    120deg,
+    var(--header-grad-start) 0%,
+    var(--header-grad-end) 100%
+  ) !important;
+}
 
-/* Testo principale */
-body { color: #2B2B2B; }
+/* Titolo e sottotitolo dell'header */
+.page-header .project-name,
+.page-header .project-tagline{
+  color: #ffffff !important;
+}
+
+/* ===== TITOLI (stesso colore dei link) ===== */
+h1, h2, h3, h4, h5, h6{
+  color: var(--brand);
+}
+
+/* Testo */
+body{ color: var(--text); }
 
 /* Link */
-a { color: #8A0044; text-decoration: none; }
-a:hover, a:focus { color: #D61A7F; text-decoration: none; }
-
-/* Bottoni Cayman */
-.btn { background-color: #B30059; color: #FFFFFF; border: none; }
-.btn:hover, .btn:focus { background-color: #8A0044; color: #FFFFFF; }
-
-/* Dettagli */
-hr {
-  border: 0; height: 1px;
-  background: linear-gradient(to right, transparent, #B30059, transparent);
-  opacity: 0.5;
+a{
+  color: var(--brand);
+  text-decoration: none;
 }
-table th { color: #B30059; }
-blockquote { border-left: 4px solid #B30059; }
-small, .small { color: #444; }
+a:hover, a:focus{
+  color: var(--brand-dark);
+}
+
+/* Bottoni */
+.btn{
+  background-color: var(--brand);
+  color: #fff;
+  border:none;
+}
+.btn:hover, .btn:focus{
+  background-color: var(--brand-dark);
+}
+
+/* Elementi coordinati */
+blockquote{ border-left: 4px solid var(--brand); }
+table th{ color: var(--brand); }
+hr{
+  border: 0; height: 1px;
+  background: linear-gradient(to right, transparent, var(--brand), transparent);
+  opacity:.5;
+}
