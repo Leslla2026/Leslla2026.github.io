@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Call for proposals
+permalink: /call_for_papers/
 ---
 
 _The call for proposals is now closed_
