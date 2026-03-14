@@ -157,3 +157,12 @@ hr{
   justify-content: center;   /* centra tutto il contenuto del nav */
 }
 
+
+.float-left {
+  float: left;
+  width: 140px;       /* ridimensiona la foto */
+  margin: 0 1rem 1rem 0;  /* spazio a destra e sotto */
+  border-radius: 4px;     /* opzionale, estetico */
+}
+
+
