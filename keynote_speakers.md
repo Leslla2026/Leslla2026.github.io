@@ -13,6 +13,8 @@ permalink: /keynote_speakers/
 She directs the School of Italian Language for Foreigners (ItaStra) and the second-level Master's degree in "Theory, design and didactics of Italian as L2/LS" of the same university.
 Her interests focus on Italian sociolinguistics, migration and transnational communities, literacy education and second Language learning for adults.
 
+<img src="/media/scholten.jpg" class="float-left" alt="Foto di Martha Young-Scholten">
+
 **Martha Young-Scholten** is Full Professor of Second Language Acquisition at Newcastle University, England. 
 Since the 1980s, she has conducted research on the generative-linguistics-based L2 acquisition of morphosyntax and phonology, focusing on adults acquiring an additional language (L2) naturalistically. 
 For the last decade, she has been investigating the reading development of immigrant adults with limited home language literacy. 
