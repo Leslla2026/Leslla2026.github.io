@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+{% include site-logo.html %}
+{% include page-header.html %}
+
 [Home](/index/) • [Call for proposals](/call_for_proposals/) • 
 [Registration](/registration/) • 
 [Schedule](/schedule/) • 
