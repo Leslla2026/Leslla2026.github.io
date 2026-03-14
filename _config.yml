@@ -1,6 +1,7 @@
-
 title: "Leslla XXI Symposium"
 
 remote_theme: daviddarnes/alembic
-plugins: - jekyll-remote-theme
-logo: /assets/lessla_logo.webp
+plugins:
+  - jekyll-remote-theme
+
+logo: /assets/leslla_logo.webp
