@@ -15,7 +15,7 @@ title: Home
 ## Literacy Education and Second Language Learning for Adults.  
 
 
-*Bridging languages: literacy, plurilingual repertoires, new languages.** 
+**Bridging languages: literacy, plurilingual repertoires, new languages.** 
 
 Masaryk University, Brno
 
