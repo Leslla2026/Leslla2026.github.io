@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-<p style="text-align:center;">
-  <img src="/leslla_logo.webp" alt="Logo" style="max-width:180px;">
-</p>
-
 [Call for proposals](/call_for_proposals/) • 
 [Registration](/registration/) • 
 [Schedule](/schedule/) • 
@@ -14,6 +10,7 @@ title: Home
 [Useful information](/useful_info/)
 
 
+![Foto](/leslla_home.jpg)
 # LESLLA XXI SYMPOSIUM
 ## Literacy Education and Second Language Learning for Adults.  
 
