@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6{ color: var(--brand); }
 
 h1, h2, h3, h4, h5, h6{ text-align: center;  }
 
-h1.page.title {
+h1.page-title {
   margin-bottom: 2rem;  /* distanza sotto il titolo */
 }
 
@@ -154,6 +154,6 @@ hr{
 }
   
 .top-nav .menu {
-  text-align: center;   /* centra tutto il contenuto del nav */
+  justify-content: center;   /* centra tutto il contenuto del nav */
 }
 
