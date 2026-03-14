@@ -4,4 +4,4 @@ title: Schedule
 permalink: /schedule/
 ---
 
-The schedule will be available soon
+The schedule of the conference will be available soon
