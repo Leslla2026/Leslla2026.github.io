@@ -20,6 +20,8 @@ Since the 1980s, she has conducted research on the generative-linguistics-based 
 For the last decade, she has been investigating the reading development of immigrant adults with limited home language literacy. 
 She co-directs, with a creative writing colleague, the Simply Cracking Good Stories project on pleasure reading for adult beginners, and she led the EU-Speak project, from 2010 to 2018.
 
+<img src="/media/marketa.jpg" class="float-left" alt="Foto di Markéta Hajská">
+
 **Markéta Hajská** is Full Professor at Charles University, Prague. 
 She has lectured at the Romani Studies Section since 2011. Here, she focuses on anthropological approaches to Romani cultures and on Vlax Romani
 Since 2000, she had participated in various field research projects focused on the Roma and on socially excluded areas in Czechia and Slovakia both as researcher and coordinator. Since 2007, she has been working as a methodology specialist on multicultural education in the education programme Varianty (Options) organized by the NGO Člověk v tísni, where she contributed to several publications and participated in educational modules. 
