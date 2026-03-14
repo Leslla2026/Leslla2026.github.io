@@ -1,66 +1,15 @@
----
-# Front matter obbligatorio per poter compilare SCSS
----
-
-/* Importa il tema Cayman come da istruzioni ufficiali */
-@import "{{ site.theme }}";  /* jekyll-theme-cayman */
-/* DOCUMENTATO QUI: https://github.com/pages-themes/cayman (Stili personalizzati via style.scss). [1](https://www.techbloat.com/how-to-add-jekyll-theme-to-github-pages.html) */
-
-:root{
-  --brand: #8A0044;          /* colore dei link e titoli */
-  --brand-dark: #5F0030;     /* hover */
-  --header-grad-start: #0B3D91; /* blu Oxford */
-  --header-grad-end:   #FFB400; /* oro caldo */
-  --text: #222222; 
-}
-
-/* ===== HEADER con gradiente personalizzato ===== */
-.page-header{
-  background-image: linear-gradient(
-    120deg,
-    var(--header-grad-start) 0%,
-    var(--header-grad-end) 100%
-  ) !important;
-}
-
-/* Titolo e sottotitolo dell'header */
-.page-header .project-name,
-.page-header .project-tagline{
-  color: #ffffff !important;
-}
-
-/* ===== TITOLI (stesso colore dei link) ===== */
-h1, h2, h3, h4, h5, h6{
-  color: var(--brand);
-}
-
-/* Testo */
-body{ color: var(--text); }
-
-/* Link */
-a{
-  color: var(--brand);
+/* Colore bordeaux per i link del menu e del testo */
+a {
+  color: #8A0044;
   text-decoration: none;
 }
-a:hover, a:focus{
-  color: var(--brand-dark);
+
+a:hover {
+  color: #5F0030;
+  text-decoration: underline;
 }
 
-/* Bottoni */
-.btn{
-  background-color: var(--brand);
-  color: #fff;
-  border:none;
-}
-.btn:hover, .btn:focus{
-  background-color: var(--brand-dark);
-}
-
-/* Elementi coordinati */
-blockquote{ border-left: 4px solid var(--brand); }
-table th{ color: var(--brand); }
-hr{
-  border: 0; height: 1px;
-  background: linear-gradient(to right, transparent, var(--brand), transparent);
-  opacity:.5;
+/* Titoli della pagina nello stesso colore */
+h1, h2, h3, h4, h5, h6 {
+  color: #8A0044;
 }
