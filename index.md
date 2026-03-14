@@ -7,4 +7,12 @@ title: Home
 
 ![Foto](/leslla_home.jpg)
 
-# Leslla XXI Symposium. Masaryk University, Brno
+# Leslla XXI Symposium
+## 21st  Annual Symposium Masaryk University, Brno
+### Literacy Education and Second Language Learning for Adults.  
+
+*Bridging languages: literacy, plurilingual repertoires, new languages.*
+
+
+
+Website under construction 🚧
