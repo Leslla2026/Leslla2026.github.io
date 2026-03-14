@@ -78,3 +78,47 @@ hr{
   background: linear-gradient(to right, transparent, var(--brand), transparent);
   opacity: .5;
 }
+
+/* === FORZA MONOCOLONNA: annulla offset e larghezze “di colonna” === */
+
+/* Se la colonna contenuto usa un offset/margine sinistro (tipico dopo una sidebar) */
+.main, .main-content, .content, .page, .post, .posts, .post-list {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
+  float: none !important;
+  width: 100% !important;
+  max-width: 960px !important;   /* leggibilità */
+  box-sizing: border-box !important;
+  clear: both !important;
+}
+
+/* Wrapper/containment: nessun layout a colonne */
+.wrapper, .wrap, .container, .container-lg, .site, .site-body, .page-layout, .layout {
+  display: block !important;
+  max-width: 960px !important;
+  margin: 0 auto !important;
+  padding: 0 16px !important;
+}
+
+/* Se il tema usa flex o grid per due colonne, converti in blocco */
+.wrapper, .site, .site-body, .layout {
+  display: block !important;
+}
+
+/* Qualsiasi “colonna destra” residua: annulla float e larghezza */
+.right, .column-right, .col-right, .content-column {
+  float: none !important;
+  width: auto !important;
+  margin: 0 !important;
+}
+
+/* Nel caso ci fosse ancora spazio riservato accanto alla sidebar nascosta */
+.sidebar + .main,
+.sidebar + .main-content,
+.sidebar + .content {
+  margin-left: 0 !important;
+}
+
+/* (Opzionale) per debug rapido: mostra una traccia della larghezza reale */
+// body { outline: 3px solid transparent; }  /* attiva solo per test */
