@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
-/assets/leslla_logo.webp
+<p style="text-align:center;">
+  /leslla_logo.webp" alt="Logo" style="max-width:180px;">
+</p>
 
 [Home](index.md) • [Call for papers](call_for_papers.md) • [Schedule](schedule.md) • [Keynote speakers](keynote_speakers.md) • [Useful information](useful_info.md)
 
