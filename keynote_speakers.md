@@ -8,6 +8,7 @@ permalink: /keynote_speakers/
 {% include page-header.html %}
 
 <img src="/media/dagostino.jpg" class="float-left" alt="Foto di Mari D'Agostino">
+
 **Mari D'Agostino** is a Full Professor of Italian linguistics at the University of Palermo. 
 She directs the School of Italian Language for Foreigners (ItaStra) and the second-level Master's degree in "Theory, design and didactics of Italian as L2/LS" of the same university.
 Her interests focus on Italian sociolinguistics, migration and transnational communities, literacy education and second Language learning for adults.
