@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Call for proposals](/call_for_proposals/) • 
+[Home](/index/) • [Call for proposals](/call_for_proposals/) • 
 [Registration](/registration/) • 
 [Schedule](/schedule/) • 
 [Keynote speakers](/keynote_speakers/) • 
