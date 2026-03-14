@@ -1,21 +1,68 @@
 ---
-# this is a front matter block; leave it unchanged
+# Front matter obbligatorio: serve a Jekyll/GitHub Pages per processare SCSS.
 ---
 
+/* Importa gli stili originali del tema Cayman */
 @import "jekyll-theme-cayman";
 
-/* Cambia i colori dell’header */
+/* ===============================
+   Palette A — Bordeaux & Ardesia
+   ===============================
+
+   Primario (header/titoli):   #B30059
+   Testo principale:           #2B2B2B
+   Link:                       #8A0044
+   Link hover:                 #D61A7F
+   Pulsanti:                   fondo #B30059, testo #FFFFFF
+*/
+
+/* ---------- Header (fascia superiore) ---------- */
 .page-header {
-  background-color: #b30059;   /* colore nuovo header */
+  background-color: #B30059; /* colore della fascia header */
 }
 
-/* Cambia colore del titolo nell’header */
+/* Titoli nell'header */
 .page-header h1,
 .page-header h2 {
-  color: white !important;
+  color: #FFFFFF !important;  /* testo sempre leggibile su fondo bordeaux */
 }
 
-/* Cambia il colore dei titoli nel contenuto */
-h1, h2, h3 {
-  color: #b30059;   /* colore che preferisci */
+/* Eventuale tagline (sottotitolo) nell'header */
+.project-tagline {
+  color: rgba(255, 255, 255, 0.92);
 }
+
+/* ---------- Tipografia contenuto ---------- */
+
+/* Colore titoli nel corpo pagina */
+h1, h2, h3, h4, h5, h6 {
+  color: #B30059;
+}
+
+/* Colore testo principale */
+body {
+  color: #2B2B2B;
+}
+
+/* ---------- Link ---------- */
+a {
+  color: #8A0044;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #D61A7F;
+  text-decoration: none;
+}
+
+/* ---------- Pulsanti (bottoni Cayman .btn) ---------- */
+.btn {
+  background-color: #B30059;
+  color: #FFFFFF;
+  border: none;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #8A0044;
