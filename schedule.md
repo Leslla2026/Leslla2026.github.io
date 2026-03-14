@@ -3,6 +3,7 @@ layout: default
 title: Schedule
 permalink: /schedule/
 ---
+
 <p style="text-align:center; margin: 0.75rem 0 1.5rem;">
   <a href="/">Home</a> •
   <a href="/call_for_proposals/">Call for proposals</a> •
