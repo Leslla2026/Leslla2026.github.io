@@ -1,7 +1,11 @@
 ---
 layout: default
 title: Registration
+permalink: /registration/
 ---
+
+{% include navigation.html %}
+
 
 ## Registration
 Please, follow this [link](https://docs.google.com/forms/d/e/1FAIpQLScu8lkaFYwzI45m4XVSSLGeIBLPGJH5afCfloWjRgwRZUYBIA/viewform) to register. 
