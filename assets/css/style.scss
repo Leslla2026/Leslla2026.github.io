@@ -20,6 +20,11 @@ a:hover, a:focus{ color: var(--brand-dark); text-decoration: underline; }
 
 h1, h2, h3, h4, h5, h6{ color: var(--brand); }
 
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+
 /* 4) MONOCOLONNA: nascondi sidebar e allarga contenuto */
 .sidebar,
 .site-nav,
