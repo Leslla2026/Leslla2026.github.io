@@ -16,12 +16,29 @@ title: Home
   <a href="/useful_info/">Useful information</a>
 </p>
 
-![Foto](/leslla_home.jpg)
+---
+layout: default
+title: Home
+---
 
-# **Leslla XXI Symposium**
-### 21st Annual Symposium — Masaryk University, Brno
-### Literacy Education and Second Language Learning for Adults
+<!-- HERO: immagine a sinistra, testo a destra -->
+<section class="hero-2col">
+  <div class="hero-figure">
+    /assets/leslla_hero.jpg" alt="LESSLA — immagine del symposium">
+  </div>
 
-*Bridging languages: literacy, plurilingual repertoires, new languages.*
+  <div class="hero-copy">
+    <p class="hero-date">20–22 August 2026</p>
+    <h1 class="hero-title">LESSLA</h1>
+    <h2 class="hero-subtitle">21st&nbsp;Annual Symposium</h2>
+    <h3 class="hero-subsubtitle">Masaryk University, Brno</h3>
+
+    <p class="hero-tagline">
+      <em>Bridging languages: literacy, plurilingual repertoires, new languages.</em>
+    </p>
+  </div>
+</section>
+
+<!-- il resto della home qui sotto -->
 
 Website under construction 🚧
