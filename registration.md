@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Registration
+title: Registration and conference fee
 permalink: /registration/
 ---
 
