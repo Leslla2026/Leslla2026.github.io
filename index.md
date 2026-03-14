@@ -13,7 +13,7 @@ title: Home
 [Useful information](/useful_info/)
 
 
-![Foto](/leslla_home.jpg)
+![Foto](/brno.jpg)
 # LESLLA XXI SYMPOSIUM
 ## Literacy Education and Second Language Learning for Adults.  
 
