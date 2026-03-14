@@ -1,3 +1,6 @@
 
 title: "Leslla XXI Symposium"
-theme: minima
+
+remote_theme: daviddarnes/alembic
+plugins: - jekyll-remote-theme
+
