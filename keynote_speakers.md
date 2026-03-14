@@ -13,8 +13,7 @@ permalink: /keynote_speakers/
 She directs the School of Italian Language for Foreigners (ItaStra) and the second-level Master's degree in "Theory, design and didactics of Italian as L2/LS" of the same university.
 Her interests focus on Italian sociolinguistics, migration and transnational communities, literacy education and second Language learning for adults.
 
-
-
+<div class="clear"></div>
 
 <img src="/media/scholten.jpeg" class="float-left" alt="Foto di Martha Young-Scholten">
 
@@ -23,8 +22,7 @@ Since the 1980s, she has conducted research on the generative-linguistics-based 
 For the last decade, she has been investigating the reading development of immigrant adults with limited home language literacy. 
 She co-directs, with a creative writing colleague, the Simply Cracking Good Stories project on pleasure reading for adult beginners, and she led the EU-Speak project, from 2010 to 2018.
 
-
-
+<div class="clear"></div>
 
 <img src="/media/marketa.jpg" class="float-left" alt="Foto di Markéta Hajská">
 
