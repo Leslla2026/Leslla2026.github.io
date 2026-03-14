@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-permalink: /index/
 ---
 
 [Home](/index/) • [Call for proposals](/call_for_proposals/) • 
