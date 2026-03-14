@@ -38,7 +38,7 @@ We invite researchers, practitioners, and volunteers committed to LESLLA-related
 <ins>Session type descriptions:</ins>
 
 - **Virtual sessions** (August 20, 2026):
-<ins>Paper presentations<ins> (30 minutes): 20-minute Zoom synchronous presentations followed by a 10-minute period for questions and discussion.
+<ins>Paper presentations</ins> (30 minutes): 20-minute Zoom synchronous presentations followed by a 10-minute period for questions and discussion.
 <ins>Panels</ins> (up to 120 minutes): One or more convenors will introduce and moderate the session, which will include up to four speakers. Each speaker will give a 15-20-minute presentation or respond to questions prepared by the convenors on the session topic. The panel will conclude with a final debate, prompted by audience questions and closed with the convenors’ final remarks.
 <ins>Workshops</ins> (up to 120 minutes): Will adopt a practical and interactive approach, focusing on methodologies, techniques, practices, or case studies.
 They will include an introduction by one or more convenors, who also guide the session, hands-on activities for registered participants, and a concluding discussion or Q&A.
