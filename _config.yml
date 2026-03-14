@@ -1,7 +1,3 @@
 title: "Leslla XXI Symposium"
-
-remote_theme: daviddarnes/alembic
-plugins:
-  - jekyll-remote-theme
-
-logo: /assets/leslla_logo.webp
+description: "Sito ufficiale del Leslla XXI Symposium"
+theme: jekyll-theme-cayman
