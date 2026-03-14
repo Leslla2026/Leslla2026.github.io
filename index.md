@@ -22,4 +22,4 @@ title: Home
 
 Masaryk University, Brno
 
-Website under construction 🚧
+*Website under construction 🚧*
