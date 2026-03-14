@@ -1,0 +1,21 @@
+---
+# this is a front matter block; leave it unchanged
+---
+
+@import "jekyll-theme-cayman";
+
+/* Cambia i colori dell’header */
+.page-header {
+  background-color: #b30059;   /* colore nuovo header */
+}
+
+/* Cambia colore del titolo nell’header */
+.page-header h1,
+.page-header h2 {
+  color: white !important;
+}
+
+/* Cambia il colore dei titoli nel contenuto */
+h1, h2, h3 {
+  color: #b30059;   /* colore che preferisci */
+}
