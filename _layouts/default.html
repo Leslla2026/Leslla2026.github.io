@@ -9,13 +9,8 @@
       {{ site.title | default: "Site" | escape }}
     </title>
 
-    {%- comment -%}
-      Carichiamo il CSS del tema (generato da GitHub Pages) e il tuo CSS personalizzato.
-      Il tuo SCSS deve stare in assets/css/style.scss: Pages lo compila in assets/css/style.css
-    {%- endcomment -%}
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
-    {%- comment -%} (opzionale) meta descrizione {%- endcomment -%}
     {% if page.excerpt %}
       <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}">
     {% elsif site.description %}
@@ -24,7 +19,9 @@
   </head>
 
   <body>
-    <main class="page-content" style="max-width: 960px; margin: 0 auto; padding: 0 16px;">
+    {% include nav.html %}
+
+    <main id="main-content" class="page-content" style="max-width: 960px; margin: 0 auto; padding: 0 16px;">
       {{ content }}
     </main>
 
