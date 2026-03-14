@@ -4,4 +4,4 @@ title: Schedule
 permalink: /schedule/
 ---
 
-# Schedule
+The schedule will be available soon
