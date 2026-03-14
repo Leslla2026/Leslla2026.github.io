@@ -127,3 +127,27 @@ hr{
 
 /* (Opzionale) per debug rapido: mostra una traccia della larghezza reale */
 // body { outline: 3px solid transparent; }  /* attiva solo per test */
+
+.top-nav .menu {
+  list-style: none;      /* rimuove i bullet */
+  margin: 0;
+  padding: 0;
+
+  display: flex;         /* mette gli <li> in fila */
+  gap: 1rem;             /* spazio tra gli elementi */
+}
+
+.top-nav .menu li {
+  margin: 0;
+  padding: 0;
+}
+
+.top-nav .menu a {
+  text-decoration: none;
+  color: #222;
+  font-weight: 500;
+}
+
+.top-nav .menu a:hover {
+  text-decoration: underline;
+}
