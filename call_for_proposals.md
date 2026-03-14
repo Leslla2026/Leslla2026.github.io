@@ -15,13 +15,6 @@ permalink: /call_for_proposals/
 
 _The call for proposals is now closed_
 
-## Call for proposals
-### LESLLA 2026
-### 21st Annual Symposium
-### Literacy Education and Second Language Learning for Adults.
-### *Bridging languages: literacy, plurilingual repertoires, new languages.*
-### Brno, Czech Republic, August 20-22, 2026
-
 **Call for proposals**
 
 LESLLA (Literacy Education and Second Language Learning for Adults) engages and supports research initiatives, teaching approaches, and policies that contribute to high-quality and inclusive learning opportunities for adult migrants who face the dual challenge of learning a new language while at the same time learning to read and write for the first time or consolidating their existing literacy skills.
