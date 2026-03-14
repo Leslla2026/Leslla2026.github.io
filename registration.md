@@ -18,4 +18,163 @@ permalink: /registration/
 The conference fee includes access to all sessions, coffee breaks and light refreshments, lunch on 21 August, conference badges, stationery, and a city guide. The programme and book of abstracts will be provided in digital format for environmental reasons and will be accessible via QR code. 
 Conference fee **does not** include the social dinner and attendance and voting at the LESLLA General assembly. 
 
+<!-- Stile minimo incorporato (puoi spostarlo nel tuo style.scss se preferisci) -->
+<style>
+  .fees-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .fees-table th,
+  .fees-table td {
+    border: 1px solid #000;
+    padding: .5rem .6rem;
+    vertical-align: top;
+  }
+  .fees-table thead th {
+    background: #f5f5f5;
+    text-align: left;
+  }
+  /* Riga di sezione (intestazione che copre entrambe le colonne) */
+  .fees-section {
+    background: #fafafa;
+    font-weight: 700;
+    color: var(--brand, #8A0044); /* usa il tuo bordeaux se definito */
+  }
+</style>
+
+<table class="fees-table">
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Fee</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Member: in-person and online -->
+    <tr class="fees-section">
+      <td colspan="2">Member: in-person and online</td>
+    </tr>
+    <tr>
+      <td>Early bird (by 20 April 2026)</td>
+      <td>200 EUR</td>
+    </tr>
+    <tr>
+      <td>Regular (by 30 June 2026)</td>
+      <td>280 EUR</td>
+    </tr>
+    <tr>
+      <td>After 30 June and on site</td>
+      <td>300 EUR</td>
+    </tr>
+
+    <!-- Non-member: in-person & online -->
+    <tr class="fees-section">
+      <td colspan="2">Non-member: in-person &amp; online</td>
+    </tr>
+    <tr>
+      <td>Early bird (by 20 April 2026)</td>
+      <td>230 EUR</td>
+    </tr>
+    <tr>
+      <td>Regular (by 30 June 2026)</td>
+      <td>300 EUR</td>
+    </tr>
+    <tr>
+      <td>After 30 June and on site</td>
+      <td>350 EUR</td>
+    </tr>
+
+    <!-- Student member: in-person & online -->
+    <tr class="fees-section">
+      <td colspan="2">Student member: in-person &amp; online</td>
+    </tr>
+    <tr>
+      <td>Early bird (by 20 April 2026)</td>
+      <td>125 EUR</td>
+    </tr>
+    <tr>
+      <td>Regular (by 30 June 2026)</td>
+      <td>175 EUR</td>
+    </tr>
+    <tr>
+      <td>After 30 June and on site</td>
+      <td>200 EUR</td>
+    </tr>
+
+    <!-- Student non-member: in-person & online -->
+    <tr class="fees-section">
+      <td colspan="2">Student non-member: in-person &amp; online</td>
+    </tr>
+    <tr>
+      <td>Early bird (by 20 April 2026)</td>
+      <td>150 EUR</td>
+    </tr>
+    <tr>
+      <td>Regular (by 30 June 2026)</td>
+      <td>200 EUR</td>
+    </tr>
+    <tr>
+      <td>After 30 June and on site</td>
+      <td>225 EUR</td>
+    </tr>
+
+    <!-- Retired/community*/LMICs: in-person & online -->
+    <tr class="fees-section">
+      <td colspan="2">Retired / community* / LMICs: in-person &amp; online</td>
+    </tr>
+    <tr>
+      <td colspan="2"><em>*Without funding from their institution</em></td>
+    </tr>
+    <tr>
+      <td>Early bird (by 20 April 2026)</td>
+      <td>150 EUR</td>
+    </tr>
+    <tr>
+      <td>Regular (by 30 June 2026)</td>
+      <td>200 EUR</td>
+    </tr>
+    <tr>
+      <td>After 30 June and on site</td>
+      <td>225 EUR</td>
+    </tr>
+
+    <!-- Member: online only -->
+    <tr class="fees-section">
+      <td colspan="2">Member: online only</td>
+    </tr>
+    <tr>
+      <td>Early bird (by 20 April 2026)</td>
+      <td>60 EUR</td>
+    </tr>
+    <tr>
+      <td>Regular (by 30 June 2026)</td>
+      <td>120 EUR</td>
+    </tr>
+    <tr>
+      <td>After 30 June and on site</td>
+      <td>180 EUR</td>
+    </tr>
+
+    <!-- Non-member: online only -->
+    <tr class="fees-section">
+      <td colspan="2">Non-member: online only</td>
+    </tr>
+    <tr>
+      <td>Early bird (by 20 April 2026)</td>
+      <td>120 EUR</td>
+    </tr>
+    <tr>
+      <td>Regular (by 30 June 2026)</td>
+      <td>180 EUR</td>
+    </tr>
+    <tr>
+      <td>After 30 June and on site</td>
+      <td>200 EUR</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 Please, follow this [link](https://docs.google.com/forms/d/e/1FAIpQLScu8lkaFYwzI45m4XVSSLGeIBLPGJH5afCfloWjRgwRZUYBIA/viewform) to register. 
