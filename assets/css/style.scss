@@ -1,0 +1,80 @@
+---
+# Front matter obbligatorio per far compilare SCSS su GitHub Pages
+---
+
+/* 1) Importa gli stili del tema attivo */
+@import "{{ site.theme }}";   /* jekyll-theme-minimal */
+
+/* 2) Brand */
+:root{
+  --brand: #8A0044;      /* bordeaux */
+  --brand-dark: #5F0030; /* hover */
+  --text: #222222;       /* testo principale */
+}
+
+/* 3) Tipografia e link */
+html, body{ color: var(--text); }
+
+a{ color: var(--brand); text-decoration: none; }
+a:hover, a:focus{ color: var(--brand-dark); text-decoration: underline; }
+
+h1, h2, h3, h4, h5, h6{ color: var(--brand); }
+
+/* 4) MONOCOLONNA: nascondi sidebar e allarga contenuto */
+.sidebar,
+.site-nav,
+nav.sidebar,
+aside.sidebar{ display: none !important; }
+
+.main, .main-content, .content, .post, .page{
+  float: none !important;
+  width: auto !important;
+  max-width: 960px !important;
+  margin: 0 auto !important;
+  clear: both !important;
+}
+
+.wrap, .wrapper, .container, .container-lg, .site{
+  max-width: 960px !important;
+  margin: 0 auto !important;
+  padding: 0 16px !important;
+  display: block !important;
+}
+
+.layout, .page-layout, .site-body{ display: block !important; }
+.right, .column-right{ float: none !important; width: auto !important; }
+
+/* 5) Header testuale (solo titolo/subtitle, niente riquadro) */
+.page-title{
+  margin: 0 0 .5rem 0;
+  font-size: clamp(1.8rem, 4vw, 2.4rem);
+  line-height: 1.15;
+  color: var(--brand);
+}
+.page-subtitle{
+  margin: 0 0 1rem 0;
+  font-size: clamp(1.05rem, 2.2vw, 1.2rem);
+  color: var(--text);
+  opacity: .9;
+}
+
+/* 6) Logo centrato (se usi _includes/site-logo.html) */
+.site-logo{ display:block; text-align:center; margin:12px 0 10px; }
+.site-logo img{ height:72px; width:auto; display:inline-block; }
+
+.site-logo + .page-title,
+.site-logo + .page-subtitle{ margin-top: 6px; }
+
+/* 7) Menu inline semplice (se lo scrivi in HTML) */
+.top-nav{ text-align:center; margin: .5rem 0 1.25rem; }
+.top-nav a{ color:var(--brand); text-decoration:none; margin:0 .25rem; }
+.top-nav a:hover{ color:var(--brand-dark); text-decoration:underline; }
+
+/* 8) Dettagli */
+blockquote{ border-left: 4px solid var(--brand); padding-left: .75rem; }
+table th{ color: var(--brand); }
+hr{
+  border: 0; height: 1px;
+  background: linear-gradient(to right, transparent, var(--brand), transparent);
+  opacity: .5;
+}
