@@ -5,9 +5,6 @@ title: Call for proposals
 permalink: /call_for_proposals/
 ---
 
-{% include navigation.html %}
-
-
 _The call for proposals is now closed_
 
 ## Call for proposals
