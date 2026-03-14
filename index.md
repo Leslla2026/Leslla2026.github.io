@@ -7,7 +7,16 @@ title: Home
   /leslla_logo.webp" alt="Logo" style="max-width:180px;">
 </p>
 
-[Home](index.md) • [Call for proposals](call_for_proposals.md) • [Registration](registration.md) •[Schedule](schedule.md) • [Keynote speakers](keynote_speakers.md) • [Useful information](useful_info.md)
+
+<p style="text-align:center;">
+  /">Home</a> •
+  /call_for_proposals/">Call for proposals</a> •
+  /registration/">Registration</a> •
+  /schedule/">Schedule</a> •
+  /keynote_speakers/">Keynote speakers</a> •
+  /useful_info/">Useful information</a>
+</p>
+
 
 ![Foto](/leslla_home.jpg)
 
