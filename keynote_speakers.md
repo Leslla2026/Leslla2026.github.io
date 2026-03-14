@@ -16,7 +16,7 @@ Her interests focus on Italian sociolinguistics, migration and transnational com
 
 
 
-<img src="/media/scholten.jpg" class="float-left" alt="Foto di Martha Young-Scholten">
+<img src="/media/scholten.jpeg" class="float-left" alt="Foto di Martha Young-Scholten">
 
 **Martha Young-Scholten** is Full Professor of Second Language Acquisition at Newcastle University, England. 
 Since the 1980s, she has conducted research on the generative-linguistics-based L2 acquisition of morphosyntax and phonology, focusing on adults acquiring an additional language (L2) naturalistically. 
