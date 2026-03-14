@@ -1,15 +1,57 @@
-/* Colore link + titoli testo */
+/* ===========================
+   BRAND (bordeaux) + link + titoli
+   =========================== */
 :root{
-  --brand: #8A0044;      /* bordeaux */
-  --brand-dark: #5F0030; /* hover */
+  --brand: #8A0044;      /* bordeaux principale */
+  --brand-dark: #5F0030; /* bordeaux più scuro (hover) */
+  --text: #222222;       /* testo principale */
 }
 
-a { color: var(--brand); text-decoration: none; }
-a:hover { color: var(--brand-dark); text-decoration: underline; }
+html, body{ color: var(--text); }
 
-h1, h2, h3, h4, h5, h6 { color: var(--brand); }
+a{
+  color: var(--brand);
+  text-decoration: none;
+}
+a:hover, a:focus{
+  color: var(--brand-dark);
+  text-decoration: underline;
+}
 
-/* --- Banner di intestazione pagina --- */
+h1, h2, h3, h4, h5, h6{
+  color: var(--brand);
+}
+
+/* ===========================
+   LAYOUT A UNA COLONNA (tema Minimal)
+   - nasconde la sidebar
+   - allarga il contenuto
+   =========================== */
+
+/* Sidebar di sinistra del tema Minimal */
+.sidebar{ display: none; }
+
+/* Colonna contenuto */
+.main, .main-content{
+  float: none;
+  width: auto;
+  margin: 0;
+}
+
+/* Contenitori centrali (variano di versione in versione) */
+.wrap, .container, .container-lg{
+  max-width: 960px;    /* puoi aumentare/diminuire a piacere (es. 840/1024) */
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+/* In alcune varianti Minimal il contenuto è annidato in .inner */
+.inner{ max-width: 960px; margin: 0 auto; }
+
+/* ===========================
+   BANNER DI INTESTAZIONE PAGINA (riutilizzabile)
+   Usa: {% include page-header.html %}
+   =========================== */
 .page-banner{
   background: var(--brand);
   color: #fff;
@@ -18,18 +60,60 @@ h1, h2, h3, h4, h5, h6 { color: var(--brand); }
   text-align: center;
   margin: 0 0 1.25rem 0;
 }
-
 .page-banner__title{
   margin: 0;
   font-size: clamp(1.6rem, 4vw, 2.2rem);
   line-height: 1.15;
   color: #fff; /* il titolo nel banner resta bianco */
 }
-
-/* opzionale: sottotitolo nel banner */
 .page-banner__subtitle{
-  margin: .3rem 0 0 0;
+  margin: .30rem 0 0 0;
   font-size: clamp(1rem, 2.2vw, 1.15rem);
-  opacity: .95;
   color: #fff;
+  opacity: .95;
+}
+
+/* ===========================
+   LOGO IN CIMA A TUTTE LE PAGINE
+   Usa: {% include site-logo.html %}
+   =========================== */
+.site-logo{
+  display: block;
+  text-align: center;
+  margin: 12px 0 10px;
+}
+.site-logo img{
+  height: 72px;     /* regola la dimensione del logo */
+  width: auto;
+  display: inline-block;
+}
+
+/* Spaziatura fra logo e banner (se presenti entrambi) */
+.site-logo + .page-banner{ margin-top: 6px; }
+
+/* ===========================
+   MENU SEMPLICE IN LINEA (se lo scrivi in HTML)
+   Esempio:
+   <p class="top-nav"><a href="/">Home</a> • …</p>
+   =========================== */
+.top-nav{
+  text-align: center;
+  margin: 0.5rem 0 1.25rem;
+}
+.top-nav a{
+  color: var(--brand);
+  text-decoration: none;
+  margin: 0 .25rem;
+}
+.top-nav a:hover{ color: var(--brand-dark); text-decoration: underline; }
+
+/* ===========================
+   PICCOLI DETTAGLI COERENTI
+   =========================== */
+blockquote{ border-left: 4px solid var(--brand); padding-left: .75rem; }
+table th{ color: var(--brand); }
+hr{
+  border: 0; height: 1px;
+  background: linear-gradient(to right, transparent, var(--brand), transparent);
+  opacity: .5;
 }
