@@ -1,68 +1,41 @@
 ---
-# Front matter obbligatorio: serve a Jekyll/GitHub Pages per processare SCSS.
+# Front matter obbligatorio per la compilazione SCSS
 ---
 
-/* Importa gli stili originali del tema Cayman */
-@import "jekyll-theme-cayman";
+/* Importa il tema Cayman come da README ufficiale */
+@import "{{ site.theme }}";
 
 /* ===============================
    Palette A — Bordeaux & Ardesia
-   ===============================
+   =============================== */
 
-   Primario (header/titoli):   #B30059
-   Testo principale:           #2B2B2B
-   Link:                       #8A0044
-   Link hover:                 #D61A7F
-   Pulsanti:                   fondo #B30059, testo #FFFFFF
-*/
-
-/* ---------- Header (fascia superiore) ---------- */
-.page-header {
-  background-color: #B30059; /* colore della fascia header */
-}
-
-/* Titoli nell'header */
+/* Header */
+.page-header { background-color: #B30059; }
 .page-header h1,
-.page-header h2 {
-  color: #FFFFFF !important;  /* testo sempre leggibile su fondo bordeaux */
+.page-header h2 { color: #FFFFFF !important; }
+
+.project-tagline { color: rgba(255,255,255,0.92); }
+
+/* Titoli nel contenuto */
+h1, h2, h3, h4, h5, h6 { color: #B30059; }
+
+/* Testo principale */
+body { color: #2B2B2B; }
+
+/* Link */
+a { color: #8A0044; text-decoration: none; }
+a:hover, a:focus { color: #D61A7F; text-decoration: none; }
+
+/* Bottoni Cayman */
+.btn { background-color: #B30059; color: #FFFFFF; border: none; }
+.btn:hover, .btn:focus { background-color: #8A0044; color: #FFFFFF; }
+
+/* Dettagli */
+hr {
+  border: 0; height: 1px;
+  background: linear-gradient(to right, transparent, #B30059, transparent);
+  opacity: 0.5;
 }
-
-/* Eventuale tagline (sottotitolo) nell'header */
-.project-tagline {
-  color: rgba(255, 255, 255, 0.92);
-}
-
-/* ---------- Tipografia contenuto ---------- */
-
-/* Colore titoli nel corpo pagina */
-h1, h2, h3, h4, h5, h6 {
-  color: #B30059;
-}
-
-/* Colore testo principale */
-body {
-  color: #2B2B2B;
-}
-
-/* ---------- Link ---------- */
-a {
-  color: #8A0044;
-  text-decoration: none;
-}
-
-a:hover,
-a:focus {
-  color: #D61A7F;
-  text-decoration: none;
-}
-
-/* ---------- Pulsanti (bottoni Cayman .btn) ---------- */
-.btn {
-  background-color: #B30059;
-  color: #FFFFFF;
-  border: none;
-}
-
-.btn:hover,
-.btn:focus {
-  background-color: #8A0044;
+table th { color: #B30059; }
+blockquote { border-left: 4px solid #B30059; }
+small, .small { color: #444; }
