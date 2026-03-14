@@ -7,12 +7,6 @@ permalink: /registration/
 {% include site-logo.html %}
 {% include page-header.html %}
 
-[Home](/) • [Call for proposals](/call_for_proposals/) • 
-[Registration](/registration/) • 
-[Schedule](/schedule/) • 
-[Keynote speakers](/keynote_speakers/) • 
-[Useful information](/useful_info/)
-
 ### Registration
 Registrations will open soon.
 Please, follow this [link](https://docs.google.com/forms/d/e/1FAIpQLScu8lkaFYwzI45m4XVSSLGeIBLPGJH5afCfloWjRgwRZUYBIA/viewform) to register. 
