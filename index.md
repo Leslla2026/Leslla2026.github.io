@@ -13,13 +13,11 @@ title: Home
 [Useful information](/useful_info/)
 
 
-![Foto](/brno.jpg)
+![Foto](/brno2.jpg)
 # LESLLA XXI SYMPOSIUM
-## Literacy Education and Second Language Learning for Adults.  
+## Masaryk University, Brno
+## **Bridging languages: literacy, plurilingual repertoires, new languages.**
 
 
-**Bridging languages: literacy, plurilingual repertoires, new languages.** 
-
-Masaryk University, Brno
 
 *Website under construction 🚧*
