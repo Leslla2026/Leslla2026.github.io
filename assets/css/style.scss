@@ -57,29 +57,19 @@ h1, h2, h3, h4, h5, h6{
 /* In alcune varianti Minimal il contenuto è annidato in .inner */
 .inner{ max-width: 960px; margin: 0 auto; }
 
-/* ===========================
-   BANNER DI INTESTAZIONE PAGINA (riutilizzabile)
-   Usa: {% include page-header.html %}
-   =========================== */
-.page-banner{
-  background: var(--brand);
-  color: #fff;
-  padding: 1.25rem 1rem;
-  border-radius: 8px;
-  text-align: center;
-  margin: 0 0 1.25rem 0;
-}
-.page-banner__title{
-  margin: 0;
-  font-size: clamp(1.6rem, 4vw, 2.2rem);
+/* Header testuale (niente riquadro) */
+.page-title{
+  margin: 0 0 .5rem 0;
+  font-size: clamp(1.8rem, 4vw, 2.4rem);
   line-height: 1.15;
-  color: #fff !important; /* titolo nel banner sempre bianco */
+  color: var(--brand);   /* bordeaux */
 }
-.page-banner__subtitle{
-  margin: .30rem 0 0 0;
-  font-size: clamp(1rem, 2.2vw, 1.15rem);
-  color: #fff !important;
-  opacity: .95;
+
+.page-subtitle{
+  margin: 0 0 1rem 0;
+  font-size: clamp(1.05rem, 2.2vw, 1.2rem);
+  color: var(--text);
+  opacity: .9;
 }
 
 /* ===========================
