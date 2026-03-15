@@ -7,9 +7,7 @@ title: Home
 {% include page-header.html %}
 
 
-<div style="text-align:center">
-  ![foto](/media/home.jpg)
-</div>
+![foto](/media/home.jpg)
 
 # LESLLA XXI SYMPOSIUM
 ## Masaryk University, Brno
