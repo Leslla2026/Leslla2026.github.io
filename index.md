@@ -13,6 +13,3 @@ title: Home
 ## Masaryk University, Brno
 ## **Bridging languages: literacy, plurilingual repertoires, new languages.**
 
-
-
-*Website under construction 🚧*
