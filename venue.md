@@ -1,3 +1,9 @@
+---
+layout: default
+title: Venue
+permalink: /venue/
+---
+
 ## 20th August
 Online mode through Zoom meetings. More details will be provided to registered participants.
 
