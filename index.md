@@ -19,5 +19,5 @@ title: Home
 
 # LESLLA XXI SYMPOSIUM
 ## Masaryk University, Brno
-### _Bridging languages: literacy, plurilingual repertoires, new languages._
+## _Bridging languages: literacy, plurilingual repertoires, new languages._
 
