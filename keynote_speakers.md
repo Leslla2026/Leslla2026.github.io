@@ -28,7 +28,7 @@ She co-directs, with a creative writing colleague, the Simply Cracking Good Stor
 
 **Markéta Hajská** is Full Professor at Charles University, Prague. 
 She has lectured at the Romani Studies Section since 2011. Here, she focuses on anthropological approaches to Romani cultures and on Vlax Romani
-Since 2000, she had participated in various field research projects focused on the Roma and on socially excluded areas in Czechia and Slovakia both as researcher and coordinator. Since 2007, she has been working as a methodology specialist on multicultural education in the education programme Varianty (Options) organized by the NGO Člověk v tísni, where she contributed to several publications and participated in educational modules. 
+Since 2000, she had participated in various field research projects focused on the Roma and on socially excluded areas in Czechia and Slovakia both as researcher and coordinator. Since 2007, she has been working as a methodology specialist on multicultural education in the education programme Varianty organized by the NGO Člověk v tísni, where she contributed to several publications and participated in educational modules. 
 
 **Pavel Kubanik** is Assistant Professor at Charles University, Prague, where he currently teaches practical Romani language courses, courses focused on field research and Romani groups worldwide, and sociolinguistic issues connected with the Romani language. 
 He has had a long-term interest in the situation of the Romani language in the Czech Republic. His other research interests include the issue of language socialisation. 
