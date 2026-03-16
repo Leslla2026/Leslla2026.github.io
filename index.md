@@ -12,7 +12,7 @@ title: Home
        margin-left: auto;
        margin-right: auto;
        width: 100%;
-       max-width: 1000px;
+       max-width: 800px;
        height: auto;
      " />
 
