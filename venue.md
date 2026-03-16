@@ -4,6 +4,9 @@ title: Venue
 permalink: /venue/
 ---
 
+{% include site-logo.html %}
+{% include page-header.html %}
+
 **20th August**
 Online mode through Zoom meetings. More details will be provided to registered participants.
 
