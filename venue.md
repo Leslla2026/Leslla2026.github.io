@@ -7,11 +7,11 @@ permalink: /venue/
 {% include site-logo.html %}
 {% include page-header.html %}
 
-#### 20th August: online mode
+### 20th August: online mode
 
 Platform Zoom meetings. More details will be provided to registered participants.
 
-#### 21st-22nd August: hybrid mode
+### 21st-22nd August: hybrid mode
 
 Online mode through Zoom meetings. More details will be provided to registered participants.
 
