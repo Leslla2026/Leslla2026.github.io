@@ -8,7 +8,7 @@ permalink: /useful_info/
 
 ### How to reach Brno
 
-<img src="/media/brno.jpg" class="float-left" alt="Foto di Brno">
+<img src="/media/brno.jpg" class="float-left2" alt="Foto di Brno">
 
 Brno is located about 120 km from **Vienna International Airport**, which is one of the most convenient arrival points. There is a reliable **train connection**: a local train departs from the underground station directly at the airport approx. every 20 minutes and takes you to Vienna Central Station (**Wien Hbf**) within approx. 15 minutes. The **CAT** (City Airport Train) has a cost of €14,90, whereas the **ÖBB train** has a cost of €4,50. You can buy the tickets directly at the underground station. 
 
