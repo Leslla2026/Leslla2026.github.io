@@ -8,7 +8,7 @@ permalink: /useful_info/
 
 ### How to reach Brno
 
-<img src="/media/.brnojpg" class="float-left" alt="Foto di Brno">
+<img src="/media/.brno.jpg" class="float-left" alt="Foto di Brno">
 
 Brno is located about 120 km from **Vienna International Airport**, which is one of the most convenient arrival points. There is a reliable **train connection**: a local train departs from the underground station directly at the airport approx. every 20 minutes and takes you to Vienna Central Station (**Wien Hbf**) within approx. 15 minutes. The **CAT** (City Airport Train) has a cost of €14,90, whereas the **ÖBB train** has a cost of €4,50. You can buy the tickets directly at the underground station. 
 
@@ -17,7 +17,7 @@ The second, but not so fast, option is **direct buses** from the Airport (e.g. [
 
 Another option is to fly to **Václav Havel Airport Prague**. However, Prague is about 250 km from Brno: from the airport, you can take a bus, metro or taxi to Prague Main Station (**Praha hl.n.**), approx. 30–40 minutes. Direct trains (e.g. by the companies České dráhy, RegioJet) or buses from Prague to Brno take about 2.5 to 3 hours and run several times a day.
 
-Also, Brno has its own airport. The **Brno–Tuřany Airport** connects the city with several international destinations like Milan (Bergamo), London Stansted and Rome Fiumicino. 
+Also, Brno has its own airport. The **Brno–Tuřany Airport** connects the city with several international destinations like Milan (Bergamo) and London Stansted. 
 
 From Brno Airport you can travel by taxi or public transport. Public transport – bus E76 (every 30 minutes) or N89 (at night, in operation between 11:00PM and 05:00AM). Both will take you to the **Hlavní nádraží** stop. You can check bus IDOS (timetables online public transport) or you can use application IDOS at your store as a website. The bus stop at the airport is in front of departure terminal and you can purchase the tickets by contactless cards on the bus. The regular fare for adults is 25 CZK (€1). 
 
