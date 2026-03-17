@@ -15,7 +15,7 @@ Platform Zoom meetings. More details will be provided to registered participants
 
 Online mode through Zoom meetings. More details will be provided to registered participants.
 
-Venue: Faculty of Arts, address [Arne Nováka 1/1, 602 00](https://maps.app.goo.gl/sgNU3dpUNPsW4wE67), Masaryk University. Building B.
+Venue: Faculty of Arts, Masaryk University. Address [Arne Nováka 1/1, 602 00](https://maps.app.goo.gl/sgNU3dpUNPsW4wE67). Building B.
 
 <div style="width: 50%; max-width: 500px;">
 <iframe 
