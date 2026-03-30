@@ -15,12 +15,9 @@ Her interests focus on Italian sociolinguistics, migration and transnational com
 
 <div class="clear"></div>
 
-<img src="/media/scholten.jpeg" class="float-left" alt="Foto di Martha Young-Scholten">
+<img src="/media/Scholten_def.jpeg" class="float-left" alt="Foto di Martha Young-Scholten">
 
-**Martha Young-Scholten** is Full Professor of Second Language Acquisition at Newcastle University, England. 
-Since the 1980s, she has conducted research on the generative-linguistics-based L2 acquisition of morphosyntax and phonology, focusing on adults acquiring an additional language (L2) naturalistically. 
-For the last decade, she has been investigating the reading development of immigrant adults with limited home language literacy. 
-She co-directs, with a creative writing colleague, the Simply Cracking Good Stories project on pleasure reading for adult beginners, and she led the EU-Speak project, from 2010 to 2018.
+**Martha Young-Scholten** is Professor Emerita of Second Language Acquisition at Newcastle University, England. Since the 1980s, she has conducted research on the generative-linguistics-based acquisition of morphosyntax and phonology, focusing on adults acquiring an additional language naturalistically. For the last two decades, she has investigated the reading development of immigrant adults with limited home language literacy. She co-directs, with a creative writing colleague, the Simply Stories publishing house which produces original books for pleasure reading for adult beginners. She's now helping launch a North American English version of the Digital Literacy Instructor and she directs a volunteer-run board based on the EU-Speak project she led from 2010 to 2018. 
 
 <div class="clear"></div>
 
