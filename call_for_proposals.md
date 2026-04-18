@@ -54,8 +54,10 @@ Abstracts must contain a maximum of 500 words, excluding bibliographical referen
 To propose your abstract, please use this form.
 
 **Deadlines**
-Panels or workshop proposals must be submitted by **30 January 2026**. Notification of acceptance or rejection will be communicated by **15 February 2026**.
-Individual abstracts must be submitted by **20 February 2026**. Notification of acceptance or rejection will be communicated by **10 March 2026**.
+- Panels or workshop proposals must be submitted by **30 January 2026**. 
+- Notification of acceptance or rejection will be communicated by **15 February 2026**.
+- Individual abstracts must be submitted by **20 February 2026**.
+- Notification of acceptance or rejection will be communicated by **10 March 2026**.
 
 **Evaluation criteria**
 Each abstract will be evaluated by two anonymous reviewers, who will check whether your proposal:
