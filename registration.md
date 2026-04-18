@@ -52,7 +52,7 @@ Conference fee **does not** include the social dinner and attendance and voting 
       <td colspan="2">Member: in-person and online</td>
     </tr>
     <tr>
-      <td>Early bird (by 20 April 2026)</td>
+      <td>Early bird (by 15 May 2026)</td>
       <td>200 EUR</td>
     </tr>
     <tr>
@@ -69,7 +69,7 @@ Conference fee **does not** include the social dinner and attendance and voting 
       <td colspan="2">Non-member: in-person &amp; online</td>
     </tr>
     <tr>
-      <td>Early bird (by 20 April 2026)</td>
+      <td>Early bird (by 15 May 2026)</td>
       <td>230 EUR</td>
     </tr>
     <tr>
@@ -86,7 +86,7 @@ Conference fee **does not** include the social dinner and attendance and voting 
       <td colspan="2">Student member: in-person &amp; online</td>
     </tr>
     <tr>
-      <td>Early bird (by 20 April 2026)</td>
+      <td>Early bird (by 15 May 2026)</td>
       <td>125 EUR</td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@ Conference fee **does not** include the social dinner and attendance and voting 
       <td colspan="2">Student non-member: in-person &amp; online</td>
     </tr>
     <tr>
-      <td>Early bird (by 20 April 2026)</td>
+      <td>Early bird (by 15 May 2026)</td>
       <td>150 EUR</td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@ Conference fee **does not** include the social dinner and attendance and voting 
       <td colspan="2"><em>*Without funding from their institution</em></td>
     </tr>
     <tr>
-      <td>Early bird (by 20 April 2026)</td>
+      <td>Early bird (by 15 May 2026)</td>
       <td>150 EUR</td>
     </tr>
     <tr>
@@ -140,7 +140,7 @@ Conference fee **does not** include the social dinner and attendance and voting 
       <td colspan="2">Member: online only</td>
     </tr>
     <tr>
-      <td>Early bird (by 20 April 2026)</td>
+      <td>Early bird (by 15 May 2026)</td>
       <td>60 EUR</td>
     </tr>
     <tr>
@@ -157,7 +157,7 @@ Conference fee **does not** include the social dinner and attendance and voting 
       <td colspan="2">Non-member: online only</td>
     </tr>
     <tr>
-      <td>Early bird (by 20 April 2026)</td>
+      <td>Early bird (by 15 May 2026)</td>
       <td>120 EUR</td>
     </tr>
     <tr>
