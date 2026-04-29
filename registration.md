@@ -14,7 +14,10 @@ Registrations will open soon.
 ### Conference fee
 
 The conference fee includes access to all sessions, coffee breaks and light refreshments, lunch on 21 August, conference badges, stationery, and a city guide. The programme and book of abstracts will be provided in digital format for environmental reasons and will be accessible via QR code. 
-Conference fee **does not** include the social dinner and attendance and voting at the LESLLA General assembly. 
+Conference fee **does not** include the social dinner.
+
+Attendance and voting at the LESLLA General assembly is **for members only**.
+Wish to become a member? Please click in this [link](https://leslla.wildapricot.org/join-us) for additional details 
 
  <style>
   .fees-table {
