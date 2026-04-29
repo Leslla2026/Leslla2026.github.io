@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Schedule
-permalink: /schedule/
+permalink: /hidden_schedule_draft/
 ---
 
 {% include site-logo.html %}
