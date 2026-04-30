@@ -8,8 +8,8 @@ permalink: /registration/
 {% include page-header.html %}
 
 ### Registration
-Registrations will open soon.
-<!-- Please, follow this [link](https://docs.google.com/forms/d/e/1FAIpQLScu8lkaFYwzI45m4XVSSLGeIBLPGJH5afCfloWjRgwRZUYBIA/viewform) to register. -->
+<!-- Please, follow this [link](inserire link qui) to register. -->
+<!-- cancellare tag "<!--" e "-->" e inserire il link giusto fra le parentesi tonde -->
 
 ### Conference fee
 
