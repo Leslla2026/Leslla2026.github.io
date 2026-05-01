@@ -157,11 +157,12 @@ hr{
   justify-content: center;   /* centra tutto il contenuto del nav */
 }
 
-.menu .dropdown {
+.dropdown {
   position: relative;
+  cursor: pointer;
 }
 
-.menu .dropdown-menu {
+.dropdown-menu {
   display: none;
   position: absolute;
   top: 100%;
@@ -174,14 +175,14 @@ hr{
   z-index: 1000;
 }
 
-.menu .dropdown-menu li a {
+.dropdown-menu li a {
   display: block;
   padding: 0.5rem 1rem;
   white-space: nowrap;
 }
 
-/* apertura al passaggio del mouse */
-.menu .dropdown:hover .dropdown-menu {
+/* classe attiva */
+.dropdown.open .dropdown-menu {
   display: block;
 }
 
