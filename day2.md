@@ -92,10 +92,9 @@ permalink: /day2/
       <td class="time">12:15 – 13:15</td>
       <td colspan="4">Lunch</td>
     </tr>
-    <tr>
-      <td class="schedule-section">
+    <tr class="schedule-section">
       <td colspan="5">Afternoon session</td>
-    </tr>
+  </tr>
     <tr>
       <td class="time">14.00–14.30</td>
       <td colspan="4"><strong>General assembly</strong></td>
