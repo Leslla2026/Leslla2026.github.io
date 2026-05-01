@@ -200,7 +200,7 @@ permalink: /day_1/
       </td>
     </tr>
     <tr class="schedule-section">
-    <td> Keynote Speech</td>
+    <td colspan="6"> Keynote Speech</td>
     </tr>
     <tr>
       <td class="time">17:00–18:00</td>
