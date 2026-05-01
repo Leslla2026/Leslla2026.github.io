@@ -200,7 +200,9 @@ permalink: /day_1/
       </td>
     </tr>
     <tr>
-      <td colspan="6"> Keynote Speech</td>
+    <td colspan="6"> Keynote Speech</td>
+    </tr>
+    <tr>
       <td class="time">17:00–18:00</td>
       <td colspan="5"><strong> Martha Young-Sholten</strong> <br> Ineke van de Craats and Heidi Wrigley and the studies that created LESLLA.</td>
     </tr>
