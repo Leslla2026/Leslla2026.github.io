@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Schedule - day 2
-permalink: /day2/
+permalink: /day_2/
 ---
 
 {% include site-logo.html %}
