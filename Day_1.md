@@ -9,7 +9,7 @@ permalink: /day1/
 
 <style>
   .schedule-table {
-    width: 95%;
+    width: 100%;
     margin: 2rem auto;
     table-layout: fixed;
     border-collapse: collapse;
