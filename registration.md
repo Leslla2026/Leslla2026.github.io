@@ -53,18 +53,21 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
   <tbody>
     <!-- Member: in-person and online -->
     <tr class="fees-section">
-      <td colspan="2">Member: in-person and online</td>
+      <td colspan="3">Member: in-person and online</td>
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
-      <td>200 EUR</td>
+     <td>200 EUR</td> 
+     <td>234 USD</td>          
     </tr>
     <tr>
-      <td>Regular (by 30 June 2026)</td>
+      <td>Regular (by 30 June 2026)</td>     
       <td>280 EUR</td>
+     <td>328 USD</td>
     </tr>
     <tr>
       <td>After 30 June and on site</td>
+     <td>351 USD</td>
       <td>300 EUR</td>
     </tr>
 
