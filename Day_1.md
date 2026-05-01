@@ -146,8 +146,8 @@ permalink: /day1/
    
     <tr>
       <th class="time"></th>
-      <th class="session">Panel session 1</th>
-      <th class="session">Panel session 2</th>
+      <th class="session">Panel session 1 <br> <strong>Ginger Kosobucki</strong> <br> What is fair assessment for LESLLA learners?</th>
+      <th class="session">Panel session 2 <br> <strong>David Stops.</strong> <br> In the shoes of our learners</th>
       <th class="session">Session 1</th>
       <th class="session">Session 2</th>
       <th class="session">Session 3</th>
