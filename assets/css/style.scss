@@ -325,6 +325,7 @@ table.schedule-table thead th,
 table.schedule-table tbody th {
   background: #ededed;
   text-align: center;
+   vertical-align: middle;
   font-weight: 600;
 }
 
@@ -335,6 +336,7 @@ table.schedule-table thead th[colspan] {
   font-size: 1.05rem;
   letter-spacing: .03em;
   text-transform: uppercase;
+   vertical-align: middle;
 }
 
 /* colonna orari */
@@ -352,6 +354,7 @@ table.schedule-table .schedule-section td {
   color: #8A0044;
   font-weight: 700;
   text-align: center;
+   vertical-align: middle;
   letter-spacing: .02em;
 }
 
