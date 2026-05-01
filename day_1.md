@@ -199,8 +199,8 @@ permalink: /day_1/
         Shared Metacognition in a LESLLA Teacher Journal Club
       </td>
     </tr>
-    <tr>
-    <td colspan="6"> Keynote Speech</td>
+    <tr class="schedule-section">
+    <td> Keynote Speech</td>
     </tr>
     <tr>
       <td class="time">17:00–18:00</td>
