@@ -350,8 +350,8 @@ table.schedule-table .schedule-section td {
 }
 
 /* pause, lunch, keynote */
-table.schedule-table td[colspan="5"],
-table.schedule-table td[colspan="6"] {
+table.schedule-table td[colspan],
+table.schedule-table td[colspan] {
   background: #fbfbfb;
   text-align: center;
   font-style: italic;
