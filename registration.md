@@ -53,7 +53,7 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
   <tbody>
     <!-- Member: in-person and online -->
     <tr class="fees-section">
-      <td colspan="3">Member: in-person and online</td>
+      <td colspan="4">Member: in-person and online</td>
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
