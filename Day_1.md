@@ -63,7 +63,7 @@ permalink: /day1/
 
   <tbody>
     <tr>
-      <td class="time">9:00 – 9:30</td>
+      <td class="time">9-9:30</td>
       <td colspan="5">Conference opening</td>
     </tr>
 
@@ -76,7 +76,7 @@ permalink: /day1/
       <th colspan="3">Session 2</th>
     </tr>
     <tr>
-      <td class="time">9:30 – 10:00</td>
+      <td class="time">9:30-10</td>
       <td colspan="2">
         <strong>Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa.</strong><br>
         The Name Game: Measuring metalinguistic awareness in LESLLA learners.
@@ -88,7 +88,7 @@ permalink: /day1/
     </tr>
 
     <tr>
-      <td class="time">10:00 – 10:30</td>
+      <td class="time">10-10:30</td>
       <td colspan="2">
         <strong>Fatima Zahra El&nbsp;Balrhi.</strong><br>
         L3 Arabic Stress by Wolof Migrants in Morocco
@@ -100,12 +100,12 @@ permalink: /day1/
     </tr>
 
     <tr>
-      <td class="time">10:30 – 11:00</td>
+      <td class="time">10:30-11</td>
       <td colspan="5">Coffee break</td>
     </tr>
 
     <tr>
-      <td class="time">11:00 – 11:30</td>
+      <td class="time">11-11:30</td>
       <td colspan="2">
         <strong>Lotta Antunio.</strong><br>
         Language learning without literacy?
@@ -117,7 +117,7 @@ permalink: /day1/
     </tr>
 
     <tr>
-      <td class="time">11:30 – 12:00</td>
+      <td class="time">11:30-12</td>
       <td colspan="2">
         <strong>Friederike Lüpke.</strong><br>
         Lead language writing as an adaptive infrastructure for multilingual literacy development
@@ -129,14 +129,14 @@ permalink: /day1/
     </tr>
 
     <tr>
-      <td class="time">12:00 – 12:30</td>
+      <td class="time">12-12:30</td>
       <td colspan="2">
         <strong>Sybren Spit.</strong><br>
         Word learning in emergent readers: to what extent does written input help?
     </tr>
 
     <tr>
-      <td class="time">12:30 – 14:30</td>
+      <td class="time">12:30-14:30</td>
       <td colspan="5">Lunch</td>
     </tr>
 
@@ -154,7 +154,7 @@ permalink: /day1/
     </tr>
 
     <tr>
-      <td class="time">14:30 – 15:00</td>
+      <td class="time">14:30-15</td>
       <td><strong>author.</strong><br>title</td>
       <td><strong>author.</strong><br>title</td>
       <td>
@@ -169,7 +169,7 @@ permalink: /day1/
     </tr>
 
     <tr>
-      <td class="time">15:00 – 16:30</td>
+      <td class="time">15-16:30</td>
       <td><strong>author.</strong><br>title</td>
       <td><strong>author.</strong><br>title</td>
       <td>
@@ -187,7 +187,7 @@ permalink: /day1/
     </tr>
 
     <tr>
-      <td class="time">16:30 – 17:00</td>
+      <td class="time">16:30-17</td>
       <td><strong>author.</strong><br>title</td>
       <td><strong>author.</strong><br>title</td>
       <td>
@@ -205,7 +205,7 @@ permalink: /day1/
     </tr>
 
     <tr>
-      <td class="time">17:00 – 17:30</td>
+      <td class="time">17-17:30</td>
       <td><strong>author.</strong><br>title</td>
       <td><strong>author.</strong><br>title</td>
       <td>
@@ -222,8 +222,6 @@ permalink: /day1/
       </td>
     </tr>
     <tr>
-      <td class="time">17:00–18:00</td>
+      <td class="time">17–18</td>
       <td colspan="5"><strong>Keynote speech</strong> <br> <strong> Martha Young-Sholten</strong> <br> Ineke van de Craats and Heidi Wrigley and the studies that created LESLLA.</td>
     </tr>
-  </tbody>
-</table>
