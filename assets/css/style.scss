@@ -285,38 +285,56 @@ hr{
   margin-top: 3rem;
 }
 
-<style>
-  .schedule-table {
+   table.schedule-table {
     width: 100%;
     margin: 2rem auto;
     table-layout: fixed;
     border-collapse: collapse;
   }
 
-  .schedule-table th,
-  .schedule-table td {
-    border: 1px solid #000;
-    padding: .5rem .6rem;
-    vertical-align: center;
-    word-wrap: break-word;
-  }
+  /* =====================================================
+   Schedule table (stile isolato, NON interferente)
+   ===================================================== */
 
-  .schedule-table thead th,
-  .schedule-table tbody th {
-    background: #f0f0f0;
-    text-align: center;
-    font-weight: 600;
-  }
+table.schedule-table {
+  width: 100%;
+  margin: 2rem auto;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 1px solid #000;
+}
 
-  .time {
-    white-space: nowrap;
-    font-weight: bold;
-  }
+/* celle */
+table.schedule-table th,
+table.schedule-table td {
+  border: 1px solid #000;
+  padding: 0.5rem 0.6rem;
+  vertical-align: middle;
+  word-wrap: break-word;
+  color: var(--text);        /* annulla il colore del tema */
+  text-align: left;
+}
 
-  .schedule-section {
-    background: #fafafa;
-    font-weight: 700;
-    color: #8A0044;
-    text-align: center;
-  }
-</style>
+/* intestazioni */
+table.schedule-table thead th,
+table.schedule-table tbody th {
+  background: #f0f0f0;
+  text-align: center;
+  font-weight: 600;
+  color: #000;
+}
+
+/* colonna orari */
+table.schedule-table .time {
+  white-space: nowrap;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* righe di sezione */
+table.schedule-table .schedule-section {
+  background: #fafafa;
+  font-weight: 700;
+  color: #8A0044;
+  text-align: center;
+}
