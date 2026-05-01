@@ -2,6 +2,7 @@
 layout: default
 title: Schedule
 permalink: /schedule/
+has_children: true
 ---
 
 {% include site-logo.html %}
