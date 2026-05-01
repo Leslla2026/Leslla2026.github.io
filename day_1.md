@@ -110,7 +110,15 @@ permalink: /day_1/
    
     <tr>
       <th class="time"></th>
-      <th class="session">Panel session 1 <br> <strong>Ginger Kosobucki</strong> <br> What is fair assessment for LESLLA learners?</th>
+      <th class="session">
+  <span style="display:block;"> Panel session 1 </span>
+  <span style="display:block;
+               border-top: 1px solid #ccc;
+               margin: 0.4rem 0;
+               padding-top: 0.4rem;">
+    <strong>Ginger Kosobucki</strong><br> What is fair assessment for LESLLA learners?
+    </span>
+</th>
       <th class="session">Panel session 2 <br> <strong>David Stops.</strong> <br> In the shoes of our learners</th>
       <th class="session">Session 1</th>
       <th class="session">Session 2</th>
