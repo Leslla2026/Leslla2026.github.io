@@ -47,7 +47,7 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
   <thead>
     <tr>
       <th>Category</th>
-      <th>Fee</th>
+      <th colspan="2">Fee</th>
     </tr>
   </thead>
   <tbody>
