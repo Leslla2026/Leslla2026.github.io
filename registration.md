@@ -35,7 +35,6 @@ Wish to become a member? Please click on this [link](https://leslla.wildapricot.
   }
   .fees-table thead th {
     background: #f5f5f5;
-    text-align: center;
   }
   /* Riga di sezione (intestazione che copre entrambe le colonne) */
   .fees-section {
