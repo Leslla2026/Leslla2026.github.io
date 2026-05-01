@@ -18,7 +18,9 @@ The conference fee includes access to all sessions, coffee breaks and light refr
 Conference fee **does not** include the social dinner.
 
 Attendance and voting at the LESLLA General assembly is **for members only**.
-Wish to become a member? Please click in this [link](https://leslla.wildapricot.org/join-us) for additional details 
+
+
+Wish to become a member? Please click on this [link](https://leslla.wildapricot.org/join-us) for additional details 
 
  <style>
   .fees-table {
