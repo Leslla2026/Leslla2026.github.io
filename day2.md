@@ -26,7 +26,7 @@ permalink: /day2/
 
   <tbody>
     <tr>
-      <td class="time">9:00 – 9:15</td>
+      <td class="time">9:00-9:15</td>
       <td colspan="4">Opening session</td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@ permalink: /day2/
       <th>Session 4<br> <strong> Tools and resources</strong></th>
     </tr>
     <tr>
-      <td class="time">10:15 – 10:45</td>
+      <td class="time">10:15-10:45</td>
       <td>
         <strong>Véronique Fortier.</strong><br>
         Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project.
@@ -65,7 +65,7 @@ permalink: /day2/
     </tr>
 
     <tr>
-      <td class="time">10:45 – 11:15</td>
+      <td class="time">10:45-11:15</td>
       <td>
         <strong>Clelia Farina</strong><br>
         Observing Competence and Performance in Talk-in-Interaction: Notes from an Italian LA Course with Newly Arrived Learners
@@ -80,16 +80,16 @@ permalink: /day2/
       </td>
       <td>
         <strong>Nadja Kerschhofer-Puhalo.</strong><br>
-        Views in*2 Literacies – a multimodal text collection on a participatory web-platform. 
+        Views in*2 Literacies-a multimodal text collection on a participatory web-platform. 
       </td>
     </tr>
 
     <tr>
-      <td class="time">11.15 – 12:15</td>
+      <td class="time">11.15-12:15</td>
       <td colspan="4">Coffee break and poster session</td>
     </tr>
     <tr>
-      <td class="time">12:15 – 13:15</td>
+      <td class="time">12:15-13:15</td>
       <td colspan="4">Lunch</td>
     </tr>
     <tr class="schedule-section">
@@ -117,7 +117,7 @@ permalink: /day2/
     </tr>
 
     <tr>
-      <td class="time">15.30 – 17.30</td>
+      <td class="time">15.30-17.30</td>
       <td><strong>Asad Iqbal.</strong><br>Designing and deploying responsible AI-enabled language assessment: practical strategies for language and literacies educators</td>
       <td>
         <strong>Cecilia Bartoli & Kristyna Lorenzova</strong><br>
