@@ -7,42 +7,6 @@ permalink: /day1/
 {% include site-logo.html %}
 {% include page-header.html %}
 
-<style>
-  .schedule-table {
-    width: 100%;
-    margin: 2rem auto;
-    table-layout: fixed;
-    border-collapse: collapse;
-  }
-
-  .schedule-table th,
-  .schedule-table td {
-    border: 1px solid #000;
-    padding: .5rem .6rem;
-    vertical-align: center;
-    word-wrap: break-word;
-  }
-
-  .schedule-table thead th,
-  .schedule-table tbody th {
-    background: #f0f0f0;
-    text-align: center;
-    font-weight: 600;
-  }
-
-  .time {
-    white-space: nowrap;
-    font-weight: bold;
-  }
-
-  .schedule-section {
-    background: #fafafa;
-    font-weight: 700;
-    color: #8A0044;
-    text-align: center;
-  }
-</style>
-
 <table class="schedule-table">
 
   <colgroup>
