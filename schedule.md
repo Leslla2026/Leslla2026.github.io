@@ -9,4 +9,6 @@ permalink: /schedule/
 
 The schedule of the conference will be available soon
 
+[Day 1](https://leslla2026.github.io/Day_1.html)
+
 
