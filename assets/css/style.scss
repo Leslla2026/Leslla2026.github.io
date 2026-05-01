@@ -2,219 +2,285 @@
 # Front matter obbligatorio per far compilare SCSS su GitHub Pages
 ---
 
-/* 1) Importa gli stili del tema attivo */
+/* =====================================================
+   1) Import del tema
+   ===================================================== */
+
 @import "{{ site.theme }}";   /* jekyll-theme-minimal */
 
-/* 2) Brand */
+
+/* =====================================================
+   2) Variabili di brand
+   ===================================================== */
+
 :root{
-  --brand: #8A0044;      /* bordeaux */
-  --brand-dark: #5F0030; /* hover */
-  --text: #222222;       /* testo principale */
+  --brand: #8A0044;
+  --brand-dark: #5F0030;
+  --text: #222222;
 }
 
-/* 3) Tipografia e link */
-html, body{ color: var(--text); }
 
-a{ color: var(--brand); text-decoration: none; }
-a:hover, a:focus{ color: var(--brand-dark); text-decoration: underline; }
+/* =====================================================
+   3) Tipografia e link base
+   ===================================================== */
 
-h1, h2, h3, h4, h5, h6{ color: var(--brand); }
-
-h1, h2 { text-align: center;  }
-
-h1.page-title {
-  margin-bottom: 3rem;  /* distanza sotto il titolo */
+html, body{
+  color: var(--text);
 }
 
-/* 4) MONOCOLONNA: nascondi sidebar e allarga contenuto */
+a{
+  color: var(--brand);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus{
+  color: var(--brand-dark);
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6{
+  color: var(--brand);
+}
+
+h1, h2{
+  text-align: center;
+}
+
+h1.page-title{
+  margin-bottom: 3rem;
+}
+
+
+/* =====================================================
+   4) Layout MONOCOLONNA
+   ===================================================== */
+
 .sidebar,
 .site-nav,
 nav.sidebar,
-aside.sidebar{ display: none !important; }
+aside.sidebar{
+  display: none !important;
+}
 
-.main, .main-content, .content, .post, .page{
+.main,
+.main-content,
+.content,
+.post,
+.page{
   float: none !important;
-  width: auto !important;
+  width: 100% !important;
   max-width: 960px !important;
   margin: 0 auto !important;
   clear: both !important;
 }
 
-.wrap, .wrapper, .container, .container-lg, .site{
+.wrap,
+.wrapper,
+.container,
+.container-lg,
+.site{
   max-width: 960px !important;
   margin: 0 auto !important;
   padding: 0 16px !important;
   display: block !important;
 }
 
-.layout, .page-layout, .site-body{ display: block !important; }
-.right, .column-right{ float: none !important; width: auto !important; }
+.layout,
+.page-layout,
+.site-body{
+  display: block !important;
+}
 
-/* 5) Header testuale (solo titolo/subtitle, niente riquadro) */
+.right,
+.column-right{
+  float: none !important;
+  width: auto !important;
+}
+
+
+/* =====================================================
+   5) Header testuale
+   ===================================================== */
+
 .page-title{
   margin: 0 0 .5rem 0;
   font-size: clamp(1.8rem, 4vw, 2.4rem);
   line-height: 1.15;
-  color: var(--brand);
 }
+
 .page-subtitle{
   margin: 0 0 1rem 0;
   font-size: clamp(1.05rem, 2.2vw, 1.2rem);
-  color: var(--text);
   opacity: .9;
 }
 
-/* 6) Logo centrato (se usi _includes/site-logo.html) */
-.site-logo{ display:block; text-align:center; margin:12px 0 10px; }
-.site-logo img{ height:72px; width:auto; display:inline-block; }
+
+/* =====================================================
+   6) Logo centrato
+   ===================================================== */
+
+.site-logo{
+  display: block;
+  text-align: center;
+  margin: 12px 0 10px;
+}
+
+.site-logo img{
+  height: 72px;
+  width: auto;
+}
 
 .site-logo + .page-title,
-.site-logo + .page-subtitle{ margin-top: 6px; }
-
-/* 7) Menu inline semplice (se lo scrivi in HTML) */
-.top-nav{ text-align:center; margin: .5rem 0 1.25rem; }
-.top-nav a{ color:var(--brand); text-decoration:none; margin:0 .25rem; }
-.top-nav a:hover{ color:var(--brand-dark); text-decoration:underline; }
-
-/* 8) Dettagli */
-blockquote{ border-left: 4px solid var(--brand); padding-left: .75rem; }
-table th{ color: var(--brand); }
-hr{
-  border: 0; height: 1px;
-  background: linear-gradient(to right, transparent, var(--brand), transparent);
-  opacity: .5;
+.site-logo + .page-subtitle{
+  margin-top: 6px;
 }
 
-/* === FORZA MONOCOLONNA: annulla offset e larghezze “di colonna” === */
 
-/* Se la colonna contenuto usa un offset/margine sinistro (tipico dopo una sidebar) */
-.main, .main-content, .content, .page, .post, .posts, .post-list {
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  padding-left: 0 !important;
-  float: none !important;
-  width: 100% !important;
-  max-width: 960px !important;   /* leggibilità */
-  box-sizing: border-box !important;
-  clear: both !important;
+/* =====================================================
+   7) TOP NAV + MENU
+   ===================================================== */
+
+.top-nav{
+  text-align: center;
+  margin: .5rem 0 1.25rem;
 }
 
-/* Wrapper/containment: nessun layout a colonne */
-.wrapper, .wrap, .container, .container-lg, .site, .site-body, .page-layout, .layout {
-  display: block !important;
-  max-width: 960px !important;
-  margin: 0 auto !important;
-  padding: 0 16px !important;
-}
-
-/* Se il tema usa flex o grid per due colonne, converti in blocco */
-.wrapper, .site, .site-body, .layout {
-  display: block !important;
-}
-
-/* Qualsiasi “colonna destra” residua: annulla float e larghezza */
-.right, .column-right, .col-right, .content-column {
-  float: none !important;
-  width: auto !important;
-  margin: 0 !important;
-}
-
-/* Nel caso ci fosse ancora spazio riservato accanto alla sidebar nascosta */
-.sidebar + .main,
-.sidebar + .main-content,
-.sidebar + .content {
-  margin-left: 0 !important;
-}
-
-/* (Opzionale) per debug rapido: mostra una traccia della larghezza reale */
-// body { outline: 3px solid transparent; }  /* attiva solo per test */
-
-.top-nav .menu {
-  list-style: none;      /* rimuove i bullet */
+.top-nav .menu{
+  list-style: none;
   margin: 0;
   padding: 0;
 
-  display: flex;         /* mette gli <li> in fila */
-  gap: 1rem;             /* spazio tra gli elementi */
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
 }
 
-.top-nav .menu li {
+.top-nav .menu li{
   margin: 0;
   padding: 0;
+  position: relative;
 }
 
-.top-nav .menu a {
+.top-nav .menu a{
+  color: var(--brand);
   text-decoration: none;
-  color: #222;
   font-weight: 500;
 }
 
-.top-nav .menu a:hover {
+.top-nav .menu a:hover{
+  color: var(--brand-dark);
   text-decoration: underline;
 }
-  
-.top-nav .menu {
-  justify-content: center;   /* centra tutto il contenuto del nav */
-}
 
-.dropdown {
-  position: relative;
+
+/* =====================================================
+   8) DROPDOWN "Schedule"
+   ===================================================== */
+
+/* bottone che sembra un link */
+.dropdown-toggle{
+  background: none;
+  border: none;
+  padding: 0;
+
+  font: inherit;
+  color: var(--brand);
+  font-weight: 500;
+
   cursor: pointer;
 }
 
-.dropdown-menu {
-  display: none;
+.dropdown-toggle:hover{
+  color: var(--brand-dark);
+  text-decoration: underline;
+}
+
+.dropdown-toggle:focus{
+  outline: none;
+}
+
+/* menu a tendina */
+.dropdown-menu{
+  display: none;              /* nascosto di default */
   position: absolute;
   top: 100%;
   left: 0;
+
   list-style: none;
   margin: 0;
-  padding: 0.5rem 0;
-  background-color: white;
+  padding: 0.4rem 0;
+
+  background-color: #ffffff;
   border: 1px solid #ccc;
   z-index: 1000;
 }
 
-.dropdown-menu li a {
+/* link interni */
+.dropdown-menu li a{
   display: block;
-  padding: 0.5rem 1rem;
+  padding: 0.4rem 1rem;
   white-space: nowrap;
+
+  color: var(--text);
+  text-decoration: none;
 }
 
-/* classe attiva */
-.dropdown.open .dropdown-menu {
+.dropdown-menu li a:hover{
+  background-color: #f2f2f2;
+}
+
+/* stato aperto (attivato via JS) */
+.dropdown.open .dropdown-menu{
   display: block;
 }
 
-/* fa sembrare il button un link */
-.dropdown-toggle {
-  background: none;
-  border: none;
-  padding: 0;
-  font: inherit;
-  color: #222;
-  font-weight: 500;
-  cursor: pointer;
+
+/* =====================================================
+   9) Elementi testuali vari
+   ===================================================== */
+
+blockquote{
+  border-left: 4px solid var(--brand);
+  padding-left: .75rem;
 }
 
-.dropdown-toggle:hover {
-  text-decoration: underline;
+table th{
+  color: var(--brand);
 }
-.float-left {
+
+hr{
+  border: 0;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--brand),
+    transparent
+  );
+  opacity: .5;
+}
+
+
+/* =====================================================
+   10) Immagini flottanti (bio ecc.)
+   ===================================================== */
+
+.float-left{
   float: left;
-  width: 150px;       /* ridimensiona la foto */
-  margin: 0 1rem 1rem 0;  /* spazio a destra e sotto */
-  border-radius: 4px;     /* opzionale, estetico */
+  width: 150px;
+  margin: 0 1rem 1rem 0;
+  border-radius: 4px;
 }
 
-.float-left2 {
+.float-left2{
   float: left;
-  width: 300px;       /* ridimensiona la foto */
-  margin: 0 1rem 0 0;  /* spazio a destra e sotto */
-  border-radius: 4px;     /* opzionale, estetico */
+  width: 300px;
+  margin: 0 1rem 0 0;
+  border-radius: 4px;
 }
 
-.clear {
+.clear{
   clear: both;
-  margin-top: 3rem;   /* spazio fra una bio e l’altra */
+  margin-top: 3rem;
 }
