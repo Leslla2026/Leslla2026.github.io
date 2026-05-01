@@ -126,5 +126,5 @@ permalink: /day_3/
 </tr>
      <tr>
       <td class="time">16.00</td>
-      <td colspan="4"><strong>Visit to the Romani Culture Museum </strong></td>
+      <td colspan="4">Visit to the Romani Culture Museum</td>
     </tr> 
