@@ -97,15 +97,15 @@ permalink: /day2/
   </tr>
     <tr>
       <td class="time">14.00–14.30</td>
-      <td colspan="4"><strong>General assembly</strong></td>
+      <td colspan="4">General assembly</td>
     </tr>
     <tr>
       <td class="time">14.30–15.00</td>
-      <td colspan="4"><strong>Book presentation</strong> <br> <strong>Christine Czinglar</strong></td>
+      <td colspan="4"><strong>Book presentation</strong> <br> Christine Czinglar: book title</td>
     </tr>
     <tr>
       <td class="time">15.00–15.30</td>
-      <td colspan="4"><strong>Coffee break</strong></td>
+      <td colspan="4">Coffee break</td>
     </tr>
  
     <tr>
@@ -128,6 +128,9 @@ permalink: /day2/
       </td>
       <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud.</strong> <br> Research based practice, practice based research bridging the gap </td>
     </tr>
+    <tr>
+      <td class="time">18.30</td>
+      <td colspan="4"><strong>Social dinner at Jacobi</strong></td>
     <tr>
       <td class="time">18.30</td>
       <td colspan="4"><strong>Social dinner at Jacobi</strong></td>
