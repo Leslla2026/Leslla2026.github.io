@@ -1,3 +1,13 @@
+---
+layout: default
+title: Schedule - day 1
+permalink: /day1/
+parent: Schedule 
+---
+
+{% include site-logo.html %}
+{% include page-header.html %}
+
 <style>
   .schedule-table {
     width: 95%;
