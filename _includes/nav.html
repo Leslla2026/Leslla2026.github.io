@@ -3,7 +3,17 @@
     <li><a href="{{ '/' | relative_url }}">Home</a></li>
     <li><a href="{{ '/call_for_proposals' | relative_url }}">Call for proposals</a></li>
     <li><a href="{{ '/registration' | relative_url }}">Registration and conference fee</a></li>
-    <li><a href="{{ '/schedule' | relative_url }}">Schedule</a></li>
+
+    <!-- Schedule con menu a tendina -->
+    <li class="dropdown">
+      <a href="{{ '/schedule' | relative_url }}">Schedule</a>
+      <ul class="dropdown-menu">
+        <li><a href="{{ '/day1' | relative_url }}">Day 1</a></li>
+        <li><a href="{{ '/day2' | relative_url }}">Day 2</a></li>
+        <li><a href="{{ '/day3' | relative_url }}">Day 3</a></li>
+      </ul>
+    </li>
+
     <li><a href="{{ '/keynote_speakers' | relative_url }}">Keynote speakers</a></li>
     <li><a href="{{ '/venue' | relative_url }}">Venue</a></li>
     <li><a href="{{ '/useful_info' | relative_url }}">Useful information</a></li>
