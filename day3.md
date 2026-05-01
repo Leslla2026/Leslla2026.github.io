@@ -6,8 +6,7 @@ permalink: /day3/
 
 {% include site-logo.html %}
 {% include page-header.html %}
-
-<<table class="schedule-table">
+<table class="schedule-table">
 
   <colgroup>
     <col style="width:10%">
@@ -19,96 +18,82 @@ permalink: /day3/
   
   <thead>
     <tr>
-      <th colspan="5">Friday 21 August</th>
+      <th colspan="5">Saturday 22 August</th>
     </tr>
     
   </thead>
 
   <tbody>
-    <tr>
-      <td class="time">9:00 – 9:15</td>
-      <td colspan="4">Opening session</td>
-    </tr>
-    <tr>
-      <td class="time">9:15–10.15</td>
-      <td colspan="4"><strong>Keynote speech</strong> <br> <strong> Mari D'Agostino</strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte.</td>
-    </tr>
-
     <tr class="schedule-section">
       <td colspan="5">Morning session</td>
     </tr>
-<tr>
+    <tr>
       <th class="time"></th>
       <th>Session 1 <br> <strong> Co-constructed educational attitudes, approaches and pratices.</strong></th>
       <th>Session 2.<br> <strong> Additional languages and morphological awareness</strong></th>
       <th>Session 3 <br> <strong> Voices from inside: learners' and teachers' views on languages and literacy</strong></th>
-      <th>Session 4<br> <strong> Tools and resources</strong></th>
+      <th>Session 4<br> <strong> Voices from outside: views on literacy (and its consequences)</strong></th>
     </tr>
     <tr>
-      <td class="time">10:15 – 10:45</td>
+      <td class="time">9.00–9.30</td>
       <td>
-        <strong>Véronique Fortier.</strong><br>
-        Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project.
+        <strong>Valentina Cotesta.</strong><br>
+        Mediation and plurilingual repertoires in LESLLA contexts: a preliminary study on inclusive language assessment in Italy  
       </td>
       <td>
-        <strong>Marie-Anne Morand & Claudia Kossinna.</strong><br>
-        Word stress identification by LESLLA learners and second-script learners.
+        <strong>Roeland van Hout.</strong><br>
+        Low-educated adult second language learnersand their low sensitivity to L2 inflectional morphology: effects of sound discrimination, learner and target word characteristics 
       </td>
       <td>
-        <strong>Belma Haznedar* & Elifcan Oztekin°.</strong><br>
-        Exploring Teacher Candidates’ Attitudes Toward Multilingualism in the Turkish Context.
+        <strong>Fernanda Minuz* & Alessandro Borri°.</strong><br> Unaccompanied minors in adult education: listening to their voices  
       </td>
       <td>
-        <strong>Enas Filinban.</strong><br>
-        AI-Mediated Arabic Learning for Low-Literate Adult Migrants in Saudi Arabia.
-      </td>
-    </tr>
-
-    <tr>
-      <td class="time">10:45 – 11:15</td>
-      <td>
-        <strong>Clelia Farina</strong><br>
-        Observing Competence and Performance in Talk-in-Interaction: Notes from an Italian LA Course with Newly Arrived Learners
-      </td>
-      <td>
-        <strong>Ann-Kristin Helland Gujord & Linda Emilsen.</strong><br>
-        What characterises research on L2 learners with limited prior schooling? 
-      </td>
-      <td>
-        <strong>Carl Laberge.</strong><br>
-        LESLLA learners’ plurilingual development: A funds of knowledge approach to uncover their perspective. 
-      </td>
-      <td>
-        <strong>Nadja Kerschhofer-Puhalo.</strong><br>
-        Views in*2 Literacies – a multimodal text collection on a participatory web-platform. 
+        <strong>Marieke Vanbuel.</strong><br>
+        How do LESLLA learners process multimodal texts?
       </td>
     </tr>
 
     <tr>
-      <td class="time">11.15 – 12:15</td>
-      <td colspan="4">Coffee break and poster session</td>
+      <td class="time">9.30-10.30</td>
+      <td>
+        <strong>Laëtitia Giorgis.</strong><br>
+        Alphabétisation tardive et multimodalité : vers une acculturation à l’écrit incarnée et située chez de grands adolescents allophones.
+      </td>
+      <td>
+        <strong>Linda Evenstad Emilsen & Ann-Kristin Gujord.</strong><br>
+        Early grammatical development in a non-academic sample 
+      </td>
+      <td>
+        <strong>Marta Maffia, Raymond Siebetcheu, Anna De Meo, Noemi Lari e SAI Pontassieve.</strong><br>
+        Embodied plurilingualism in adult literacy learners: insights from language portraits across Italy  
+      </td>
+      <td>
+        <strong>Jeanne Kurvers*  Roeland van Hout°.</strong><br>
+        Bridging the gap between everyday reasoning and logical deduction in emergent readers: updating Vygotsky 
+      </td>
     </tr>
     <tr>
-      <td class="time">12:15 – 13:15</td>
-      <td colspan="4">Lunch</td>
+      <td class="time">9.30-10.00</td>
+      <td>
+        <strong>Franziska Foerster.</strong><br>
+        Real-Life Digital Literacy Practices of Arabic-Speaking Adult Migrants in Germany
+      </td>
+      <td></td>
+      <td>
+        <strong>Live Grinden.</strong><br>
+        Distributing burdens in Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship  
+      </td>
+      <td>
+        <strong>Morgane Jourdain.</strong><br>
+        Beyond “Low Literacy”: A Critical Discourse Analysis of Deficit Thinking in European Policy Frameworks on Migrants’ Language Acquisition
+      </td>
     </tr>
-    <tr class="schedule-section">
-      <td colspan="5">Afternoon session</td>
-  </tr>
+
     <tr>
-      <td class="time">14.00–14.30</td>
-      <td colspan="4"><strong>General assembly</strong></td>
+      <td class="time">10.30-11:00</td>
+      <td colspan="4">Coffee break</td>
     </tr>
-    <tr>
-      <td class="time">14.30–15.00</td>
-      <td colspan="4"><strong>Book presentation</strong> <br> <strong>Christine Czinglar</strong></td>
-    </tr>
-    <tr>
-      <td class="time">15.00–15.30</td>
-      <td colspan="4"><strong>Coffee break</strong></td>
-    </tr>
- 
-    <tr>
+<tr>
       <th class="time"></th>
       <th class="session">Workshop 1</th>
       <th class="session">Workshop 2</th>
@@ -117,17 +102,28 @@ permalink: /day3/
     </tr>
 
     <tr>
-      <td class="time">15.30 – 17.30</td>
-      <td><strong>Asad Iqbal.</strong><br>Designing and deploying responsible AI-enabled language assessment: practical strategies for language and literacies educators</td>
+      <td class="time">11.00-13.00</td>
+      <td><strong>Gabriela Jessome.</strong><br>From barriers to belonging: inclusive literacy practices for adult literacy learners</td>
       <td>
-        <strong>Cecilia Bartoli & Kristyna Lorenzova</strong><br>
-        Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts
+        <strong>Janet Isserlis & Patsy Egan. </strong><br>
+        Lifelong learning Practitioners celebrate the work of Heide Wrigley in the best way we know how. 
       </td>
       <td>
-        <strong>Davide Schirò</strong><br>Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi 
+        <strong>Eva Malessa*, Live Grinden°, Skye Playsted^, Jemima Rillera Kempster^</strong><br>Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders 
       </td>
-      <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud.</strong> <br> Research based practice, practice based research bridging the gap </td>
+      <td><strong>Clelia Farina.</strong> <br> From the other side of the desk </td>
     </tr>
     <tr>
-      <td class="time">18.30</td>
-      <td colspan="4"><strong>Social dinner at Jacobi</strong></td>
+      <td class="time">13.00-14:00</td>
+      <td colspan="4">Lunch</td>
+    </tr>
+    <tr>
+      <td class="time">15.00–16.00</td>
+      <td colspan="4"><strong>Keynote speech</strong> <br> <strong> Markéta Hajská & Pavel Kubaník</strong> <br> Romani: One Language, Two Stories.</td>
+    </tr>
+    <tr>
+      <td class="time">16.00</td>
+      <td colspan="4"><strong>Visit to the Romani Culture Museum </strong></td>
+    </tr>  
+  </tbody>
+</table>
