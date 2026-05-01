@@ -201,6 +201,11 @@ aside.sidebar{
 }
 
 /* menu a tendina */
+
+.dropdown {
+  position: relative; 
+}
+
 .dropdown-menu{
   display: none;              /* nascosto di default */
   position: absolute;
