@@ -157,6 +157,33 @@ hr{
   justify-content: center;   /* centra tutto il contenuto del nav */
 }
 
+.menu .dropdown {
+  position: relative;
+}
+
+.menu .dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0.5rem 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  z-index: 1000;
+}
+
+.menu .dropdown-menu li a {
+  display: block;
+  padding: 0.5rem 1rem;
+  white-space: nowrap;
+}
+
+/* apertura al passaggio del mouse */
+.menu .dropdown:hover .dropdown-menu {
+  display: block;
+}
 
 .float-left {
   float: left;
