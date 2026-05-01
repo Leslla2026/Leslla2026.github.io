@@ -39,7 +39,8 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
   .fees-section {
     background: #fafafa;
     font-weight: 700;
-    color: var(--brand, #8A0044); /* usa il tuo bordeaux se definito */
+    color: var(--brand, #8A0044);
+   text-align: center/* usa il tuo bordeaux se definito */
   }
 </style>
 
