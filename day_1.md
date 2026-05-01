@@ -97,6 +97,7 @@ permalink: /day_1/
       <td colspan="2">
         <strong>Sybren Spit.</strong><br>
         Word learning in emergent readers: to what extent does written input help?
+    <td colspan="3"> </td>
     </tr>
 
     <tr>
