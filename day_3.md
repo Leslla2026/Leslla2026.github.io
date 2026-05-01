@@ -117,14 +117,14 @@ permalink: /day_3/
       <td class="time">13.00-14:00</td>
       <td colspan="4">Lunch</td>
     </tr>
-     <tr>
-      <td class="time">16.00</td>
-      <td colspan="4"><strong>Visit to the Romani Culture Museum </strong></td>
-    </tr> 
        <tr class="schedule-section">
         <td colspan="5"> Keynote Speech</td>
     </tr>
     <tr>
-        <td class="time">17:00–18:00</td>
+        <td class="time">15:00–16:00</td>
         <td colspan="4"><strong>Markéta Hajská & Pavel Kubaník</strong> <br> Romani: One Language, Two Stories.</td>
 </tr>
+     <tr>
+      <td class="time">16.00</td>
+      <td colspan="4"><strong>Visit to the Romani Culture Museum </strong></td>
+    </tr> 
