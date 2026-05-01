@@ -1,21 +1,21 @@
 <nav class="top-nav" aria-label="Main navigation">
   <ul class="menu">
-    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-    <li><a href="{{ '/call_for_proposals' | relative_url }}">Call for proposals</a></li>
-    <li><a href="{{ '/registration' | relative_url }}">Registration and conference fee</a></li>
+    <li>{{ '/' | relative_url }}Home</a></li>
+    <li>{{ '/call_for_proposals' | relative_url }}</li>
+    <li>{{ '/registration' | relative_url }}</li>
 
-    <!-- Schedule con menu a tendina -->
+    <!-- Schedule con dropdown on click -->
     <li class="dropdown">
-      <a href="{{ '/schedule' | relative_url }}">Schedule</a>
+      Schedule ▾
       <ul class="dropdown-menu">
-        <li><a href="{{ '/day1' | relative_url }}">Day 1</a></li>
-        <li><a href="{{ '/day2' | relative_url }}">Day 2</a></li>
-        <li><a href="{{ '/day3' | relative_url }}">Day 3</a></li>
+        <li>{{ '/day1' | relative_url }}</li>
+        <li>{{ '/day2' | relative_url }}</li>
+        <li>{{ '/day3' | relative_url }}</li>
       </ul>
     </li>
 
-    <li><a href="{{ '/keynote_speakers' | relative_url }}">Keynote speakers</a></li>
-    <li><a href="{{ '/venue' | relative_url }}">Venue</a></li>
-    <li><a href="{{ '/useful_info' | relative_url }}">Useful information</a></li>
+    <li>{{ '/keynote_speakers' | relative_url }}</li>
+    <li>{{ '/venue' | relative_url }}</li>
+    <li>{{ '/useful_info' | relative_url }}</li>
   </ul>
 </nav>
