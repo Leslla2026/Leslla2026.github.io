@@ -5,14 +5,19 @@
     <li>{{ '/registration' | relative_url }}</li>
 
     <!-- Schedule con dropdown on click -->
-    <li class="dropdown">
-      Schedule ▾
-      <ul class="dropdown-menu">
-        <li>{{ '/day1' | relative_url }}</li>
-        <li>{{ '/day2' | relative_url }}</li>
-        <li>{{ '/day3' | relative_url }}</li>
-      </ul>
-    </li>
+    
+  <li class="dropdown">
+  <button class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">
+    Schedule ▾
+  </button>
+
+  <ul class="dropdown-menu">
+    <li><a href="{{ '/day1' | relative_url }}">Day 1</a></li>
+    <li><a href="{{ '/day2' | relative_url }}">Day 2</a></li>
+    <li><a href="{{ '/day3' | relative_url }}">Day 3</a></li>
+  </ul>
+</li>
+
 
     <li>{{ '/keynote_speakers' | relative_url }}</li>
     <li>{{ '/venue' | relative_url }}</li>
