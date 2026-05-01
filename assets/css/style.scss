@@ -291,13 +291,8 @@ hr{
     table-layout: fixed;
     border-collapse: collapse;
   }
-
-  /* =====================================================
-   Schedule table (stile isolato, NON interferente)
-   ===================================================== */
-
 /* =====================================================
-   Schedule table – layout migliorato
+   Schedule table
    ===================================================== */
 
 table.schedule-table {
@@ -307,23 +302,23 @@ table.schedule-table {
   border-collapse: collapse;
   font-size: 0.95rem;
   line-height: 1.35;
-  border: 2px solid #000;
+  border: 1px solid #bbb;     /* bordo esterno sottile */
 }
 
-/* celle di base */
+/* celle */
 table.schedule-table th,
 table.schedule-table td {
-  border: 1px solid #999;
+  border: 1px solid #ccc;     /* bordi leggeri ovunque */
   padding: 0.6rem 0.7rem;
   vertical-align: top;
   word-wrap: break-word;
   color: #222;
 }
 
-/* intestazioni generiche */
+/* intestazioni */
 table.schedule-table thead th,
 table.schedule-table tbody th {
-  background: #e9e9e9;
+  background: #ededed;
   text-align: center;
   font-weight: 600;
 }
@@ -331,11 +326,10 @@ table.schedule-table tbody th {
 /* titolo del giorno */
 table.schedule-table thead th[colspan] {
   background: #8A0044;
-  color: #fff;
+  color: #ffffff;
   font-size: 1.05rem;
-  text-transform: uppercase;
   letter-spacing: .03em;
-  border-bottom: 2px solid #000;
+  text-transform: uppercase;
 }
 
 /* colonna orari */
@@ -343,34 +337,33 @@ table.schedule-table .time {
   text-align: center;
   font-weight: 600;
   white-space: nowrap;
-  background: #f3f3f3;
-  border-right: 2px solid #000;
+  background: #f4f4f4;
 }
 
 /* righe di sezione (Morning / Afternoon) */
 table.schedule-table .schedule-section td {
-  background: #f7f7f7;
+  background: #f8f8f8;
   color: #8A0044;
   font-weight: 700;
   text-align: center;
   letter-spacing: .02em;
 }
 
-/* righe speciali: pause, lunch, keynote */
+/* pause, lunch, keynote */
 table.schedule-table td[colspan="5"],
 table.schedule-table td[colspan="6"] {
-  background: #fafafa;
+  background: #fbfbfb;
   text-align: center;
   font-style: italic;
 }
 
-/* nomi relatori */
+/* nomi dei relatori */
 table.schedule-table strong {
   font-weight: 600;
   color: #000;
 }
 
-/* alleggerisce righe molto dense */
+/* zebra molto delicata */
 table.schedule-table tr:not(.schedule-section):nth-child(even) td {
-  background: #fcfcfc;
+  background: #fdfdfd;
 }
