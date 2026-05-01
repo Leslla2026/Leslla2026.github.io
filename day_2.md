@@ -29,9 +29,12 @@ permalink: /day_2/
       <td class="time">9:00-9:15</td>
       <td colspan="4">Opening session</td>
     </tr>
+    <tr class="schedule-section">
+    <td colspan="6"> Keynote Speech</td>
+    </tr>
     <tr>
-      <td class="time">9:15–10.15</td>
-      <td colspan="4"><strong>Keynote speech</strong> <br> <strong> Mari D'Agostino</strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte.</td>
+      <td class="time">9:15–10:15</td>
+      <td colspan="5"><strong> Mari D'Agostino</strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte.</td>
     </tr>
 
     <tr class="schedule-section">
