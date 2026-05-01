@@ -132,5 +132,3 @@ permalink: /day2/
     <tr>
       <td class="time">18.30</td>
       <td colspan="4"><strong>Social dinner at Jacobi</strong></td>
-  </tbody>
-</table>
