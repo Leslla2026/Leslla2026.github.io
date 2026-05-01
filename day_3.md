@@ -118,11 +118,11 @@ permalink: /day_3/
       <td colspan="4">Lunch</td>
     </tr>
     <tr class="schedule-section">
-        <td colspan="6"> Keynote Speech</td>
+        <td colspan="5"> Keynote Speech</td>
     </tr>
     <tr>
          <td class="time">17:00–18:00</td>
-          <td colspan="5"><strong>Markéta Hajská & Pavel Kubaník</strong> <br> Romani: One Language, Two Stories.</td>
+          <td colspan="4"><strong>Markéta Hajská & Pavel Kubaník</strong> <br> Romani: One Language, Two Stories.</td>
 </tr>
     <tr>
       <td class="time">16.00</td>
