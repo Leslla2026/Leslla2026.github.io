@@ -4,9 +4,9 @@ WORKDIR /site
 
 COPY . .
 
-RUN gem install bundler jekyll
+RUN gem install bundler \
+ && bundle install
 
 EXPOSE 4000
 
-CMD ["jekyll", "serve", "--host", "0.0.0.0", "--livereload"]
-``
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--livereload"]
