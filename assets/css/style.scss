@@ -364,23 +364,6 @@ table.schedule-table .schedule-section td {
   text-align: center;
   letter-spacing: .02em;
 }
-
-/* pause, lunch, keynote */
-table.schedule-table td[colspan="2"]
-table.schedule-table td[colspan="3"]
-table.schedule-table td[colspan="4"],
-table.schedule-table td[colspan="5"],
-table.schedule-table td[colspan="6"] {
-  background: #fbfbfb;
-  font-style: italic;
-}
-
-/* nomi dei relatori */
-table.schedule-table strong {
-  font-weight: 600;
-  color: #000;
-}
-
 /* zebra molto delicata */
 table.schedule-table tr:not(.schedule-section):nth-child(even) td {
   background: #fdfdfd;
