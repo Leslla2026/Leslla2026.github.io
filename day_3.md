@@ -123,7 +123,7 @@ permalink: /day_3/
 
     <tr>
       <td class="time">10:30-11:00</td>
-      <td colspan="4">Coffee break</td>
+      <td colspan="4"> <i> Coffee break </i> </td>
     </tr>
 <tr>
       <th class="time"></th>
@@ -150,16 +150,16 @@ permalink: /day_3/
     </tr>
     <tr>
       <td class="time">13:00-14:00</td>
-      <td colspan="4">Lunch</td>
+      <td colspan="4"> <i> Lunch </i> </td>
     </tr>
        <tr class="schedule-section">
         <td colspan="5"> Keynote Speech</td>
     </tr>
     <tr>
         <td class="time">15:00–16:00</td>
-        <td colspan="4"><strong>Markéta Hajská & Pavel Kubaník - Affiliation </strong> <br> Romani: One Language, Two Stories</td>
+        <td colspan="4"> <i> <strong>Markéta Hajská & Pavel Kubaník - Affiliation </strong> <br> Romani: One Language, Two Stories  <i> </td>
 </tr>
      <tr>
       <td class="time">16:00</td>
-      <td colspan="4">Visit to the Romani Culture Museum</td>
+      <td colspan="4">  <i> Visit to the <a href="https://www.rommuz.cz/en">Museum of Romani Culture</a> </i> </td>
     </tr> 
