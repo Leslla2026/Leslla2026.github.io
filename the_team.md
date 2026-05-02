@@ -7,4 +7,4 @@ permalink: /the_team/
 {% include site-logo.html %}
 {% include page-header.html %}
 
-Page under construction
+🚧 Page under construction 🚧
