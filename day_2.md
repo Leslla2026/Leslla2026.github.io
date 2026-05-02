@@ -42,28 +42,28 @@ permalink: /day_2/
     </tr>
 <tr>
       <th class="time"></th>
-  <th><span style="display:block;"> Session 1 </span>
+  <th class="session"><span style="display:block;"> Session 1 </span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
     <i>Co-constructed educational attitudes, approaches and pratices.</i>
     </span></th>
-    <th><span style="display:block;"> Session 2 </span>
+    <th class="session"><span style="display:block;"> Session 2 </span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
     <i>Additional languages and morphological awareness</i>
     </span></th>
-  <th><span style="display:block;"> Session 3 </span>
+  <th class="session"><span style="display:block;"> Session 3 </span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
     <i>Voices from inside: learners' and teachers' views on languages and literacy</i>
     </span></th>
-  <th><span style="display:block;"> Session 4 </span>
+  <th class="session"><span style="display:block;"> Session 4 </span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
