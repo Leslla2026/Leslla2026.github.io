@@ -24,7 +24,7 @@ permalink: /day_1/
   <tbody>
     <tr>
       <td class="time">9:00-9:30</td>
-      <td colspan="2">  <i> Conference opening  </i>i> </td>
+      <td colspan="2">  <i> Conference opening  </i> </td>
     </tr>
 
     <tr class="schedule-section">
