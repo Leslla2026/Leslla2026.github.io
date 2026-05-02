@@ -94,7 +94,7 @@ permalink: /day_2/
     <tr>
       <td class="time">10:45-11:15</td>
       <td>
-        <strong>Clelia Farina</strong><br>
+        <strong>Clelia Farina</strong> (University of Palermo) <br>
         Observing Competence and Performance in Talk-in-Interaction: Notes from an Italian LA Course with Newly Arrived Learners
       </td>
       <td>
