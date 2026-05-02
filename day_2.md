@@ -42,10 +42,34 @@ permalink: /day_2/
     </tr>
 <tr>
       <th class="time"></th>
-      <th>Session 1 <br> <strong> Co-constructed educational attitudes, approaches and pratices.</strong></th>
-      <th>Session 2.<br> <strong> Additional languages and morphological awareness</strong></th>
-      <th>Session 3 <br> <strong> Voices from inside: learners' and teachers' views on languages and literacy</strong></th>
-      <th>Session 4<br> <strong> Tools and resources</strong></th>
+  <th><span style="display:block;"> Session 1 </span>
+  <span style="display:block;
+               border-top: 1px solid #999;
+               margin: 0.4rem 0;
+               padding-top: 0.4rem;">
+    <i>Co-constructed educational attitudes, approaches and pratices.</i>
+    </span></th>
+    <th><span style="display:block;"> Session 2 </span>
+  <span style="display:block;
+               border-top: 1px solid #999;
+               margin: 0.4rem 0;
+               padding-top: 0.4rem;">
+    <i>Additional languages and morphological awareness</i>
+    </span></th>
+  <th><span style="display:block;"> Session 3 </span>
+  <span style="display:block;
+               border-top: 1px solid #999;
+               margin: 0.4rem 0;
+               padding-top: 0.4rem;">
+    <i>Voices from inside: learners' and teachers' views on languages and literacy</i>
+    </span></th>
+  <th><span style="display:block;"> Session 4 </span>
+  <span style="display:block;
+               border-top: 1px solid #999;
+               margin: 0.4rem 0;
+               padding-top: 0.4rem;">
+    <i>Tools and resources</i>
+    </span></th>
     </tr>
     <tr>
       <td class="time">10:15-10:45</td>
