@@ -266,13 +266,12 @@ hr{
   opacity: .5;
 }
 
-.page::after,
-.main::after,
-.content::after {
-  content: "";
-  display: block;
+
+footer {
+  position: relative;
   clear: both;
 }
+
 
 
 
