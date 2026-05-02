@@ -34,7 +34,7 @@ permalink: /day_2/
     </tr>
     <tr>
       <td class="time">9:15–10:15</td>
-      <td colspan="4"><strong> Mari D'Agostino</strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte.</td>
+      <td colspan="4"><strong> Mari D'Agostino</strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte</td>
     </tr>
 
     <tr class="schedule-section">
@@ -47,7 +47,7 @@ permalink: /day_2/
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
-    <i>Co-constructed educational attitudes, approaches and pratices.</i>
+    <i>Co-constructed educational attitudes, approaches and pratices</i>
     </span></th>
     <th class="session"><span style="display:block;"> Session 2 </span>
   <span style="display:block;
@@ -74,20 +74,20 @@ permalink: /day_2/
     <tr>
       <td class="time">10:15-10:45</td>
       <td>
-        <strong>Véronique Fortier.</strong><br>
-        Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project.
+        <strong>Véronique Fortier</strong><br>
+        Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project
       </td>
       <td>
-        <strong>Marie-Anne Morand & Claudia Kossinna.</strong><br>
-        Word stress identification by LESLLA learners and second-script learners.
+        <strong>Marie-Anne Morand & Claudia Kossinna</strong><br>
+        Word stress identification by LESLLA learners and second-script learners
       </td>
       <td>
-        <strong>Belma Haznedar* & Elifcan Oztekin°.</strong><br>
-        Exploring Teacher Candidates’ Attitudes Toward Multilingualism in the Turkish Context.
+        <strong>Belma Haznedar* & Elifcan Oztekin°</strong><br>
+        Exploring Teacher Candidates’ Attitudes Toward Multilingualism in the Turkish Context
       </td>
       <td>
-        <strong>Enas Filinban.</strong><br>
-        AI-Mediated Arabic Learning for Low-Literate Adult Migrants in Saudi Arabia.
+        <strong>Enas Filinban</strong><br>
+        AI-Mediated Arabic Learning for Low-Literate Adult Migrants in Saudi Arabia
       </td>
     </tr>
 
@@ -98,21 +98,21 @@ permalink: /day_2/
         Observing Competence and Performance in Talk-in-Interaction: Notes from an Italian LA Course with Newly Arrived Learners
       </td>
       <td>
-        <strong>Ann-Kristin Helland Gujord & Linda Emilsen.</strong><br>
+        <strong>Ann-Kristin Helland Gujord & Linda Emilsen</strong><br>
         What characterises research on L2 learners with limited prior schooling? 
       </td>
       <td>
-        <strong>Carl Laberge.</strong><br>
-        LESLLA learners’ plurilingual development: A funds of knowledge approach to uncover their perspective. 
+        <strong>Carl Laberge</strong><br>
+        LESLLA learners’ plurilingual development: A funds of knowledge approach to uncover their perspective 
       </td>
       <td>
-        <strong>Nadja Kerschhofer-Puhalo.</strong><br>
-        Views in*2 Literacies-a multimodal text collection on a participatory web-platform. 
+        <strong>Nadja Kerschhofer-Puhalo</strong><br>
+        Views in*2 Literacies-a multimodal text collection on a participatory web-platform 
       </td>
     </tr>
 
     <tr>
-      <td class="time">11.15-12:15</td>
+      <td class="time">11:15-12:15</td>
       <td colspan="4">Coffee break and poster session</td>
     </tr>
     <tr>
@@ -123,15 +123,15 @@ permalink: /day_2/
       <td colspan="5">Afternoon session</td>
   </tr>
     <tr>
-      <td class="time">14.00–14.30</td>
+      <td class="time">14:00–14:30</td>
       <td colspan="4">General assembly</td>
     </tr>
     <tr>
-      <td class="time">14.30–15.00</td>
+      <td class="time">14:30–15:00</td>
       <td colspan="4"><strong>Book presentation</strong> <br> Christine Czinglar: book title</td>
     </tr>
     <tr>
-      <td class="time">15.00–15.30</td>
+      <td class="time">15:00–15:30</td>
       <td colspan="4">Coffee break</td>
     </tr>
  
@@ -144,8 +144,8 @@ permalink: /day_2/
     </tr>
 
     <tr>
-      <td class="time">15.30-17.30</td>
-      <td><strong>Asad Iqbal.</strong><br>Designing and deploying responsible AI-enabled language assessment: practical strategies for language and literacies educators</td>
+      <td class="time">15:30-17:30</td>
+      <td><strong>Asad Iqbal</strong><br>Designing and deploying responsible AI-enabled language assessment: practical strategies for language and literacies educators</td>
       <td>
         <strong>Cecilia Bartoli & Kristyna Lorenzova</strong><br>
         Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts
@@ -153,8 +153,8 @@ permalink: /day_2/
       <td>
         <strong>Davide Schirò</strong><br>Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi 
       </td>
-      <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud.</strong> <br> Research based practice, practice based research bridging the gap </td>
+      <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> Research based practice, practice based research bridging the gap </td>
     </tr>
     <tr>
-      <td class="time">18.30</td>
+      <td class="time">18:30</td>
       <td colspan="4"><strong>Social dinner at Jacobi</strong></td>
