@@ -135,8 +135,8 @@ permalink: /day_1/
 
     <tr>
       <td class="time">14:30-15:00</td>
-      <td><strong>author</strong><br>title</td>
-      <td><strong>author</strong><br>title</td>
+      <td><strong>author</strong><br><i> Affiliation </i><br>title</td>
+      <td><strong>author</strong><br><i> Affiliation </i><br>title</td>
       <td>
         <strong>Anna Mendoza, Elif Varlik, Eda Yildirimer</strong><br> <i> Affiliation </i><br>
         Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest
@@ -150,8 +150,8 @@ permalink: /day_1/
 
     <tr>
       <td class="time">15:00-16:30</td>
-      <td><strong>author</strong><br>title</td>
-      <td><strong>author</strong><br>title</td>
+      <td><strong>author</strong><br><i> Affiliation </i><br>title</td>
+      <td><strong>author</strong><br><i> Affiliation </i><br>title</td>
       <td>
         <strong>Erika Husby</strong><br> <i> Affiliation </i><br>
         U.S. Citizenship: The Gap between Policy and Lived Reality
