@@ -266,6 +266,15 @@ hr{
   opacity: .5;
 }
 
+.page::after,
+.main::after,
+.content::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+
 
 /* =====================================================
    10) Immagini flottanti (bio ecc.)
