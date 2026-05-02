@@ -24,7 +24,7 @@ permalink: /day_1/
   <tbody>
     <tr>
       <td class="time">9:00-9:30</td>
-      <td colspan="2">Conference opening</td>
+      <td colspan="2">  <i> Conference opening  </i>i> </td>
     </tr>
 
     <tr class="schedule-section">
@@ -61,7 +61,7 @@ permalink: /day_1/
 
     <tr>
       <td class="time">10:30-11:00</td>
-      <td colspan="3">Coffee break</td>
+      <td colspan="3">  <i> Coffee break  </i> </td>
     </tr>
 
     <tr>
@@ -99,7 +99,7 @@ permalink: /day_1/
 
     <tr>
       <td class="time">12:30-14:30</td>
-      <td colspan="3">Lunch</td>
+      <td colspan="3"> <i> Lunch </i> </td>
     </tr>
 
 
@@ -216,4 +216,4 @@ permalink: /day_1/
     </tr>
     <tr>
       <td class="time">17:00–18:00</td>
-      <td colspan="5"><strong> Martha Young-Sholten - Affiliation </strong> <br> Ineke van de Craats and Heidi Wrigley and the studies that created LESLLA.</td>
+      <td colspan="5"> <i> <strong>Martha Young-Sholten - Affiliation </strong> <br> Ineke van de Craats and Heidi Wrigley and the studies that created LESLLA. </i> </td>
