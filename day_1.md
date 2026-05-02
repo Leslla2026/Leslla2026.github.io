@@ -11,41 +11,37 @@ permalink: /day_1/
 
   <colgroup>
     <col style="width:10%">
-    <col style="width:17%">
-    <col style="width:17%">
-    <col style="width:17%">
-    <col style="width:17%">
-    <col style="width:17%">
+    <col style="width:45%">
+    <col style="width:45%">
   </colgroup>
   
-  <thead>
+   <thead>
     <tr>
-      <th colspan="6">Thursday 20 August</th>
-    </tr>
-    
+      <th colspan="3">Thursday 20 August</th>
+    </tr>    
   </thead>
 
   <tbody>
     <tr>
       <td class="time">9:00-9:30</td>
-      <td colspan="5">Conference opening</td>
+      <td colspan="2">Conference opening</td>
     </tr>
 
     <tr class="schedule-section">
-      <td colspan="6">Morning session</td>
+      <td colspan="3">Morning session</td>
     </tr>
 <tr>
       <th class="time"></th>
-      <th colspan="2">Session 1</th>
-      <th colspan="3">Session 2</th>
+      <th>Session 1</th>
+      <th>Session 2</th>
     </tr>
     <tr>
       <td class="time">9:30-10:00</td>
-      <td colspan="2">
+      <td>
         <strong>Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa</strong><br> <i> Affiliation </i><br>
         The Name Game: Measuring metalinguistic awareness in LESLLA learners
       </td>
-      <td colspan="3">
+      <td>
         <strong>Manuela Pinto, Darin Nshiwi, Ali Işık, Birgen Işık</strong><br> <i> Affiliation </i><br>
         A Dream Too Far: Dutch Learning Needs of Asylum Seekers and Current Dutch Learning Policy and Practices at the Asylum Seeker Center
       </td>
@@ -53,11 +49,11 @@ permalink: /day_1/
 
     <tr>
       <td class="time">10:00-10:30</td>
-      <td colspan="2">
+      <td>
         <strong>Fatima Zahra El&nbsp;Balrhi</strong><br> <i> Affiliation </i><br>
         L3 Arabic Stress by Wolof Migrants in Morocco
       </td>
-      <td colspan="3">
+      <td>
         <strong>Katharina Obens, Ioanna Liakou &amp; David Zimmermann</strong><br> <i> Affiliation </i><br>
         A Participatory Design-Based Research Approach to the Professionalisation of Inclusive Language Education for Adult Refugees with Learning Difficulties
       </td>
@@ -65,16 +61,16 @@ permalink: /day_1/
 
     <tr>
       <td class="time">10:30-11:00</td>
-      <td colspan="5">Coffee break</td>
+      <td colspan="3">Coffee break</td>
     </tr>
 
     <tr>
       <td class="time">11:00-11:30</td>
-      <td colspan="2">
+      <td>
         <strong>Lotta Antunio</strong><br> <i> Affiliation </i><br>
         Language learning without literacy?
       </td>
-      <td colspan="3">
+      <td>
         <strong>Ina-Maria Maahs</strong><br> <i> Affiliation </i><br>
         From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling
       </td>
@@ -82,11 +78,11 @@ permalink: /day_1/
 
     <tr>
       <td class="time">11:30-12:00</td>
-      <td colspan="2">
+      <td>
         <strong>Friederike Lüpke</strong><br> <i> Affiliation </i><br>
         Lead language writing as an adaptive infrastructure for multilingual literacy development
       </td>
-      <td colspan="3">
+      <td>
         <strong>Matilde Grünhage-Monetti</strong><br> <i> Affiliation </i><br>
         Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants
       </td>
@@ -94,17 +90,31 @@ permalink: /day_1/
 
     <tr>
       <td class="time">12:00-12:30</td>
-      <td colspan="2">
+      <td>
         <strong>Sybren Spit</strong><br> <i> Affiliation </i><br>
         Word learning in emergent readers: to what extent does written input help?
         </td>
-    <td colspan="3"> </td>
+    <td> </td>
     </tr>
 
     <tr>
       <td class="time">12:30-14:30</td>
-      <td colspan="5">Lunch</td>
+      <td colspan="3">Lunch</td>
     </tr>
+
+
+<table class="schedule-table">
+
+  <colgroup>
+    <col style="width:10%">
+    <col style="width:17%">
+    <col style="width:17%">
+    <col style="width:17%">
+    <col style="width:17%">
+    <col style="width:17%">
+  </colgroup>
+  
+ <tbody> 
 
     <tr class="schedule-section">
       <td colspan="6">Afternoon session</td>
