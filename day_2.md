@@ -27,14 +27,14 @@ permalink: /day_2/
   <tbody>
     <tr>
       <td class="time">9:00-9:15</td>
-      <td colspan="4">Opening session</td>
+      <td colspan="4"> <i> Opening session  </i> </td>
     </tr>
     <tr class="schedule-section">
     <td colspan="5"> Keynote Speech</td>
     </tr>
     <tr>
       <td class="time">9:15–10:15</td>
-      <td colspan="4"><strong> Mari D'Agostino - University of Palermo </strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte</td>
+      <td colspan="4">  <i> <strong> Mari D'Agostino - University of Palermo </strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i>i> </td>
     </tr>
 
     <tr class="schedule-section">
@@ -113,11 +113,11 @@ permalink: /day_2/
 
     <tr>
       <td class="time">11:15-12:15</td>
-      <td colspan="4">Coffee break and poster session</td>
+      <td colspan="4">  <i> Coffee break and poster session  <i> </td>
     </tr>
     <tr>
       <td class="time">12:15-13:15</td>
-      <td colspan="4">Lunch</td>
+      <td colspan="4">  <i> Lunch  </i> </td>
     </tr>
     <tr class="schedule-section">
       <td colspan="5">Afternoon session</td>
@@ -132,7 +132,7 @@ permalink: /day_2/
     </tr>
     <tr>
       <td class="time">15:00–15:30</td>
-      <td colspan="4">Coffee break</td>
+      <td colspan="4">  <i> Coffee break  <i> </td>
     </tr>
  
     <tr>
@@ -160,4 +160,4 @@ permalink: /day_2/
     </tr>
     <tr>
       <td class="time">18:30</td>
-      <td colspan="4"><strong>Social dinner at Jacobi</strong></td>
+      <td colspan="4"> <i> <strong>Social dinner at Jacobi</strong> </i> </td>
