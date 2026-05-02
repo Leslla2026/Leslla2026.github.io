@@ -42,11 +42,11 @@ permalink: /day_1/
     <tr>
       <td class="time">9:30-10:00</td>
       <td colspan="2">
-        <strong>Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa</strong><br>
+        <strong>Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa</strong><br> <i> Affiliation </i><br>
         The Name Game: Measuring metalinguistic awareness in LESLLA learners
       </td>
       <td colspan="3">
-        <strong>Manuela Pinto, Darin Nshiwi, Ali Işık, Birgen Işık</strong><br>
+        <strong>Manuela Pinto, Darin Nshiwi, Ali Işık, Birgen Işık</strong><br> <i> Affiliation </i><br>
         A Dream Too Far: Dutch Learning Needs of Asylum Seekers and Current Dutch Learning Policy and Practices at the Asylum Seeker Center
       </td>
     </tr>
@@ -54,11 +54,11 @@ permalink: /day_1/
     <tr>
       <td class="time">10:00-10:30</td>
       <td colspan="2">
-        <strong>Fatima Zahra El&nbsp;Balrhi</strong><br>
+        <strong>Fatima Zahra El&nbsp;Balrhi</strong><br> <i> Affiliation </i><br>
         L3 Arabic Stress by Wolof Migrants in Morocco
       </td>
       <td colspan="3">
-        <strong>Katharina Obens, Ioanna Liakou &amp; David Zimmermann</strong><br>
+        <strong>Katharina Obens, Ioanna Liakou &amp; David Zimmermann</strong><br> <i> Affiliation </i><br>
         A Participatory Design-Based Research Approach to the Professionalisation of Inclusive Language Education for Adult Refugees with Learning Difficulties
       </td>
     </tr>
@@ -71,11 +71,11 @@ permalink: /day_1/
     <tr>
       <td class="time">11:00-11:30</td>
       <td colspan="2">
-        <strong>Lotta Antunio</strong><br>
+        <strong>Lotta Antunio</strong><br> <i> Affiliation </i><br>
         Language learning without literacy?
       </td>
       <td colspan="3">
-        <strong>Ina-Maria Maahs</strong><br>
+        <strong>Ina-Maria Maahs</strong><br> <i> Affiliation </i><br>
         From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling
       </td>
     </tr>
@@ -83,11 +83,11 @@ permalink: /day_1/
     <tr>
       <td class="time">11:30-12:00</td>
       <td colspan="2">
-        <strong>Friederike Lüpke</strong><br>
+        <strong>Friederike Lüpke</strong><br> <i> Affiliation </i><br>
         Lead language writing as an adaptive infrastructure for multilingual literacy development
       </td>
       <td colspan="3">
-        <strong>Matilde Grünhage-Monetti</strong><br>
+        <strong>Matilde Grünhage-Monetti</strong><br> <i> Affiliation </i><br>
         Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants
       </td>
     </tr>
@@ -95,7 +95,7 @@ permalink: /day_1/
     <tr>
       <td class="time">12:00-12:30</td>
       <td colspan="2">
-        <strong>Sybren Spit</strong><br>
+        <strong>Sybren Spit</strong><br> <i> Affiliation </i><br>
         Word learning in emergent readers: to what extent does written input help?
         </td>
     <td colspan="3"> </td>
@@ -118,7 +118,7 @@ permalink: /day_1/
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
-    Ginger Kosobucki<br> <i>What is fair assessment for LESLLA learners?</i>
+    Ginger Kosobucki - Affiliation <br> <i>What is fair assessment for LESLLA learners?</i>
     </span>
 </th>
       <th class="session">
@@ -127,7 +127,7 @@ permalink: /day_1/
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
-     David Stops<br> <i>In the shoes of our learners</i> </span></th>
+     David Stops - Affiliation <br> <i>In the shoes of our learners</i> </span></th>
       <th class="session">Session 1</th>
       <th class="session">Session 2</th>
       <th class="session">Session 3</th>
@@ -138,11 +138,11 @@ permalink: /day_1/
       <td><strong>author</strong><br>title</td>
       <td><strong>author</strong><br>title</td>
       <td>
-        <strong>Anna Mendoza, Elif Varlik, Eda Yildirimer</strong><br>
+        <strong>Anna Mendoza, Elif Varlik, Eda Yildirimer</strong><br> <i> Affiliation </i><br>
         Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest
       </td>
       <td>
-        <strong>Brian Hibbs</strong><br>
+        <strong>Brian Hibbs</strong><br> <i> Affiliation </i><br>
         Advancing Pre-Service ESOL Teachers’ Beliefs Concerning Social Justice and Advocacy through Translanguaging
       </td>
       <td></td>
@@ -153,51 +153,51 @@ permalink: /day_1/
       <td><strong>author</strong><br>title</td>
       <td><strong>author</strong><br>title</td>
       <td>
-        <strong>Erika Husby</strong><br>
+        <strong>Erika Husby</strong><br> <i> Affiliation </i><br>
         U.S. Citizenship: The Gap between Policy and Lived Reality
       </td>
       <td>
-        <strong>Catherine Maynard et al.</strong><br>
+        <strong>Catherine Maynard et al.</strong><br> <i> Affiliation </i><br>
         LESLLA teachers’ relationship to reading and writing in adult French L2 literacy classrooms
       </td>
       <td>
-        <strong>Vincent Bédard</strong><br>
+        <strong>Vincent Bédard</strong><br> <i> Affiliation </i><br>
         Beyond Deficit Lens: Making Visible LESLLA Learners’ Second Language Use Practices
       </td>
     </tr>
 
     <tr>
       <td class="time">16:30-17:00</td>
-      <td><strong>author</strong><br>title</td>
-      <td><strong>author</strong><br>title</td>
+      <td><strong>author</strong><br> <i> Affiliation </i><br> title</td>
+      <td><strong>author</strong><br> <i> Affiliation </i><br> title</td>
       <td>
-        <strong>Elif Varlik</strong><br>
+        <strong>Elif Varlik</strong><br> <i> Affiliation </i><br>
         Building Critical Multilingual Awareness through Collaborative Online Study Sessions
       </td>
       <td>
-        <strong>Melissa Hauber-Özer</strong><br>
+        <strong>Melissa Hauber-Özer</strong><br> <i> Affiliation </i><br>
         Digital Storytelling as Critical Multiliteracies Pedagogy
       </td>
       <td>
-        <strong>Eda Yildirimer</strong><br>
+        <strong>Eda Yildirimer</strong><br> <i> Affiliation </i><br>
         MA TESOL Student Teachers’ Preparation, Challenges, and Growth
       </td>
     </tr>
 
     <tr>
       <td class="time">17:00-17:30</td>
-      <td><strong>author</strong><br>title</td>
-      <td><strong>author</strong><br>title</td>
+      <td><strong>author</strong><br> <i> Affiliation </i><br> title</td>
+      <td><strong>author</strong><br> <i> Affiliation </i><br> title</td>
       <td>
-        <strong>Marie Fontaine</strong><br>
+        <strong>Marie Fontaine</strong><br> <i> Affiliation </i><br>
         Finding Meaning Through Drawing
       </td>
       <td>
-        <strong>Victoria Lyasota</strong><br>
+        <strong>Victoria Lyasota</strong><br> <i> Affiliation </i><br>
         Integrating Multicultural Art into a Literacy Classroom
       </td>
       <td>
-        <strong>Marilyn L. Abbott &amp; Kent K. Lee</strong><br>
+        <strong>Marilyn L. Abbott &amp; Kent K. Lee</strong><br> <i> Affiliation </i><br>
         Shared Metacognition in a LESLLA Teacher Journal Club
       </td>
     </tr>
@@ -206,4 +206,4 @@ permalink: /day_1/
     </tr>
     <tr>
       <td class="time">17:00–18:00</td>
-      <td colspan="5"><strong> Martha Young-Sholten</strong> <br> Ineke van de Craats and Heidi Wrigley and the studies that created LESLLA.</td>
+      <td colspan="5"><strong> Martha Young-Sholten - Affiliation </strong> <br> Ineke van de Craats and Heidi Wrigley and the studies that created LESLLA.</td>
