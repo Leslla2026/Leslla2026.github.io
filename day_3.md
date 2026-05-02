@@ -1,3 +1,11 @@
+---
+layout: default
+title: Schedule - day 3
+permalink: /day_3/
+---
+
+{% include site-logo.html %}
+{% include page-header.html %}
 <table class="schedule-table">
 
   <colgroup>
