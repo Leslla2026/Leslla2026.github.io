@@ -157,8 +157,8 @@ permalink: /day_3/
     </tr>
     <tr>
         <td class="time">15:00–16:00</td>
-        <td colspan="4"> <i> <strong>Markéta Hajská & Pavel Kubaník - Affiliation </strong> <br> Romani: One Language, Two Stories  <i> </td>
-</tr>
+        <td colspan="4"> <i> <strong>Markéta Hajská & Pavel Kubaník - Affiliation </strong> <br> Romani: One Language, Two Stories<i></tdSS>
+    </tr>
      <tr>
       <td class="time">16:00</td>
       <td colspan="4">  <i> Visit to the <a href="https://www.rommuz.cz/en">Museum of Romani Culture</a> </i> </td>
