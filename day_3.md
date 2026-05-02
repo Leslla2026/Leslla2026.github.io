@@ -157,7 +157,7 @@ permalink: /day_3/
     </tr>
     <tr>
         <td class="time">15:00–16:00</td>
-        <td colspan="4"> <i> <strong>Markéta Hajská & Pavel Kubaník - Affiliation </strong> <br> Romani: One Language, Two Stories<i></tdSS>
+        <td colspan="4"> <i> <strong>Markéta Hajská & Pavel Kubaník - Affiliation </strong> <br> Romani: One Language, Two Stories<i></td>
     </tr>
      <tr>
       <td class="time">16:00</td>
