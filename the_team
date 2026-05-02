@@ -1,0 +1,8 @@
+---
+layout: default
+title: The team
+permalink: /the_team/
+---
+
+{% include site-logo.html %}
+{% include page-header.html %}
