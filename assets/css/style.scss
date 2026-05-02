@@ -366,6 +366,8 @@ table.schedule-table .schedule-section td {
 }
 
 /* pause, lunch, keynote */
+table.schedule-table td[colspan="2"]
+table.schedule-table td[colspan="3"]
 table.schedule-table td[colspan="4"],
 table.schedule-table td[colspan="5"],
 table.schedule-table td[colspan="6"] {
