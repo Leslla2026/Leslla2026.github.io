@@ -152,7 +152,8 @@ permalink: /day_2/
         Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts
       </td>
       <td>
-        <strong>Davide Schirò</strong><br>Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi 
+        <strong>Davide Schirò</strong><br><i> Affiliation </i><br>
+        Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi 
       </td>
       <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> <i> Affiliation </i><br> 
       Research based practice, practice based research bridging the gap </td>
