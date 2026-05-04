@@ -24,7 +24,7 @@ Wish to become a member? Please click on this [link](https://leslla.wildapricot.
 
  <style>
   .fees-table {
-    width: 75%;
+    width: 50%;
     border-collapse: collapse;
   }
   .fees-table th,
