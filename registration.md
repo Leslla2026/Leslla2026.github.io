@@ -18,7 +18,9 @@ The conference fee includes access to all sessions, coffee breaks and light refr
 Conference fee **does not** include the social dinner.
 
 Attendance and voting at the LESLLA General assembly is **for members only**.
-Wish to become a member? Please click in this [link](https://leslla.wildapricot.org/join-us) for additional details 
+
+
+Wish to become a member? Please click on this [link](https://leslla.wildapricot.org/join-us) for additional details 
 
  <style>
   .fees-table {
@@ -33,7 +35,6 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
   }
   .fees-table thead th {
     background: #f5f5f5;
-    text-align: left;
   }
   /* Riga di sezione (intestazione che copre entrambe le colonne) */
   .fees-section {
@@ -41,6 +42,11 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
     font-weight: 700;
     color: var(--brand, #8A0044); /* usa il tuo bordeaux se definito */
   }
+  
+.fees-section td {
+  text-align: center;
+}
+
 </style>
 
 <table class="fees-table">
@@ -53,7 +59,7 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
   <tbody>
     <!-- Member: in-person and online -->
     <tr class="fees-section">
-      <td colspan="4">Member: in-person and online</td>
+      <td colspan="3">Member: in-person and online</td>
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
@@ -73,7 +79,7 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
 
     <!-- Non-member: in-person & online -->
     <tr class="fees-section">
-      <td colspan="2">Non-member: in-person &amp; online</td>
+      <td colspan="3">Non-member: in-person &amp; online</td>
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
@@ -93,7 +99,7 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
 
     <!-- Student member: in-person & online -->
     <tr class="fees-section">
-      <td colspan="2">Student member: in-person &amp; online</td>
+      <td colspan="3">Student member: in-person &amp; online</td>
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
@@ -113,7 +119,7 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
 
     <!-- Student non-member: in-person & online -->
     <tr class="fees-section">
-      <td colspan="2">Student non-member: in-person &amp; online</td>
+      <td colspan="3">Student non-member: in-person &amp; online</td>
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
@@ -133,10 +139,10 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
 
     <!-- Retired/community*/LMICs: in-person & online -->
     <tr class="fees-section">
-      <td colspan="2">Retired / community* / LMICs: in-person &amp; online</td>
+      <td colspan="3">Retired / community* / LMICs: in-person &amp; online</td>
     </tr>
     <tr>
-      <td colspan="2"><em>*Without funding from their institution</em></td>
+      <td colspan="3"><em>*Without funding from their institution</em></td>
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
@@ -156,7 +162,7 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
 
     <!-- Member: online only -->
     <tr class="fees-section">
-      <td colspan="2">Member: online only</td>
+      <td colspan="3">Member: online only</td>
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
@@ -176,7 +182,7 @@ Wish to become a member? Please click in this [link](https://leslla.wildapricot.
 
     <!-- Non-member: online only -->
     <tr class="fees-section">
-      <td colspan="2">Non-member: online only</td>
+      <td colspan="3">Non-member: online only</td>
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>

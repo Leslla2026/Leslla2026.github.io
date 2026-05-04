@@ -1,0 +1,10 @@
+---
+layout: default
+title: The Team
+permalink: /the_team/
+---
+
+{% include site-logo.html %}
+{% include page-header.html %}
+
+🚧 Page under construction 🚧

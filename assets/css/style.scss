@@ -201,6 +201,11 @@ aside.sidebar{
 }
 
 /* menu a tendina */
+
+.dropdown {
+  position: relative; 
+}
+
 .dropdown-menu{
   display: none;              /* nascosto di default */
   position: absolute;
@@ -262,6 +267,14 @@ hr{
 }
 
 
+footer {
+  position: relative;
+  clear: both;
+}
+
+
+
+
 /* =====================================================
    10) Immagini flottanti (bio ecc.)
    ===================================================== */
@@ -320,6 +333,7 @@ table.schedule-table thead th,
 table.schedule-table tbody th {
   background: #ededed;
   text-align: center;
+   vertical-align: top;
   font-weight: 600;
 }
 
@@ -330,6 +344,7 @@ table.schedule-table thead th[colspan] {
   font-size: 1.05rem;
   letter-spacing: .03em;
   text-transform: uppercase;
+   vertical-align: middle;
 }
 
 /* colonna orari */
@@ -349,22 +364,6 @@ table.schedule-table .schedule-section td {
   text-align: center;
   letter-spacing: .02em;
 }
-
-/* pause, lunch, keynote */
-table.schedule-table td[colspan="4"],
-table.schedule-table td[colspan="5"],
-table.schedule-table td[colspan="6"] {
-  background: #fbfbfb;
-  text-align: center;
-  font-style: italic;
-}
-
-/* nomi dei relatori */
-table.schedule-table strong {
-  font-weight: 600;
-  color: #000;
-}
-
 /* zebra molto delicata */
 table.schedule-table tr:not(.schedule-section):nth-child(even) td {
   background: #fdfdfd;
