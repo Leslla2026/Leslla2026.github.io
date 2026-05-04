@@ -129,7 +129,7 @@ permalink: /day_2/
     </tr>
     <tr>
       <td class="time">14:30–15:00</td>
-      <td colspan="4"><strong>Book presentation</strong> <br> Christine Czinglar <i> Affiliation </i><br> book title</td>
+      <td colspan="4"><strong>Book presentation</strong> <br> Christine Czinglar, Kristen H. Perry, Karen Schramm<i> Affiliation </i><br> Presentation of the volume "Adult migrants learning literacy in a new language" (De Gruyter, 2026)</td>
     </tr>
     <tr>
       <td class="time">15:00–15:30</td>
