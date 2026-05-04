@@ -145,8 +145,8 @@ permalink: /day_1/
 
     <tr>
       <td class="time">14:30-15:00</td>
-      <td><strong></strong><br><i></i><br>title</td>
-      <td><strong></strong><br><i></i><br>title</td>
+      <td><strong></strong><br><i></i><br></td>
+      <td><strong></strong><br><i></i><br></td>
       <td>
         <strong>Anna Mendoza, Elif Varlik, Eda Yildirimer</strong><br> <i> Affiliation </i><br>
         Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest
@@ -160,8 +160,8 @@ permalink: /day_1/
 
     <tr>
       <td class="time">15:00-16:30</td>
-      <td><strong></strong><br><i></i><br>title</td>
-      <td><strong></strong><br><i></i><br>title</td>
+      <td><strong></strong><br><i></i><br></td>
+      <td><strong></strong><br><i></i><br></td>
       <td>
         <strong>Erika Husby</strong><br> <i> Affiliation </i><br>
         U.S. Citizenship: The Gap between Policy and Lived Reality
@@ -178,8 +178,8 @@ permalink: /day_1/
 
     <tr>
       <td class="time">16:30-17:00</td>
-      <td><strong></strong><br> <i> </i><br> title</td>
-      <td><strong></strong><br> <i></i><br> title</td>
+      <td><strong></strong><br> <i> </i><br></td>
+      <td><strong></strong><br> <i></i><br></td>
       <td>
         <strong>Elif Varlik</strong><br> <i> Affiliation </i><br>
         Building Critical Multilingual Awareness through Collaborative Online Study Sessions
@@ -196,8 +196,8 @@ permalink: /day_1/
 
     <tr>
       <td class="time">17:00-17:30</td>
-      <td><strong></strong><br> <i></i><br> title</td>
-      <td><strong>author</strong><br> <i></i><br> title</td>
+      <td><strong></strong><br> <i></i><br> </td>
+      <td><strong></strong><br> <i></i><br></td>
       <td>
         <strong>Marie Fontaine</strong><br> <i> Affiliation </i><br>
         Finding Meaning Through Drawing
