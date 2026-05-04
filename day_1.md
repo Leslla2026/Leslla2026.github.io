@@ -1,4 +1,4 @@
-docker build --no-cache -t jekyll-preview .---
+---
 layout: default
 title: Schedule - day 1
 permalink: /day_1/
