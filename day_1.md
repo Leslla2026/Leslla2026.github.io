@@ -167,7 +167,7 @@ permalink: /day_1/
         U.S. Citizenship: The Gap between Policy and Lived Reality
       </td>
       <td>
-        <strong>Catherine Maynard et al.</strong><br> <i> Affiliation </i><br>
+        <strong>Catherine Maynard*, Véronique Fortier*, Suzie Beaulieu°, Valérie Amireault*</strong><br> <i> Affiliation </i><br>
         LESLLA teachers’ relationship to reading and writing in adult French L2 literacy classrooms
       </td>
       <td>
@@ -193,7 +193,6 @@ permalink: /day_1/
         MA TESOL Student Teachers’ Preparation, Challenges, and Growth
       </td>
     </tr>
-
     <tr>
       <td class="time">17:00-17:30</td>
       <td><strong></strong><br> <i></i><br> </td>
