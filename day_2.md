@@ -34,7 +34,7 @@ permalink: /day_2/
     </tr>
     <tr>
       <td class="time">9:15–10:15</td>
-      <td colspan="4">  <i> <strong> Mari D'Agostino - University of Palermo </strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i>i> </td>
+      <td colspan="4">  <i> <strong> Mari D'Agostino - University of Palermo </strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
     </tr>
 
     <tr class="schedule-section">
@@ -113,7 +113,7 @@ permalink: /day_2/
 
     <tr>
       <td class="time">11:15-12:15 </td>
-      <td colspan="2">  <i> Poster session with coffee <i> </td>
+      <td colspan="2">  <i> Poster session with coffee </i> </td>
       <td colspan="2">  <strong> Rebecca Hayes-Laughton</strong> <i> King's College, London. </i>  Devising radical grammar: grassroots drama as a pedagogical tool.<br>  <strong> Martina Franz dos Santos </strong> <i> Phillips University of Marburg </i>. Real literacies in adult second language literacy instruction: an intervention study. <br> <strong> Tsun Yang Chuang & Morgane Jourdain </strong> <i> Katholieke Universiteit, Leuven </i>. Understanding the non-comprehension of instructions among learners with limited schooling: a comparative conversation analysis of French language integration classes. </td>    
     </tr>
     <tr>
@@ -133,7 +133,7 @@ permalink: /day_2/
     </tr>
     <tr>
       <td class="time">15:00–15:30</td>
-      <td colspan="4">  <i> Coffee break  <i> </td>
+      <td colspan="4">  <i> Coffee break  </i> </td>
     </tr>
  
     <tr>
@@ -162,3 +162,4 @@ permalink: /day_2/
     <tr>
       <td class="time">18:30</td>
       <td colspan="4"> <i> <strong>Social dinner at Jacobi</strong> </i> </td>
+      </table>
