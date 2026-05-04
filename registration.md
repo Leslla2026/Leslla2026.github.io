@@ -62,18 +62,15 @@ Wish to become a member? Please click on this [link](https://leslla.wildapricot.
       <td colspan="3">Member: in-person and online</td>
     </tr>
     <tr>
-      <td>Early bird (by 31 May 2026)</td>
-     <td>200 EUR</td> 
+      <td>Early bird (by 31 May 2026)</td>     
      <td>234 USD</td>          
     </tr>
     <tr>
-      <td>Regular (by 30 June 2026)</td>     
-      <td>280 EUR</td>
+      <td>Regular (by 30 June 2026)</td>
      <td>328 USD</td>
     </tr>
     <tr>
-      <td>After 30 June and on site</td>     
-      <td>300 EUR</td>
+      <td>After 30 June and on site</td>      
      <td>351 USD</td>
     </tr>
 
@@ -83,17 +80,14 @@ Wish to become a member? Please click on this [link](https://leslla.wildapricot.
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
-      <td>230 EUR</td>
       <td>269 USD</td>
     </tr>
     <tr>
       <td>Regular (by 30 June 2026)</td>
-      <td>300 EUR</td>
       <td>351 USD</td>
     </tr>
     <tr>
       <td>After 30 June and on site</td>
-      <td>350 EUR</td>
       <td>409.50 USD</td>
     </tr>
 
@@ -103,17 +97,14 @@ Wish to become a member? Please click on this [link](https://leslla.wildapricot.
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
-      <td>125 EUR</td>
       <td>146 USD</td>
     </tr>
     <tr>
       <td>Regular (by 30 June 2026)</td>
-      <td>175 EUR</td>
       <td>205 USD</td>
     </tr>
     <tr>
       <td>After 30 June and on site</td>
-      <td>200 EUR</td>
       <td>234 USD</td>
     </tr>
 
@@ -123,17 +114,14 @@ Wish to become a member? Please click on this [link](https://leslla.wildapricot.
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
-      <td>150 EUR</td>
       <td>175.50 USD</td>
     </tr>
     <tr>
       <td>Regular (by 30 June 2026)</td>
-      <td>200 EUR</td>
       <td>234 USD</td>
     </tr>
     <tr>
       <td>After 30 June and on site</td>
-      <td>225 EUR</td>
       <td>263.50 USD</td>
     </tr>
 
@@ -146,17 +134,14 @@ Wish to become a member? Please click on this [link](https://leslla.wildapricot.
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
-      <td>150 EUR</td>
       <td>175.50 USD</td>
     </tr>
     <tr>
       <td>Regular (by 30 June 2026)</td>
-      <td>200 EUR</td>
       <td>234 USD</td>
     </tr>
     <tr>
       <td>After 30 June and on site</td>
-      <td>225 EUR</td>
       <td>263.50 USD</td>
     </tr>
 
@@ -166,17 +151,14 @@ Wish to become a member? Please click on this [link](https://leslla.wildapricot.
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
-      <td>60 EUR</td>
       <td>70 USD</td>
     </tr>
     <tr>
       <td>Regular (by 30 June 2026)</td>
-      <td>120 EUR</td>
       <td>140 USD</td>
     </tr>
     <tr>
       <td>After 30 June and on site</td>
-      <td>180 EUR</td>
       <td>211 USD</td>
     </tr>
 
@@ -186,17 +168,14 @@ Wish to become a member? Please click on this [link](https://leslla.wildapricot.
     </tr>
     <tr>
       <td>Early bird (by 31 May 2026)</td>
-      <td>120 EUR</td>
-      <td>180 USD</td>
+      <td>140 USD</td>
     </tr>
     <tr>
       <td>Regular (by 30 June 2026)</td>
-      <td>180 EUR</td>
       <td>211 USD</td>
     </tr>
     <tr>
       <td>After 30 June and on site</td>
-      <td>200 EUR</td>
       <td>234 USD</td>
     </tr>
   </tbody>
