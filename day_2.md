@@ -150,14 +150,14 @@ permalink: /day_2/
       Designing and deploying responsible AI-enabled language assessment: practical strategies for language and literacies educators</td>
       <td>
         <strong>Cecilia Bartoli & Kristyna Lorenzova</strong><br> <i> Affiliation </i><br>
-        Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts
+        Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts. <br> Only in presence. <br> Click here to register
       </td>
       <td>
         <strong>Davide Schirò</strong><br><i> Affiliation </i><br>
-        Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi 
+        Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi. <br> Only in presence. <br> Click here to register
       </td>
       <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> <i> Affiliation </i><br> 
-      Research based practice, practice based research bridging the gap </td>
+      Research based practice, practice based research bridging the gap <br> In presence and remotely. </td>
     </tr>
     <tr>
       <td class="time">18:30</td>
