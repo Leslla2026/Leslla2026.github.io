@@ -1,7 +1,7 @@
 ---
 layout: default
-title: The Team
-permalink: /the_team/
+title: Organising committee
+permalink: /organising_committee/
 ---
 
 {% include site-logo.html %}
