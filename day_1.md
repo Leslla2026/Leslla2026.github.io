@@ -83,7 +83,7 @@ permalink: /day_1/
         Lead language writing as an adaptive infrastructure for multilingual literacy development
       </td>
       <td>
-        <strong>Matilde Grünhage-Monetti</strong><br> <i> Bildungszentrum Oberjosbach </i><br>
+        <strong>Matilde Grünhage-Monetti</strong><br> <i> Language for Work and Bildungszentrum Oberjosbach </i><br>
         Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants
       </td>
     </tr>
