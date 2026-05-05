@@ -40,7 +40,7 @@ permalink: /organising_committee/
 <img src="/media/foto_kristyna.jpg" class="float-left" alt="Foto di Kristyna">
 
 
-**PhD students**
+### PhD students ###
 
 **Kristýna Lorenzová**
 
