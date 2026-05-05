@@ -83,7 +83,7 @@ permalink: /day_1/
         Lead language writing as an adaptive infrastructure for multilingual literacy development
       </td>
       <td>
-        <strong>Matilde Grünhage-Monetti</strong><br> <i> Affiliation </i><br>
+        <strong>Matilde Grünhage-Monetti</strong><br> <i> Bildungszentrum Oberjosbach </i><br>
         Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants
       </td>
     </tr>
@@ -152,7 +152,7 @@ permalink: /day_1/
         Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest
       </td>
       <td>
-        <strong>Brian Hibbs</strong><br> <i> Affiliation </i><br>
+        <strong>Brian Hibbs</strong><br> <i> Dalton State College </i><br>
         Advancing Pre-Service ESOL Teachers’ Beliefs Concerning Social Justice and Advocacy through Translanguaging
       </td>
       <td></td>
@@ -163,15 +163,15 @@ permalink: /day_1/
       <td><strong></strong><br><i></i><br></td>
       <td><strong></strong><br><i></i><br></td>
       <td>
-        <strong>Erika Husby</strong><br> <i> Affiliation </i><br>
+        <strong>Erika Husby</strong><br> <i> University of Massachusetts Boston and the Rohingya Culture Center </i><br>
         U.S. Citizenship: The Gap between Policy and Lived Reality
       </td>
       <td>
-        <strong>Catherine Maynard*, Véronique Fortier*, Suzie Beaulieu°, Valérie Amireault*</strong><br> <i> Affiliation </i><br>
+        <strong>Catherine Maynard*, Véronique Fortier*, Suzie Beaulieu°, Valérie Amireault*</strong><br> <i> *Université du Québec à Montréal, Canada; °Université Laval, Canada </i><br>
         LESLLA teachers’ relationship to reading and writing in adult French L2 literacy classrooms
       </td>
       <td>
-        <strong>Vincent Bédard</strong><br> <i> Affiliation </i><br>
+        <strong>Vincent Bédard</strong><br> <i> Université du Québec à Montréa </i><br>
         Beyond Deficit Lens: Making Visible LESLLA Learners’ Second Language Use Practices
       </td>
     </tr>
@@ -181,15 +181,15 @@ permalink: /day_1/
       <td><strong></strong><br> <i> </i><br></td>
       <td><strong></strong><br> <i></i><br></td>
       <td>
-        <strong>Elif Varlik</strong><br> <i> Affiliation </i><br>
+        <strong>Elif Varlik</strong><br> <i> University of Illinois at Urbana-Champaig </i><br>
         Building Critical Multilingual Awareness through Collaborative Online Study Sessions
       </td>
       <td>
-        <strong>Melissa Hauber-Özer</strong><br> <i> Affiliation </i><br>
+        <strong>Melissa Hauber-Özer</strong><br> <i> University of Missouri - Columbia </i><br>
         Digital Storytelling as Critical Multiliteracies Pedagogy
       </td>
       <td>
-        <strong>Eda Yildirimer</strong><br> <i> Affiliation </i><br>
+        <strong>Eda Yildirimer</strong><br> <i> University of Arizona </i><br>
         MA TESOL Student Teachers’ Preparation, Challenges, and Growth
       </td>
     </tr>
@@ -198,15 +198,15 @@ permalink: /day_1/
       <td><strong></strong><br> <i></i><br> </td>
       <td><strong></strong><br> <i></i><br></td>
       <td>
-        <strong>Marie Fontaine</strong><br> <i> Affiliation </i><br>
+        <strong>Marie Fontaine</strong><br> <i> Assist Community Services Centre, Edmonton, Alberta </i><br>
         Finding Meaning Through Drawing
       </td>
       <td>
-        <strong>Victoria Lyasota</strong><br> <i> Affiliation </i><br>
+        <strong>Victoria Lyasota</strong><br> <i> ASSIST Community Services </i><br>
         Integrating Multicultural Art into a Literacy Classroom
       </td>
       <td>
-        <strong>Marilyn L. Abbott &amp; Kent K. Lee</strong><br> <i> Affiliation </i><br>
+        <strong>Marilyn L. Abbott &amp; Kent K. Lee</strong><br> <i> University of Alberta </i><br>
         Shared Metacognition in a LESLLA Teacher Journal Club
       </td>
     </tr>
@@ -215,4 +215,4 @@ permalink: /day_1/
     </tr>
     <tr>
       <td class="time">17:00–18:00</td>
-      <td colspan="5"> <i> <strong>Martha Young-Sholten - Affiliation </strong> <br> Ineke van de Craats and Heidi Wrigley and the studies that created LESLLA. </i> </td>
+      <td colspan="5"> <i> <strong>Martha Young-Sholten - Newcastle University, Seattle University </strong> <br> Ineke van de Craats and Heidi Wrigley and the studies that created LESLLA. </i> </td>
