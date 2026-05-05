@@ -59,7 +59,7 @@ permalink: /day_3/
       <td class="time">9:00–9:30</td>
       <td>
         <strong>Valentina Cotesta</strong><br>
-        <i>Università di Palermo; CILS, Università per Stranieri di Sien</i><br>
+        <i>Università di Palermo; CILS, Università per Stranieri di Siena</i><br>
         Mediation and plurilingual repertoires in LESLLA contexts: a preliminary study on inclusive language assessment in Italy
       </td>
       <td>
