@@ -30,7 +30,7 @@ permalink: /day_2/
     </tr>
     <tr>
       <td class="time">9:15–10:15</td>
-      <td colspan="4">  <i> <strong> Mari D'Agostino - University of Palermo </strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
+      <td colspan="4">  <i> <strong> Mari D'Agostino - Università di Palermo </strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
     </tr>
     <tr class="schedule-section">
       <td colspan="5">Morning session</td>
@@ -69,38 +69,38 @@ permalink: /day_2/
     <tr>
       <td class="time">10:15-10:45</td>
       <td>
-        <strong>Véronique Fortier</strong> <br> <i> Affiliation </i><br> 
+        <strong>Véronique Fortier*, Catherine Maynard*, Suzie Beaulieu°, Valérie Amireault*</strong> <br> <i> *Université du Québec à Montréal; °Université Laval </i><br> 
         Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project
       </td>
       <td>
-        <strong>Marie-Anne Morand & Claudia Kossinna</strong><br> <i> Affiliation </i><br>
+        <strong>Marie-Anne Morand & Claudia Kossinna</strong><br> <i> Université de Fribourg </i><br>
         Word stress identification by LESLLA learners and second-script learners
       </td>
       <td>
-        <strong>Belma Haznedar* & Elifcan Oztekin°</strong><br> <i> Affiliation </i><br>
+        <strong>Belma Haznedar* & Elifcan Oztekin°</strong><br> <i> *Boğaziçi Universitesi, Istanbul, °Universitad de Granada </i><br>
         Exploring Teacher Candidates’ Attitudes Toward Multilingualism in the Turkish Context
       </td>
       <td>
-        <strong>Enas Filinban</strong><br> <i> Affiliation </i><br>
+        <strong>Enas Filinban</strong><br> <i> Umm Al-Qura University </i><br>
         AI-Mediated Arabic Learning for Low-Literate Adult Migrants in Saudi Arabia
       </td>
     </tr>
     <tr>
       <td class="time">10:45-11:15</td>
       <td>
-        <strong>Clelia Farina</strong> <br> <i> University of Palermo </i> <br>
+        <strong>Clelia Farina</strong> <br> <i> Università di Palermo </i> <br>
         Observing Competence and Performance in Talk-in-Interaction: Notes from an Italian LA Course with Newly Arrived Learners
       </td>
       <td>
-        <strong>Ann-Kristin Helland Gujord & Linda Emilsen</strong><br> <i> Affiliation </i><br>
+        <strong>Ann-Kristin Helland Gujord* & Linda Emilsen°n</strong><br> <i> *Universitetet i Bergen; Høgskolen i Østfold </i><br>
         What characterises research on L2 learners with limited prior schooling? 
       </td>
       <td>
-        <strong>Carl Laberge</strong><br> <i> Affiliation </i><br>
+        <strong>Carl Laberge</strong><br> <i> Université Laval </i><br>
         LESLLA learners’ plurilingual development: A funds of knowledge approach to uncover their perspective 
       </td>
       <td>
-        <strong>Nadja Kerschhofer-Puhalo</strong><br> <i> Affiliation </i><br>
+        <strong>Nadja Kerschhofer-Puhalo</strong><br> <i> Universität Hamburg </i><br>
         Views in*2 Literacies-a multimodal text collection on a participatory web-platform 
       </td>
     </tr>
@@ -122,7 +122,7 @@ permalink: /day_2/
     </tr>
     <tr>
       <td class="time">14:30–15:00</td>
-      <td colspan="4"><strong>Book presentation</strong> <br> Christine Czinglar, Kristen H. Perry, Karen Schramm<i> Affiliation </i><br> Presentation of the volume "Adult migrants learning literacy in a new language" (De Gruyter, 2026)</td>
+      <td colspan="4"><strong>Book presentation</strong> <br> Christine Czinglar*, Kristen H. Perry° & Karen Schramm^<i> *Universität Jena, University of Kentucky, ^Universität Wien </i><br> Presentation of the volume "Adult migrants learning literacy in a new language" (De Gruyter, 2026)</td>
     </tr>
     <tr>
       <td class="time">15:00–15:30</td>
@@ -137,15 +137,15 @@ permalink: /day_2/
     </tr>
     <tr>
       <td class="time">15:30-17:30</td>
-      <td><strong>Asad Iqbal</strong><br><i> Affiliation </i><br>
+      <td><strong>Asad Iqbal</strong><br><i> University of Toronto </i><br>
       Designing and deploying responsible AI-enabled language assessment: practical strategies for language and literacies educators</td>
-      <td> <strong>Cecilia Bartoli & Kristyna Lorenzova</strong><br> <i> Affiliation </i><br>Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts. <br> Only in presence. <br> Click here to register</td>
-      <td><strong>Davide Schirò</strong><br><i> Affiliation </i><br>Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi. <br> Only in presence. <br> Click here to register </td>
-      <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> <i> Affiliation </i><br> 
+      <td> <strong>Cecilia Bartoli* & Kristýna Lorenzová°</strong><br> <i> *Asinitas, Roma & Università di Palermo; °MUNI </i><br>Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts. <br> Only in presence. <br> Click here to register</td>
+      <td><strong>Davide Schirò</strong><br><i> Università di Palermo </i><br>Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi. <br> Only in presence. <br> Click here to register </td>
+      <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> <i> Indipendent researcher; Vrije Universiteit, Amsterdam </i><br> 
       Research based practice, practice based research bridging the gap <br> In presence and remotely. </td>
     </tr>
     <tr>
-      <td class="time">18:30</td>
+      <td class="time"></td>
       <td colspan="4"> <i> <strong>Social dinner at Jacobi</strong> </i> </td>
     </tbody>
 </table>
