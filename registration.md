@@ -12,12 +12,12 @@ Registration will open soon
 <!-- Please, follow this [link](inserire link qui) to register. -->
 <!-- cancellare i tag e inserire il link giusto fra le parentesi tonde -->
 
-Participants who cannot attend in person will have the possibility to participate online to the second and third day of the conference through the Zoom platform, with the exception of interactive workshops (when stated in the schedule).
-
 ### Conference fee
 
 The conference fee includes access to all sessions, coffee breaks and light refreshments, lunch on 21 August, conference badges, stationery, and a city guide. The programme and book of abstracts will be provided in digital format for environmental reasons and will be accessible via QR code. 
 Conference fee **does not** include the social dinner.
+
+Participants who cannot attend in person will have the possibility to participate online to the second and third day of the conference through the Zoom platform, with the exception of interactive workshops (when stated in the schedule).
 
 Attendance and voting at the LESLLA General assembly is **for members only**.
 
