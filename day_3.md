@@ -59,7 +59,7 @@ permalink: /day_3/
       <td class="time">9:00–9:30</td>
       <td>
         <strong>Valentina Cotesta</strong><br>
-        <i>Affiliation</i><br>
+        <i>Università di Palermo; CILS, Università per Stranieri di Sien</i><br>
         Mediation and plurilingual repertoires in LESLLA contexts: a preliminary study on inclusive language assessment in Italy
       </td>
       <td>
@@ -69,7 +69,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Fernanda Minuz* &amp; Alessandro Borri°</strong><br>
-        <i>Affiliation</i><br>
+        <i>*Independent Researcher, Bologna; °CPIA Montagna, Castel di Casio, Italy</i><br>
         Unaccompanied minors in adult education: listening to their voices
       </td>
       <td>
@@ -83,7 +83,7 @@ permalink: /day_3/
       <td class="time">9:30–10:30</td>
       <td>
         <strong>Laëtitia Giorgis</strong><br>
-        <i>Affiliation</i><br>
+        <i>Université Grénobles-Alpes</i><br>
         Alphabétisation&nbsp;tardive et&nbsp;multimodalité&nbsp;:&nbsp;vers&nbsp;une&nbsp;acculturation&nbsp;à&nbsp;l’écrit&nbsp;incarnée&nbsp;et&nbsp;située&nbsp;chez&nbsp;de&nbsp;grands&nbsp;adolescents&nbsp;allophones
       </td>
       <td>
@@ -93,7 +93,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Marta Maffia, Raymond Siebetcheu, Anna De Meo, Noemi Lari e SAI Pontassieve</strong><br>
-        <i>Affiliation</i><br>
+        <i>*Università di Napoli L'Orientale; °Università per Stranieri di Siena; ^Independent Researcher</i><br>
         Embodied plurilingualism in adult literacy learners: insights from language portraits across Italy
       </td>
       <td>
@@ -118,7 +118,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Morgane Jourdain</strong><br>
-        <i>Affiliation</i><br>
+        <i>Katholieke Universiteit Leuven</i><br>
         Beyond “Low Literacy”: A Critical Discourse Analysis of Deficit Thinking in European Policy Frameworks on Migrants’ Language Acquisition
       </td>
     </tr>
@@ -144,8 +144,8 @@ permalink: /day_3/
         From barriers to belonging: inclusive literacy practices for adult literacy learners
       </td>
       <td>
-        <strong>Janet Isserlis &amp; Patsy Egan</strong><br>
-        <i>Affiliation</i><br>
+        <strong>Janet Isserlis* & Patsy Egan°</strong><br>
+        <i>*Brown University; °Hamline University</i><br>
         Lifelong learning practitioners celebrate the work of Heide Wrigley in the best way we know how
       </td>
       <td>
@@ -155,7 +155,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Clelia Farina</strong><br>
-        <i>Affiliation</i><br>
+        <i>Università di Palermo</i><br>
         From the other side of the desk
       </td>
     </tr>
@@ -173,7 +173,7 @@ permalink: /day_3/
       <td class="time">15:00–16:00</td>
       <td colspan="4">
         <strong>Markéta Hajská &amp; Pavel Kubaník</strong><br>
-        <i>Affiliation</i><br>
+        <i>CUNI-Univerzita Karlova, Prague</i><br>
         <i>Romani: One Language, Two Stories</i>
       </td>
     </tr>
