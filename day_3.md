@@ -64,7 +64,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Roeland van Hout</strong><br>
-        <i>Affiliation</i><br>
+        <i>Centre for Language Studies, Radboud Universiteit Nijmegen, Nederland</i><br>
         Low-educated adult second language learners and their low sensitivity to L2 inflectional morphology: effects of sound discrimination, learner and target word characteristics
       </td>
       <td>
@@ -74,7 +74,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Marieke Vanbuel</strong><br>
-        <i>Affiliation</i><br>
+        <i>Universiteit Gent</i><br>
         How do LESLLA learners process multimodal texts?
       </td>
     </tr>
@@ -87,8 +87,8 @@ permalink: /day_3/
         Alphabétisation&nbsp;tardive et&nbsp;multimodalité&nbsp;:&nbsp;vers&nbsp;une&nbsp;acculturation&nbsp;à&nbsp;l’écrit&nbsp;incarnée&nbsp;et&nbsp;située&nbsp;chez&nbsp;de&nbsp;grands&nbsp;adolescents&nbsp;allophones
       </td>
       <td>
-        <strong>Linda Evenstad Emilsen &amp; Ann-Kristin Gujord</strong><br>
-        <i>Affiliation</i><br>
+        <strong>Linda Evenstad Emilsen* & Ann-Kristin Gujord°</strong><br>
+        <i>*Høgskolen i Østfold; °Universitetet i Bergen</i><br>
         Early grammatical development in a non-academic sample
       </td>
       <td>
@@ -98,7 +98,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Jeanne Kurvers*  Roeland van Hout°</strong><br>
-        <i>Affiliation</i><br>
+        <i>*Universiteit van Tilburg; Centre for Language Studies, Radboud Universiteit Nijmegen, Nederland</i><br>
         Bridging the gap between everyday reasoning and logical deduction in emergent readers: updating Vygotsky
       </td>
     </tr>
@@ -107,13 +107,13 @@ permalink: /day_3/
       <td class="time">9:30–10:00</td>
       <td>
         <strong>Franziska Foerster</strong><br>
-        <i>Affiliation</i><br>
+        <i>Friedrich-Schiller-Universität Jena</i><br>
         Real-Life Digital Literacy Practices of Arabic-Speaking Adult Migrants in Germany
       </td>
       <td>&nbsp;</td>
       <td>
         <strong>Live Grinden</strong><br>
-        <i>Affiliation</i><br>
+        <i>Høgskolen på Vestlandet</i><br>
         Distributing burdens in Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship
       </td>
       <td>
@@ -140,7 +140,7 @@ permalink: /day_3/
       <td class="time">11:00–13:00</td>
       <td>
         <strong>Gabriela Jessome</strong><br>
-        <i>Affiliation</i><br>
+        <i>ASSIST Community Services Centre</i><br>
         From barriers to belonging: inclusive literacy practices for adult literacy learners
       </td>
       <td>
@@ -150,7 +150,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Eva Malessa*, Live Grinden°, Skye Playsted^, Jemima Rillera Kempster^</strong><br>
-        <i>Affiliation</i><br>
+        <i>*Turun Yliopisto, Finland; ° Høgskolen på Vestlandet, Norway</i><br>
         Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders
       </td>
       <td>
