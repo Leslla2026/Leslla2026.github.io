@@ -63,7 +63,7 @@ permalink: /the_team/
 
 <img src="/media/foto_adela.jpg" class="float-left" alt="Foto di Adela">
 
-**Andrea Lukšíková** is a PhD student of French linguistics.
+**Adéla Dvořáková** is a PhD student of French linguistics.
 
 <div class="clear"></div>
 
