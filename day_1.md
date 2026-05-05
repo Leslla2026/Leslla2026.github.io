@@ -123,7 +123,7 @@ permalink: /day_1/
     <tr>
       <th class="time"></th>
       <th class="session">
-  <span style="display:block;"> Panel session 1 </span>
+  <span style="display:block;"> Panel session </span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
@@ -132,7 +132,7 @@ permalink: /day_1/
     </span>
 </th>
       <th class="session">
-          <span style="display:block;"> Panel session 2 </span>
+          <span style="display:block;"> Workshop </span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
@@ -145,8 +145,8 @@ permalink: /day_1/
 
     <tr>
       <td class="time">14:30-15:00</td>
-      <td><strong>author</strong><br><i> Affiliation </i><br>title</td>
-      <td><strong>author</strong><br><i> Affiliation </i><br>title</td>
+      <td><strong></strong><br><i></i><br></td>
+      <td><strong></strong><br><i></i><br></td>
       <td>
         <strong>Anna Mendoza*, Elif Varlik*, Eda Yildirimer°</strong><br> <i> University of Illinois at Urbana-Champaign; °University of Arizona </i><br>
         Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest
@@ -160,14 +160,14 @@ permalink: /day_1/
 
     <tr>
       <td class="time">15:00-16:30</td>
-      <td><strong>author</strong><br><i> Affiliation </i><br>title</td>
-      <td><strong>author</strong><br><i> Affiliation </i><br>title</td>
+      <td><strong></strong><br><i></i><br></td>
+      <td><strong></strong><br><i></i><br></td>
       <td>
         <strong>Erika Husby</strong><br> <i> Affiliation </i><br>
         U.S. Citizenship: The Gap between Policy and Lived Reality
       </td>
       <td>
-        <strong>Catherine Maynard et al.</strong><br> <i> Affiliation </i><br>
+        <strong>Catherine Maynard*, Véronique Fortier*, Suzie Beaulieu°, Valérie Amireault*</strong><br> <i> Affiliation </i><br>
         LESLLA teachers’ relationship to reading and writing in adult French L2 literacy classrooms
       </td>
       <td>
@@ -178,8 +178,8 @@ permalink: /day_1/
 
     <tr>
       <td class="time">16:30-17:00</td>
-      <td><strong>author</strong><br> <i> Affiliation </i><br> title</td>
-      <td><strong>author</strong><br> <i> Affiliation </i><br> title</td>
+      <td><strong></strong><br> <i> </i><br></td>
+      <td><strong></strong><br> <i></i><br></td>
       <td>
         <strong>Elif Varlik</strong><br> <i> Affiliation </i><br>
         Building Critical Multilingual Awareness through Collaborative Online Study Sessions
@@ -193,11 +193,10 @@ permalink: /day_1/
         MA TESOL Student Teachers’ Preparation, Challenges, and Growth
       </td>
     </tr>
-
     <tr>
       <td class="time">17:00-17:30</td>
-      <td><strong>author</strong><br> <i> Affiliation </i><br> title</td>
-      <td><strong>author</strong><br> <i> Affiliation </i><br> title</td>
+      <td><strong></strong><br> <i></i><br> </td>
+      <td><strong></strong><br> <i></i><br></td>
       <td>
         <strong>Marie Fontaine</strong><br> <i> Affiliation </i><br>
         Finding Meaning Through Drawing

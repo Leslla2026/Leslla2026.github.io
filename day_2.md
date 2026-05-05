@@ -8,7 +8,6 @@ permalink: /day_2/
 {% include page-header.html %}
 
 <table class="schedule-table">
-
   <colgroup>
     <col style="width:10%">
     <col style="width:21.25%">
@@ -16,14 +15,11 @@ permalink: /day_2/
     <col style="width:21.25%">
     <col style="width:21.25%">
   </colgroup>
-  
   <thead>
     <tr>
       <th colspan="5">Friday 21 August</th>
     </tr>
-    
   </thead>
-
   <tbody>
     <tr>
       <td class="time">9:00-9:15</td>
@@ -34,9 +30,8 @@ permalink: /day_2/
     </tr>
     <tr>
       <td class="time">9:15–10:15</td>
-      <td colspan="4">  <i> <strong> Mari D'Agostino - University of Palermo </strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i>i> </td>
+      <td colspan="4">  <i> <strong> Mari D'Agostino - University of Palermo </strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
     </tr>
-
     <tr class="schedule-section">
       <td colspan="5">Morning session</td>
     </tr>
@@ -90,7 +85,6 @@ permalink: /day_2/
         AI-Mediated Arabic Learning for Low-Literate Adult Migrants in Saudi Arabia
       </td>
     </tr>
-
     <tr>
       <td class="time">10:45-11:15</td>
       <td>
@@ -110,10 +104,10 @@ permalink: /day_2/
         Views in*2 Literacies-a multimodal text collection on a participatory web-platform 
       </td>
     </tr>
-
     <tr>
-      <td class="time">11:15-12:15</td>
-      <td colspan="4">  <i> Coffee break and poster session  <i> </td>
+      <td class="time">11:15-12:15 </td>
+      <td colspan="2"><i> Poster session with coffee</i></td>
+      <td colspan="2"><strong> Rebecca Hayes-Laughton</strong> <i> King's College, London </i>  Devising radical grammar: grassroots drama as a pedagogical tool.<br>  <strong> Martina Franz dos Santos </strong> <i> Phillips University of Marburg </i>. Real literacies in adult second language literacy instruction: an intervention study. <br> <strong> Tsun Yang Chuang & Morgane Jourdain </strong> <i> Katholieke Universiteit, Leuven </i>. Understanding the non-comprehension of instructions among learners with limited schooling: a comparative conversation analysis of French language integration classes. </td>    
     </tr>
     <tr>
       <td class="time">12:15-13:15</td>
@@ -128,13 +122,12 @@ permalink: /day_2/
     </tr>
     <tr>
       <td class="time">14:30–15:00</td>
-      <td colspan="4"><strong>Book presentation</strong> <br> Christine Czinglar <i> Affiliation </i><br> book title</td>
+      <td colspan="4"><strong>Book presentation</strong> <br> Christine Czinglar, Kristen H. Perry, Karen Schramm<i> Affiliation </i><br> Presentation of the volume "Adult migrants learning literacy in a new language" (De Gruyter, 2026)</td>
     </tr>
     <tr>
       <td class="time">15:00–15:30</td>
-      <td colspan="4">  <i> Coffee break  <i> </td>
+      <td colspan="4"><i>Coffee break</i></td>
     </tr>
- 
     <tr>
       <th class="time"></th>
       <th class="session">Workshop 1</th>
@@ -142,22 +135,18 @@ permalink: /day_2/
       <th class="session">Workshop 3</th>
       <th class="session">Workshop 4</th>
     </tr>
-
     <tr>
       <td class="time">15:30-17:30</td>
       <td><strong>Asad Iqbal</strong><br><i> Affiliation </i><br>
       Designing and deploying responsible AI-enabled language assessment: practical strategies for language and literacies educators</td>
-      <td>
-        <strong>Cecilia Bartoli & Kristyna Lorenzova</strong><br> <i> Affiliation </i><br>
-        Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts
-      </td>
-      <td>
-        <strong>Davide Schirò</strong><br><i> Affiliation </i><br>
-        Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi 
-      </td>
+      <td> <strong>Cecilia Bartoli & Kristyna Lorenzova</strong><br> <i> Affiliation </i><br>Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts. <br> Only in presence. <br> Click here to register</td>
+      <td><strong>Davide Schirò</strong><br><i> Affiliation </i><br>Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi. <br> Only in presence. <br> Click here to register </td>
       <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> <i> Affiliation </i><br> 
-      Research based practice, practice based research bridging the gap </td>
+      Research based practice, practice based research bridging the gap <br> In presence and remotely. </td>
     </tr>
     <tr>
       <td class="time">18:30</td>
       <td colspan="4"> <i> <strong>Social dinner at Jacobi</strong> </i> </td>
+    </tbody>
+</table>
+
