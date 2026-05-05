@@ -9,65 +9,68 @@ permalink: /organising_committee/
 
 <img src="/media/foto_egle.jpg" class="float-left" alt="Foto di Egle">
 
-**Egle Mocciaro** is a Associate Professor of Italian linguistics.
+**Egle Mocciaro** - Associate Professor of Italian linguistics.
 
 <div class="clear"></div>
 
 <img src="/media/foto_valeria.jpg" class="float-left" alt="Foto di Valeria">
 
-**Valeria De Tommaso** is a Language expert of Italian.
+**Valeria De Tommaso** - Language expert of Italian.
 
 <div class="clear"></div>
 
 <img src="/media/foto_eleonora.jpg" class="float-left" alt="Foto di Eleonora">
 
-**Eleonora Zucchini** is Assistant Professor of Italian Linguistics.
+**Eleonora Zucchini** - Assistant Professor of Italian Linguistics.
 
 <div class="clear"></div>
 
 <img src="/media/foto_liz.jpg" class="float-left" alt="Foto di Liz">
 
-**Elizabeth Tobyn** is a post-doc researcher in Linguistics.
+**Elizabeth Tobyn** - Post-doc researcher in Linguistics.
 
 <div class="clear"></div>
 
 <img src="/media/foto_marcela.jpg" class="float-left" alt="Foto di Marcela">
 
-**Marcela Opršalová** is the Secretary of the Department of Romance Languages and Literature
+**Marcela Opršalová** - Secretary of the Department of Romance Languages and Literature
 
 <div class="clear"></div>
 
 <img src="/media/foto_kristyna.jpg" class="float-left" alt="Foto di Kristyna">
 
-**Kristýna Lorenzová** is a PhD student of Italian linguistics.
+
+**PhD students**
+
+**Kristýna Lorenzová**
 
 <div class="clear"></div>
 
 <img src="/media/foto_magda.jpg" class="float-left" alt="Foto di Magda">
 
-**Magdaléna Nahálková** is a PhD student of Italian linguistics.
+**Magdaléna Nahálková** 
 
 <div class="clear"></div>
 
 <img src="/media/foto_lorenzo.jpg" class="float-left" alt="Foto di Lorenzo">
 
-**Lorenzo Albanesi** is a PhD student of Italian linguistics.
+**Lorenzo Albanesi** 
 
 <div class="clear"></div>
 
 <img src="/media/foto_andrea.jpg" class="float-left" alt="Foto di Andrea">
 
-**Andrea Lukšíková** is a PhD student of Italian linguistics.
+**Andrea Lukšíková** 
 
 <div class="clear"></div>
 
 <img src="/media/foto_adela.jpg" class="float-left" alt="Foto di Adela">
 
-**Adéla Dvořáková** is a PhD student of French linguistics.
+**Adéla Dvořáková** 
 
 <div class="clear"></div>
 
 <img src="/media/foto_clelia.jpg" class="float-left" alt="Foto di Clelia">
 
-**Clelia Farina** is a PhD student of Language teaching, University of Palermo.
+**Clelia Farina**
 
