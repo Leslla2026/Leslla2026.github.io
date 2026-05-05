@@ -15,7 +15,7 @@ permalink: /organising_committee/
 
 <img src="/media/foto_valeria.jpg" class="float-left" alt="Foto di Valeria">
 
-**Valeria De Tommaso** - Language expert of Italian.
+**Valeria De Tommaso** - Language instructor
 
 <div class="clear"></div>
 
