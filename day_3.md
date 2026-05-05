@@ -133,16 +133,11 @@ permalink: /day_3/
       <th class="session">Workshop 1</th>
       <th class="session">Workshop 2</th>
       <th class="session">Workshop 3</th>
-      <th class="session">Workshop 4</th>
+      <th class="session"></th>
     </tr>
 
     <tr>
-      <td class="time">11:00–13:00</td>
-      <td>
-        <strong>Gabriela Jessome</strong><br>
-        <i>ASSIST Community Services Centre</i><br>
-        From barriers to belonging: inclusive literacy practices for adult literacy learners
-      </td>
+      <td class="time">11:00–13:00</td>      
       <td>
         <strong>Janet Isserlis* & Patsy Egan°</strong><br>
         <i>*Brown University; °Hamline University</i><br>
@@ -158,7 +153,9 @@ permalink: /day_3/
         <i>Università di Palermo</i><br>
         From the other side of the desk
       </td>
+      <td></td>
     </tr>
+
 
     <tr>
       <td class="time">13:00–14:00</td>
