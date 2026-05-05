@@ -37,6 +37,9 @@ permalink: /organising_committee/
 
 <div class="clear"></div>
 
+
+
+
 ### PhD students ###
 
 <img src="/media/foto_kristyna.jpg" class="float-left" alt="Foto di Kristyna">
