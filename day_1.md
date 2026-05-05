@@ -38,11 +38,11 @@ permalink: /day_1/
     <tr>
       <td class="time">9:30-10:00</td>
       <td>
-        <strong>Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa</strong><br> <i> Affiliation </i><br>
+        <strong>Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa</strong><br> <i> Vrije Universiteit Amsterdam </i><br>
         The Name Game: Measuring metalinguistic awareness in LESLLA learners
       </td>
       <td>
-        <strong>Manuela Pinto, Darin Nshiwi, Ali Işık, Birgen Işık</strong><br> <i> Affiliation </i><br>
+        <strong>Manuela Pinto, Darin Nshiwi, Ali Işık, Birgen Işık</strong><br> <i> Universiteit Utrecht </i><br>
         A Dream Too Far: Dutch Learning Needs of Asylum Seekers and Current Dutch Learning Policy and Practices at the Asylum Seeker Center
       </td>
     </tr>
@@ -50,11 +50,11 @@ permalink: /day_1/
     <tr>
       <td class="time">10:00-10:30</td>
       <td>
-        <strong>Fatima Zahra El&nbsp;Balrhi</strong><br> <i> Affiliation </i><br>
+        <strong>Fatima Zahra El&nbsp;Balrhi</strong><br> <i> Université Hassan II de Casablanca </i><br>
         L3 Arabic Stress by Wolof Migrants in Morocco
       </td>
       <td>
-        <strong>Katharina Obens, Ioanna Liakou &amp; David Zimmermann</strong><br> <i> Affiliation </i><br>
+        <strong>Katharina Obens, Ioanna Liakou &amp; David Zimmermann</strong><br> <i> Humboldt-Universität zu Berlin </i><br>
         A Participatory Design-Based Research Approach to the Professionalisation of Inclusive Language Education for Adult Refugees with Learning Difficulties
       </td>
     </tr>
@@ -67,11 +67,11 @@ permalink: /day_1/
     <tr>
       <td class="time">11:00-11:30</td>
       <td>
-        <strong>Lotta Antunio</strong><br> <i> Affiliation </i><br>
+        <strong>Lotta Antunio</strong><br> <i> Helsingin Yliopisto </i><br>
         Language learning without literacy?
       </td>
       <td>
-        <strong>Ina-Maria Maahs</strong><br> <i> Affiliation </i><br>
+        <strong>Ina-Maria Maahs</strong><br> <i> Mercator-Institut für Mehrsprachigkeit und sprachliche Bildung, Universität zu Köln </i><br>
         From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling
       </td>
     </tr>
@@ -79,7 +79,7 @@ permalink: /day_1/
     <tr>
       <td class="time">11:30-12:00</td>
       <td>
-        <strong>Friederike Lüpke</strong><br> <i> Affiliation </i><br>
+        <strong>Friederike Lüpke</strong><br> <i> Helsingin Yliopisto </i><br>
         Lead language writing as an adaptive infrastructure for multilingual literacy development
       </td>
       <td>
@@ -91,7 +91,7 @@ permalink: /day_1/
     <tr>
       <td class="time">12:00-12:30</td>
       <td>
-        <strong>Sybren Spit</strong><br> <i> Affiliation </i><br>
+        <strong>Sybren Spit</strong><br> <i> Vrije Universiteit Amsterdam </i><br>
         Word learning in emergent readers: to what extent does written input help?
         </td>
     <td> </td>
@@ -128,7 +128,7 @@ permalink: /day_1/
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
-    Ginger Kosobucki - Affiliation <br> <i>What is fair assessment for LESLLA learners?</i>
+    Ginger Kosobucki - Immigrant Welcome Center, Indianapolis <br> <i>What is fair assessment for LESLLA learners?</i>
     </span>
 </th>
       <th class="session">
@@ -137,7 +137,7 @@ permalink: /day_1/
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
-     David Stops - Affiliation <br> <i>In the shoes of our learners</i> </span></th>
+     David Stops - Independent researcher <br> <i>In the shoes of our learners</i> </span></th>
       <th class="session">Session 1</th>
       <th class="session">Session 2</th>
       <th class="session">Session 3</th>
@@ -148,7 +148,7 @@ permalink: /day_1/
       <td><strong>author</strong><br><i> Affiliation </i><br>title</td>
       <td><strong>author</strong><br><i> Affiliation </i><br>title</td>
       <td>
-        <strong>Anna Mendoza, Elif Varlik, Eda Yildirimer</strong><br> <i> Affiliation </i><br>
+        <strong>Anna Mendoza*, Elif Varlik*, Eda Yildirimer°</strong><br> <i> University of Illinois at Urbana-Champaign; °University of Arizona </i><br>
         Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest
       </td>
       <td>
