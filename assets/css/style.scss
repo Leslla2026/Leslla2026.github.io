@@ -398,11 +398,8 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
   display: grid;
   grid-template-columns: repeat(3, 280px);
   justify-content: center;
+  margin-bottom: 3rem;
   gap: 2rem;
-
-  max-width: max-content;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* CARD */
