@@ -19,6 +19,8 @@ Conference fee **does not** include the social dinner.
 
 Participants who cannot attend in person will have the possibility to participate online to the second and third day of the conference through the Zoom platform, with the exception of interactive workshops (when stated in the schedule).
 
+Attending workshops requires **pre-registration** by **30 June**. A link to register will be available soon.
+
 Attendance and voting at the LESLLA General assembly is **for members only**.
 
 
