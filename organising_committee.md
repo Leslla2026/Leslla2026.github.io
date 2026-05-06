@@ -1,78 +1,29 @@
----
-layout: default
-title: Organising committee
-permalink: /organising_committee/
----
+<section class="committee">
 
-{% include site-logo.html %}
-{% include page-header.html %}
+  <div class="member">
+  <img src="media/foto_egle.jpg" alt="Egle Mocciaro">
+  <h3>Egle Mocciaro</h3>
+  <p>Associate Professor in Italian Linguistics</p>
+</div>
 
-<img src="/media/foto_egle.jpg" class="float-left" alt="Foto di Egle">
-
-**Egle Mocciaro** - Associate Professor of Italian linguistics.
-
-<div class="clear"></div>
-
-<img src="/media/foto_valeria.jpg" class="float-left" alt="Foto di Valeria">
-
-**Valeria De Tommaso** - Language instructor
-
-<div class="clear"></div>
-
-<img src="/media/foto_eleonora.jpg" class="float-left" alt="Foto di Eleonora">
-
-**Eleonora Zucchini** - Assistant Professor of Italian Linguistics.
-
-<div class="clear"></div>
-
-<img src="/media/foto_liz.jpg" class="float-left" alt="Foto di Liz">
-
-**Elizabeth Tobyn** - Post-doc researcher in Linguistics.
-
-<div class="clear"></div>
-
-<img src="/media/foto_marcela.jpg" class="float-left" alt="Foto di Marcela">
-
-**Marcela Opršalová** - Secretary of the Department of Romance Languages and Literature
-
-<div class="clear"></div>
+   <div class="member">
+  <img src="media/foto_valeria.jpg" alt="Valeria de Tommaso">
+  <h3>Valeria de Tommaso</h3>
+  <p>Language instructor for Italian</p>
+</div>
 
 
+  <!-- SEZIONE PHD STUDENTS -->
 
+  <h2 class="phd-title">PhD Students</h2>
+  <div class="committee-grid">
 
-### PhD students ###
+    <div class="member">
+      <img src="media/foto_kristyna.jpg" alt="Kristyna">
+      <h3>Kristyna Lorenzova</h3>
+      <p>PhD Student</p>
+    </div>
 
-<img src="/media/foto_kristyna.jpg" class="float-left" alt="Foto di Kristyna">
+  </div>
 
-**Kristýna Lorenzová**
-
-<div class="clear"></div>
-
-<img src="/media/foto_magda.jpg" class="float-left" alt="Foto di Magda">
-
-**Magdaléna Nahálková** 
-
-<div class="clear"></div>
-
-<img src="/media/foto_lorenzo.jpg" class="float-left" alt="Foto di Lorenzo">
-
-**Lorenzo Albanesi** 
-
-<div class="clear"></div>
-
-<img src="/media/foto_andrea.jpg" class="float-left" alt="Foto di Andrea">
-
-**Andrea Lukšíková** 
-
-<div class="clear"></div>
-
-<img src="/media/foto_adela.jpg" class="float-left" alt="Foto di Adela">
-
-**Adéla Dvořáková** 
-
-<div class="clear"></div>
-
-<img src="/media/foto_clelia.jpg" class="float-left" alt="Foto di Clelia">
-
-**Clelia Farina**
-
+</section>
