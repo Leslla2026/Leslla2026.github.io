@@ -8,6 +8,7 @@ permalink: /organising_committee/
 {% include page-header.html %}
 
 <section class="committee">
+<div class="committee-grid">
 
   <div class="member">
   <img src="media/foto_egle.jpg" alt="Egle Mocciaro">
