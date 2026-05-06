@@ -370,17 +370,20 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
 }
 
 /* CONTENITORE GENERALE */
+
 .committee {
-  max-width: 1000px;
+  max-width: 960px;   /* uguale al parent */
   margin: 0 auto;
   padding: 2rem;
 }
+
 
 /* TITOLI */
 .committee h2 {
   text-align: center;
   margin-bottom: 2rem;
   font-weight: 600;
+  margin: 0 auto;
 }
 
 /* TITOL0 PHD */
