@@ -69,7 +69,7 @@ permalink: /day_2/
     <tr>
       <td class="time">10:15-10:45</td>
       <td>
-        <strong>Véronique Fortier*, Catherine Maynard*, Suzie Beaulieu°, Valérie Amireault*</strong> <br> <i> *Université du Québec à Montréal; °Université Laval, Canada </i><br> 
+        <strong>Véronique Fortier*, Catherine Maynard*, Suzie Beaulieu° & Valérie Amireault*</strong> <br> <i> *Université du Québec à Montréal; °Université Laval, Canada </i><br> 
         Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project
       </td>
       <td>
