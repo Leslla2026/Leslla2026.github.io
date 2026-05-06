@@ -142,7 +142,7 @@ permalink: /day_2/
       <td> <strong>Cecilia Bartoli* & Kristýna Lorenzová°</strong><br> <i> *Asinitas, Roma & Università di Palermo; °Masarykova Univerzita </i><br>Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts. <br> <strong> Only in presence. </strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register. </td>
       <td><strong>Davide Schirò</strong><br><i> Università di Palermo </i><br>Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi. <br> <strong> Only in presence. </strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.</td>
       <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> <i> Indipendent researcher; Vrije Universiteit, Amsterdam </i><br> 
-      Research based practice, practice based research bridging the gap <br> <strong> In presence and remotely.</strong> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.</td>
+      Research based practice, practice based research bridging the gap <br> <strong> In presence and remotely.</strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.</td>
     </tr>
     <tr>
       <td class="time"></td>
