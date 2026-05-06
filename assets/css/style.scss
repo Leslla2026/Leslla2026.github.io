@@ -395,8 +395,10 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
 /* GRID */
 
 .committee-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 280px);
+  display: grid; 
+  grid-template-columns: repeat(3, 1fr);
+  max-width: 840px;
+  margin: 0 auto;
   justify-content: center;
   margin-bottom: 3rem;
   gap: 2rem;
