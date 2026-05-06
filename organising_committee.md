@@ -25,7 +25,7 @@ permalink: /organising_committee/
 <div class="member">
   <img src="/media/foto_marcela.jpg" alt="Marcela">
   <h3>Marcela Opršalová</h3>
-  <p>Secretary of the Department of Romance Languages</p>
+  <p>Secretary of the Department of Romance Languages and literatures</p>
 </div>
 
 <div class="member">
