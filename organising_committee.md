@@ -15,10 +15,16 @@ permalink: /organising_committee/
   <p>Associate Professor in Italian Linguistics</p>
 </div>
 
-   <div class="member">
+<div class="member">
   <img src="media/foto_valeria.jpg" alt="Valeria de Tommaso">
   <h3>Valeria de Tommaso</h3>
   <p>Language instructor for Italian</p>
+</div>
+
+<div class="member">
+  <img src="media/foto_marcela.jpg" alt="Marcela">
+  <h3>Marcela Opršalová</h3>
+  <p>Secretary of the Department of Romance Languages</p>
 </div>
 
 <div class="member">
