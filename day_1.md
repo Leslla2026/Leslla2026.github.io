@@ -38,11 +38,11 @@ permalink: /day_1/
     <tr>
       <td class="time">9:30-10:00</td>
       <td>
-        <strong>Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa</strong><br> <i> Vrije Universiteit, Amsterdam </i><br>
+        <strong>Bart Siekman, Sybren Spit, Josje Verhagen & Sible Andringa</strong><br> <i> Vrije Universiteit, Amsterdam </i><br>
         The Name Game: Measuring metalinguistic awareness in LESLLA learners
       </td>
       <td>
-        <strong>Manuela Pinto, Darin Nshiwi, Ali Işık, Birgen Işık</strong><br> <i> Universiteit Utrecht </i><br>
+        <strong>Manuela Pinto, Darin Nshiwi, Ali Işık & Birgen Işık</strong><br> <i> Universiteit Utrecht </i><br>
         A Dream Too Far: Dutch Learning Needs of Asylum Seekers and Current Dutch Learning Policy and Practices at the Asylum Seeker Center
       </td>
     </tr>
@@ -50,11 +50,11 @@ permalink: /day_1/
     <tr>
       <td class="time">10:00-10:30</td>
       <td>
-        <strong>Fatima Zahra El&nbsp;Balrhi</strong><br> <i> Université Hassan II de Casablanca </i><br>
+        <strong>Fatima Zahra El Balrhi</strong><br> <i> Université Hassan II de Casablanca </i><br>
         L3 Arabic Stress by Wolof Migrants in Morocco
       </td>
       <td>
-        <strong>Katharina Obens, Ioanna Liakou &amp; David Zimmermann</strong><br> <i> Humboldt-Universität zu Berlin </i><br>
+        <strong>Katharina Obens, Ioanna Liakou & David Zimmermann</strong><br> <i> Humboldt-Universität zu Berlin </i><br>
         A Participatory Design-Based Research Approach to the Professionalisation of Inclusive Language Education for Adult Refugees with Learning Difficulties
       </td>
     </tr>
@@ -148,7 +148,7 @@ permalink: /day_1/
       <td><strong></strong><br><i></i><br></td>
       <td><strong></strong><br><i></i><br></td>
       <td>
-        <strong>Anna Mendoza*, Elif Varlik*, Eda Yildirimer°</strong><br> <i> University of Illinois at Urbana-Champaign; °University of Arizona </i><br>
+        <strong>Anna Mendoza*, Elif Varlik* & Eda Yildirimer°</strong><br> <i> University of Illinois at Urbana-Champaign; °University of Arizona </i><br>
         Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest
       </td>
       <td>
@@ -167,7 +167,7 @@ permalink: /day_1/
         U.S. Citizenship: The Gap between Policy and Lived Reality
       </td>
       <td>
-        <strong>Catherine Maynard*, Véronique Fortier*, Suzie Beaulieu°, Valérie Amireault*</strong><br> <i> *Université du Québec à Montréal, Canada; °Université Laval, Canada </i><br>
+        <strong>Catherine Maynard*, Véronique Fortier*, Suzie Beaulieu° & Valérie Amireault*</strong><br> <i> *Université du Québec à Montréal, Canada; °Université Laval, Canada </i><br>
         LESLLA teachers’ relationship to reading and writing in adult French L2 literacy classrooms
       </td>
       <td>
@@ -206,7 +206,7 @@ permalink: /day_1/
         Integrating Multicultural Art into a Literacy Classroom
       </td>
       <td>
-        <strong>Marilyn L. Abbott &amp; Kent K. Lee</strong><br> <i> University of Alberta </i><br>
+        <strong>Marilyn L. Abbott & Kent K. Lee</strong><br> <i> University of Alberta </i><br>
         Shared Metacognition in a LESLLA Teacher Journal Club
       </td>
     </tr>
