@@ -375,15 +375,14 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-left: 0 !important;
+  padding-right: 0 !important
 }
 
 .committee-grid {
   display: grid;
   grid-template-columns: repeat(3, 280px);
   gap: 2rem; 
-  padding-left: 0 !important;
-  padding-right: 0 !important
-
 }
 
 /* TITOLI */
