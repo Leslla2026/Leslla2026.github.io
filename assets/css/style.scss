@@ -86,6 +86,15 @@ aside.sidebar{
   display: block !important;
 }
 
+/* FIX layout jekyll-theme-minimal */
+.wrapper {
+  display: block !important;
+}
+
+aside {
+  display: none !important;
+}
+
 .layout,
 .page-layout,
 .site-body{
