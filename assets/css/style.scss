@@ -390,9 +390,11 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
 }
 
 /* GRID */
+
 .committee-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 200px));
+  justify-content: center;
   gap: 2rem;
 }
 
