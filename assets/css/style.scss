@@ -388,7 +388,7 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
 
 /* TITOL0 PHD */
 .phd-title {
-  margin-top: 5rem;
+  margin-top: 3rem;
   text-align: center;
 }
 
@@ -396,7 +396,7 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
 
 .committee-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   justify-content: center;
   gap: 2rem;
 }
