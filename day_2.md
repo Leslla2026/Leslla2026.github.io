@@ -139,10 +139,10 @@ permalink: /day_2/
       <td class="time">15:30-17:30</td>
       <td><strong>Asad Iqbal</strong><br><i> University of Toronto </i><br>
       Designing and deploying responsible AI-enabled language assessment: practical strategies for language and literacies educators <br> Click (here)[https://forms.office.com/e/bvR5X488zc] to register. </td>
-      <td> <strong>Cecilia Bartoli* & Kristýna Lorenzová°</strong><br> <i> *Asinitas, Roma & Università di Palermo; °Masarykova Univerzita </i><br>Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts. <br> Only in presence. <br> Click (here)[https://forms.office.com/e/bvR5X488zc] to register </td>
-      <td><strong>Davide Schirò</strong><br><i> Università di Palermo </i><br>Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi. <br> Only in presence. <br> Click (here)[https://forms.office.com/e/bvR5X488zc] to register</td>
+      <td> <strong>Cecilia Bartoli* & Kristýna Lorenzová°</strong><br> <i> *Asinitas, Roma & Università di Palermo; °Masarykova Univerzita </i><br>Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts. <br> <strong> Only in presence. </strong> <br> Click (here)[https://forms.office.com/e/bvR5X488zc] to register </td>
+      <td><strong>Davide Schirò</strong><br><i> Università di Palermo </i><br>Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi. <br> <strong> Only in presence. </strong> <br> Click (here)[https://forms.office.com/e/bvR5X488zc] to register</td>
       <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> <i> Indipendent researcher; Vrije Universiteit, Amsterdam </i><br> 
-      Research based practice, practice based research bridging the gap <br> In presence and remotely. Click (here)[https://forms.office.com/e/bvR5X488zc] to register</td>
+      Research based practice, practice based research bridging the gap <br> <strong> In presence and remotely.</strong> Click (here)[https://forms.office.com/e/bvR5X488zc] to register</td>
     </tr>
     <tr>
       <td class="time"></td>
