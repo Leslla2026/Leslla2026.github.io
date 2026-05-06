@@ -23,7 +23,7 @@ permalink: /day_2/
   <tbody>
     <tr>
       <td class="time">9:00-9:15</td>
-      <td colspan="4"> <i> Opening session  </i> </td>
+      <td colspan="4"> <i> Opening session  </i> <br> Egle Mocciaro (Masarykova Univerzita; LESLLA past president) <br> Kaatje Dalderop (Vrije Universiteit, Amsterdam; LESLLA President) </td>
     </tr>
     <tr class="schedule-section">
     <td colspan="5"> Keynote Speech</td>
@@ -69,7 +69,7 @@ permalink: /day_2/
     <tr>
       <td class="time">10:15-10:45</td>
       <td>
-        <strong>Véronique Fortier*, Catherine Maynard*, Suzie Beaulieu°, Valérie Amireault*</strong> <br> <i> *Université du Québec à Montréal; °Université Laval </i><br> 
+        <strong>Véronique Fortier*, Catherine Maynard*, Suzie Beaulieu°, Valérie Amireault*</strong> <br> <i> *Université du Québec à Montréal; °Université Laval, Canada </i><br> 
         Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project
       </td>
       <td>
@@ -77,11 +77,11 @@ permalink: /day_2/
         Word stress identification by LESLLA learners and second-script learners
       </td>
       <td>
-        <strong>Belma Haznedar* & Elifcan Oztekin°</strong><br> <i> *Boğaziçi Universitesi, Istanbul, °Universitad de Granada </i><br>
+        <strong>Belma Haznedar* & Elifcan Oztekin°</strong><br> <i> *Boğaziçi Universitesi, Istanbul, °Universidad de Granada </i><br>
         Exploring Teacher Candidates’ Attitudes Toward Multilingualism in the Turkish Context
       </td>
       <td>
-        <strong>Enas Filinban</strong><br> <i> Umm Al-Qura University </i><br>
+        <strong>Enas Filinban</strong><br> <i> Umm Al-Qura University, Saudi Arabia </i><br>
         AI-Mediated Arabic Learning for Low-Literate Adult Migrants in Saudi Arabia
       </td>
     </tr>
@@ -92,11 +92,11 @@ permalink: /day_2/
         Observing Competence and Performance in Talk-in-Interaction: Notes from an Italian LA Course with Newly Arrived Learners
       </td>
       <td>
-        <strong>Ann-Kristin Helland Gujord* & Linda Emilsen°</strong><br> <i> *Universitetet i Bergen; Høgskolen i Østfold </i><br>
+        <strong>Ann-Kristin Helland Gujord* & Linda Emilsen°</strong><br> <i> *Universitetet i Bergen, °Høgskolen i Østfold, Norway </i><br>
         What characterises research on L2 learners with limited prior schooling? 
       </td>
       <td>
-        <strong>Carl Laberge</strong><br> <i> Université Laval </i><br>
+        <strong>Carl Laberge</strong><br> <i> Université Laval, Canada </i><br>
         LESLLA learners’ plurilingual development: A funds of knowledge approach to uncover their perspective 
       </td>
       <td>
@@ -139,7 +139,7 @@ permalink: /day_2/
       <td class="time">15:30-17:30</td>
       <td><strong>Asad Iqbal</strong><br><i> University of Toronto </i><br>
       Designing and deploying responsible AI-enabled language assessment: practical strategies for language and literacies educators</td>
-      <td> <strong>Cecilia Bartoli* & Kristýna Lorenzová°</strong><br> <i> *Asinitas, Roma & Università di Palermo; °MUNI </i><br>Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts. <br> Only in presence. <br> Click here to register</td>
+      <td> <strong>Cecilia Bartoli* & Kristýna Lorenzová°</strong><br> <i> *Asinitas, Roma & Università di Palermo; °Masarykova Univerzita </i><br>Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts. <br> Only in presence. <br> Click here to register</td>
       <td><strong>Davide Schirò</strong><br><i> Università di Palermo </i><br>Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi. <br> Only in presence. <br> Click here to register </td>
       <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> <i> Indipendent researcher; Vrije Universiteit, Amsterdam </i><br> 
       Research based practice, practice based research bridging the gap <br> In presence and remotely. </td>
