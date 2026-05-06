@@ -13,19 +13,19 @@ permalink: /organising_committee/
   <div class="member">
   <img src="/media/foto_egle.jpg" alt="Egle Mocciaro">
   <h3>Egle Mocciaro</h3>
-  <p>Associate Professor in Italian Linguistics <br> egle.mocciaro@mail.muni.cz</p>
+  <p>Associate Professor in Italian Linguistics</p>
 </div>
 
 <div class="member">
   <img src="/media/foto_valeria.jpg" alt="Valeria de Tommaso">
   <h3>Valeria de Tommaso</h3>
-  <p>Language instructor for Italian <br> detommaso@mail.muni.cz</p>
+  <p>Language instructor for Italian</p>
 </div>
 
 <div class="member">
   <img src="/media/foto_marcela.jpg" alt="Marcela">
   <h3>Marcela Opršalová</h3>
-  <p>Secretary of the Department of Romance Languages and literatures <br> oprsalova@phil.muni.cz </p>
+  <p>Secretary of the Department of Romance Languages and literatures</p>
 </div>
 
 <div class="member">
