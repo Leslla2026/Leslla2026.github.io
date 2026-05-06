@@ -64,7 +64,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Roeland van Hout</strong><br>
-        <i>Centre for Language Studies, Radboud Universiteit Nijmegen, Nederland</i><br>
+        <i>Centre for Language Studies, Radboud Universiteit, Nijmegen</i><br>
         Low-educated adult second language learners and their low sensitivity to L2 inflectional morphology: effects of sound discrimination, learner and target word characteristics
       </td>
       <td>
@@ -88,7 +88,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Linda Evenstad Emilsen* & Ann-Kristin Gujord°</strong><br>
-        <i>*Høgskolen i Østfold; °Universitetet i Bergen</i><br>
+        <i>*Høgskolen i Østfold, °Universitetet i Bergen, Norway</i><br>
         Early grammatical development in a non-academic sample
       </td>
       <td>
@@ -98,7 +98,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Jeanne Kurvers*  Roeland van Hout°</strong><br>
-        <i>*Universiteit van Tilburg; Centre for Language Studies, Radboud Universiteit Nijmegen, Nederland</i><br>
+        <i>*Universiteit van Tilburg; Centre for Language Studies, Radboud Universiteit Nijmegen</i><br>
         Bridging the gap between everyday reasoning and logical deduction in emergent readers: updating Vygotsky
       </td>
     </tr>
@@ -113,7 +113,7 @@ permalink: /day_3/
       <td>&nbsp;</td>
       <td>
         <strong>Live Grinden</strong><br>
-        <i>Høgskolen på Vestlandet</i><br>
+        <i>Høgskolen på Vestlandet, Norway</i><br>
         Distributing burdens in Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship
       </td>
       <td>

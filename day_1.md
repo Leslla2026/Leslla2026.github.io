@@ -67,7 +67,7 @@ permalink: /day_1/
     <tr>
       <td class="time">11:00-11:30</td>
       <td>
-        <strong>Lotta Antunio</strong><br> <i> Helsingin Yliopisto </i><br>
+        <strong>Lotta Antunio</strong><br> <i> Helsingin Yliopisto</i><br>
         Language learning without literacy?
       </td>
       <td>
