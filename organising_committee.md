@@ -46,6 +46,7 @@ permalink: /organising_committee/
   <p>Assistant language instructor and PhD student</p>
 </div>
 
+</div>
 
   <!-- SEZIONE PHD STUDENTS -->
 
