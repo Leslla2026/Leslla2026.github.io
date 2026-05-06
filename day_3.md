@@ -92,12 +92,12 @@ permalink: /day_3/
         Early grammatical development in a non-academic sample
       </td>
       <td>
-        <strong>Marta Maffia, Raymond Siebetcheu, Anna De Meo, Noemi Lari e SAI Pontassieve</strong><br>
+        <strong>Marta Maffia, Raymond Siebetcheu, Anna De Meo, Noemi Lari & SAI Pontassieve</strong><br>
         <i>*Università di Napoli L'Orientale; °Università per Stranieri di Siena; ^Independent Researcher</i><br>
         Embodied plurilingualism in adult literacy learners: insights from language portraits across Italy
       </td>
       <td>
-        <strong>Jeanne Kurvers*  Roeland van Hout°</strong><br>
+        <strong>Jeanne Kurvers* & Roeland van Hout°</strong><br>
         <i>*Universiteit van Tilburg; Centre for Language Studies, Radboud Universiteit Nijmegen</i><br>
         Bridging the gap between everyday reasoning and logical deduction in emergent readers: updating Vygotsky
       </td>
@@ -144,7 +144,7 @@ permalink: /day_3/
         Lifelong learning practitioners celebrate the work of Heide Wrigley in the best way we know how
       </td>
       <td>
-        <strong>Eva Malessa*, Live Grinden°, Skye Playsted^, Jemima Rillera Kempster^</strong><br>
+        <strong>Eva Malessa*, Live Grinden°, Skye Playsted^ & Jemima Rillera Kempster^</strong><br>
         <i>*Turun Yliopisto, Finland; ° Høgskolen på Vestlandet, Norway</i><br>
         Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders
       </td>
