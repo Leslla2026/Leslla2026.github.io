@@ -86,11 +86,6 @@ aside.sidebar{
   display: block !important;
 }
 
-/* FIX layout jekyll-theme-minimal */
-.wrapper {
-  display: block !important;
-}
-
 aside {
   display: none !important;
 }
@@ -105,6 +100,11 @@ aside {
 .column-right{
   float: none !important;
   width: auto !important;
+}
+
+
+header {
+  display: none !important;
 }
 
 
