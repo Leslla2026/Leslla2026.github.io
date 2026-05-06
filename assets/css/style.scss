@@ -372,11 +372,16 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
 /* CONTENITORE GENERALE */
 
 .committee {
-  max-width: 960px;   /* uguale al parent */
-  margin: 0 auto;
-  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
+.committee-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 280px);
+  gap: 2rem;
+}
 
 /* TITOLI */
 .committee h2 {
@@ -390,18 +395,6 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
 .phd-title {
   margin: 5rem 0 2rem !important;
   text-align: center;
-}
-
-/* GRID */
-
-.committee-grid {
-  display: grid; 
-  grid-template-columns: repeat(3, 1fr);
-  max-width: 840px;
-  margin: 0 auto;
-  justify-content: center;
-  margin-bottom: 3rem;
-  gap: 2rem;
 }
 
 /* CARD */
