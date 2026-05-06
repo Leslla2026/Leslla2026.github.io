@@ -24,7 +24,7 @@ permalink: /day_1/
   <tbody>
     <tr>
       <td class="time">9:00-9:30</td>
-      <td colspan="2">  <i> Conference opening  </i> </td>
+      <td colspan="2">  <i> Opening remarks  </i> <br> Egle Mocciaro (Masarykova Univerzita, Leslla past president) <br> Kaatje Dalderop (Vrije Universiteit Amsterdam; LESLLA President)  </td>
     </tr>
 
     <tr class="schedule-section">
@@ -38,7 +38,7 @@ permalink: /day_1/
     <tr>
       <td class="time">9:30-10:00</td>
       <td>
-        <strong>Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa</strong><br> <i> Vrije Universiteit Amsterdam </i><br>
+        <strong>Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa</strong><br> <i> Vrije Universiteit, Amsterdam </i><br>
         The Name Game: Measuring metalinguistic awareness in LESLLA learners
       </td>
       <td>
@@ -83,7 +83,7 @@ permalink: /day_1/
         Lead language writing as an adaptive infrastructure for multilingual literacy development
       </td>
       <td>
-        <strong>Matilde Grünhage-Monetti</strong><br> <i> Language for Work and Bildungszentrum Oberjosbach </i><br>
+        <strong>Matilde Grünhage-Monetti</strong><br> <i> Bildungszentrum Oberjosbach. Niedernhausen, Germany</i><br>
         Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants
       </td>
     </tr>
@@ -91,7 +91,7 @@ permalink: /day_1/
     <tr>
       <td class="time">12:00-12:30</td>
       <td>
-        <strong>Sybren Spit</strong><br> <i> Vrije Universiteit Amsterdam </i><br>
+        <strong>Sybren Spit</strong><br> <i> Vrije Universiteit, Amsterdam </i><br>
         Word learning in emergent readers: to what extent does written input help?
         </td>
     <td> </td>
@@ -163,7 +163,7 @@ permalink: /day_1/
       <td><strong></strong><br><i></i><br></td>
       <td><strong></strong><br><i></i><br></td>
       <td>
-        <strong>Erika Husby</strong><br> <i> University of Massachusetts Boston and the Rohingya Culture Center </i><br>
+        <strong>Erika Husby</strong><br> <i> University of Massachusetts, Boston, and the Rohingya Culture Center </i><br>
         U.S. Citizenship: The Gap between Policy and Lived Reality
       </td>
       <td>
@@ -171,7 +171,7 @@ permalink: /day_1/
         LESLLA teachers’ relationship to reading and writing in adult French L2 literacy classrooms
       </td>
       <td>
-        <strong>Vincent Bédard</strong><br> <i> Université du Québec à Montréa </i><br>
+        <strong>Vincent Bédard</strong><br> <i> Université du Québec à Montréal </i><br>
         Beyond Deficit Lens: Making Visible LESLLA Learners’ Second Language Use Practices
       </td>
     </tr>
@@ -185,7 +185,7 @@ permalink: /day_1/
         Building Critical Multilingual Awareness through Collaborative Online Study Sessions
       </td>
       <td>
-        <strong>Melissa Hauber-Özer</strong><br> <i> University of Missouri - Columbia </i><br>
+        <strong>Melissa Hauber-Özer</strong><br> <i> University of Missouri, Columbia </i><br>
         Digital Storytelling as Critical Multiliteracies Pedagogy
       </td>
       <td>
