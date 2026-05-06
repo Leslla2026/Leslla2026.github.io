@@ -147,6 +147,7 @@ permalink: /day_2/
     <tr>
       <td class="time"></td>
       <td colspan="4"> <i> <strong>Social dinner at Jacobi</strong> </i> </td>
+    </tr>
     </tbody>
 </table>
 
