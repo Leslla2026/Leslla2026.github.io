@@ -368,3 +368,82 @@ table.schedule-table .schedule-section td {
 table.schedule-table tr:not(.schedule-section):nth-child(even) td {
   background: #fdfdfd;
 }
+
+/* CONTENITORE GENERALE */
+.committee {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* TITOLI */
+.committee h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-weight: 600;
+}
+
+/* TITOL0 PHD */
+.phd-title {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+/* GRID */
+.committee-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+}
+
+/* CARD */
+.member {
+  text-align: center;
+  padding: 1.2rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* HOVER EFFETTO */
+.member:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+}
+
+/* IMMAGINI CIRCOLARI */
+.member img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.7rem;
+  border: 3px solid #eee;
+}
+
+/* NOME */
+.member h3 {
+  font-size: 1.1rem;
+  margin: 0.3em 0;
+  font-weight: 500;
+}
+
+/* RUOLO */
+.member p {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0;
+}
+
+/* RESPONSIVE (extra pulizia su schermi piccoli) */
+@media (max-width: 500px) {
+  .committee {
+    padding: 1rem;
+  }
+
+  .member img {
+    width: 110px;
+    height: 110px;
+  }
+}
