@@ -68,7 +68,7 @@ permalink: /day_3/
         Low-educated adult second language learners and their low sensitivity to L2 inflectional morphology: effects of sound discrimination, learner and target word characteristics
       </td>
       <td>
-        <strong>Fernanda Minuz* &amp; Alessandro Borri°</strong><br>
+        <strong>Fernanda Minuz* & Alessandro Borri°</strong><br>
         <i>*Independent Researcher, Bologna; °CPIA Montagna, Castel di Casio, Italy</i><br>
         Unaccompanied minors in adult education: listening to their voices
       </td>
@@ -84,7 +84,7 @@ permalink: /day_3/
       <td>
         <strong>Laëtitia Giorgis</strong><br>
         <i>Université Grénobles-Alpes</i><br>
-        Alphabétisation&nbsp;tardive et&nbsp;multimodalité&nbsp;:&nbsp;vers&nbsp;une&nbsp;acculturation&nbsp;à&nbsp;l’écrit&nbsp;incarnée&nbsp;et&nbsp;située&nbsp;chez&nbsp;de&nbsp;grands&nbsp;adolescents&nbsp;allophones
+        Alphabétisation tardive et multimodalité: vers une acculturation à l’écrit incarnée et située chez de grands adolescents allophones  
       </td>
       <td>
         <strong>Linda Evenstad Emilsen* & Ann-Kristin Gujord°</strong><br>
@@ -169,7 +169,7 @@ permalink: /day_3/
     <tr>
       <td class="time">15:00–16:00</td>
       <td colspan="4">
-        <strong>Markéta Hajská &amp; Pavel Kubaník</strong><br>
+        <strong>Markéta Hajská & Pavel Kubaník</strong><br>
         <i>CUNI-Univerzita Karlova, Prague</i><br>
         <i>Romani: One Language, Two Stories</i>
       </td>
