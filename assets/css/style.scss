@@ -372,10 +372,11 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
 /* CONTENITORE GENERALE */
 
 .committee {
-  width: 100%;
+  max-width: 960px;   /* uguale al parent */
   margin: 0 auto;
-  padding: 2rem 0;
+  padding: 2rem;
 }
+
 
 /* TITOLI */
 .committee h2 {
