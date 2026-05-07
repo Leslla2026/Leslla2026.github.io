@@ -39,7 +39,8 @@ permalink: /keynote_speakers/
   <div class="speaker-card no-photo">
     <div class="speaker-content">
       <h3>Pavel Kubanik</h3>
-      <p class="speaker-role">Assistant Professor at Charles University, Prague, where he currently teaches practical Romani language courses, courses focused on Romani groups worldwide and sociolinguistic issues connected with the Romani language. He has had a long-term interest in the situation of the Romani language in the Czech Republic. His other research interests include the issue of language socialisation. </p>
+      <p class="speaker-role">Charles University, Prague</p>
+      <p>Assistant Professor at Charles University, Prague, where he currently teaches practical Romani language courses, courses focused on Romani groups worldwide and sociolinguistic issues connected with the Romani language. He has had a long-term interest in the situation of the Romani language in the Czech Republic. His other research interests include the issue of language socialisation. </p>
     </div>
   </div>
 
