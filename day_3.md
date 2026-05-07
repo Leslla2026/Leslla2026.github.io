@@ -64,7 +64,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Roeland van Hout</strong><br>
-        <i>Centre for Language Studies, Radboud Universiteit, Nijmegen</i><br>
+        <i>Centre for Language Studies, Radboud Universiteit Nijmegen</i><br>
         Low-educated adult second language learners and their low sensitivity to L2 inflectional morphology: effects of sound discrimination, learner and target word characteristics
       </td>
       <td>
