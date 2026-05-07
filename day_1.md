@@ -185,7 +185,7 @@ permalink: /day_1/
         Building Critical Multilingual Awareness through Collaborative Online Study Sessions
       </td>
       <td>
-        <strong>Melissa Hauber-Özer</strong><br> <i> University of Missouri, Columbia </i><br>
+        <strong>Melissa Hauber-Özer & Kelly Leavitt </strong><br> <i> University of Missouri, Columbia </i><br>
         Digital Storytelling as Critical Multiliteracies Pedagogy
       </td>
       <td>
