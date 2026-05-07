@@ -10,7 +10,7 @@ permalink: /keynote_speakers/
 <div class="speakers">
 
   <div class="speaker-card">
-    /media/dagostino.jpg
+  <img src="/media/dagostino.jpg" alt="Foto di Mari D'Agostino">
     <div class="speaker-content">
       <h3>Mari D'Agostino</h3>
       <p class="speaker-role">University of Palermo</p>
@@ -20,7 +20,7 @@ permalink: /keynote_speakers/
   </div>
 
   <div class="speaker-card">
-    /media/Scholten_def.jpeg
+    <img src="/Scholten_def.jpeg" alt="Foto di Scholten">
     <div class="speaker-content">
       <h3>Martha Young-Scholten</h3>
       <p class="speaker-role">Newcastle University</p>
@@ -30,7 +30,7 @@ permalink: /keynote_speakers/
   </div>
 
   <div class="speaker-card">
-    /media/marketa.jpg
+  <img src="/marketa.jpeg" alt="Foto di Marketa">
     <div class="speaker-content">
       <h3>Markéta Hajská</h3>
       <p class="speaker-role">Charles University, Prague</p>
