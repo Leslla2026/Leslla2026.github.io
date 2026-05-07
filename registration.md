@@ -17,7 +17,7 @@ Click on the following links to register:
 ### Conference fee
 
 The conference fee includes access to all sessions, coffee breaks and light refreshments, lunch on 21 August, conference badges, stationery, and a city guide. The programme and book of abstracts will be provided in digital format for environmental reasons and will be accessible via QR code. 
-Conference fee **does not** include the social dinner, which can be paid at registration desk (price: 50 EUR).
+Conference fee **does not** include the social dinner. Participants that registered for social dinner are kindly ask to pay in cash at registration desk (price: 50 EUR).
 
 Participants who cannot attend in person will have the possibility to participate online to the second and third day of the conference through the Zoom platform, with the exception of interactive workshops (when stated in the schedule).
 
