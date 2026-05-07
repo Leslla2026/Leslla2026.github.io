@@ -8,9 +8,9 @@ permalink: /registration/
 {% include page-header.html %}
 
 ### Registration
-Registration will open soon 
-<!-- Please, follow this [link](inserire link qui) to register. -->
-<!-- cancellare i tag e inserire il link giusto fra le parentesi tonde -->
+Click on the following links to register:
+[In presence and online participation](https://leslla.wildapricot.org/event-6647304)
+[Online only](https://leslla.wildapricot.org/event-6647372)
 
 ### Conference fee
 
