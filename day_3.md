@@ -88,7 +88,7 @@ permalink: /day_3/
       </td>
       <td>
         <strong>Linda Evenstad Emilsen* & Ann-Kristin Gujord°</strong><br>
-        <i>*Høgskolen i Østfold, °Universitetet i Bergen, Norway</i><br>
+        <i>*Høgskolen i Østfold, °Universitetet i Bergen</i><br>
         Early grammatical development in a non-academic sample
       </td>
       <td>
@@ -113,7 +113,7 @@ permalink: /day_3/
       <td>&nbsp;</td>
       <td>
         <strong>Live Grinden</strong><br>
-        <i>Høgskolen på Vestlandet, Norway</i><br>
+        <i>Western Norway University of Applied Sciences</i><br>
         Distributing burdens in Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship
       </td>
       <td>
