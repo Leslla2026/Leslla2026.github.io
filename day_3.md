@@ -161,6 +161,10 @@ permalink: /day_3/
       <td class="time">13:00–14:00</td>
       <td colspan="4"><i>Lunch</i></td>
     </tr>
+    <tr>
+      <td class="time">14:00</td>
+      <td colspan="4"><i>Walk to Museum of Romani Culture</i></td>
+    </tr>
 
     <tr class="schedule-section">
       <td colspan="5">Keynote Speech</td>

@@ -117,7 +117,7 @@ permalink: /day_2/
       <td colspan="5">Afternoon session</td>
   </tr>
     <tr>
-      <td class="time">14:00–14:30</td>
+      <td class="time">13:15–14:30</td>
       <td colspan="4">General assembly</td>
     </tr>
     <tr>
@@ -143,6 +143,10 @@ permalink: /day_2/
       <td><strong>Davide Schirò</strong><br><i> Università di Palermo </i><br>Uso degli albi illustrati in contesti plurilingui: potenzialità e rischi. <br> <strong> Only in presence. </strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.</td>
       <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> <i> Indipendent researcher; Vrije Universiteit, Amsterdam </i><br> 
       Research based practice, practice based research bridging the gap <br> <strong> In presence and remotely.</strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.</td>
+    </tr>
+    <tr>
+      <td class="time">17:30 </td>
+      <td colspan="4"> <i> Walk to venue of social dinner through Brno city centre </i> </td>
     </tr>
     <tr>
       <td class="time"></td>
