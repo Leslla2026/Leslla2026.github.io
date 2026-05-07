@@ -92,12 +92,12 @@ permalink: /day_2/
         Observing Competence and Performance in Talk-in-Interaction: Notes from an Italian LA Course with Newly Arrived Learners
       </td>
       <td>
-        <strong>Ann-Kristin Helland Gujord* & Linda Emilsen°</strong><br> <i> *Universitetet i Bergen, °Høgskolen i Østfold, Norway </i><br>
+        <strong>Ann-Kristin Helland Gujord* & Linda Emilsen°</strong><br> <i> *Universitetet i Bergen, °Høgskolen i Østfold </i><br>
         What characterises research on L2 learners with limited prior schooling? 
       </td>
       <td>
-        <strong>Carl Laberge</strong><br> <i> Université Laval, Canada </i><br>
-        LESLLA learners’ plurilingual development: A funds of knowledge approach to uncover their perspective 
+        <strong>Carl Laberge</strong><br> <i> Université Laval </i><br>
+        LESLLA learners’ plurilingual development: A funds of knowledge approach to uncover their perspectives
       </td>
       <td>
         <strong>Nadja Kerschhofer-Puhalo</strong><br> <i> Universität Hamburg </i><br>
