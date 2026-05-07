@@ -71,7 +71,7 @@ permalink: /day_1/
         Language learning without literacy?
       </td>
       <td>
-        <strong>Ina-Maria Maahs</strong><br> <i> Mercator-Institut für Mehrsprachigkeit und sprachliche Bildung, Universität zu Köln </i><br>
+        <strong>Kathrin Drews & Ina-Maria Maahs</strong><br> <i> Mercator-Institut für Mehrsprachigkeit und sprachliche Bildung, Universität zu Köln </i><br>
         From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling
       </td>
     </tr>
