@@ -467,3 +467,88 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
     height: 110px;
   }
 }
+
+/* =====================================================
+   11) KEYNOTE / SPEAKERS (nuovo design)
+   ===================================================== */
+
+.speakers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 2.5rem 0;
+}
+
+/* Card coerente con .member */
+.speaker-card {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.speaker-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+}
+
+/* immagini più eleganti (NON più float) */
+.speaker-card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+}
+
+/* contenuto */
+.speaker-content {
+  padding: 1.2rem 1.3rem 1.4rem;
+}
+
+.speaker-content h3 {
+  margin: 0.2rem 0 0.6rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--brand);
+}
+
+/* eventuale affiliazione */
+.speaker-role {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.6rem;
+}
+
+/* testo bio */
+.speaker-content p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 0.7rem;
+}
+
+/* speaker senza foto (es. Pavel) */
+.speaker-full {
+  margin: 3rem auto 0;
+  max-width: 720px;
+  padding-top: 1.5rem;
+  border-top: 2px solid #eee;
+}
+
+.speaker-full h3 {
+  text-align: center;
+  margin-bottom: 0.6rem;
+}
+
+.speaker-full p {
+  text-align: center;
+  color: #444;
+}
+
+/* mobile refine */
+@media (max-width: 500px) {
+  .speaker-card img {
+    height: 200px;
+  }
+}
