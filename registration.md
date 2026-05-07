@@ -10,9 +10,9 @@ permalink: /registration/
 ### Registration
 Click on the following links to register:
 
-[In presence and online participation](https://leslla.wildapricot.org/event-6647304) 
+- [In presence and online participation](https://leslla.wildapricot.org/event-6647304) 
 
-[Online only](https://leslla.wildapricot.org/event-6647372)
+- [Online only](https://leslla.wildapricot.org/event-6647372)
 
 ### Conference fee
 
