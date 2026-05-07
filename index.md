@@ -16,7 +16,7 @@ title: Home
        height: auto;
      " />
 
-<p style="text-align: right; font-size: 0.9rem; color: #666; margin-top: 0.3rem;">
+<p style="text-align: right; font-size: 0.7rem; color: #666; margin-top: 0.3rem; margin-left: 0.3rem;">
   Credits to Marco Agrò
 </p>
 
