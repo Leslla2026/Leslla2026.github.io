@@ -7,25 +7,41 @@ permalink: /keynote_speakers/
 {% include site-logo.html %}
 {% include page-header.html %}
 
-<img src="/media/dagostino.jpg" class="float-left" alt="Foto di Mari D'Agostino">
+<div class="speakers">
 
-**Mari D'Agostino** is a Full Professor of Italian linguistics at the University of Palermo. 
-She directs the School of Italian Language for Foreigners (ItaStra) and the second-level Master's degree in "Theory, design and didactics of Italian as L2/LS" of the same university.
-Her interests focus on Italian sociolinguistics, migration and transnational communities, literacy education and second Language learning for adults.
+  <div class="speaker-card">
+    <img src="/media/dagostino.jpg" alt="Foto di Mari D'Agostino">
+    <div class="speaker-content">
+      <h3>Mari D'Agostino</h3>
+      <p class="speaker-role">University of Palermo</p>
+      <p>Full Professor of Italian linguistics. Director of ItaStra and the Master's in Italian L2/LS.</p>
+      <p>Research interests: sociolinguistics, migration, literacy education, adult second language learning.</p>
+    </div>
+  </div>
 
-<div class="clear"></div>
+  <div class="speaker-card">
+    <img src="/media/Scholten_def.jpeg" alt="Foto di Martha Young-Scholten">
+    <div class="speaker-content">
+      <h3>Martha Young-Scholten</h3>
+      <p class="speaker-role">Newcastle University</p>
+      <p>Professor Emerita of Second Language Acquisition, working on morphosyntax and phonology in adult L2 learning.</p>
+      <p>Focus on literacy development for migrant adults and accessible reading initiatives.</p>
+    </div>
+  </div>
 
-<img src="/media/Scholten_def.jpeg" class="float-left" alt="Foto di Martha Young-Scholten">
+  <div class="speaker-card">
+    <img src="/media/marketa.jpg" alt="Foto di Markéta Hajská">
+    <div class="speaker-content">
+      <h3>Markéta Hajská</h3>
+      <p class="speaker-role">Charles University, Prague</p>
+      <p>Professor in Romani Studies with an anthropological focus on Romani cultures.</p>
+      <p>Extensive experience in research projects and multicultural education programmes.</p>
+    </div>
+  </div>
 
-**Martha Young-Scholten** is Professor Emerita of Second Language Acquisition at Newcastle University, England. Since the 1980s, she has conducted research on the generative-linguistics-based acquisition of morphosyntax and phonology, focusing on adults acquiring an additional language naturalistically. For the last two decades, she has investigated the reading development of immigrant adults with limited home language literacy. She co-directs, with a creative writing colleague, the Simply Stories publishing house which produces original books for pleasure reading for adult beginners. She's now helping launch a North American English version of the Digital Literacy Instructor and she directs a volunteer-run board based on the EU-Speak project she led from 2010 to 2018. 
+</div>
 
-<div class="clear"></div>
-
-<img src="/media/marketa.jpg" class="float-left" alt="Foto di Markéta Hajská">
-
-**Markéta Hajská** is Full Professor at Charles University, Prague. 
-She has lectured at the Romani Studies Section since 2011. Here, she focuses on anthropological approaches to Romani cultures and on Vlax Romani
-Since 2000, she had participated in various field research projects focused on the Roma and on socially excluded areas in Czechia and Slovakia both as researcher and coordinator. Since 2007, she has been working as a methodology specialist on multicultural education in the education programme Varianty organized by the NGO Člověk v tísni, where she contributed to several publications and participated in educational modules. 
-
-**Pavel Kubanik** is Assistant Professor at Charles University, Prague, where he currently teaches practical Romani language courses, courses focused on Romani groups worldwide and sociolinguistic issues connected with the Romani language. 
-He has had a long-term interest in the situation of the Romani language in the Czech Republic. His other research interests include the issue of language socialisation. 
+<div class="speaker-full">
+  <h3>Pavel Kubanik</h3>
+  <p>Assistant Professor at Charles University, Prague. He teaches Romani language and sociolinguistics and researches language socialisation and the status of Romani.</p>
+</div>
