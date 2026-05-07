@@ -137,7 +137,7 @@ permalink: /day_1/
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
-     David Stops - Independent researcher <br> <i>In the shoes of our learners</i> </span></th>
+     David Stops - Independent researcher, Berlin <br> <i>In the shoes of our learners</i> </span></th>
       <th class="session">Session 1</th>
       <th class="session">Session 2</th>
       <th class="session">Session 3</th>
