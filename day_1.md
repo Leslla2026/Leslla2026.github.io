@@ -91,7 +91,7 @@ permalink: /day_1/
     <tr>
       <td class="time">12:00-12:30</td>
       <td>
-        <strong>Sybren Spit</strong><br> <i> Vrije Universiteit, Amsterdam </i><br>
+        <strong>Sybren Spit, Sible Andringa, Judith Rispens </strong><br> <i> Vrije Universiteit, Amsterdam </i><br>
         Word learning in emergent readers: to what extent does written input help?
         </td>
     <td> </td>
