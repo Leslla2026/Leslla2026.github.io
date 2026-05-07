@@ -30,7 +30,7 @@ permalink: /keynote_speakers/
   </div>
 
   <div class="speaker-card">
-  <img src="/media/marketa.jpeg" alt="Foto di Marketa">
+    <img src="/media/marketa.jpg" alt="Foto di Marketa">
     <div class="speaker-content">
       <h3>Markéta Hajská</h3>
       <p class="speaker-role">Charles University, Prague</p>
