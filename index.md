@@ -16,6 +16,11 @@ title: Home
        height: auto;
      " />
 
+<p style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 0.3rem;">
+  Credits to Marco Agrò
+</p>
+
+
 
 # LESLLA XXI SYMPOSIUM
 ## Masaryk University, Brno
