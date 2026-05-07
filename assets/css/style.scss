@@ -529,7 +529,6 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
 /* ✅ card senza immagine (coerente visivamente) */
 .speaker-card.no-photo {
   grid-template-columns: 1fr;
-  text-align: center;
 }
 
 .speaker-card.no-photo .speaker-content {
