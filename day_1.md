@@ -190,7 +190,7 @@ permalink: /day_1/
       </td>
       <td>
         <strong>Eda Yildirimer</strong><br> <i> University of Arizona </i><br>
-        MA TESOL Student Teachers’ Preparation, Challenges, and Growth
+        MA TESOL Student Teachers’ Preparation, Challenges, and Growth in Community Based Teaching with Afghan Refugee Women
       </td>
     </tr>
     <tr>
