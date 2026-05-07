@@ -182,7 +182,7 @@ permalink: /day_1/
       <td><strong></strong><br> <i></i><br></td>
       <td>
         <strong>Elif Varlik</strong><br> <i> University of Illinois at Urbana-Champaig </i><br>
-        Building Critical Multilingual Awareness through Collaborative Online Study Sessions
+        Building Critical Multilingual Awareness through Collaborative Online Study Sessions: A Multiple Case Study of LESLLA Teachers
       </td>
       <td>
         <strong>Melissa Hauber-Özer & Kelly Leavitt </strong><br> <i> University of Missouri, Columbia </i><br>
