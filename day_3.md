@@ -38,7 +38,7 @@ permalink: /day_3/
       <th class="session">
         <span style="display:block;">Session 2</span>
         <span style="display:block; border-top:1px solid #999; margin:0.4rem 0; padding-top:0.4rem;">
-          <i>Additional languages and morphological awareness</i>
+          <i>Additional languages and phono-morphological awareness</i>
         </span>
       </th>
       <th class="session">
