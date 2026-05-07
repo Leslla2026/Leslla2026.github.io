@@ -23,7 +23,7 @@ permalink: /day_2/
   <tbody>
     <tr>
       <td class="time">9:00-9:15</td>
-      <td colspan="4"> <i> Opening session  </i> <br> Egle Mocciaro (Masarykova Univerzita; LESLLA past president) <br> Kaatje Dalderop (Vrije Universiteit, Amsterdam; LESLLA President) </td>
+      <td colspan="4"> <i> Opening session  </i> <br> Egle Mocciaro (Masarykova Univerzita; LESLLA past president) <br> Kaatje Dalderop (Vrije Universiteit, Amsterdam; LESLLA President), MUNI delegates </td>
     </tr>
     <tr class="schedule-section">
     <td colspan="5"> Keynote Speech</td>
@@ -69,7 +69,7 @@ permalink: /day_2/
     <tr>
       <td class="time">10:15-10:45</td>
       <td>
-        <strong>Véronique Fortier*, Catherine Maynard*, Suzie Beaulieu° & Valérie Amireault*</strong> <br> <i> *Université du Québec à Montréal; °Université Laval, Canada </i><br> 
+        <strong>Véronique Fortier*, Catherine Maynard*, Suzie Beaulieu° & Valérie Amireault*</strong> <br> <i> *Université du Québec à Montréal; °Université Laval </i><br> 
         Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project
       </td>
       <td>
@@ -81,7 +81,7 @@ permalink: /day_2/
         Exploring Teacher Candidates’ Attitudes Toward Multilingualism in the Turkish Context
       </td>
       <td>
-        <strong>Enas Filinban</strong><br> <i> Umm Al-Qura University, Saudi Arabia </i><br>
+        <strong>Enas Filinban</strong><br> <i> Umm Al-Qura University </i><br>
         AI-Mediated Arabic Learning for Low-Literate Adult Migrants in Saudi Arabia
       </td>
     </tr>
