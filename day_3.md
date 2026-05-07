@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Provisional schedule - day 3
-permalink: /day_3/
+permalink: /day3/
 ---
 
 {% include site-logo.html %}
