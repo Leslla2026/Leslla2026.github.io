@@ -10,7 +10,7 @@ permalink: /keynote_speakers/
 <div class="speakers">
 
   <div class="speaker-card">
-    <img src="/media/dagostino.jpg" alt="Foto di Mari D'Agostino">
+    /media/dagostino.jpg
     <div class="speaker-content">
       <h3>Mari D'Agostino</h3>
       <p class="speaker-role">University of Palermo</p>
@@ -20,7 +20,7 @@ permalink: /keynote_speakers/
   </div>
 
   <div class="speaker-card">
-    <img src="/media/Scholten_def.jpeg" alt="Foto di Martha Young-Scholten">
+    /media/Scholten_def.jpeg
     <div class="speaker-content">
       <h3>Martha Young-Scholten</h3>
       <p class="speaker-role">Newcastle University</p>
@@ -30,7 +30,7 @@ permalink: /keynote_speakers/
   </div>
 
   <div class="speaker-card">
-    <img src="/media/marketa.jpg" alt="Foto di Markéta Hajská">
+    /media/marketa.jpg
     <div class="speaker-content">
       <h3>Markéta Hajská</h3>
       <p class="speaker-role">Charles University, Prague</p>
@@ -39,9 +39,12 @@ permalink: /keynote_speakers/
     </div>
   </div>
 
-</div>
+  <div class="speaker-card no-photo">
+    <div class="speaker-content">
+      <h3>Pavel Kubanik</h3>
+      <p class="speaker-role">Charles University, Prague</p>
+      <p>Assistant Professor. He teaches Romani language and sociolinguistics and researches language socialisation and the status of Romani.</p>
+    </div>
+  </div>
 
-<div class="speaker-full">
-  <h3>Pavel Kubanik</h3>
-  <p>Assistant Professor at Charles University, Prague. He teaches Romani language and sociolinguistics and researches language socialisation and the status of Romani.</p>
 </div>
