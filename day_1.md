@@ -24,7 +24,7 @@ permalink: /day_1/
   <tbody>
     <tr>
       <td class="time">9:00-9:30</td>
-      <td colspan="2">  <i> Opening remarks  </i> <br> Egle Mocciaro (Masarykova Univerzita, LESLLA past president) <br> Kaatje Dalderop (Vrije Universiteit Amsterdam; LESLLA President)  </td>
+      <td colspan="2">  <i> Opening remarks  </i> <br> Egle Mocciaro (Masarykova Univerzita, LESLLA past president) <br> Kaatje Dalderop (Vrije Universiteit Amsterdam; LESLLA President),  MUNI delegates </td>
     </tr>
 
     <tr class="schedule-section">
