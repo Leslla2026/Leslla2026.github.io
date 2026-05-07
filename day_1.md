@@ -199,7 +199,7 @@ permalink: /day_1/
       <td><strong></strong><br> <i></i><br></td>
       <td>
         <strong>Marie Fontaine</strong><br> <i> Assist Community Services Centre, Edmonton, Alberta </i><br>
-        Finding Meaning Through Drawing
+        Finding Meaning Through Drawing: Art-Based Task Assessment for Literacy and Plurilingual Learners
       </td>
       <td>
         <strong>Victoria Lyasota</strong><br> <i> ASSIST Community Services </i><br>
