@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Schedule - day 3
+title: Provisional schedule - day 3
 permalink: /day_3/
 ---
 
@@ -141,17 +141,17 @@ permalink: /day_3/
       <td>
         <strong>Janet Isserlis* & Patsy Egan°</strong><br>
         <i>*Brown University; °Hamline University</i><br>
-        Lifelong learning practitioners celebrate the work of Heide Wrigley in the best way we know how
+        Lifelong learning practitioners celebrate the work of Heide Wrigley in the best way we know how. <br> <strong> In presence and remotely.</strong> <br> No need for pre-registration.
       </td>
       <td>
         <strong>Eva Malessa*, Live Grinden°, Skye Playsted^ & Jemima Rillera Kempster^</strong><br>
         <i>*Turun Yliopisto, Finland; ° Høgskolen på Vestlandet, Norway</i><br>
-        Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders
+        Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders. <br> <strong> Only in presence.</strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.
       </td>
       <td>
         <strong>Clelia Farina</strong><br>
         <i>Università di Palermo</i><br>
-        From the other side of the desk
+        From the other side of the desk. <br> <strong> Only in presence.</strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.
       </td>
       <td></td>
     </tr>
