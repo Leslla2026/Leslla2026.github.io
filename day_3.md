@@ -139,10 +139,9 @@ permalink: /day3/
     <tr>
       <td class="time">11:00–13:00</td>      
       <td>
-        <strong>Janet Isserlis* & Patsy Egan°</strong><br>
-        <i>*Brown University; °Hamline University</i><br>
-        Lifelong learning practitioners celebrate the work of Heide Wrigley in the best way we know how. <br> <strong> In presence and remotely.</strong> <br> No need for pre-registration.
-      </td>
+        <strong>Asad Iqbal </strong><br>
+        <i>University of Toronto </i><br>
+        Designing and deploying responsible AI-enabled language assessment: practical strategies for language and literacies educators. <br> Click <a href=https://forms.office.com/e/bvR5X488zc>here</a> to register. </td>
       <td>
         <strong>Eva Malessa*, Live Grinden°, Skye Playsted^ & Jemima Rillera Kempster^</strong><br>
         <i>*Turun Yliopisto, Finland; ° Høgskolen på Vestlandet, Norway</i><br>
