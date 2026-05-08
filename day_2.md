@@ -138,7 +138,7 @@ permalink: /day2/
     <tr>
       <td class="time">15:30-17:30</td>
       <td><strong>Janet Isserlis* & Patsy Egan°</strong><br><i> *Brown University; °Hamline University </i><br>
-      Lifelong learning practitioners celebrate the work of Heide Wrigley in the best way we know how.<br></strong> In presence and remotely.</strong> <br> No need for pre-registration. </td>
+      Lifelong learning practitioners celebrate the work of Heide Wrigley in the best way we know how.<br> </strong> In presence and remotely.</strong> <br> No need for pre-registration.</td>
       <td> <strong>Cecilia Bartoli* & Kristýna Lorenzová°</strong><br> <i> *Asinitas, Roma & Università di Palermo; °Masarykova Univerzita </i><br>Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts. <br> <strong> Only in presence. </strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register. </td>
       <td><strong>Davide Schirò</strong><br><i> Università di Palermo </i><br> Using picturebooks in plurilingual contexts: potentialities and risks. <br> <strong> Only in presence. </strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.</td>
       <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> <i> Indipendent researcher; Vrije Universiteit, Amsterdam </i><br> 
