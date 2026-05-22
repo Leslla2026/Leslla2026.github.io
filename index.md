@@ -22,7 +22,7 @@ title: Home
 
 
 
-# LESLLA XXI SYMPOSIUM
-## Masaryk University, Brno
+# LESLLA (Literacy Education and Second Language Learning for Adults) XXI SYMPOSIUM
+## Masaryk University, Brno - 20-22 August 2026
 ## _Bridging languages: literacy, plurilingual repertoires, new languages._
 
