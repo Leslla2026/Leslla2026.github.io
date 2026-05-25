@@ -289,8 +289,6 @@ footer {
 }
 
 
-
-
 /* =====================================================
    10) Immagini flottanti (bio ecc.)
    ===================================================== */
@@ -466,8 +464,8 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
   margin: 0;
 }
 
-/* RESPONSIVE (extra pulizia su schermi piccoli) */
-@media (max-width: 500px) {
+/* MOBILE */
+@media (max-width: 700px) {
   .committee {
     padding: 1rem;
   }
@@ -476,7 +474,12 @@ table.schedule-table tr:not(.schedule-section):nth-child(even) td {
     width: 110px;
     height: 110px;
   }
+
+  .committee-grid {
+    grid-template-columns: 1fr;
+  }
 }
+
 
 /* =====================================================
    11) KEYNOTE / SPEAKERS (fix immagini + layout coerente)
