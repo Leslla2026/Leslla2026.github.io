@@ -27,3 +27,9 @@ title: Home
 ## Masaryk University, Brno - 20-22 August 2026
 ## _Bridging languages: literacy, plurilingual repertoires, new languages._
 
+
+<div class="corner-logos">
+  <img src="/images/romani_logo.jpg" alt="Logo 1">
+</div>
+
+

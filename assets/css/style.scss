@@ -152,6 +152,21 @@ section {
   margin-top: 6px;
 }
 
+//altri loghi//
+
+.corner-logos {
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.corner-logos img {
+  height: 40px;
+  width: auto;
+}
+
 
 /* =====================================================
    7) TOP NAV + MENU
