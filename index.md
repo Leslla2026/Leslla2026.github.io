@@ -29,6 +29,7 @@ title: Home
 
 <div class="corner-logos" style="margin-top: 2rem; text-align: right;">
   <img src="/media/romani_logo.jpg" alt="Logo 1">
+  <img src = "/media/masaryk_university.png" alt="Logo 2" style="margin-left: 10px;">
 </div>
 
 
