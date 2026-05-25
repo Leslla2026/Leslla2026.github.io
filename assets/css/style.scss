@@ -171,6 +171,18 @@ body {
   width: auto;
 }
 
+@media (max-width: 700px) {
+  .corner-logos {
+    margin-top: 2rem;
+    text-align: center;
+  }
+
+  .corner-logos img {
+    height: 30px;
+    margin: 5px;
+  }
+}
+
 
 
 /* =====================================================
