@@ -29,7 +29,7 @@ title: Home
 
 
 <div class="corner-logos">
-  <img src="/images/romani_logo.jpg" alt="Logo 1">
+  <img src="/media/romani_logo.jpg" alt="Logo 1">
 </div>
 
 

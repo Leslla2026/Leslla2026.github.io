@@ -154,9 +154,13 @@ section {
 
 //altri loghi//
 
+body {
+  position: relative;
+}
+
 .corner-logos {
   position: absolute;
-  top: 60px;
+  bottom: 15px;
   right: 20px;
   display: flex;
   gap: 10px;
@@ -166,6 +170,7 @@ section {
   height: 40px;
   width: auto;
 }
+
 
 
 /* =====================================================
