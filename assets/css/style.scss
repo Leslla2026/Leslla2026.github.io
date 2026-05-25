@@ -143,7 +143,7 @@ section {
 }
 
 .site-logo img{
-  height: 72px;
+  height: auto;
   width: auto;
 }
 
@@ -384,6 +384,22 @@ table.schedule-table .schedule-section td {
 table.schedule-table tr:not(.schedule-section):nth-child(even) td {
   background: #fdfdfd;
 }
+
+
+/* ottimizzazione mobile */
+@media (max-width: 700px) {
+  table.schedule-table {
+    font-size: 0.85rem;
+  }
+
+  table.schedule-table th,
+  table.schedule-table td {
+    padding: 0.4rem 0.4rem;
+  }
+}
+
+
+/* ORGANISING COMMITTEE */
 
 /* CONTENITORE GENERALE */
 
