@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: XXI SYMPOSIUM - Home
 ---
 
 {% include site-logo.html %}
