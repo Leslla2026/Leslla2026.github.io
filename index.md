@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XXI SYMPOSIUM - Home
+title: LESLLA XXI SYMPOSIUM - Home
 ---
 
 {% include site-logo.html %}
