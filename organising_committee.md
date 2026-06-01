@@ -52,12 +52,6 @@ permalink: /organising_committee/
   <p>Assistant language instructor and PhD student</p>
 </div>
 
-<div class="member">
-  <img src="/media/foto_daniel.jpg" alt="Daniel">
-  <h3>Daniel Vázquez Touriño</h3>
-  <p>Associate professor of Spanish Literature</p>
-</div>
-
 </div>
 
   <!-- SEZIONE PHD STUDENTS -->
