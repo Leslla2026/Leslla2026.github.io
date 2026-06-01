@@ -162,7 +162,7 @@ permalink: /day3/
     </tr>
     <tr>
       <td class="time">14:00</td>
-      <td colspan="4"><i>Walk to Museum of Romani Culture</i></td>
+      <td colspan="4"><i>Walk to Museum of Romani Culture through Brno city centre with Daniel Vázquez Touriño</i></td>
     </tr>
 
     <tr class="schedule-section">

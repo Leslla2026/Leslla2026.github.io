@@ -23,14 +23,14 @@ permalink: /day2/
   <tbody>
     <tr>
       <td class="time">9:00-9:15</td>
-      <td colspan="4"> <i> Opening session  </i> <br> Egle Mocciaro (Masarykova Univerzita; LESLLA past president) <br> Kaatje Dalderop (Vrije Universiteit, Amsterdam; LESLLA President), MUNI delegates </td>
+      <td colspan="4"> <i> Opening session  </i> <br> Egle Mocciaro (Masarykova Univerzita; LESLLA past president) <br> Kaatje Dalderop (Vrije Universiteit, Amsterdam; LESLLA President) Gabriela Jessome (LESLLA Vice President) <br> MUNI delegates </td>
     </tr>
     <tr class="schedule-section">
     <td colspan="5"> Keynote Speech</td>
     </tr>
     <tr>
       <td class="time">9:15–10:15</td>
-      <td colspan="4">  <i> <strong> Mari D'Agostino - Università di Palermo </strong> <br> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
+      <td colspan="4"> <strong> Mari D'Agostino (Università di Palermo) </strong> <br> <i> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
     </tr>
     <tr class="schedule-section">
       <td colspan="5">Morning session</td>
@@ -146,11 +146,11 @@ permalink: /day2/
     </tr>
     <tr>
       <td class="time">17:30 </td>
-      <td colspan="4"> <i> Walk to venue of social dinner through Brno city centre </i> </td>
+      <td colspan="4"> <i> Walk to venue of social dinner through Brno city centre with Daniel Vázquez Touriño</i> </td>
     </tr>
     <tr>
       <td class="time"></td>
-      <td colspan="4"> <i> <strong>Social dinner at Jakoby </strong> </i> </td>
+      <td colspan="4"> <i> <strong>Social dinner at <a href="https://restauracejakoby.cz/">Jakoby </strong> </i> </td>
     </tr>
     </tbody>
 </table>

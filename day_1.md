@@ -24,7 +24,7 @@ permalink: /day1/
   <tbody>
     <tr>
       <td class="time">9:00-9:30</td>
-      <td colspan="2">  <i> Opening remarks  </i> <br> Egle Mocciaro (Masarykova Univerzita, LESLLA past president) <br> Kaatje Dalderop (Vrije Universiteit Amsterdam; LESLLA President),  MUNI delegates </td>
+      <td colspan="2">  <i> Opening remarks  </i> <br> Egle Mocciaro (Masarykova Univerzita, LESLLA past president) <br> Kaatje Dalderop (Vrije Universiteit Amsterdam; LESLLA President)</td>
     </tr>
 
     <tr class="schedule-section">
@@ -215,4 +215,4 @@ permalink: /day1/
     </tr>
     <tr>
       <td class="time">17:00–18:00</td>
-      <td colspan="5"> <i> <strong>Martha Young-Sholten - Newcastle University, Seattle University </strong> <br> Ineke van de Craats and Heidi Wrigley and the studies that created LESLLA. </i> </td>
+      <td colspan="5"> <strong>Martha Young-Sholten (Newcastle University, Seattle University) </strong> <br> <i> Ineke van de Craats and Heidi Wrigley and the studies that created LESLLA. </i> </td>
