@@ -150,7 +150,7 @@ permalink: /day2/
     </tr>
     <tr>
       <td class="time"></td>
-      <td colspan="4"> <i> <strong>Social dinner at <a href="https://restauracejakoby.cz/">Jakoby </strong> </i> </td>
+      <td colspan="4"> <i> <strong>Social dinner at <a href="https://restauracejakoby.cz/">Jakoby </a> </strong> </i> </td>
     </tr>
     </tbody>
 </table>
