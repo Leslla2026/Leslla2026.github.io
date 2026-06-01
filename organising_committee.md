@@ -13,7 +13,7 @@ permalink: /organising_committee/
   <div class="member">
   <img src="/media/foto_egle.jpg" alt="Egle Mocciaro">
   <h3>Egle Mocciaro</h3>
-  <p>Associate Professor in Italian Linguistics</p>
+  <p>Associate Professor of Italian Linguistics</p>
 </div>
 
 <div class="member">
@@ -37,7 +37,7 @@ permalink: /organising_committee/
 <div class="member">
   <img src="/media/foto_eleonora.jpg" alt="Eleonora">
   <h3>Eleonora Zucchini</h3>
-  <p>Assistant professor in Italian Linguistics</p>
+  <p>Assistant professor of Italian Linguistics</p>
 </div>
 
 <div class="member">
