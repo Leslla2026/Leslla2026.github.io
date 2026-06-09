@@ -35,7 +35,7 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Bart Siekman](#bart-siekman,-university-of-amsterdam.), [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Josje Verhagen](#josje-verhagen,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
 - [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), [Judith Rispens](#judith-rispens,-university-of-amsterdam.), _Word learning in emergent readers: to what extent does written input help?_
 - [Marieke Vanbuel](#marieke-vanbuel,-KU-Leuven-&-Ghent-University.), _How do LESLLA learners process multimodal texts?_
-- [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _MATESOL Student Teachers' Preparation, Challenges, and Growth in Community-Based Teaching with Afghan Refugee Women_Hai detto: perfetto ora questo elenco con codici raw lo ordini in ordine alfabetico?
+- [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _MATESOL Student Teachers' Preparation, Challenges, and Growth in Community-Based Teaching with Afghan Refugee Women_
 
 - [Author](#author,-university.), _Title_
   
