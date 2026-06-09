@@ -4,7 +4,7 @@ Abstract list:
 - [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of discourse markers in diachrony_
 - [Author](#author,-university), _Title_
 
-- [Marilyn L. Abott and Kent K. Lee](#marilyn l.abott, kent k. lee.,-university-of-alberta.), _Shared Metacognition in a LESLLA Teacher Journal Club_
+- [Marilyn L. Abott](#marilyn l. abott,-university-of-alberta.)  [Kent K. Lee] (#kent k. lee,-univeristy-of-alberta.), _Shared Metacognition in a LESLLA Teacher Journal Club_
   
 - [Lotta Aunio](#lotta aunio,-univeristy of helsinki.), _Language learning without literacy?_
 
