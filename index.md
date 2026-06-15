@@ -16,10 +16,6 @@ title: Home
        height: auto;
      " />
 
-<p style="text-align: right; font-size: 0.8rem; color: #666; margin-top: 0.3rem; margin-left: 0.5rem;">
-  Credits to Marco Agrò
-</p>
-
 
 
 # [<ins>LESLLA</ins>](https://www.leslla.org/) XXI SYMPOSIUM
