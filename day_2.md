@@ -115,14 +115,14 @@ permalink: /day2/
     </tr>
     <tr class="schedule-section">
       <td colspan="5">Afternoon session</td>
-  </tr>
+  </tr>    
     <tr>
       <td class="time">13:15–14:30</td>
-      <td colspan="4">General assembly</td>
+      <td colspan="4"><strong>Adult Migrants Learning Literacy in a New Language: Book Launch and Raffle </strong>(De Gruyter, 2026)<br> Christine Czinglar* & Karen Schramm^<i> *Universität Jena, ^Universität Wien </i><br> </td>
     </tr>
     <tr>
       <td class="time">14:30–15:00</td>
-      <td colspan="4"><strong>Adult Migrants Learning Literacy in a New Language: Book Launch and Raffle </strong>(De Gruyter, 2026)<br> Christine Czinglar* & Karen Schramm^<i> *Universität Jena, ^Universität Wien </i><br> </td>
+      <td colspan="4">General assembly</td>
     </tr>
     <tr>
       <td class="time">15:00–15:30</td>
