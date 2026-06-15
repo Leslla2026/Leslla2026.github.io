@@ -23,7 +23,7 @@ permalink: /keynote_speakers/
     <div class="speaker-content">
       <h3>Martha Young-Scholten</h3>
       <p class="speaker-role">Newcastle University</p>
-      <p>Professor Emerita of Second Language Acquisition at Newcastle University, England. Since the 1980s, she has conducted research on the generative-linguistics-based acquisition of morphosyntax and phonology, focusing on adults acquiring an additional language naturalistically. For the last two decades, she has investigated the reading development of immigrant adults with limited home language literacy. She co-directs, with a creative writing colleague, the Simply Stories publishing house which produces original books for pleasure reading for adult beginners. She's now helping launch a North American English version of the Digital Literacy Instructor and she directs a volunteer-run board based on the EU-Speak project she led from 2010 to 2018.</p>
+      <p>Professor Emerita of Second Language Acquisition at University of Washington, Seattle. Since the 1980s, she has conducted research on the generative-linguistics-based acquisition of morphosyntax and phonology, focusing on adults acquiring an additional language naturalistically. For the last two decades, she has investigated the reading development of immigrant adults with limited home language literacy. She co-directs, with a creative writing colleague, the Simply Stories publishing house which produces original books for pleasure reading for adult beginners. She's now helping launch a North American English version of the Digital Literacy Instructor and she directs a volunteer-run board based on the EU-Speak project she led from 2010 to 2018.</p>
     </div>
   </div>
 
