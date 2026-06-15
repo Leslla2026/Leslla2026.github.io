@@ -162,7 +162,7 @@ permalink: /day3/
     </tr>
     <tr>
       <td class="time">14:00</td>
-      <td colspan="4"><i>Walk to Museum of Romani Culture</i></td>
+      <td colspan="4"><i>Walk to Museum of Romani Culture through Brno city centre with Daniel Vázquez Touriño</i></td>
     </tr>
 
     <tr class="schedule-section">
@@ -172,8 +172,7 @@ permalink: /day3/
     <tr>
       <td class="time">15:00–16:00</td>
       <td colspan="4">
-        <strong>Markéta Hajská & Pavel Kubaník</strong><br>
-        <i>CUNI-Univerzita Karlova, Prague</i><br>
+        <strong>Markéta Hajská & Pavel Kubaník</strong> (CUNI-Univerzita Karlova, Prague)<br>
         <i>Romani: One Language, Two Stories</i>
       </td>
     </tr>
