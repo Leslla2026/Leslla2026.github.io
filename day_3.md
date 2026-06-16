@@ -114,7 +114,7 @@ permalink: /day3/
       <td>
         <strong>Live Grinden</strong><br>
         <i>Western Norway University of Applied Sciences</i><br>
-        Distributing burdens in Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship
+        The distribution of burdens within Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship.
       </td>
       <td>
         <strong>Morgane Jourdain</strong><br>
