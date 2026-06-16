@@ -5,9 +5,13 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 
 - [Marilyn L. Abott](#marilyn-l.-abott,-university-of-alberta.), [Kent K. Lee](#kent-k.-lee,-university-of-alberta.), _Shared Metacognition in a LESLLA Teacher Journal Club_
 - [Lotta Aunio](#lotta-aunio,-univeristy-of-helsinki.), _Language learning without literacy?_
+- [Cecilia Bartoli](#cecilia-bartoli,-università-di-palermo,-aps-asinitas-roma.), [Kristýna Lorenzová](#kristýna-Lorenzová,-masarykova-univerzita.) _Representing the multilingual self: multimodal practices for linguistic autobiography in migration contexts_
 - [Vincent Bédard](#vincent-bédard,-université-du-Québec-à-Montréal.), _Beyond Deficit Lens: Making Visible LESLLA Learners' Second Language Use Practices_
+-  [Jennifer Christenson](#jennifer-christenson,-abc-english.), [Christine Czinglar](#christine-czinglar,-friederich-schiller-university-of-jena.), [Katharina Karges](#katharina-karges,-friederich-schiller-university-of-jena.), [Martina Franz dos Santos](#martina-franz-dos-santos,-philipps-Universität-marburg.),[Marie-Anne Morand](#marie-anne-morand,-university-of-fribourg.), [Ginger Kosobucki](#ginger-kosobucki,-immigrant-welcome-center.) _What is fair assessment for LESLLA learners_
 - [Valentina Cotesta](#cotesta-valentina,-university-of-Palermo.), _Mediation and plurilingual repertoires in LESLLA contexts: a preliminary study on inclusive language assessment in Italy_
+-  [Kaatje Dalderop](#kaatje-dalderop,-non-specificato.), [Annemarie Nuwenhoud](#annemarie-nuwenhoud,-non-specificato.) _Research-based practice, practice-based research; bridging the gap_
 - [Kathrin Drews](#kathrin-drews,-Mercator-Institut-für-Mehrsprachigkeit-und-sprachliche-Bildung,-Universität-zu-Köln.), [Ina-Maria Maahs](#ina-maria-maahs,-Mercator-Institut-für-Mehrsprachigkeit-und-sprachliche-Bildung,-Universität-zu-Köln.), _From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling_
+- [Patsy Egan](#patsy-egan,-atlas-director-hamline-university.), [Janet Isserlis](#janet-isserlis,-independent-researcher.), _Lifelong learning: Practitioners celebrate the work of Heide Wrigley in the best way we know how_
 - [Clelia Farina](#clelia-farina,-university-of-palermo.), _Observing Competence and Performance in Talk-in-Interaction: Notes from an Italian LA Course with Newly Arrived Plurilingual Learners_
 - [Clelia Farina](#clelia-farina,-university-of-palermo.), _From the Other Side of the Desk: Experiencing a Repertoire-Based Approach to Additional Language Literacy_
 - [Marie Fontaine](#marie-fontaine,-Assist-Community-Services-Centre,-Edmonton,-Alberta.), _Finding Meaning Through Drawing: Art-Based Task Assessment for Literacy and Plurilingual Learners_
@@ -27,7 +31,8 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Carl Laberge](#carl-laberge,-université-Laval.), _LESLLA learners' plurilingual development: A funds of knowledge approach to uncover their perspectives_
 - [Friederike Lüpke](#friederike-lüpke,-university-of-helsinki.), _Lead language writing as an adaptive infrastructure for multilingual literacy development_
 - [Victoria Lyasota](#victoria-lyasota,-ASSIST-Community-Services-Centre,-Edmonton-AB-Canada.), _Integrating Multicultural Art into a Literacy Classroom_
-- [Marta Maffia](#marta-maffia,-university-of-naples-l'orientale.), [Raymond Siebetcheu](#raymond-siebetcheu,-university-for-foreigners-of-siena.), [Anna De Meo](#anna-de-meo,-university-of-naples-l'orientale.), [Noemi Lari](#noemi-lari,-university-for-foreigners-of-siena.), _Embodied plurilingualism in adult literacy learners: insights from language portraits across Italy_
+- [Marta Maffia](#marta-maffia,-university-of-naples-l'orientale.), [Raymond Siebetcheu](#raymond-siebetcheu,-university-for-foreigners-of-siena.), [Anna De Meo](#anna-de-meo,-university-of-naples-l'orientale.), [Noemi Lari](#noemi-lari,-university-for-foreigners-of-siena.), _Embodied plurilingualism in adult literacy learners: insights from language portraits across Italy_- 
+- [Eva Malessa](#eva-malessa., -university-of-turku.), [Live Grinden](#live-grinden, -western-norway-university-of-applied-sciences.), [Skye Playsted](#skye-playsted, -the-university-of-queensland.), [Jemima Rillera Kempster](#jemima-rillera-kempster, -the-university-of-queensland.) _Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders_
 - [Catherine Maynard](#catherine-maynard,-Université-du-Québec-à-Montréal.), [Véronique Fortier](#véronique-fortier,-Université-du-Québec-à-Montréal.), [Suzie Beaulieu](#suzie-beaulieu,-Université-Laval.), [Valérie Amireault](#valérie-amireault,-Université-du-Québec-à-Montréal.), _LESLLA teachers' relationship to reading and writing in adult French L2 literacy classrooms_
 - [Anna Mendoza](#anna-mendoza,-the-university-of-illinois-at-urbana-champaign.), [Elif Varlik](#elif-varlik,-the-university-of-illinois-at-urbana-champaign.), [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest_
 - [Fernanda Minuz](#fernanda-minuz,-independent-researcher-and-consultant,-bologna,-italy.), [Alessandro Borri](#alessandro-borri,-CPIA-Montagna,-Castel-di-Casio,-Italy.), _Unaccompanied minors in adult education: listening to their voices_
@@ -39,9 +44,9 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Marieke Vanbuel](#marieke-vanbuel,-KU-Leuven-&-Ghent-University.), _How do LESLLA learners process multimodal texts?_
 - [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _MATESOL Student Teachers' Preparation, Challenges, and Growth in Community-Based Teaching with Afghan Refugee Women_
 - [Marta Young-Scholtern](#marta-young-scholten,-newcastle-university.,-university-of-washington.), _Ineke van de Craats and Heide Wringley and the studies that created LESLLA_
- 
- 
-  - 
+-  [David Stops](#david-stops,-indepented-researcher.), _In the shoes of our learners: AI learner personas as a thinking tool in lesson planning for literacy_
+  
+
 - [Author](#author,-university.), _Title_
   
 ### Marilyn L. Abott, University of Alberta. 
@@ -75,6 +80,44 @@ Thornbury, S. (2016). Communicative language teaching in theory and practice. In
 
 
 
+
+### Cecilia Bartoli, Università di Palermo, APS Asinitas Roma. 
+### Kristýna Lorenzová, Masarykova univerzita
+### _Representing the multilingual self: multimodal practices for linguistic autobiography in migration contexts_
+IN-PERSON WORKSHOP
+
+"Travellers between languages can, like the tricksters of folk tales, play with double meanings in the interstices between words and codes. They can imagine possible scenarios based on cross-linguistic connotations; they can draw on the sounds and forms of different languages to evoke imaginary worlds inaccessible to the monolingual traveller." (Kramsch 2006)
+
+Linguistic Autobiography (LA) has seen comparatively fewer experimental applications in migration contexts, despite the heterogeneous and complex linguistic backgrounds of individuals who have grown up in multilingual settings. In such contexts, rich semiotic repertoires, intercomprehension, and communicative creativity are used productively or receptively to navigate everyday interactions, while schooling often takes place within colonial languages and educational systems. Migration itself may constitute an experience that enriches individuals’ linguistic repertoires (D’Agostino 2022). The “éveil aux langues” approach (CARAP 2012) promotes activities that are directed not only at languages of schooling but also at the varieties spoken in everyday environments, within families, and in the wider world. Within a pedagogical and didactic perspective oriented toward a complex and composite competence – plurilingual, pluricultural, and communicative – requiring a positive cognitive and metacognitive disposition toward diversity as a paradigm (Cognigni 2020), LA emerges as a particularly valuable tool for:
+- Bringing to light students’ plurilingual, communicative, and semiotic repertoires;
+- Expanding plurilingual and pluricultural competence as it emerges from students’
+narratives of multiple belongings;
+- Uncovering social representations of languages as they are internalized and
+emotionally experienced (Busch 2020);
+- Fostering the development of metalinguistic awareness.
+
+The aim is to support students as bearers of meanings and stories, endowed with a repertoire of linguistic, cultural, and social experiences. This perspective contributes to improved educational outcomes (Cummins 2019) and initiates as well as sustains plurilingual processes such as intercomprehension (Bonvino 2016), mediation (Piccardo 2020), and spontaneous translation (García & Wei 2014). 
+
+This approach brings the language learning context closer to that of spontaneous acquisition in use, where language is not an objective in itself, but a means to achieve another non-linguistic goal (at least superficially) and returns to being a tool for social interaction in which "learning can maintain that implicit character typical of spontaneous acquisition, which guarantees a deeper internalization of the linguistic structures practiced than occurs in an explicit instruction context" (Mocciaro 2019: 270). A multimodal and plurilingual approach has proven particularly fertile and inclusive, especially with illiterate or low-literacy students, who can participate without being restricted to writing, or using multilingual writing. Images support narrative expression and serve as a tool for developing oral discourse, mediation processes, and the search for synthesis in writing, starting with significant keywords whose meanings may be interesting for the class to discuss through mediation and translation.
+In this workshop, we will experiment with an activity on linguistic autobiography through the construction of an image and interactive activities. We will share the narrative of our linguistic repertoires through the metaphorization offered by the work. We will examine materials (transcriptions, images of works, and audiovisuals) on the collection of linguistic autobiography using the same method in a course on Italian as an additional language for refugees and asylum seekers at the Asinitas association in Rome. We will reflect on the construction of a plurilingual and multimodal educational setting, on the use of images to represent the plurilingual self, and on the narrative of the linguistic repertoire as a "lived" experience.
+
+References
+Bartoli C. & Lòtano L. (2024). Il laboratorio espressivo-narrativo come dispositivo per lo sviluppo di processi di mediazione in contesti multilingue. Italiano LinguaDue V. 17 N.2
+Bartoli, C. (2025). The school that cares: Plurilingualism and multimodality for narration in Italian as a non-native language classes. QTimes Journal of Education, Technology and Social Studies, 17(2)
+Bonvino E. & Jamet M.C. (Eds.) (2016) Intercomprensione: lingue, processi e percorsi SAIL Studi sull’apprendimento e l’insegnamento linguistico. Venezia, Edizioni Ca’ Foscari. URL http://edizionicafoscari.unive.it/it/edizioni/collane/sail/
+Busch B. (2020) Discourse, Emotions and Embodiment in The Cambridge Handbook of Discourse Studies Edited by Anna De Fina, Alexandra Georgakopoulou. Cambridge University Press
+Cognigni, E. (2020) Il plurilinguismo come risorsa. Prospettive teoriche, politiche educative e pratiche didattiche Edizioni ETS
+Cummins, J. (2019) The Emergence of Translanguaging Pedagogy: A Dialogue between Theory and Practice. Journal of Multilingual Education Research: Vol. 9, Article 13.
+Curci, A. M. (2012). IL QUADRO DI RIFERIMENTO DEGLI APPROCCI PLURALI ALLE  LINGUE E ALLE CULTURE (CARAP). Italiano LinguaDue, 4(2), i-ix. https://doi.org/10.13130/2037-3597/2824
+D’Agostino, M. (2022) Multilingual Young African Migrants: Between Mobility and Immobility. In A. De Fina & G. Mazzaferro (Ed.), Exploring (Im)mobilities: Language Practices, Discourses and Imaginaries (pp. 17-37). Bristol, Blue Ridge Summit: Multilingual Matters
+Fontana S. & Mignosi E. (2023) Tra esplicito e implicito: comunicazione multimodale e relazione intersoggettiva nei contesti di apprendimento. Italiano LinguaDue 2. 2023 (pp.154 163)
+García O. & Wei L. (2014) Translanguaging: Language, bilingualism and education. London, UK: Palgrave Macmillan.
+Kramsch C. (2006) The Multilingual Subject. International Journal of Applied Linguistics w Vol. 16 No. 1
+Mocciaro, E. (2019) La morfologia nominale nell’italiano L2 di minori stranieri non accompagnati: analfabetismo, acquisizione, didattica. In B. Moretti, A. Kunz, S. Natale, & E. Krakenberger (Eds.), Le tendenze dell’italiano contemporaneo rivisitate. Atti del LII Congresso Internazionale di Studi della Società di Linguistica Italiana (Berna, 6–8 settembre 2018) (pp. 257–272). OfficinaVentuno.
+Piccardo E., The Mediated Nature of Plurilingualism in Piccardo E., Germain-Rutherford A., Geoff L. (2022). The routledge handbook of plurilingual language education. Edited by Routledge.
+
+
+
 ### Vincent Bédard, Université du Québec à Montréal. 
 ### _Beyond Deficit Lens: Making Visible LESLLA Learners’ Second Language Use Practices_
 In Quebec, Canada's French-speaking province, a growing dichotomy appears to be emerging between migration policies and governmental discourse. On the one hand, immigration is framed as a key solution to the province’s labour shortage (ministère de l’Emploi et de la Solidarité sociale, 2025). On the other hand, it is portrayed as problematic or even threatening: for example, Jean Boulet, former Quebec Minister of Immigration, stated that “80% of immigrants […] do not work, do not speak French, or do not adhere to the values of Quebec society.” (Plourde, 2024, translated from French). Although Mr. Boulet was not explicitly referring to the LESLLA context, such claims reflect a broader deficit perspective that persists not only in public discourse but also in LESLLA research and practice. This viewpoint frames learners in terms of what they don’t know or don’t do (Browder et al., 2022), potentially obscuring how they learn and use a second language (L2) (DeCapua and Marshall, 2015). In response, a growing number of scholars, including ourselves, seeks to foreground LESLLA learners’ existing capacities, practices, and knowledge. One promising avenue for moving beyond deficit perspective is to better understand learners’ everyday lived experiences in order to design instruction grounded in their realities (e.g., Kidwell, 2022; Piccinin and Dal Maso, 2021).
@@ -91,6 +134,30 @@ Plourde, A. (2024). Les fausses nouvelles du gouvernement Legault sur l’immigr
 Street, B. (2003). What’s ‘new’ in new literacy studies? Critical approaches to literacy in theory and practice. Current Issues in Comparative Education, 5(2), 77‑91. https://doi.org/10.52214/cice.v5i2.11369
 
 
+
+### Jennifer Christenson, abc English. 
+### Christine Czinglar, Friedrich Schiller University of Jena. 
+### Katharina Karges, Friedrich Schiller University of Jena. 
+### Martina Franz dos Santos, Philipps-Universität Marburg. 
+### Marie-Anne Morand, University of Fribourg. 
+### Ginger Kosobucki, Immigrant Welcome Center. 
+### _What is fair assessment for LESLLA learners?_
+IN_PERSON WORKSHOP
+
+
+In fall 2025, the topic Assessment Around the Globe was presented at the LESLLA Coffee Break. It provided an opportunity to review the various standards and assessment frameworks currently used worldwide to assess LESLLA learners. Five presenters shared local assessment tools developed within their respective frameworks and contexts. These tools serve different purposes: placement and initial assessment, exploring literacy in the first language, gaining insight into functional literacy in everyday social domains, and assessing technical literacy skills such as recognizing sounds, syllables, and simple written texts.
+Across contexts, several shared themes emerged. Many LESLLA assessments are highly
+time-intensive and often require one-to-one administration. Whenever possible, instructions need to be provided in learners’ first languages to ensure that results reflect literacy skills rather than oral comprehension in the target language. Participants also highlighted tensions between the need for reliable and valid assessment and the realities of under-resourced programs, limited teacher training, and institutional requirements for standardized reporting. In many settings, assessment results are tied to funding, placement, or even access to rights such as citizenship, raising important ethical questions about the purposes and uses of assessment. At the same time, there was strong agreement that LESLLA assessments should be appropriate in scope and duration, competence-oriented, and meaningful for learners and provide useful diagnostic information for teachers rather than simply documenting deficits.
+To continue this important conversation, we propose a panel discussion focused on the guiding question: “What makes assessment fair, meaningful, and supportive for LESLLA learners across contexts?” 
+The panel will begin with a brief introduction by the moderator, situating the discussion in relation to the Coffee Break and outlining key themes that emerged. Each panelist will then offer a short contribution (12–15 minutes), reflecting on shared questions such as:
+- How can assessment tools be adapted to the specific characteristics and vulnerabilities of LESLLA learners while still ensuring reliability and validity?
+- What do we actually measure in our instruments (technical literacy, functional literacy, participation in literacy practices,...) and how do these constructs relate to each other?
+- How can we prevent negative or unintended consequences of assessment (for example, misuse in high-stakes decision making or discouraging effects) especially in times of decreasing resources for adult education?
+- How can meaningful assessment be implemented across very different national and educational contexts while still allowing for some form of shared framework or collaboration?
+
+The remainder of the session will be devoted to an open discussion with participants, in which the issues raised by the panelists - such as defining and measuring literacy constructs, ensuring reliability and validity, and addressing potential consequences of assessment practices - will be taken up and explored further across contexts. The panel will conclude with final reflections from the moderator
+
+REFERENCES? 
 
 
 ### Valentina Cotesta, University of Palermo. 
@@ -118,15 +185,11 @@ Rocca, L., Carlsen, H. C., & Deygers, B. (2020). Linguistic integration of Adult
 
 
 
-### Kathrin Drews and Ina-Maria Maahs, Mercator-Institut für Mehrsprachigkeit und sprachliche Bildung, Universität zu Köln. 
+### Kathrin Drews, Mercator-Institut für Mehrsprachigkeit und sprachliche Bildung, Universität zu Köln. 
+### Ina-Maria Maah Mercator-Institut für Mehrsprachigkeit und sprachliche Bildung, Universität zu Köln.
 ### _From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling_
 Literacy in the context of German as a second language is becoming increasingly important in secondary schools in Germany, particularly in the federal state of North Rhine-Westphalia (NRW) – especially in the schooling of multilingual immigrant adolescents and young students with limited and/or interrupted formal education. This particularly affects vocational schools (Maurice & Will 2021) and second-chance education (cf. Kinner 2018). However, as the topic of literacy has so far been dealt with primarily in the context of primary education and special education in teacher training, various teacher training courses on the subject are currently being developed. The ‘XXX’ project in XX is one such example. The project is designing digital professional development modules for teachers that can be completed independently, regardless of time and location. The potential of digital technology is to be used to meet the needs of the target group, which has very limited time resources, and to enable flexible acquisition of practice-oriented content (cf. SWK 2022). The programme is also to be available free of charge to all interested parties, providing a low-threshold introduction to the topic and helpful tips for further programmes and materials.
-In order to tailor the content of such a self-learning programme to the specific needs of
-teachers in instructional practice, an online survey was conducted in advance with teachers
-from all types of schools in the federal state of North Rhine-Westphalia who teach learners
-with literacy needs in German as a second language in some form. This was a random sample
-of interested teachers (n depending on the question = 192 to 332) who were willing to
-participate. The online questionnaire covered six different topics: (i) Sociodemographic data, (ii) Current teaching activities, (iii) Teaching experience in the field of German as a second language, (iv) Language diagnostic procedures in practice, (v) Lesson planning in the context of Latin alphabet literacy, (vi) Professionalisation for literacy education in the context of German as a second language. All data was collected anonymously. Based on the results of the study and building on existing theory and the current state of research, six different topics were identified, which are currently being implemented in the project as modules with various digital self-learning units. One module is dedicated to the literacy of older students with limited or/and interrupted formal education (SLIFE). It is aimed in particular at teachers in secondary (vocational) schools and adult education (second chance education; cf. Bellenberg, im Brahm, Demski, Koch & Weegen 2019) who want to learn more about the specific needs, potential and support options of the target group. In addition, the digital professional development programme includes a theoretical introduction to literacy in the context of German as a second language, as well as modules on language diagnostics, methodology and didactics. Multilingualism and digital potential in the context of second language literacy are also taken into account.
+In order to tailor the content of such a self-learning programme to the specific needs of teachers in instructional practice, an online survey was conducted in advance with teachers from all types of schools in the federal state of North Rhine-Westphalia who teach learners with literacy needs in German as a second language in some form. This was a random sample of interested teachers (n depending on the question = 192 to 332) who were willing to participate. The online questionnaire covered six different topics: (i) Sociodemographic data, (ii) Current teaching activities, (iii) Teaching experience in the field of German as a second language, (iv) Language diagnostic procedures in practice, (v) Lesson planning in the context of Latin alphabet literacy, (vi) Professionalisation for literacy education in the context of German as a second language. All data was collected anonymously. Based on the results of the study and building on existing theory and the current state of research, six different topics were identified, which are currently being implemented in the project as modules with various digital self-learning units. One module is dedicated to the literacy of older students with limited or/and interrupted formal education (SLIFE). It is aimed in particular at teachers in secondary (vocational) schools and adult education (second chance education; cf. Bellenberg, im Brahm, Demski, Koch & Weegen 2019) who want to learn more about the specific needs, potential and support options of the target group. In addition, the digital professional development programme includes a theoretical introduction to literacy in the context of German as a second language, as well as modules on language diagnostics, methodology and didactics. Multilingualism and digital potential in the context of second language literacy are also taken into account.
 The presentation will briefly introduce the project and its objectives, before addressing
 specific findings from the needs assessment that are particularly relevant to the target group of multilingual adolescents and young adults with limited and/or interrupted education. The module design will then be presented with a focus on the module for students with limited and/or interrupted education. Theoretical considerations of didactic planning will be explained and insights into the concrete implementation of media didactics will be provided. Finally, the potential and limitations of corresponding professionalisation offers for this target group will be discussed, which allow for a great deal of flexibility but little interaction.
 
@@ -135,6 +198,59 @@ Bellenberg, G., im Brahm, G., Demski, D., Koch, S., & Weegen, M. (2019). Bildung
 Kinner, J. E. (2018). Weiterbildungskollegs in Nordrhein-Westfalen. Die zweite Chance. nds. Die Zeitschrift der Bildungsgewerkschaft, 1(18), 16–17.
 Ständige Wissenschaftliche Kommission der Kultusministerkonferenz (SWK) (2022). Digitalisierung im Bildungssystem: Gutachten. https://www.pedocs.de/volltexte/2022/25273/pdf/SWK_2022_Digitalisierung_im_Bildungss ystem.pdf
 von Maurice, J., & Will, G. (2021). Geflüchtete Kinder und Jugendliche im deutschen Bildungssystem Zentrale Befunde der Studie ReGES (Nr. 2; Forschung kompakt).LIfBi. https://www.lifbi.de/Portals/2/Publikationen/Transferberichte/LIfBi%20Forschung%20 kompakt/LIfBi-Forschung-kompakt_02_ReGES.pdf?ver=SuOttv-xVVnUfPzpWHh8SA%3d%3d
+
+
+
+
+### Kaatje Dalderop, non specificato
+### Annemarie Nuwenhoud, non specificato
+IN-PERSON WORKSHOP
+
+### _Research-based practice, practice-based research; bridging the gap_
+
+Research and practice in adult second language and literacy education are often described as operating in separate worlds. Researchers and practitioners typically work in different institutional settings, on different locations, and within their own professional networks. Yet, both groups share the common goal of improving teaching and learning (Sato & Loewen, 2022). In the LESLLA field, where learners are often vulnerable and educational resources can be limited, effective collaboration between research and practice is particularly important. 
+
+LESLLA explicitly promotes research-based practice (www.leslla.org). However, not all research leads to immediate or visible benefits for learners. This may raise ethical questions when LESLLA learners are involved as participants in research projects (e.g. Fox et al., 2020; Michaud et al., 2022; Shepperd & Dalderop, 2026). How do we balance the need for rigorous research with the responsibility to protect and support learners? How can research projects be shaped in ways that are both scientifically relevant and meaningful for classroom practice? 
+
+At the same time, practitioners regularly encounter challenges and questions in their daily teaching practice that could inform meaningful research, but these questions do not always reach the research community (Sato & Loewen, 2022). This highlights the need for better communication, clearer roles, and more accessible channels between research and practice. 
+
+This workshop focuses on how research and practice in the LESLLA field can strengthen one another by improving the way information is shared and collaboration is organized. Central questions include: Who is responsible for translating research into practice? How can practitioners’ questions be incorporated into research agendas? And which intermediaries can help bridge these two domains? 
+
+The workshop will start with two short presentations. The first presentation will discuss the research-practice information landscape in the Netherlands, focusing on how research findings are currently disseminated to practitioners in adult language and literacy education, which will be illustrated by some recent examples. The second presentation will present a concrete example of collaborative research within a European LESLLA-related project, highlighting practical lessons learned about researcher–practitioner collaboration. 
+
+Following the presentations, participants will take part in a guided discussion. They will reflect on their own roles as researchers, practitioners, or both, and identify concrete needs, barriers, and opportunities for collaboration in the LESLLA field as well as topics LESLLA research needs to address. 
+
+Practical outcomes of the workshop include: 
+a shared overview of key challenges in communication between research and practice in LESLLA; a set of concrete strategies for improving collaboration, such as roles, formats, or channels for knowledge exchange; 
+input for LESLLA’s research agenda, explicitly grounded in practitioners’ needs. 
+ 
+The workshop aims to support more sustainable and ethically informed collaboration between research and practice, ultimately contributing to more effective teaching for LESLLA learners. 
+
+References 
+Fox, A., Baker, S., Charitonos, K., Jack, V., & Moser-Mercer, B. (2020). Ethics-in-practice in fragile contexts: Research in education for displaced persons, refugees and asylum seekers. British Educational Research Journal, 46(4), 829–847. https://doi.org/10.1002/berj.3618 
+Michaud, A. H., Fortier, V., & Amireault, V. (2022). “Do I have to sign my real name?” Ethical and methodological challenges in multilingual research with adult SLIFE learning French as a second language. Languages, 7(126), 1–16. https://doi.org/https://doi.org/10.3390/languages7020126 
+Sato, M., & Loewen, S. (2022). The research-practice dialogue in second language learning and teaching: past, present and future. The Modern Language Journal, 106(3), 509–527. https://doi.org/10.1111/modl.12791 
+Shepperd, L., & Dalderop, K. (2026). Why should I care? Research ethics in the field of adult L2 literacy. Dutch Journal of Applied Linguistics, 1–17. https://doi.org/10.51751/dujal60196 
+Fox, A., Baker, S., Charitonos, K., Jack, V., & Moser-Mercer, B. (2020). Ethics-in-practice in fragile contexts: Research in education for displaced persons, refugees and asylum seekers. British Educational Research Journal, 46(4), 829–847. https://doi.org/10.1002/berj.3618 
+Michaud, A. H., Fortier, V., & Amireault, V. (2022). “Do I have to sign my real name?” Ethical and methodological challenges in multilingual research with adult SLIFE learning French as a second language. Languages, 7(126), 1–16. https://doi.org/https://doi.org/10.3390/languages7020126 
+Sato, M., & Loewen, S. (2022). The research-practice dialogue in second language learning and teaching: past, present and future. The Modern Language Journal, 106(3), 509–527. https://doi.org/10.1111/modl.12791 
+Shepperd, L., & Dalderop, K. (2026). Why should I care? Research ethics in the field of adult L2 literacy. Dutch Journal of Applied Linguistics, 1–17. https://doi.org/10.51751/dujal60196 
+
+ 
+
+
+### Patsy Egan, ATLAS Director, Hamline University. 
+### Janet Isserlis, Independent Researcher.
+IN-PERSON WORKSHOP?
+
+### _Lifelong learning: Practitioners celebrate the work of Heide Wrigley in the best way we know how
+
+Since its inception, Heide Spruck Wrigley has been instrumental in advocating for policy and practice that acknowledge the unique strengths and needs of LESLLA learners. Over the years, her writing, materials development, guidance and hands-on support to practitioners around the world have been critical in furthering understanding of and approaches to design and implementation of learner-centered strategies enabling practitioners to develop and utilize classroom practices specifically suited to LESLLA learners.
+Facilitated by colleagues of Dr. Wrigley, this workshop will focus on strategies and materials that carry her work and scholarship forward by centering learners’ strengths, cultivating learner authority and agency, and grounding instruction in evidence-based research and practices. Sharing materials and processes that have worked in classrooms situated in various contexts, presenters will demonstrate classroom activities and approaches informed by our knowledge of language and literacy development, including elements of translanguaging, development of literacy in first and additional languages.  Participants are invited to share their own strategies in this interactive session.
+
+ References? 
+
+
 
 
 
@@ -471,6 +587,31 @@ Savy, R. 2006. Specifiche per la trascrizione annotata ortografica dei testi. In
 
 
 
+
+### Eva Malessa, University of Turku. 
+### Live Grinder, Western Noreay University of Applied Sciences. 
+### Skye Playsted, The University of Queensland. 
+### Jemima Riller Kempster, The University of Queensland.
+ON LINE WORKSHOP ?
+
+### _Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders_
+
+In recent years, ethical considerations relating to LESLLA learner populations have increasingly been addressed and problematized, see e.g., Gujord et al. (2023); Michaud et al. (2022); Norlund Shaswar et al. (2024), as evidenced by the call for LESLLA focused research methodologies in the recently developed LESLLA Manifesto. In this workshop we first introduce the audience to such LESLLA-specific research ethics discussions, including informed consent and voluntary participation, e.g., Bigelow & Pettitt (2016); Malessa et al. (2026); Shepperd & Dalderop (2026). Compared to Western-based researchers, LESLLA learners most often have distinctly different backgrounds in multiple ways, including their limited experience with formal schooling, their cultural historical contexts, their linguistic repertoires, and, for many, their experiences of displacement. Responding meaningfully to these dimensions requires approaches that are sensitive to asymmetries in power, knowledge, and lived experience. 
+We then present case studies and research practices with LESLLA stakeholders regarding ethical issues from various multilingual research contexts, e.g., Australia, Finland and Norway, as a starting point for discussions and workshop activities that might draw on participants' experiences with their previous research projects. We hope to provide a space for questions/provocations/puzzling over existing ethics-related issues and practices. With this workshop, we endeavour to open up conversations that could contribute to a LESLLA community-led creation of practical research ethics guidelines for current and future LESLLA stakeholders that ideally could support particularly early career researchers and consequently also encourage more experimental LESLLA studies. The aim of this workshop is thus to initiate the co-creation of LESLLA-specific research ethics guidelines, similarly to guidelines that are LESLLA-relevant, but not LESLLA-specific see e.g., BERA (2018), Harley & Wazefadost (2023) and Krause et al. (2024), based on LESLLA-specific case studies and practices and find partners to follow-up this workshop’s output for continuing discussions and dissemination.
+
+References
+Bigelow, M., & Pettitt, N. (2016). Narrative of ethical dilemmas in research with immigrants with limited formal schooling. In P. I. De Costa (Ed.), Ethics in applied linguistics research: Language researcher narratives (pp. 66–82). Routledge.
+British Educational Research Association (BERA). (2018). Ethical guidelines for educational research (4th ed.). https://www.bera.ac.uk/publication/ethical-guidelines-for-educational-research- 2018
+Gujord, A.-K. H., Søfteland, Å., & Emilsen, L. E. (2023). Å forske på språkutviklinga hos innlærere med begrensa skolebakgrunn – metodiske valg og problemstillinger. Nordand, 18(2), 125–139. https://doi.org/10.18261/nordand.18.2.4 
+Harley, T., & Wazefadost, N. (2023). Guidelines for co-produced research with refugees and other people with lived experience of displacement. Kaldor Centre for International Refugee Law, Asia Pacific Network of Refugees and Act for Peace. https://doi.org/10.26190/GHNC-SY80 
+Krause, U., Zanker, F., & Fröhlich, U. (2024). Ethics guidelines of the German Network for Forced Migration Studies. German Network for Forced Migration Studies. https://fluchtforschung.net/wp-content/uploads/2024/09/NWFF-Ethics-Guidelines-engl.pdf 
+Malessa, E., Playsted, S., Rillera Kempster, J., & Grinden, L. (2026). Gatekeeping and gate-opening: Ethical and reflexive research with LESLLA stakeholders: A response to “Why should I care? Research ethics in the field of adult L2 literacy”. Dutch Journal of Applied Linguistics, 15. https://doi.org/10.51751/dujal24695
+Michaud, A. H., Fortier, V., & Amireault, V. (2022). “Do I have to sign my real name?” Ethical and methodological challenges in multilingual research with adult SLIFE learning French as a second language. Languages, 7(2), 126. https://doi.org/10.3390/languages7020126
+Norlund Shaswar, A., Ljung Egeland, B., Rosén, J., & Wedin, Å. (2024). Ethical dilemmas of translanguaging pedagogy in L2 and basic literacy education for adults: Social justice and ethics of care. Ethnography and Education, 1–18. https://doi.org/10.1080/17457823.2024.2390946 
+Shepperd, L., & Dalderop, K. (2026). Why should I care? Research ethics in the field of adult L2 Literacy. Dutch Journal of Applied Linguistics, 15. https://doi.org/10.51751/dujal23614 
+
+
+
 ### Catherine Maynard, Université du Québec à Montréal. 
 ### Véronique Fortier, Université du Québec à Montréal. 
 ### Suzie Beaulieu, Université Laval. 
@@ -686,9 +827,31 @@ REFERNCES?
 
 
 
+### David Stops, Independent Researcher.
+ON LINE WORKSHOP?
+
+### _In the shoes of our learners: AI learner personas as a thinking tool in lesson planning for literacy_
+
+What if learners were included in lesson planning as real people with a biography and everyday life? How would teaching change if teachers took this change of perspective seriously?
+In this workshop, participants work with (AI) learner personas: they create a fictional but realistic and multi-layered character who represents their learners. A learner persona offers the opportunity to think specifically about your own learners when planning lessons, in addition to content or level appropriateness: what makes learning easier for my learners, what makes it more difficult for them? What are the individual needs of my learners and how can I meet them?
+Participants collaboratively and dialogically develop a sample persona for a prototypical learner, i.e., an adult with primary or functional illiteracy and limited and interrupted formal education, in order to highlight typical areas of tension and sharpen awareness of the diversity of participants. 
+Participants will receive step-by-step instructions for constructing a learner persona and a master prompt (for a chatbot) that brings the persona to life virtually.
+Furthermore, in a repetitive process, participants will plan their first teaching idea, incorporating the persona they have created and basing their adjustments on it.
+The workshop will also include time for discussion, brief reflection, and initial transfer.
+The learning objectives of the workshop are:
+Participants will gain an overview of the purpose and benefits of learner personas for lesson planning.
+Participants will use the learner persona to develop an initial lesson plan through an iterative process.
+A learner persona template and the master prompt will be provided as resources. I will also create a prototype learner and bring it with me. This prototype can be expanded or adapted during the discussion if desired. Using the master prompt, each participant should then create an AI learner persona that closely resembles their own learners.
+The workshop is scheduled to last 120 minutes (as stated in the call for proposals).
+The workshop is aimed at teachers, researchers, and individuals involved in educational planning.
+
+REFERENCES? 
+
+
 ### Author, University. 
 ### _Abstract title_
 Abstract text
+
 
 
 
