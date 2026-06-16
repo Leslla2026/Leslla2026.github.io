@@ -13,6 +13,7 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Franziska Förster](#franziska-förster,-Friedrich-Schiller-University-Jena.), _Real-Life Digital Literacy Practices of Arabic-Speaking Adult Migrants_
 - [Véronique Fortier](#véronique-fortier,-Université-du-Québec-à-Montréal.), [Catherine Maynard](#catherine-maynard,-Université-du-Québec-à-Montréal.), [Suzie Beaulieu](#suzie-beaulieu,-Université-Laval.), [Valérie Amireault](#valérie-amireault,-Université-du-Québec-à-Montréal.), _Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project_
 - [Matilde Grünhage-Monetti](#matilde-grünhage-monetti,-language-for-work,-an-initiative-of-the-council-of-europe.), [Siliva Miglio](#siliva-miglio,-language-for-work,-an-initiative-of-the-council-of-europe.), [Olessia Götzinger](#olessia-götzinger,-MITSPRACHE-Bildungszentrum-Oberjösbach.), _Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants_
+- [Markéta Hajská](#Markéta-Hajská,-CUNI-Univerzita-Karlova.),[Pavel Kubanik](#pavel-kubanik,-CUNI-Univerzita-Karlova.) _Romani: One Language, Two Stories_
 - [Melissa Hauber-Özer](#melissa-hauber-özer,-university-of-missouri.), [Kelly Leavitt](#kelly-leavitt,-university-of-missouri.), _Digital Storytelling as Critical Multiliteracies Pedagogy_
 - [Belma Haznedar](#belma-haznedar,-Boğaziçi-university.), [Elifcan Öztekin](#elifcan-öztekin,-university-of-granada.), _Exploring Teacher Candidates' Attitudes Toward Multilingualism in the Turkish Context_
 - [Ann-Kristin Helland Gujord](#ann-kristin-helland-gujord,-university-of-bergen.), [Linda Evenstad Emilsen](#linda-evenstad-emilsen,-Østfold-University-College.), _Early grammatical development in a non-academic sample_
@@ -36,7 +37,10 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), [Judith Rispens](#judith-rispens,-university-of-amsterdam.), _Word learning in emergent readers: to what extent does written input help?_
 - [Marieke Vanbuel](#marieke-vanbuel,-KU-Leuven-&-Ghent-University.), _How do LESLLA learners process multimodal texts?_
 - [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _MATESOL Student Teachers' Preparation, Challenges, and Growth in Community-Based Teaching with Afghan Refugee Women_
-
+- [Marta Young-Scholtern](#marta-young-scholten,-newcastle-university.,-university-of-washington.), _Ineke van de Craats and Heide Wringley and the studies that created LESLLA_
+ 
+ 
+  - 
 - [Author](#author,-university.), _Title_
   
 ### Marilyn L. Abott, University of Alberta. 
@@ -226,6 +230,16 @@ References
 Braddell, A. and Miller, L. (2017), Supporting migrants in low‐paid, low‐skilled employment in London to improve their English. In Beacco, J-C., Krumm, H-J., Little, D. and Thalgott, P. (eds) (2017), The Linguistic Integration of Adult Migrants, Some lessons from research  / L’intégration linguistique des migrants adultes, Les enseignements de la recherche. Berlin: De Gruyter Mouton / Council of Europe. 
 OECD (2023), Introduction Measures for Newly-Arrived Migrants, Making Integration Work. Paris: OECD Publishing. https://doi.org/10.1787/5aeddbfe-en
 Stirling, A. (2015), Employment outcomes for migrants in European labour markets. London: IPPR
+
+
+
+
+### Markéta Hajská, CUNI-Univerzita Karlova. 
+### Pavel Kubanik, .CUNI-Univerzita Karlova
+### _Romani: One Language, Two Stories_
+Romani has several million speakers worldwide, with hundreds of thousands in the Czech Republic and Slovakia. Across Europe, the Romani people constitute a highly heterogeneous community, and the same is true of the individual varieties of Romani. From the outside, the Romani people and the Romani language are viewed as a single entity, and policy (including language policy) typically treats them as such. The Czech Republic and Slovakia are the countries where we find two varieties of Romani with vastly different levels of linguistic vitality; two linguistic communities to which the same policy has been and continues to be applied, yet with entirely different outcomes. Using this example, our lecture will provide a basic overview of the situation of Romani in the Czech Republic and Slovakia, while also serving as a foundation for broader reflection on the factors influencing ethnolinguistic vitality and also situation of these varieties (without firmly established standardization) within the educational systems of the mentioned countries.
+
+REFERNCES?
 
 
 
@@ -637,10 +651,19 @@ Young-Scholten, M., Peyton, J. K., Sosinski, M., & Cabeza, A. M. (2015). LESLLA 
 
 
 
+### Marta Young-Scholten, Newcastle University and University of Washington. 
+### _Ineke van de Craats and Heide Wrigley and the studies that created LESLLA_
+In 2025 we bid farewell to two women without whom LESLLA likely wouldn’t exist: Ineke van de Craats in the Netherlands and Heide Spruck Wrigley in the USA. Two years before the very first LESLLA symposium in 2005, Larry Condelli along with Heide and several others had published the results of a longitudinal study of 496 students in the USA from Mexico, Central and South American countries, South East Asian countries and East and West African countries.   They looked at both internal (literacy; oral language; age; native language) and external variables (instruction; program) pertaining to the 15 to 82 year-old learners of English in the study. A key finding was that adults with limited or no home language literacy progress the slowest. In complementary studies by Ineke van de Craats’ and main collaborators Jeanne Kurvers and Roeland van Hout worked with large numbers of study participants mostly from Morocco and Turkey to include external variables but to focus more on internal factors such as metalinguistic awareness. These studies, too, paint  similarly slow progress for LESLLA learners. The research they were involved in feeds into LESLLA’s current Vision Statement, namely “a world where LESLLA learners access high-quality, research-based, second language and literacy education that empowers them to pursue their own life goals.”  
+The findings from these studies, including responses to audience members at LESLLA symposia where they were presented, have over the last 20+ years given rise to the need to consider at a microscopic level what internal factors involve, and to step back to take a wider perspective for the role played by a range of external factors some of which practitioners can control.   
+As I provide an overview of the studies in which Heide and Ineke were involved, I will ask the audience to make a list of two or three pedagogical implications/applications emerging from these studies. I’ll then share a list of research questions and issues which the findings from these studies have allowed us to ask and to pursue over the last 20+ years. I will wrap up by asking the audience what implications/applications they have listed, that is how Ineke and Heide have changed what we do in the classroom.  
+
+REFERNCES?
+
+
+
 ### Author, University. 
 ### _Abstract title_
 Abstract text
-
 
 
 
