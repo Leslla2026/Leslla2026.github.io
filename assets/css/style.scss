@@ -220,6 +220,17 @@ body {
   text-decoration: underline;
 }
 
+@media (max-width: 768px) {
+  .top-nav {
+    margin-bottom: 1.5rem;
+  }
+
+  .top-nav .menu li {
+    width: 100%;
+  }
+}
+
+
 
 /* =====================================================
    8) DROPDOWN "Schedule"
