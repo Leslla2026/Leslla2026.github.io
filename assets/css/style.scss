@@ -219,22 +219,36 @@ section {
 @media (max-width: 768px) {
 
   .top-nav .menu {
-    flex-direction: column;      /* verticale */
-    align-items: center;         /* centrato */
-    gap: 0.3rem;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
   }
 
   .top-nav .menu li {
     width: 100%;
-    text-align: center;
+    text-align: left;
+    border-bottom: 1px solid #eee;
   }
 
-  .top-nav .menu a {
+  .top-nav .menu a,
+  .dropdown-toggle {
     display: block;
-    padding: 0.6rem 0;
-    font-size: 1.1rem;
+    padding: 0.7rem 1rem;
+    width: 100%;
   }
 
+}
+
+/* dropdown base */
+.dropdown-menu {
+  display: none;
+  list-style: none;
+  padding-left: 1rem;
+}
+
+/* quando attivo */
+.dropdown.active .dropdown-menu {
+  display: block;
 }
 
 
