@@ -154,10 +154,6 @@ section {
 
 /* altri loghi */
 
-body {
-  position: relative;
-}
-
 .corner-logos {
   margin-top: 5rem;
   display: flex;
@@ -221,14 +217,26 @@ body {
 }
 
 @media (max-width: 768px) {
-  .top-nav {
-    margin-bottom: 1.5rem;
+
+  .top-nav .menu {
+    flex-direction: column;      /* verticale */
+    align-items: center;         /* centrato */
+    gap: 0.3rem;
   }
 
   .top-nav .menu li {
     width: 100%;
+    text-align: center;
   }
+
+  .top-nav .menu a {
+    display: block;
+    padding: 0.6rem 0;
+    font-size: 1.1rem;
+  }
+
 }
+
 
 
 
