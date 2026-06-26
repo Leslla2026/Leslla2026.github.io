@@ -247,7 +247,7 @@ section {
 }
 
 /* quando attivo */
-.dropdown.active .dropdown-menu {
+.dropdown.open .dropdown-menu {
   display: block;
 }
 
