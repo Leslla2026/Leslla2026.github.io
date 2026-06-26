@@ -23,7 +23,7 @@ permalink: /day2/
   <tbody>
     <tr>
       <td class="time">9:00-9:15</td>
-      <td colspan="4"> <i> Opening session  </i> <br> Egle Mocciaro (Masarykova Univerzita; LESLLA past president) <br> Kaatje Dalderop (Vrije Universiteit, Amsterdam; LESLLA President) Gabriela Jessome (LESLLA Vice President) <br> MUNI delegates </td>
+      <td colspan="4"> <i> Opening session  </i> <br> Egle Mocciaro (Masarykova Univerzita; LESLLA past president) <br> Kaatje Dalderop (LESLLA President) Gabriela Jessome (LESLLA Vice President) <br> MUNI delegates </td>
     </tr>
     <tr class="schedule-section">
     <td colspan="5"> Keynote Speech</td>
