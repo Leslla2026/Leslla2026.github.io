@@ -82,10 +82,6 @@ permalink: /day3/
     <tr>
       <td class="time">9:30–10:30</td>
       <td>
-        <strong>Laëtitia Giorgis</strong><br>
-        <i>Université Grénobles-Alpes</i><br>
-        Alphabétisation tardive et multimodalité: vers une acculturation à l’écrit incarnée et située chez de grands adolescents allophones  
-      </td>
       <td>
         <strong>Linda Evenstad Emilsen* & Ann-Kristin Gujord°</strong><br>
         <i>*Høgskolen i Østfold, °Universitetet i Bergen</i><br>
