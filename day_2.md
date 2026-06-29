@@ -107,7 +107,7 @@ permalink: /day2/
     <tr>
       <td class="time">11:15-12:15 </td>
       <td colspan="2"><i> Poster session with coffee</i></td>
-      <td colspan="2"><strong> Rebecca Hayes-Laughton</strong> <i> King's College, London </i>  Devising radical grammar: grassroots drama as a pedagogical tool.<br>  <strong> Martina Franz dos Santos </strong> <i> Phillips University of Marburg </i>. Real literacies in adult second language literacy instruction: an intervention study. <br> <strong> Tsun Yang Chuang *°, Emanuelle Canut°, Morgane Jourdain* </strong> <i> *KU Leuven,°University of Lille </i>. Understending the non-comprehension of instructions among learners with limited schooling: a comparative conversation analysis of French language integration classes. <br> <strong> Lorenzo Albanesi* & Kristýna Lorenzová* </strong> <i> *Masarykova Univerzita </i>. If you are waiting for literacy and input: do analytic constructions emerge? </td>    
+      <td colspan="2"><strong> Rebecca Hayes Laughton</strong> <i> King's College, London </i>  Devising radical grammar: grassroots drama as a pedagogical tool.<br>  <strong> Martina Franz dos Santos </strong> <i> Phillips University of Marburg </i>. Real literacies in adult second language literacy instruction: an intervention study. <br> <strong> Tsun Yang Chuang *°, Emanuelle Canut°, Morgane Jourdain* </strong> <i> *KU Leuven,°University of Lille </i>. Understending the non-comprehension of instructions among learners with limited schooling: a comparative conversation analysis of French language integration classes. <br> <strong> Lorenzo Albanesi* & Kristýna Lorenzová* </strong> <i> *Masarykova Univerzita </i>. If you are waiting for literacy and input: do analytic constructions emerge? </td>    
     </tr>
     <tr>
       <td class="time">12:15-13:15</td>
@@ -141,7 +141,7 @@ permalink: /day2/
       Lifelong learning practitioners celebrate the work of Heide Wrigley in the best way we know how.<br> <strong>In presence and remotely.</strong> <br> No need for pre-registration.</td>
       <td> <strong>Cecilia Bartoli* & Kristýna Lorenzová°</strong><br> <i> *Asinitas, Roma & Università di Palermo; °Masarykova Univerzita </i><br>Representing the multilingual self:  multimodal practices for linguistic autobiography in migration contexts. <br> <strong> Only in presence. </strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register. </td>
       <td><strong>Davide Schirò</strong><br><i> Università di Palermo </i><br> Using picturebooks in plurilingual contexts: potentialities and risks. <br> <strong> Only in presence. </strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.</td>
-      <td><strong>Kaatje Dalderop & Annemarie Nuwenhoud</strong> <br> <i> Indipendent researcher; Vrije Universiteit, Amsterdam </i><br> 
+      <td><strong>Kaatje Dalderop* & Annemarie Nuwenhoud°</strong> <br> <i> *Independent researcher; °Vrije Universiteit, Amsterdam </i><br> 
       Research based practice, practice based research bridging the gap <br> <strong> Only in presence. </strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register. </td>
     </tr>
     <tr>
