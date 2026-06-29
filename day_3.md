@@ -117,11 +117,6 @@ permalink: /day3/
         The distribution of burdens within Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship.
       </td>
       <td>
-        <strong>Morgane Jourdain</strong><br>
-        <i>Katholieke Universiteit Leuven</i><br>
-        Beyond “Low Literacy”: A Critical Discourse Analysis of Deficit Thinking in European Policy Frameworks on Migrants’ Language Acquisition
-      </td>
-    </tr>
 
     <tr>
       <td class="time">10:30–11:00</td>
