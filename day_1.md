@@ -113,9 +113,7 @@ permalink: /day1/
     <col style="width:17%">
     <col style="width:17%">
   </colgroup>
-  
  <tbody> 
-
     <tr class="schedule-section">
       <td colspan="6">Afternoon session</td>
     </tr>
