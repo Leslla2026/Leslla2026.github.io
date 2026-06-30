@@ -88,7 +88,7 @@ permalink: /day3/
         Early grammatical development in a non-academic sample
       </td>
       <td>
-        <strong>Marta Maffia, Raymond Siebetcheu, Anna De Meo, Noemi Lari & SAI Pontassieve^</strong><br>
+        <strong>Marta Maffia*,Raymond Siebetcheu°, Anna De Meo*, Noemi Lari° & SAI Pontassieve^</strong><br>
         <i>*Università di Napoli L'Orientale; °Università per Stranieri di Siena; ^Independent Researcher</i><br>
         Embodied plurilingualism in adult literacy learners: insights from language portraits across Italy
       </td>
