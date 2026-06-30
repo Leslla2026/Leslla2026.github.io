@@ -32,7 +32,7 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Friederike Lüpke](#friederike-lüpke,-university-of-helsinki.), _Lead language writing as an adaptive infrastructure for multilingual literacy development_
 - [Victoria Lyasota](#victoria-lyasota,-ASSIST-Community-Services-Centre,-Edmonton-AB-Canada.), _Integrating Multicultural Art into a Literacy Classroom_
 - [Marta Maffia](#marta-maffia,-university-of-naples-l'orientale.), [Raymond Siebetcheu](#raymond-siebetcheu,-university-for-foreigners-of-siena.), [Anna De Meo](#anna-de-meo,-university-of-naples-l'orientale.), [Noemi Lari](#noemi-lari,-university-for-foreigners-of-siena.), _Embodied plurilingualism in adult literacy learners: insights from language portraits across Italy_- 
-- [Eva Malessa](#eva-malessa., -university-of-turku.), [Live Grinden](#live-grinden, -western-norway-university-of-applied-sciences.), [Skye Playsted](#skye-playsted, -the-university-of-queensland.), [Jemima Rillera Kempster](#jemima-rillera-kempster, -the-university-of-queensland.) _Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders_
+- [Eva Malessa](#eva-malessa,-university-of-turku.), [Live Grinden](#live-grinden,-western-norway-university-of-applied-sciences.), [Skye Playsted](#skye-playsted,-the-university-of-queensland.), [Jemima Rillera Kempster](#jemima-rillera-kempster,-the-university-of-queensland.) _Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders_
 - [Catherine Maynard](#catherine-maynard,-Université-du-Québec-à-Montréal.), [Véronique Fortier](#véronique-fortier,-Université-du-Québec-à-Montréal.), [Suzie Beaulieu](#suzie-beaulieu,-Université-Laval.), [Valérie Amireault](#valérie-amireault,-Université-du-Québec-à-Montréal.), _LESLLA teachers' relationship to reading and writing in adult French L2 literacy classrooms_
 - [Anna Mendoza](#anna-mendoza,-the-university-of-illinois-at-urbana-champaign.), [Elif Varlik](#elif-varlik,-the-university-of-illinois-at-urbana-champaign.), [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest_
 - [Fernanda Minuz](#fernanda-minuz,-independent-researcher-and-consultant,-bologna,-italy.), [Alessandro Borri](#alessandro-borri,-CPIA-Montagna,-Castel-di-Casio,-Italy.), _Unaccompanied minors in adult education: listening to their voices_
@@ -41,12 +41,12 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Manuela Pinto](#manuela-pinto,-utrecht-university.), [Darin Nshiwi](#darin-nshiwi,-utrecht-university.), [Ali Işik](#ali-işik,-utrecht-university.), [Birgen Işik](#birgen-işik,-utrecht-university.), _A Dream Too Far: Dutch Learning Needs of Asylum Seekers and Current Dutch Learning Policy and Practices at the Asylum Seeker Center_
 - [Bart Siekman](#bart-siekman,-university-of-amsterdam.), [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Josje Verhagen](#josje-verhagen,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
 - [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), [Judith Rispens](#judith-rispens,-university-of-amsterdam.), _Word learning in emergent readers: to what extent does written input help?_
+-  [David Stops](#david-stops,-indepented-researcher.), _In the shoes of our learners: AI learner personas as a thinking tool in lesson planning for literacy_
 - [Marieke Vanbuel](#marieke-vanbuel,-KU-Leuven-&-Ghent-University.), _How do LESLLA learners process multimodal texts?_
+- [Elif Varlik](#elif-varlik,-university-of-Illinois-at-Urbana-Champaign.), _Building Critical Multilingual Awareness through Collaborative Online Study Sessions: A Multiple Case Study of LESLLA Teachers_
 - [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _MATESOL Student Teachers' Preparation, Challenges, and Growth in Community-Based Teaching with Afghan Refugee Women_
 - [Marta Young-Scholtern](#marta-young-scholten,-newcastle-university.,-university-of-washington.), _Ineke van de Craats and Heide Wringley and the studies that created LESLLA_
--  [David Stops](#david-stops,-indepented-researcher.), _In the shoes of our learners: AI learner personas as a thinking tool in lesson planning for literacy_
   
-
 - [Author](#author,-university.), _Title_
   
 ### Marilyn L. Abott, University of Alberta. 
@@ -793,10 +793,46 @@ Demoulin, C., & Kolinsky, R. (2016). Does learning to read shape verbal working 
 Spit, S., Andringa, S., & Rispens, J. (2025). Word learning in emergent readers: to what extent does written input help? Applied Psycholinguistics, 46, e50. doi:10.1017/S0142716425100362
 
 
+
+### David Stops, Independent Researcher.
+ON LINE WORKSHOP?
+
+### _In the shoes of our learners: AI learner personas as a thinking tool in lesson planning for literacy_
+
+What if learners were included in lesson planning as real people with a biography and everyday life? How would teaching change if teachers took this change of perspective seriously?
+In this workshop, participants work with (AI) learner personas: they create a fictional but realistic and multi-layered character who represents their learners. A learner persona offers the opportunity to think specifically about your own learners when planning lessons, in addition to content or level appropriateness: what makes learning easier for my learners, what makes it more difficult for them? What are the individual needs of my learners and how can I meet them?
+Participants collaboratively and dialogically develop a sample persona for a prototypical learner, i.e., an adult with primary or functional illiteracy and limited and interrupted formal education, in order to highlight typical areas of tension and sharpen awareness of the diversity of participants. 
+Participants will receive step-by-step instructions for constructing a learner persona and a master prompt (for a chatbot) that brings the persona to life virtually.
+Furthermore, in a repetitive process, participants will plan their first teaching idea, incorporating the persona they have created and basing their adjustments on it.
+The workshop will also include time for discussion, brief reflection, and initial transfer.
+The learning objectives of the workshop are:
+Participants will gain an overview of the purpose and benefits of learner personas for lesson planning.
+Participants will use the learner persona to develop an initial lesson plan through an iterative process.
+A learner persona template and the master prompt will be provided as resources. I will also create a prototype learner and bring it with me. This prototype can be expanded or adapted during the discussion if desired. Using the master prompt, each participant should then create an AI learner persona that closely resembles their own learners.
+The workshop is scheduled to last 120 minutes (as stated in the call for proposals).
+The workshop is aimed at teachers, researchers, and individuals involved in educational planning.
+
+REFERENCES? 
+
+
 ### Marieke Vanbuel, KU Leuven & Ghent University. 
 ### _How do LESLLA learners process multimodal texts?_
 Texts for beginning second language (L2) learners are often multimodal, i.e., they combine text and images (Montero Perez, 2020). While images have been found to support reading comprehension and incidental vocabulary acquisition in L1 and L2 contexts (Guo et al., 2020), little is known about how multimodal texts are processed by LESLLA learners. For emergent readers, multimodal texts may be particularly beneficial because they facilitate the decoding process. At the same time, however, multimodality may induce a split-attention effect, diverting focus from the text and hindering comprehension and learning (Mayer & Moreno, 1998). This effect may be more pronounced under complex task conditions (e.g., reading to locate multiple specific pieces of information instead of a single piece) (Sweller, 1988). However, complexity may also encourage careful reading, potentially enhancing comprehension and vocabulary acquisition (Jung & Lee, 2023; Jung & Révész, 2018). Since research on LESLLA reading processes in multimodal conditions is lacking, no findings on the presence or impact of these effects are available. 
 In this talk, I present findings from an eye tracking study that examines how LESLLA learners (N = 27) process multimodal texts under simple and complex task conditions, focusing on their attention to images versus text. Texts also included 8 novel target words. Comprehension and incidental vocabulary learning (form recognition, form recall and meaning recognition) were assessed. Eye movements were recorded with an Eyelink Portable Duo (SR Research). Results show no sign of a split attention effect: learners predominantly focused on text, regardless of condition, in line with findings for other L2 learners (Pellicer-Sánchez, 2022). However, reading patterns varied. While some participants integrated information from text, images and target words, others attended to images only before or after reading, or predominantly focused on the novel words. Learners who managed to integrate the information from all the different sources at the appropriate moments achieved higher comprehension scores and greater gains in meaning recognition than those who primarily focused on the text and only briefly attended the images. These findings underscore the importance of teaching LESLLA learners to apply reading strategies to integrate information from different input sources in order to effectively navigate multimodal texts, and to design tasks that require and facilitate such integration.
+
+
+
+
+### Elif Varlik, University of Illinois at Urbana-Champaign. 
+### _Building Critical Multilingual Awareness through Collaborative Online Study Sessions: A Multiple Case Study of LESLLA Teachers_
+ONLINE PRESENTATION 
+
+LESLLA is a specialized field that addresses the complex needs of adult learners who are developing foundational literacy while simultaneously acquiring a second language. Given learners’ limited L1 textual literacy and metalinguistic awareness (van de Craats et al., 2006), LESLLA teachers require sustained professional development (PD) that goes beyond foundational reading instruction. Although existing PD initiatives (Kiramba & Trainin, 2025; Tammelin-Laine et al., 2021) often emphasize phonics and whole-part-whole approaches, they frequently overlook structured opportunities for reflective engagement with critical multilingual awareness. Research suggests that contextualized, collaborative inquiry, particularly in teacher-led study groups, can promote deeper professional learning (Farrelly, 2017; Maynard et al., 2024; Vinogradov & Liden, 2009). Drawing on the tradition of teacher study circles (Egan & Echelberger, 2023; Vinogradov, 2012; Young, 2009), this study conceptualized PD as sustained virtual study sessions.
+This qualitative multiple case study (Merriam, 1998) explored how participation in six weeks of synchronous online study sessions influenced the perceptions and preparedness of three in-service veteran LESLLA teachers in North America. Framed by critical multilingual language awareness (García, 2017) and guided by Liu’s (2013) critical reflection framework, the sessions addressed translanguaging, identity texts, trauma-informed pedagogy, pleasure reading, technology integration, and gender issues. Each session combined accessible research readings with structured dialogue and opportunities for participants to connect theoretical concepts to their own classroom contexts. Teachers were encouraged to reflect on their instructional assumptions, share classroom dilemmas, and consider practical adaptations for multilingual adult learners with limited formal education. Data from pre- and post-questionnaires, session discussions, and semi-structured interviews were analyzed thematically using an open–focused–selective coding process adapted from Charmaz’s (2014) constructivist grounded theory. Multiple cycles of analysis allowed for the identification of shifts in pedagogical awareness, areas of sustained uncertainty, and the perceived affordances of sustained virtual professional dialogue (Creswell, 2013; Saldaña, 2013). Findings indicate that the study sessions enhanced teachers’ awareness of multilingual pedagogies and deepened their understanding of the linguistic, cultural, and sociopolitical complexities shaping LESLLA classrooms. Participants described becoming more intentional in validating learners’ full linguistic repertoires and more reflective about how English-dominant norms can unintentionally marginalize adult emergent readers. Several teachers reported adapting materials and approaches shared during the sessions, such as incorporating translanguaging, identity texts, and using digital tools to support adult learners. 
+The virtual format fostered a collaborative community of practice that reduced professional isolation and supported dialogue across diverse teaching contexts. Teachers emphasized the value of having dedicated time to discuss classroom dilemmas specific to their teaching context, an opportunity often absent in traditional PD.
+While participants demonstrated strong expertise in translanguaging, identity texts, and technology integration, they expressed greater uncertainty regarding including trauma-informed pedagogy, gender-related participation barriers, and the implementation of pleasure reading in low-literacy settings. These findings highlight the importance of reflective, dialogue-based professional development models that move beyond technical literacy instruction and intentionally address critical multilingual awareness within LESLLA practice.
+
+
 
 ### Eda Yildirimer, The University of Arizona. 
 ### _MATESOL Student Teachers’ Preparation, Challenges, and Growth in Community-Based Teaching with Afghan Refugee Women_
@@ -827,25 +863,7 @@ REFERNCES?
 
 
 
-### David Stops, Independent Researcher.
-ON LINE WORKSHOP?
 
-### _In the shoes of our learners: AI learner personas as a thinking tool in lesson planning for literacy_
-
-What if learners were included in lesson planning as real people with a biography and everyday life? How would teaching change if teachers took this change of perspective seriously?
-In this workshop, participants work with (AI) learner personas: they create a fictional but realistic and multi-layered character who represents their learners. A learner persona offers the opportunity to think specifically about your own learners when planning lessons, in addition to content or level appropriateness: what makes learning easier for my learners, what makes it more difficult for them? What are the individual needs of my learners and how can I meet them?
-Participants collaboratively and dialogically develop a sample persona for a prototypical learner, i.e., an adult with primary or functional illiteracy and limited and interrupted formal education, in order to highlight typical areas of tension and sharpen awareness of the diversity of participants. 
-Participants will receive step-by-step instructions for constructing a learner persona and a master prompt (for a chatbot) that brings the persona to life virtually.
-Furthermore, in a repetitive process, participants will plan their first teaching idea, incorporating the persona they have created and basing their adjustments on it.
-The workshop will also include time for discussion, brief reflection, and initial transfer.
-The learning objectives of the workshop are:
-Participants will gain an overview of the purpose and benefits of learner personas for lesson planning.
-Participants will use the learner persona to develop an initial lesson plan through an iterative process.
-A learner persona template and the master prompt will be provided as resources. I will also create a prototype learner and bring it with me. This prototype can be expanded or adapted during the discussion if desired. Using the master prompt, each participant should then create an AI learner persona that closely resembles their own learners.
-The workshop is scheduled to last 120 minutes (as stated in the call for proposals).
-The workshop is aimed at teachers, researchers, and individuals involved in educational planning.
-
-REFERENCES? 
 
 
 ### Author, University. 
