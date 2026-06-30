@@ -121,23 +121,25 @@ permalink: /day1/
     </tr>
    
     <tr>
-      <th class="time"></th>
-      <th class="session">
-  <span style="display:block;"> Panel session </span>
+      <td class="time"></th>
+      <td class="session">
+  <span style="display:block;"> <strong>Panel session</strong> 
+  </span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
-    Ginger Kosobucki - Immigrant Welcome Center, Indianapolis <br> <i>What is fair assessment for LESLLA learners?</i>
+    <strong>Ginger Kosobucki</strong> - Immigrant Welcome Center, Indianapolis <br> <i>What is fair assessment for LESLLA learners?</i>
     </span>
-</th>
-      <th class="session">
-          <span style="display:block;"> Workshop </span>
+</td>
+      <td class="session">
+          <span style="display:block;"> <strong>Workshop</strong>
+          </span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
-     David Stops - Independent researcher, Berlin <br> <i>In the shoes of our learners</i> </span></th>
+      <strong>David Stops</strong> - Independent researcher, Berlin <br> <i>In the shoes of our learners</i> </span></td>
       <th class="session">Session 1</th>
       <th class="session">Session 2</th>
       <th class="session">Session 3</th>
