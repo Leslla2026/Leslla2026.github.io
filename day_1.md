@@ -121,7 +121,7 @@ permalink: /day1/
     </tr>
    
     <tr>
-      <td class="time"></th>
+      <td class="time"></td>
       <td class="session">
   <span style="display:block;"> <strong>Panel session</strong> 
   </span>
