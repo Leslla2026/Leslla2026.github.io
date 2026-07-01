@@ -17,6 +17,7 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Marie Fontaine](#marie-fontaine,-Assist-Community-Services-Centre,-Edmonton,-Alberta.), _Finding Meaning Through Drawing: Art-Based Task Assessment for Literacy and Plurilingual Learners_
 - [Franziska Förster](#franziska-förster,-Friedrich-Schiller-University-Jena.), _Real-Life Digital Literacy Practices of Arabic-Speaking Adult Migrants_
 - [Véronique Fortier](#véronique-fortier,-Université-du-Québec-à-Montréal.), [Catherine Maynard](#catherine-maynard,-Université-du-Québec-à-Montréal.), [Suzie Beaulieu](#suzie-beaulieu,-Université-Laval.), [Valérie Amireault](#valérie-amireault,-Université-du-Québec-à-Montréal.), _Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project_
+- [Live Grinden](#live-grinden,-university-of-applied-sciences-bergen.), _The distribution of burdens within Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship_
 - [Matilde Grünhage-Monetti](#matilde-grünhage-monetti,-language-for-work,-an-initiative-of-the-council-of-europe.), [Siliva Miglio](#siliva-miglio,-language-for-work,-an-initiative-of-the-council-of-europe.), [Olessia Götzinger](#olessia-götzinger,-MITSPRACHE-Bildungszentrum-Oberjösbach.), _Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants_
 - [Markéta Hajská](#Markéta-Hajská,-CUNI-Univerzita-Karlova.),[Pavel Kubanik](#pavel-kubanik,-CUNI-Univerzita-Karlova.) _Romani: One Language, Two Stories_
 - [Melissa Hauber-Özer](#melissa-hauber-özer,-university-of-missouri.), [Kelly Leavitt](#kelly-leavitt,-university-of-missouri.), _Digital Storytelling as Critical Multiliteracies Pedagogy_
@@ -351,6 +352,12 @@ Paillé, P. et Mucchielli, A. (2021). L’analyse qualitative en sciences humain
 Piccinin, S., & Dal Maso, S. (2021). Promoting literacy in adult second language learners: A systematic review of effective practices. Languages, 6(3), 127. https://doi.org/10.3390/languages6030127
 Vinogradov, P. (2010). Balancing top and bottom: Learner-generated texts for teaching phonics. LESLLA Symposium Proceedings, 5(1), 3–14. https://doi.org/10.5281/zenodo.8004038
 Young-Scholten, M. (2021). What do we know from 1 1⁄ 2 decades of LESLLA symposia? LESLLA Symposium Proceedings, 14(1), 69-82.
+
+
+
+### Live Grinden, University of Applied Sciences, Bergen.
+### _The distribution of burdens within Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship_
+A LESLLA learner is an adult migrant who goes through the complex process of learning to become print literate, or consolidating her print literacy, in a language which is not her first language. This presentation uses a critical applied linguistics lens to examine learners’ reflections on their preparation for and performance within a testing regime in relation to current language policy. Semi-structured interviews were conducted with 18 LESLLA learners. A Capability Approach (Sen, 1992, 2000) expanded with a relational and multidimensional aspect of disability (Terzi, 2005) including Buchanan et al.’s (2000) elements for disability analysis, served as a conceptual lens to analyse the data. Using reflexive thematic analysis (Braun & Clarke, 2022) the discussion suggests how participants, in various ways, assume and embody societal and political expectations embedded in the relevant policy framework.
 
 
 
