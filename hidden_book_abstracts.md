@@ -62,7 +62,7 @@
 - [Lorenzo Albanesi](#lorenzo-albanesi,-Masarykova-univerzita.), [Kristýna Lorenzová](#Kristýna-Lorenzová,-Masarykova-univerzita.) _If you are waiting for literacy and input: do analytic constructions emerge?_
 - [Tsun Yang Chuang](#tsun-yang-chuang,-ku-leuven-university-of-lille.), [Emanuelle Canut](#emanuelle-canut,-university-of-lille.), [Morgane Jourdain](#morgane-jourdain,-ku-leuven.) _Understanding the Non-Comprehension of Instructions among Learners with Limited Schooling: A Comparative Conversation Analysis of French Language Integration Classes_
 - [Martina Franz dos Santos](#martina-franz-dos-santos,-Philipps-Universität-Marburg.), _Real Literacies in Adult Second Language Literacy Instruction: An Intervention Study_
-- [Rebecca Hayes Laughton](#rebecca-hayes-laughton,-Kings-College-London-Women for Refugee Women-London.), _Devising a radical grammar: grassroots drama as pedagogical tool_
+- [Rebecca Hayes Laughton](#rebecca-hayes-laughton,-Kings-College-London-Women-for-Refugee-Women-London.), _Devising a radical grammar: grassroots drama as pedagogical tool_
 
 
 
