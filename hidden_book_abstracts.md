@@ -1,16 +1,29 @@
 ## Book of abstracts
 
-Abstract list:
-ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of discourse markers in diachrony_
+### Opening Session 1
 
-- [Marilyn L. Abott](#marilyn-l.-abott,-university-of-alberta.), [Kent K. Lee](#kent-k.-lee,-university-of-alberta.), _Shared Metacognition in a LESLLA Teacher Journal Club_
+- [Bart Siekman](#bart-siekman,-university-of-amsterdam.), [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Josje Verhagen](#josje-verhagen,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
+- Fatma ZAhri MISSING
 - [Lotta Aunio](#lotta-aunio,-univeristy-of-helsinki.), _Language learning without literacy?_
+- [Friederike Lüpke](#friederike-lüpke,-university-of-helsinki.), _Lead language writing as an adaptive infrastructure for multilingual literacy development_
+- [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), [Judith Rispens](#judith-rispens,-university-of-amsterdam.), _Word learning in emergent readers: to what extent does written input help?_
+
+
+### Opening Session 2
+
+- [Manuela Pinto](#manuela-pinto,-utrecht-university.), [Darin Nshiwi](#darin-nshiwi,-utrecht-university.), [Ali Işik](#ali-işik,-utrecht-university.), [Birgen Işik](#birgen-işik,-utrecht-university.), _A Dream Too Far: Dutch Learning Needs of Asylum Seekers and Current Dutch Learning Policy and Practices at the Asylum Seeker Center_
+- [Katharina Obens](#katharina-obens,-humboldt-university-of-berlin.), [Ioanna Liakou](#ioanna-liakou,-humboldt-university-of-berlin.), [David Zimmermann](#david-zimmermann,-humboldt-university-of-berlin.), _A Participatory Design-Based Research Approach to the Professionalisation of Inclusive Language Education for Adult Refugees with Learning Difficulties_
+- [Kathrin Drews](#kathrin-drews,-Mercator-Institut-für-Mehrsprachigkeit-und-sprachliche-Bildung,-Universität-zu-Köln.), [Ina-Maria Maahs](#ina-maria-maahs,-Mercator-Institut-für-Mehrsprachigkeit-und-sprachliche-Bildung,-Universität-zu-Köln.), _From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling_
+- [Matilde Grünhage-Monetti](#matilde-grünhage-monetti,-language-for-work,-an-initiative-of-the-council-of-europe.), [Siliva Miglio](#siliva-miglio,-language-for-work,-an-initiative-of-the-council-of-europe.), [Olessia Götzinger](#olessia-götzinger,-MITSPRACHE-Bildungszentrum-Oberjösbach.), _Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants_
+
+
+### Presentations
+- [Marilyn L. Abott](#marilyn-l.-abott,-university-of-alberta.), [Kent K. Lee](#kent-k.-lee,-university-of-alberta.), _Shared Metacognition in a LESLLA Teacher Journal Club_
 - [Cecilia Bartoli](#cecilia-bartoli,-università-di-palermo,-aps-asinitas-roma.), [Kristýna Lorenzová](#kristýna-Lorenzová,-masarykova-univerzita.) _Representing the multilingual self: multimodal practices for linguistic autobiography in migration contexts_
 - [Vincent Bédard](#vincent-bédard,-université-du-Québec-à-Montréal.), _Beyond Deficit Lens: Making Visible LESLLA Learners' Second Language Use Practices_
--  [Jennifer Christenson](#jennifer-christenson,-abc-english.), [Christine Czinglar](#christine-czinglar,-friederich-schiller-university-of-jena.), [Katharina Karges](#katharina-karges,-friederich-schiller-university-of-jena.), [Martina Franz dos Santos](#martina-franz-dos-santos,-philipps-Universität-marburg.),[Marie-Anne Morand](#marie-anne-morand,-university-of-fribourg.), [Ginger Kosobucki](#ginger-kosobucki,-immigrant-welcome-center.) _What is fair assessment for LESLLA learners_
+- [Jennifer Christenson](#jennifer-christenson,-abc-english.), [Christine Czinglar](#christine-czinglar,-friederich-schiller-university-of-jena.), [Katharina Karges](#katharina-karges,-friederich-schiller-university-of-jena.), [Martina Franz dos Santos](#martina-franz-dos-santos,-philipps-Universität-marburg.),[Marie-Anne Morand](#marie-anne-morand,-university-of-fribourg.), [Ginger Kosobucki](#ginger-kosobucki,-immigrant-welcome-center.) _What is fair assessment for LESLLA learners_
 - [Valentina Cotesta](#cotesta-valentina,-university-of-Palermo.), _Mediation and plurilingual repertoires in LESLLA contexts: a preliminary study on inclusive language assessment in Italy_
 -  [Kaatje Dalderop](#kaatje-dalderop,-non-specificato.), [Annemarie Nuwenhoud](#annemarie-nuwenhoud,-non-specificato.) _Research-based practice, practice-based research; bridging the gap_
-- [Kathrin Drews](#kathrin-drews,-Mercator-Institut-für-Mehrsprachigkeit-und-sprachliche-Bildung,-Universität-zu-Köln.), [Ina-Maria Maahs](#ina-maria-maahs,-Mercator-Institut-für-Mehrsprachigkeit-und-sprachliche-Bildung,-Universität-zu-Köln.), _From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling_
 - [Patsy Egan](#patsy-egan,-atlas-director-hamline-university.), [Janet Isserlis](#janet-isserlis,-independent-researcher.), _Lifelong learning: Practitioners celebrate the work of Heide Wrigley in the best way we know how_
 - [Clelia Farina](#clelia-farina,-university-of-palermo.), _Observing Competence and Performance in Talk-in-Interaction: Notes from an Italian LA Course with Newly Arrived Plurilingual Learners_
 - [Clelia Farina](#clelia-farina,-university-of-palermo.), _From the Other Side of the Desk: Experiencing a Repertoire-Based Approach to Additional Language Literacy_
@@ -18,8 +31,6 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Franziska Förster](#franziska-förster,-Friedrich-Schiller-University-Jena.), _Real-Life Digital Literacy Practices of Arabic-Speaking Adult Migrants_
 - [Véronique Fortier](#véronique-fortier,-Université-du-Québec-à-Montréal.), [Catherine Maynard](#catherine-maynard,-Université-du-Québec-à-Montréal.), [Suzie Beaulieu](#suzie-beaulieu,-Université-Laval.), [Valérie Amireault](#valérie-amireault,-Université-du-Québec-à-Montréal.), _Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project_
 - [Live Grinden](#live-grinden,-university-of-applied-sciences-bergen.), _The distribution of burdens within Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship_
-- [Matilde Grünhage-Monetti](#matilde-grünhage-monetti,-language-for-work,-an-initiative-of-the-council-of-europe.), [Siliva Miglio](#siliva-miglio,-language-for-work,-an-initiative-of-the-council-of-europe.), [Olessia Götzinger](#olessia-götzinger,-MITSPRACHE-Bildungszentrum-Oberjösbach.), _Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants_
-- [Markéta Hajská](#Markéta-Hajská,-CUNI-Univerzita-Karlova.),[Pavel Kubanik](#pavel-kubanik,-CUNI-Univerzita-Karlova.) _Romani: One Language, Two Stories_
 - [Melissa Hauber-Özer](#melissa-hauber-özer,-university-of-missouri.), [Kelly Leavitt](#kelly-leavitt,-university-of-missouri.), _Digital Storytelling as Critical Multiliteracies Pedagogy_
 - [Belma Haznedar](#belma-haznedar,-Boğaziçi-university.), [Elifcan Öztekin](#elifcan-öztekin,-university-of-granada.), _Exploring Teacher Candidates' Attitudes Toward Multilingualism in the Turkish Context_
 - [Ann-Kristin Helland Gujord](#ann-kristin-helland-gujord,-university-of-bergen.), [Linda Evenstad Emilsen](#linda-evenstad-emilsen,-Østfold-University-College.), _Early grammatical development in a non-academic sample_
@@ -30,7 +41,6 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Erika Husby](#erika-husby,-university-of-massachusetts-boston.), _U.S. Citizenship: The Gap Between Policy and Lived Reality_
 - [Nadja Kerschhofer-Puhalo](#nadja-kerschhofer-puhalo,-Universität-Hamburg.), _Views in*2 Literacies – a multimodal text collection on a participatory web-platform_
 - [Carl Laberge](#carl-laberge,-université-Laval.), _LESLLA learners' plurilingual development: A funds of knowledge approach to uncover their perspectives_
-- [Friederike Lüpke](#friederike-lüpke,-university-of-helsinki.), _Lead language writing as an adaptive infrastructure for multilingual literacy development_
 - [Victoria Lyasota](#victoria-lyasota,-ASSIST-Community-Services-Centre,-Edmonton-AB-Canada.), _Integrating Multicultural Art into a Literacy Classroom_
 - [Marta Maffia](#marta-maffia,-university-of-naples-l'orientale.), [Raymond Siebetcheu](#raymond-siebetcheu,-university-for-foreigners-of-siena.), [Anna De Meo](#anna-de-meo,-university-of-naples-l'orientale.), [Noemi Lari](#noemi-lari,-university-for-foreigners-of-siena.), _Embodied plurilingualism in adult literacy learners: insights from language portraits across Italy_- 
 - [Eva Malessa](#eva-malessa,-university-of-turku.), [Live Grinden](#live-grinden,-western-norway-university-of-applied-sciences.), [Skye Playsted](#skye-playsted,-the-university-of-queensland.), [Jemima Rillera Kempster](#jemima-rillera-kempster,-the-university-of-queensland.) _Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders_
@@ -38,10 +48,6 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Anna Mendoza](#anna-mendoza,-the-university-of-illinois-at-urbana-champaign.), [Elif Varlik](#elif-varlik,-the-university-of-illinois-at-urbana-champaign.), [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest_
 - [Fernanda Minuz](#fernanda-minuz,-independent-researcher-and-consultant,-bologna,-italy.), [Alessandro Borri](#alessandro-borri,-CPIA-Montagna,-Castel-di-Casio,-Italy.), _Unaccompanied minors in adult education: listening to their voices_
 - [Marie-Anne Morand](#marie-anne-morand,-university-of-fribourg.), [Claudia Kossinna](#claudia-kossinna,-university-of-fribourg.), _Word stress identification by LESLLA learners and second-script learners_
-- [Katharina Obens](#katharina-obens,-humboldt-university-of-berlin.), [Ioanna Liakou](#ioanna-liakou,-humboldt-university-of-berlin.), [David Zimmermann](#david-zimmermann,-humboldt-university-of-berlin.), _A Participatory Design-Based Research Approach to the Professionalisation of Inclusive Language Education for Adult Refugees with Learning Difficulties_
-- [Manuela Pinto](#manuela-pinto,-utrecht-university.), [Darin Nshiwi](#darin-nshiwi,-utrecht-university.), [Ali Işik](#ali-işik,-utrecht-university.), [Birgen Işik](#birgen-işik,-utrecht-university.), _A Dream Too Far: Dutch Learning Needs of Asylum Seekers and Current Dutch Learning Policy and Practices at the Asylum Seeker Center_
-- [Bart Siekman](#bart-siekman,-university-of-amsterdam.), [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Josje Verhagen](#josje-verhagen,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
-- [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), [Judith Rispens](#judith-rispens,-university-of-amsterdam.), _Word learning in emergent readers: to what extent does written input help?_
 -  [David Stops](#david-stops,-indepented-researcher.), _In the shoes of our learners: AI learner personas as a thinking tool in lesson planning for literacy_
 - [Marieke Vanbuel](#marieke-vanbuel,-KU-Leuven-&-Ghent-University.), _How do LESLLA learners process multimodal texts?_
 - [Elif Varlik](#elif-varlik,-university-of-Illinois-at-Urbana-Champaign.), _Building Critical Multilingual Awareness through Collaborative Online Study Sessions: A Multiple Case Study of LESLLA Teachers_
@@ -49,7 +55,17 @@ ES.- [Egle Mocciaro](#egle-mocciaro,-masaryk-university.), _The development of d
 - [Marta Young-Scholtern](#marta-young-scholten,-newcastle-university.,-university-of-washington.), _Ineke van de Craats and Heide Wringley and the studies that created LESLLA_
   
 - [Author](#author,-university.), _Title_
-  
+
+
+
+### Posters
+- [Lorenzo Albanesi](#lorenzo-albanesi,-Masarykova-univerzita.), [Kristýna Lorenzová](#Kristýna-Lorenzová,-Masarykova-univerzita.) _If you are waiting for literacy and input: do analytic constructions emerge?_
+- [Tsun Yang Chuang](#tsun-yang-chuang,-ku-leuven-university-of-lille.), [Emanuelle Canut](#emanuelle-canut,-university-of-lille.), [Morgane Jourdain](#morgane-jourdain,-ku-leuven.) _Understanding the Non-Comprehension of Instructions among Learners with Limited Schooling: A Comparative Conversation Analysis of French Language Integration Classes_
+- [Martina Franz dos Santos](#martina-franz-dos-santos,-Philipps-Universität-Marburg.), _Real Literacies in Adult Second Language Literacy Instruction: An Intervention Study_
+- [Rebecca Hayes Laughton](#rebecca-hayes-laughton,-Kings-College-London-Women for Refugee Women-London.), _Devising a radical grammar: grassroots drama as pedagogical tool_
+
+
+
 ### Marilyn L. Abott, University of Alberta. 
 ### Kent K. Lee, University of Alberta.
 ### _Shared Metacognition in a LESLLA Teacher Journal Club_
@@ -64,6 +80,49 @@ Lee, K. K., & Abbott, M. L. (2021). Knowledge co-construction in professional re
 Williamson, K., Given, L. M., & Scifleet, P. (2018). Qualitative data analysis. In K. Willamson & G. Johanson (Eds.), Research methods: Information, systems, and contexts (2nd ed., pp. 453–476). Elsevier. https://doi.org/10.1016/B978-0-08-102220-7.00019-4
 Zhang, J., Scardamalia, M., Lamon, M., Messina, R., & Reeve, R. (2007). Socio-cognitive dynamics of knowledge building in the work of 9- and 10-year-olds. Education Technology Research and Development, 55, 117–145. https://doi.org/10.1007/s11423-006-9019-0
 
+
+
+### Lorenzo Albanesi, Masarykova Univerzita. 
+### Kristýna Lorenzová, Masarykova Univerzita.
+### _If you are waiting for literacy and input: do analytic constructions emerge?_ 
+
+Studies on naturalistic second language acquisition in migration contexts have documented the existence of non-target morphosyntactic patterns in the interlanguages of learners with different L1/LT pairs, where a basic (i.e., morphologically unanalyzed) form of a lexical verb is combined with a functional element, such as the copula or the light verb ‘do’ (e.g. sono fermare ‘(rougly) I am I stop, i.e. I stopped’; fare dentifriciə ‘(roughly) to do toothpaste, i.e. to brush teeth’), encoding grammatical information otherwise conveyed by inflection on the main verb in the target language (see Bernini 2003; Benazzo & Starren 2007; Julien et al. 2016; Mocciaro 2020; Pfaff 1992; Starren 2001). According to Bernini (2003), these patterns are temporary compensatory strategies that tend to vanish once finiteness becomes morphologically marked on the lexical verb. However, Mocciaro (2020; 2025) has shown that in learners with low literacy, such analytical strategies may persist longer and appear more stable in the micro-diachronic development of interlanguages. Evidence from other L2 varieties (e.g. Dutch and English) points in a similar direction, suggesting, however, also a general developmental phase in interlanguage construction (Vainnika et al. 2017, inter al.). Whether or not literacy plays a role in other learner corpora cannot be proven, given the frequent lack of clear information on participants’ profiles.  As Mocciaro (2025) notes, what still needs to be clarified is not only why these constructions emerge, but which circumstances increase their frequency and relative stability. In particular, literacy – or the lack thereof – shapes both the quantity and quality of the input available to learners. This input must be understood in context: it is primarily the specific discourse situations in which learners interact with “native speakers” (meant as users of different varieties of a given language, cf. Berruto 2003; Coulmas 1981; Davies 2013 inter al.), including those created by data‑elicitation tasks, rather than “input” in a broad, abstract sense. 
+
+Against this background, we will compare the contexts in which non-target analytical constructions occur by reviewing three corpora featuring various communicative tasks (e.g., interviews, narratives, picture-based descriptions), but representing different learner populations: 
+European Science Foundation (ESF) corpus (Feldweg 1991; Perdue 1993), a longitudinal collection of oral data from 40 adult migrants in Europe acquiring second languages in informal immersion contexts with sporadic interaction in the L2. For this study, L1 Italian – L2 German; L1 Punjabi – L2 English; L1 Spanish – L2 French; L1 Turkish – L2 German; 
+Stra-ParlaBO (Mauri et al., in press): Ukrainian, Moroccan, Chinese and Albanian speaker of L2 Italian; 
+BRITA corpus, a longitudinal corpus of L2 Italian from Slavic learners (L1 Czech, Slovak and Russian.) in a university setting, with limited naturalistic input and classroom-bound L2 exposure (Lorenzová 2027, in prep.). 
+
+The two learner groups (that is, those in (1)-(2) and in (3)) differ in a crucial respect: the presence (3) or absence of different levels of literacy (1-2). Nevertheless, the degree of literacy can only be inferred rather than assessed properly, because this condition has not been assumed as an explicit variable in the corpora in question.  
+Moreover, the access of these learners to input reveals a more complex picture. Migrant learners, although immersed in the target‑language environment, often receive naturalistic input only sporadically and almost exclusively in oral form, because of social marginalization and, therefore, low interaction with locals. University learners, by contrast, have very little exposure to naturalistic spoken input; most of what they receive is text‑based and mediated through textbooks, with only marginal contact with spontaneous L2 use outside the class. 
+Ultimately, the two groups share a limited exposure to the input (albeit for different reasons) and the specific speech contexts in which they interact with native speakers, which are, by and large, data collection contexts or teaching contexts. Furthermore, all three corpora were compiled using partially overlapping data-collection methods, such as semi-structured interviews and other tasks designed to elicit monolingual Italian speech.   
+Following Mocciaro (2025), we test the hypothesis that these contexts constitute the locus of change, the environments where analytic constructions might emerge, persist, and develop. To test this hypothesis, we will examine both the sociolinguistic setting of interactions (e.g. type of communicative setting and degree of exposure to naturalistic input) and the linguistic-discursive context in which analytic constructions occur. Particular attention is devoted to the input provided during the interaction itself, in order to assess whether specific elicitation patterns or lexical priming effects may facilitate the emergence of analytic constructions in learner varieties. 
+The findings are expected to contribute to a broader understanding of the mechanisms of morphosyntactic development in L2 acquisition under constrained conditions, and to refine methodological reflections on how the data collection methods play a role in the construction of the data itself (Albanesi & Lorenzová 2025).  
+This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726). 
+
+ References 
+
+Albanesi, L., & Lorenzová, K. (2025, September 30–October 1). Data in context: Where do analytical constructions emerge? [Poster presentation]. Developing New Languages in Migration Contexts, Brno, Czech Republic. 
+Benazzo, S., & Starren, M. (2007). L’émergence de moyens grammaticaux pour exprimer les relations temporelles en L2. Aile, 25, 129–157. 
+Bernini, G. (2003). The copula in learner Italian: Finiteness and verbal inflection. In C. Dimroth & M. Starren (Eds.), Information structure, linguistic structure and the dynamics of language acquisition (pp. 159–185). Amsterdam: John Benjamins. 
+Berruto, G. (2003). Sul parlante nativo (di italiano). In H.-I. Radaz & R. Schlösser (Eds.), Donum grammaticorum: Festschrift für Harro Stammerjohann (pp. 1–14). Berlin: Walter de Gruyter. 
+Coulmas, F. (1996). The Blackwell encyclopedia of writing systems. Oxford: Blackwell. 
+Davies, A. (2013). Native speakers and native users: Loss and gain. Cambridge: Cambridge University Press. 
+Feldweg, H. (1991). The European Science Foundation Second Language Database. Nijmegen: Max Planck Institute for Psycholinguistics. 
+Julien, M., van Hout, R., & van de Craats, I. (2016). Meaning and function of dummy auxiliaries in adult acquisition of Dutch as an additional language. Second Language Research, 32(1), 49–73. 
+Klein, W., & Perdue, C. (1997). The Basic Variety (or: Couldn’t natural languages be much simpler?). Second Language Research, 13(4), 301–347. 
+Lorenzová, K. (in prep.). The development of discourse markers in the interlanguages of Slavic learners of Italian as a non-mother tongue: A longitudinal study (Doctoral thesis). Masaryk University, Brno. 
+Mauri, C., Ballarè, S., & Zucchini, E. (2026). Parlare italiano in contesto migratorio: il corpus Stra-ParlaBO. Études Romanes de Brno, 47(1). 
+Mocciaro, E. (2020). The development of L2 Italian morphosyntax in adult learners with limited literacy. Palermo: UniPa Press. 
+Mocciaro, E. (2025). Proto-ausiliari e verbi supporto nella costruzione dell’interlingua di migranti adulti con alfabetismo limitato. In C. De Santis, N. Grandi, F. Masini, & F. Tamburini (Eds.), CLUB Working Papers in Linguistics (Vol. 9, pp. 81–98). Bologna: CLUB – Circolo Linguistico dell’Università di Bologna. https://doi.org/10.6092/unibo/amsacta/8647 
+Perdue, C. (Ed.). (1993). Adult language acquisition. Vol. 1: Field methods. Cambridge: Cambridge University Press. 
+Pfaff, C. W. (1992). The issue of grammaticalization in early German second language. Studies in Second Language Acquisition, 14, 273–296. 
+Starren, M. (2001). The second time: The acquisition of temporality in Dutch and French as a second language. Utrecht: LOT. 
+Vainikka, A., Young-Scholten, M., Ijuin, C., & Jarad, S. (2017). Literacy in the development of L2 English morphosyntax. In M. Sosiński (Ed.), Literacy education and second language learning for adults: Research, policy and practice (pp. 239–250). Granada: Universidad de Granada. 
+
+ 
+
+ 
 
 
 ### Lotta Aunio, University of Helsinki. 
@@ -143,8 +202,6 @@ Street, B. (2003). What’s ‘new’ in new literacy studies? Critical approach
 ### Marie-Anne Morand, University of Fribourg. 
 ### Ginger Kosobucki, Immigrant Welcome Center. 
 ### _What is fair assessment for LESLLA learners?_
-IN_PERSON WORKSHOP
-
 
 In fall 2025, the topic Assessment Around the Globe was presented at the LESLLA Coffee Break. It provided an opportunity to review the various standards and assessment frameworks currently used worldwide to assess LESLLA learners. Five presenters shared local assessment tools developed within their respective frameworks and contexts. These tools serve different purposes: placement and initial assessment, exploring literacy in the first language, gaining insight into functional literacy in everyday social domains, and assessing technical literacy skills such as recognizing sounds, syllables, and simple written texts.
 Across contexts, several shared themes emerged. Many LESLLA assessments are highly
@@ -159,6 +216,27 @@ The panel will begin with a brief introduction by the moderator, situating the d
 The remainder of the session will be devoted to an open discussion with participants, in which the issues raised by the panelists - such as defining and measuring literacy constructs, ensuring reliability and validity, and addressing potential consequences of assessment practices - will be taken up and explored further across contexts. The panel will conclude with final reflections from the moderator
 
 REFERENCES? 
+
+### Tsun Yang Chuang, KU Leuven, University of Lille. 
+### Emanuelle Canut, University of Lille. 
+### Morgane Jourdain, KU Leuven. 
+### _Understanding the Non-Comprehension of Instructions among Learners with Limited Schooling: A Comparative Conversation Analysis of French Language Integration Classes_ 
+
+Pedagogical tasks are central to language acquisition, yet their success depends on the teacher’s ability to provide clear task instructions (Van Den Branden, 2009). Existing research has shown how task instructions are constructed (Markee, 2015) and how learners respond when they have difficulties in comprehending them (Sert & Jacknick, 2015; Somuncu & Sert, 2019). However, which aspects of task instruction delivery and designs lead to learner comprehension difficulties in L2 classrooms remains underexplored.
+Moreover, research on task instructions has predominantly examined learners with established schooling backgrounds (e.g., secondary students), resulting in limited insight into how learners with little or no formal education engage with instructions. For these learners, their comprehension can be constrained by a lack of familiarity with school-based literacy practices and task formats commonly presupposed in language teaching materials and methods (Ahmad Yar & Jourdain, 2018; Carroll, 2024). 
+Addressing these two gaps, this study investigates interactional sources that hinder instruction comprehension among learners with different schooling backgrounds. The data draws on 72 hours of video-recorded classroom interaction from three French classes in the mandatory integration program for newcomers in Belgium, differentiated by learners’ schooling backgrounds (less than 6 years and no mastery of the Latin alphabet, 6 years or more, and 12 years or more). Using Conversation Analysis (CA), which treats comprehension as a collaboratively achieved, moment-by-moment process that is made visible during interaction (Macbeth, 2011), we examine how participants build understanding during instruction-giving sequences through verbal and embodied actions.
+Our analysis shows that learners with less schooling depend on immediate, explicit, and multimodally supported instructions. In successful sequences, the teacher coupled verbal instructions with embodied actions, such as making circles on the exercise or pointing to the relevant exercise, enabling learners to trace down the correct exercise. Non-comprehension emerged when instructional delivery was delayed, such as when materials were distributed among learners without immediate instructions. In these cases, learners with less schooling initiated the exercise with a different task modality. For example, they circled answers prior to listening in a listening comprehension activity with multiple-choice questions. In contrast, learners with more schooling proceeded with the exercise and showed no signs of non-comprehension when the instruction was implicit or delayed.
+By analysing instructional sequences in situ, this study illustrates how instructions can lead to problems of non-comprehension for L2 learners with limited schooling. The findings suggest that the fewer years of schooling learners have, the more L2 teachers need to segment instructions and minimize the time lapse between each instructional step and its execution. These results resonate with Glaser (2020), who showed that sequencing and breaking down instructions enhance their followability among beginning L2 children learners. Overall, the study underscores the importance of treating instruction-giving as a central site of pedagogical intervention in L2 classrooms involving learners with limited schooling, and highlights the need for teacher training that foregrounds explicit, timely, and multimodal instructional design.
+
+References
+Glaser, K. (2020). Instruction-giving in the primary English classroom–creating or obstructing learning opportunities. Instruction-Giving in the Primary English Classroom: Creating or Obstructing Learning Opportunities. https://www.researchgate.net/profile/Karen-Glaser-3/publication/341272506_Instruction-giving_in_the_primary_English_classroom_-_creating_or_obstructing_learning_opportunities/links/5f0eb68b45851512999b0f7d/Instruction-giving-in-the-primary-English-classroom-creating-or-obstructing-learning-opportunities.pdf
+Macbeth, D. (2011). Understanding understanding as an instructional matter. Journal of Pragmatics, 43(2), 438–451.
+Markee, N. (2015). Giving and Following Pedagogical Instructions in Task-Based Instruction. Palgrave Macmillan UK. https://doi.org/10.1057/9781137340733
+Sert, O., & Jacknick, C. M. (2015). Student smiles and the negotiation of epistemics in L2 classrooms. Journal of Pragmatics, 77, 97–112.
+Somuncu, D., & Sert, O. (2019). 5. EFL Trainee Teachers’ Orientations to Students’ Non-understanding: A Focus on Task Instructions. In H. T. Nguyen & T. Malabarba (Eds.), Conversation Analytic Perspectives on English Language Learning, Teaching and Testing in Global Contexts (pp. 110–131). Multilingual Matters. https://doi.org/10.21832/9781788922890-007
+Van Den Branden, K. (2009). Mediating between predetermined order and chaos: The role of the teacher in task‐based language education. International Journal of Applied Linguistics, 19(3), 264–285. https://doi.org/10.1111/j.1473-4192.2009.00241.x
+
+
 
 
 ### Valentina Cotesta, University of Palermo. 
@@ -242,7 +320,6 @@ Shepperd, L., & Dalderop, K. (2026). Why should I care? Research ethics in the f
 
 ### Patsy Egan, ATLAS Director, Hamline University. 
 ### Janet Isserlis, Independent Researcher.
-IN-PERSON WORKSHOP?
 
 ### _Lifelong learning: Practitioners celebrate the work of Heide Wrigley in the best way we know how
 
@@ -276,7 +353,7 @@ Young, R. F. (2009). Discursive practice in language learning and teaching. Wile
 
 ### Clelia Farina, University of Palermo. 
 ### _From the Other Side of the Desk: Experiencing a Repertoire-Based Approach to Additional Language Literacy_
-IN-PERSON WORKSHOP
+
 The aim of this workshop is to foreground the limitations of monolingual approaches to additional language (AL) literacy and to demonstrate, by engaging participants in a simulated literacy lesson, how plurilingual teaching practices can more effectively support literacy development. Over the past two decades, research across SLA, applied linguistics, and sociolinguistics has consistently shown that multilingualism and translanguaging practices constitute central resources in language acquisition and education (García & Kano, 2014; Piccardo, 2024; D’Agostino & Mocciaro, 2021; D’Agostino, Mocciaro & Ba, 2026). Yet, despite various applied projects (Piccardo et al., 2022; Ortega, forthcoming, among others), the theoretical and empirical advances in this line of work have, to date, had only limited uptake in AL literacy provision for young and young adult multilingual LESLLA learners. Even when lingua francas such as English or French mediate classroom interaction, programme design—and the instructional materials through which it is enacted—often remains organised around the target language. For newly arrived migrant learners, this creates a dual demand: they must develop basic decoding and encoding skills in an AL to which they have had little or no prior exposure, while simultaneously building the vocabulary needed to participate in and make sense of literacy activities designed for/in that same language. Within this framework, literacy and language development therefore unfold in tandem, placing substantial cognitive loads on learners. To address these theoretical and pedagogical challenges, the workshop draws on an action-research project conducted in Palermo, which led to the development of a repertoire-based plurilingual literacy model for Italian AL. The model builds on phonemes shared across learners’ repertoires to establish phoneme–grapheme correspondences in the Roman alphabet, strengthening early alphabetic skills and phonological awareness  (cf. D’Agostino et al., 2025). Participants will take part in a simulated initial literacy lesson in Arabic. Arabic is selected because it is unfamiliar to most participants, providing an experiential point of entry into the challenges faced by newly arrived learners who must engage with a new language and, for many (i. e. Bangla and Arabic speakers), an unfamiliar script. The workshop is organised in two phases. In Phase 1, participants are introduced to a small set of syllables through a strictly monolingual approach designed to foreground the disorientation and cognitive strain often reported in the initial stages of LESLLA literacy learning, (cf. Farina, forthcoming). In Phase 2, the same content is revisited through a plurilingual approach that mobilises participants’ dominant and shared languages (e.g., Romance and Germanic languages, and if relevant Slavic languages). By moving participants to the other side of the desk, the workshop seeks to create a shared experiential basis for collective reflection on how teaching choices constrain or enable what learners do and, more broadly, their participation at the outset of LA literacy—and how a repertoire-based approach can shift both the learning process and its early outcomes. 
 
 References 
@@ -355,6 +432,30 @@ Young-Scholten, M. (2021). What do we know from 1 1⁄ 2 decades of LESLLA sympo
 
 
 
+### Martina Franz dos Santos, Philipps-Universität Marburg.
+Adult second language and literacy instruction for LESLLA learners in Germany is still largely dominated by cognitively oriented, bottom-up approaches that conceptualize literacy primarily as the sequential acquisition of subskills such as phonological awareness and grapheme–phoneme correspondence (Franz dos Santos, 2026). While these skills are undeniably important, studies have shown that LESLLA learners may experience limited transfer to everyday literacy demands under mainly cognitive approaches (Allemano, 2013; Maddox & Esposito, 2011). From the perspective of the New Literacy Studies, literacy is conceptualized as participation in socially situated practices shaped by context, values, institutions, and power relations (Street, 2012; Papen, 2005). From this perspective, learning to read and write involves participation in meaningful literacy practices rather than merely mastering isolated cognitive skills. 
+Against this backdrop, my doctoral project investigates whether a pedagogical approach grounded in sociocultural learning theory and literacy as social practice can better support the development of functional literacy among LESLLA learners of German as a second language. The study draws particularly on the Real Literacies approach (Rogers, 1999) and the concept of Communities of Practice (Lave & Wenger, 2020). Learning is organized around authentic, learner-relevant literacy practices and ethnographically identified literacy events from participants’ everyday lives. 
+
+The study addresses the following research questions: 
+(1) To what extent do instruction based on the Real Literacies approach and strategy-focused learning counselling differ in their impact on the development of technical and functional literacy skills among LESLLA learners? 
+(2) How do LESLLA learners mobilize linguistic, social, and multimodal resources when engaging in authentic literacy tasks within different instructional settings? 
+
+The study is designed as a mixed-methods intervention study employing a quasi-experimental pre–post design. Sixteen LESLLA learners participate in two intervention groups within a German literacy course. Group A participates in instruction based on the Real Literacies approach, while Group B receives strategy-focused learning counselling targeting mainly cognitive subskills such as decoding and encoding (Markov, Scheithauer & Schramm, 2015). The interventions are conducted by the researcher herself and take place over a 15-week period with two additional instructional hours per week. 
+Pre- and post-testing are conducted individually in a one-to-one setting using a criterion-referenced, LASLLIAM-based performance test developed specifically for LESLLA learners (Franz dos Santos, 2023). The test assesses both technical and functional literacy through authentic everyday tasks presented orally and in learners’ L1. In addition to the analysis of test results, the data are further examined through qualitative multiple case studies based on video recordings of test administrations and intervention sessions as well as semi-structured interviews conducted after the intervention phase. The qualitative analysis focuses on how learners approach authentic literacy tasks, which linguistic and multimodal resources they draw on, and how participation in different instructional settings shapes the development of functional literacy. The presentation will discuss first empirical insights and their implications for adult second language literacy instruction and assessment. 
+
+References 
+
+Allemano, Jane (2013): Testing the Reading Ability of Low Educated ESOL Learners. In: LESLLA Symposium Proceedings 8 (1), S. 127–144. 
+Franz dos Santos, Martina (2026): “Assessing LESLLA learners’ functional literacy competences”. In: Czinglar, Christine; Perry, Kristen & Schramm, Karen (Hrsg.): Adult Migrants Acquiring Oral and Basic Literacy Skills in a Second Language: Literacy Events, Language Learning and Formative Assessment. Berlin: De Gruyter. 
+Lave, Jean; Wenger-Trayner, Étienne (2020): Situated learning. Legitimate peripheral participation. 31st printing. Cambridge: Cambridge Univ. Press (Learning in doing). 
+Maddox, Bryan; Esposito, Lucio (2011): Sufficiency Re-examined: A Capabilities Perspective on the Assessment of Functional Adult Literacy. In: Journal of Development Studies 47 (9), S. 1–17. DOI: 10.1080/00220388.2010.509788. 
+Markov, Stefan; Scheithauer, Christiane; Schramm, Karen (2015): Lernberatung für Teilnehmende in DaZ-Alphabetisierungskursen – Handreichungen für Lernberatende und Lehrkräfte. Münster / New York: Waxmann. 
+Minuz, Fernanda, Jeanne Kurvers, Karen Schramm, Lorenzo Rocca & Rola Naeb (2022): Literacy and Second Language Learning for the Linguistic Integration of Adult Migrants. Reference guide. Strasbourg: Council of Europe. 
+Papen, Uta (2005): Adult literacy as social practice. More than skills. London, New York: Routledge (New Approaches to Adult Language, Literacy and Numeracy). 
+Rogers, Alan (1999): Improving the quality of adult literacy programs in developing countries: the ‘real literacies’ approach. In: Int. J. of Educational Development 19, S. 219–234. 
+Street, Brian (2012): New Literacy Studies. In: Michael Grenfell, David Bloome, Cheryl Hardy, Kate Pahl, Jennifer Rowsell und Brian Street (Hg.): Language, ethnography, and education. Bridging new literacy studies and Bourdieu. New York NY: Routledge. 
+ 
+
 ### Live Grinden, University of Applied Sciences, Bergen.
 ### _The distribution of burdens within Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship_
 A LESLLA learner is an adult migrant who goes through the complex process of learning to become print literate, or consolidating her print literacy, in a language which is not her first language. This presentation uses a critical applied linguistics lens to examine learners’ reflections on their preparation for and performance within a testing regime in relation to current language policy. Semi-structured interviews were conducted with 18 LESLLA learners. A Capability Approach (Sen, 1992, 2000) expanded with a relational and multidimensional aspect of disability (Terzi, 2005) including Buchanan et al.’s (2000) elements for disability analysis, served as a conceptual lens to analyse the data. Using reflexive thematic analysis (Braun & Clarke, 2022) the discussion suggests how participants, in various ways, assume and embody societal and political expectations embedded in the relevant policy framework.
@@ -387,6 +488,25 @@ Romani has several million speakers worldwide, with hundreds of thousands in the
 
 REFERNCES?
 
+### Rebecca Hayes Laughton, Kings College, Women for refugee women, London. 
+### _Devising a radical grammar: grassroots drama as pedagogical tool_
+
+This poster presentation draws on a ten-year drama project at the charity Women for Refugee Women in London, UK, to show how drama techniques can support language acquisition for refugee women with emerging literacy and help participants feel welcome in new educational environments. It examines the ethical framework of the drama project and introduces two models developed through the work: Drama for Life and Drama for Performance. Together, these approaches offer personalised and reparative language learning that challenges the bureaucratic and often discriminatory narrative structures and demands of the UK state asylum process.  Language teaching that welcomes this “radical grammar” (Reed & Hayes Laughton 2023) deliberately breaks with the epistemic expectations of juridical, humanitarian, and state institutions.  It can enable participants to learn language that articulates their experiences in forms that exceed institutional legibility and introduces critical thinking in pedagogical environments.  
+The project builds on Creative ESOL methods (Cox & Dix 2012) and is informed by grounded theory (Charmaz 2006, 2020), trauma-informed practice (Lewis Herman 1992, De Haere et al., 2010) and sensory ethnography (Pink 2021). Examples from the Drama for Life workshops illustrate creative session planning and games based on low-stakes collaboration, the development of foundational English vocabulary, and personalised creative goals. These sessions prioritise care and healing for women newly arrived in the UK.  The Drama for Performance pathway invites participants to devise scenes and create short narratives in English with methods blending the spoken, the written and the enacted.  This pathway encourages regular attendance and culminates in public performances, where participants practise speaking and performing in English and other languages as an ensemble. Weekly classes provide an inclusive environment for women from diverse national, religious, educational, and socio-economic backgrounds to collaborate and negotiate creative ideas and support one another’s learning. This paper foregrounds the importance of radical care (Low 2021) in the hosting of these activities, and the teaching environment of safety and choice for participants.  Increased participant well-being, both the hedonic elements, related to enjoyment, and the eudaemonic, related to purpose and achievement (Fancourt 2026), mean higher success in integration into classroom settings and future engagement with formal learning. 
+Featuring links to our performance poetry videos, and activities from the Drama Games of Welcome book, the poster presentation shares insights from ten years of our classes. It also invites teachers and practitioners to critique methods, successes and challenges as part of the wider LESLLA community of teachers and learners. 
+
+References
+Charmaz, K. (2006) Constructing Grounded Theory, London: SAGE Publications Ltd 
+Charmaz, K. (2020) ‘With constructivist grounded theory you can’t hide, Social justice research and critical inquiry in the public sphere’. Qualitative Inquiry Vol 26 (2) pp.165–76 
+Cocks, E. & Dix, T. (2012) ‘Creative ESOL: the power of participatory arts in language acquisition’, British Council Innovations Series, British Council 
+De Haere, L. Grietens, H. Verschueren, K. (2010) ‘Holding Harm: Narrative 
+Methods in Mental Health Research on Refugee Trauma’, Qualitative Health 
+Research, Vol 20, pp.1664–1676 
+Fancourt, D. (2026) Art Cure: The Science of How the Arts Transform Our Health, London, Penguin Random House 
+Lewis Herman, J. (1992) Trauma and Recovery: The aftermath of Violence – from Domestic Abuse to Political Terror, New York: Basic Books 
+Low, K. (2021) ‘The Potential of Radical Kindness as a Methodology in Applied Theatre in Arts and Health’, Performance Paradigm: A Journal of Performance and Contemporary Culture, Vol 16, pp. 164-182 
+Pink, S. (2021) Doing Sensory Ethnography, 3rd edition, London: SAGE. 
+Reed, H. & Hayes Laughton, R. (2023) ‘Testimony on Whose Terms? The Cultural Politics of Forced Migration Testimony’, in Jones, S. & Woods, R. (eds.) The Palgrave Handbook of Testimony and Culture. Cham: Palgrave Macmillan, pp.539-565 
 
 
 ### Melissa Hauber-Özer and Kelly Leavitt, University of Missouri. 
