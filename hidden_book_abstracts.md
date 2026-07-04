@@ -67,7 +67,9 @@ sustainable educational programme promoting African languages and multilingualis
 
 
 
-### Sybren Spit, Sible Andringa and Judith Rispens, University of Amsterdam. 
+### Sybren Spit, University of Amsterdam. 
+### Sible Andringa, University of Amsterdam. 
+### Judith Rispens, University of Amsterdam. 
 ### _Word learning in emergent readers: to what extent does written input help?_
 Being literate likely has consequences for learning a second language, but surprisingly little research has been devoted to how emergent literacy affects second language acquisition processes. Using a word learning experiment, we aimed to tease apart two possible ways through which literacy could impact second language acquisition: through literacy-induced restructuring, and through using written input in addition to spoken input (see, for a comparable distinction, for example, Demoulin & Kolinsky, 2016). 
 166 (L1 Arabic and L2 Dutch) participants of varying literacy levels (emergent readers and more experienced readers) had to acquire eight words. These words were presented as names of people and pet animals, of which some only varied in one phoneme (a phonological contrast). Half of the participants received only auditory input to learn these names, the other half also received written input. 
@@ -92,7 +94,10 @@ Spit, S., Andringa, S., & Rispens, J. (2025). Word learning in emergent readers:
 
 
 
-### Manuela Pinto, Darin Nshiwi, Ali Işik, Birgen Işik, Utrecht University. 
+### Manuela Pinto, Utrecht University. 
+### Darin Nshiwi, Utrecht University. 
+### Ali Işik, Utrecht University. 
+### Birgen Işik, Utrecht University. 
 ### _A Dream Too Far: Dutch Learning Needs of Asylum Seekers and Current Dutch Learning Policy and Practices at the Asylum Seeker Center_
 The study investigates the needs, expectations, and desires of asylum seekers residing in
 asylum seeker centers in the Netherlands regarding learning Dutch. It also aims to highlight the Dutch learning opportunities available to asylum seekers and to what extent these opportunities meet their needs. To answer the research questions, data were collected through semi-structured interviews and ethnographic research. The data were analyzed using Thematic Analysis (Braun & Clarke 2021). This involved coding and categorizing the data elicited from participants. Data were obtained from 10 Turkish speakers and 10 Arabic speakers.
@@ -146,7 +151,7 @@ Zimmermann, D. (2016). Migration und Trauma: Pädagogische Konsequenzen und Ausb
 
 
 ### Kathrin Drews, Mercator-Institut für Mehrsprachigkeit und sprachliche Bildung, Universität zu Köln. 
-### Ina-Maria Maah Mercator-Institut für Mehrsprachigkeit und sprachliche Bildung, Universität zu Köln.
+### Ina-Maria Maahs, Mercator-Institut für Mehrsprachigkeit und sprachliche Bildung, Universität zu Köln.
 ### _From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling_
 Literacy in the context of German as a second language is becoming increasingly important in secondary schools in Germany, particularly in the federal state of North Rhine-Westphalia (NRW) – especially in the schooling of multilingual immigrant adolescents and young students with limited and/or interrupted formal education. This particularly affects vocational schools (Maurice & Will 2021) and second-chance education (cf. Kinner 2018). However, as the topic of literacy has so far been dealt with primarily in the context of primary education and special education in teacher training, various teacher training courses on the subject are currently being developed. The ‘XXX’ project in XX is one such example. The project is designing digital professional development modules for teachers that can be completed independently, regardless of time and location. The potential of digital technology is to be used to meet the needs of the target group, which has very limited time resources, and to enable flexible acquisition of practice-oriented content (cf. SWK 2022). The programme is also to be available free of charge to all interested parties, providing a low-threshold introduction to the topic and helpful tips for further programmes and materials.
 In order to tailor the content of such a self-learning programme to the specific needs of teachers in instructional practice, an online survey was conducted in advance with teachers from all types of schools in the federal state of North Rhine-Westphalia who teach learners with literacy needs in German as a second language in some form. This was a random sample of interested teachers (n depending on the question = 192 to 332) who were willing to participate. The online questionnaire covered six different topics: (i) Sociodemographic data, (ii) Current teaching activities, (iii) Teaching experience in the field of German as a second language, (iv) Language diagnostic procedures in practice, (v) Lesson planning in the context of Latin alphabet literacy, (vi) Professionalisation for literacy education in the context of German as a second language. All data was collected anonymously. Based on the results of the study and building on existing theory and the current state of research, six different topics were identified, which are currently being implemented in the project as modules with various digital self-learning units. One module is dedicated to the literacy of older students with limited or/and interrupted formal education (SLIFE). It is aimed in particular at teachers in secondary (vocational) schools and adult education (second chance education; cf. Bellenberg, im Brahm, Demski, Koch & Weegen 2019) who want to learn more about the specific needs, potential and support options of the target group. In addition, the digital professional development programme includes a theoretical introduction to literacy in the context of German as a second language, as well as modules on language diagnostics, methodology and didactics. Multilingualism and digital potential in the context of second language literacy are also taken into account.
