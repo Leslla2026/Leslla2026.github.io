@@ -140,7 +140,6 @@ permalink: /day1/
     <tr>
       <td class="time">15:00-15:30</td>
       <td><strong></strong><br><i></i><br></td>
-      <td><strong></strong><br><i></i><br></td>
       <td>
         <strong>Erika Husby</strong><br> <i> University of Massachusetts, Boston, and the Rohingya Culture Center </i><br>
         U.S. Citizenship: The Gap between Policy and Lived Reality
@@ -158,7 +157,6 @@ permalink: /day1/
     <tr>
       <td class="time">15:30-16:00</td>
       <td><strong></strong><br> <i> </i><br></td>
-      <td><strong></strong><br> <i></i><br></td>
       <td>
         <strong>Elif Varlik</strong><br> <i> University of Illinois at Urbana-Champaig </i><br>
         Building Critical Multilingual Awareness through Collaborative Online Study Sessions: A Multiple Case Study of LESLLA Teachers
@@ -175,7 +173,6 @@ permalink: /day1/
     <tr>
       <td class="time">16:00-16:30</td>
       <td><strong></strong><br> <i></i><br> </td>
-      <td><strong></strong><br> <i></i><br></td>
       <td>
         <strong>Marie Fontaine</strong><br> <i> Assist Community Services Centre, Edmonton, Alberta </i><br>
         Finding Meaning Through Drawing: Art-Based Task Assessment for Literacy and Plurilingual Learners
