@@ -138,7 +138,7 @@ permalink: /day1/
     </tr>
 
     <tr>
-      <td class="time">15:00-16:30</td>
+      <td class="time">15:00-15:30</td>
       <td><strong></strong><br><i></i><br></td>
       <td><strong></strong><br><i></i><br></td>
       <td>
@@ -156,7 +156,7 @@ permalink: /day1/
     </tr>
 
     <tr>
-      <td class="time">16:30-17:00</td>
+      <td class="time">15:30-16:00</td>
       <td><strong></strong><br> <i> </i><br></td>
       <td><strong></strong><br> <i></i><br></td>
       <td>
@@ -173,7 +173,7 @@ permalink: /day1/
       </td>
     </tr>
     <tr>
-      <td class="time">17:00-17:30</td>
+      <td class="time">16:00-16:30</td>
       <td><strong></strong><br> <i></i><br> </td>
       <td><strong></strong><br> <i></i><br></td>
       <td>
@@ -188,6 +188,10 @@ permalink: /day1/
         <strong>Marilyn L. Abbott & Kent K. Lee</strong><br> <i> University of Alberta </i><br>
         Shared Metacognition in a LESLLA Teacher Journal Club
       </td>
+    </tr>
+        <tr>
+      <td class="time">16.30-17:00</td>
+      <td colspan="3"> <i> Lunch </i> </td>
     </tr>
     <tr class="schedule-section">
     <td colspan="6"> Keynote Speech</td>
