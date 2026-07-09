@@ -188,10 +188,10 @@ permalink: /day1/
     </tr>
         <tr>
       <td class="time">16.30-17:00</td>
-      <td colspan="3"> <i> Break </i> </td>
+      <td colspan="4"> <i> Break </i> </td>
     </tr>
     <tr class="schedule-section">
-    <td colspan="6"> Keynote Speech</td>
+    <td colspan="5"> Keynote Speech</td>
     </tr>
     <tr>
       <td class="time">17:00–18:00</td>
