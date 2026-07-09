@@ -105,7 +105,7 @@ permalink: /day1/
   </colgroup>
  <tbody> 
     <tr class="schedule-section">
-      <td colspan="6">Afternoon session</td>
+      <td colspan="5">Afternoon session</td>
     </tr>
    
     <tr>
@@ -120,14 +120,6 @@ permalink: /day1/
     <strong>Ginger Kosobucki</strong> - Immigrant Welcome Center, Indianapolis <br> <i>What is fair assessment for LESLLA learners?</i>
     </span>
 </td>
-      <td class="session">
-          <span style="display:block;"> <strong>Workshop</strong>
-          </span>
-  <span style="display:block;
-               border-top: 1px solid #999;
-               margin: 0.4rem 0;
-               padding-top: 0.4rem;">
-      <strong>David Stops</strong> - Independent researcher, Berlin <br> <i>In the shoes of our learners</i> </span></td>
       <th class="session">Session 1</th>
       <th class="session">Session 2</th>
       <th class="session">Session 3</th>
