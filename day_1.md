@@ -97,11 +97,10 @@ permalink: /day1/
 
   <colgroup>
     <col style="width:10%">
-    <col style="width:17%">
-    <col style="width:17%">
-    <col style="width:17%">
-    <col style="width:17%">
-    <col style="width:17%">
+    <col style="width:21.25%">
+    <col style="width:21.25%">
+    <col style="width:21.25%">
+    <col style="width:21.25%">
   </colgroup>
  <tbody> 
     <tr class="schedule-section">
@@ -110,7 +109,6 @@ permalink: /day1/
    
     <tr>
       <td class="time"></td>
-      
       <td class="session">
   <span style="display:block;"> <strong>Panel session</strong></span>
   <span style="display:block;
@@ -127,7 +125,6 @@ permalink: /day1/
 
     <tr>
       <td class="time">14:30-15:00</td>
-      <td><strong></strong><br><i></i><br></td>
       <td><strong></strong><br><i></i><br></td>
       <td>
         <strong>Anna Mendoza*, Elif Varlik* & Eda Yildirimer°</strong><br> <i> University of Illinois at Urbana-Champaign; °University of Arizona </i><br>
