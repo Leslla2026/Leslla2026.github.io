@@ -50,8 +50,8 @@ permalink: /day1/
     <tr>
       <td class="time">10:00-10:30</td>
       <td>
-        <strong>Fatima Zahra El Balrhi</strong><br> <i> Université Hassan II de Casablanca </i><br>
-        L3 Arabic Stress by Wolof Migrants in Morocco
+        <strong>Lotta Aunio</strong><br> <i>Helsingin Yliopisto</i><br>
+        Language learning without literacy?
       </td>
       <td>
         <strong>Katharina Obens, Ioanna Liakou & David Zimmermann</strong><br> <i> Humboldt-Universität zu Berlin </i><br>
@@ -67,8 +67,8 @@ permalink: /day1/
     <tr>
       <td class="time">11:00-11:30</td>
       <td>
-        <strong>Lotta Aunio</strong><br> <i> Helsingin Yliopisto</i><br>
-        Language learning without literacy?
+        <strong>Friederike Lüpke</strong><br> <i>Helsingin Yliopisto</i><br>
+        Lead language writing as an adaptive infrastructure for multilingual literacy development
       </td>
       <td>
         <strong>Kathrin Drews & Ina-Maria Maahs</strong><br> <i> Mercator-Institut für Mehrsprachigkeit und sprachliche Bildung, Universität zu Köln </i><br>
@@ -79,24 +79,14 @@ permalink: /day1/
     <tr>
       <td class="time">11:30-12:00</td>
       <td>
-        <strong>Friederike Lüpke</strong><br> <i> Helsingin Yliopisto </i><br>
-        Lead language writing as an adaptive infrastructure for multilingual literacy development
+        <strong>Sybren Spit, Sible Andringa, Judith Rispens</strong><br> <i>Universiteit van Amsterdam</i><br>
+        Word learning in emergent readers: to what extent does written input help?
       </td>
       <td>
         <strong>Matilde Grünhage-Monetti*, Silvia Miglio*, Olessia Götzinger°</strong><br> <i> * Language for Work, European Cente of Modern Languages, Council of Europe; °Bildungszentrum Oberjosbach </i><br>
         Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants
       </td>
     </tr>
-
-    <tr>
-      <td class="time">12:00-12:30</td>
-      <td>
-        <strong>Sybren Spit, Sible Andringa, Judith Rispens </strong><br> <i> Universiteit van Amsterdam</i><br>
-        Word learning in emergent readers: to what extent does written input help?
-        </td>
-    <td> </td>
-    </tr>
-
     <tr>
       <td class="time">12:30-14:30</td>
       <td colspan="3"> <i> Lunch </i> </td>
