@@ -82,6 +82,10 @@ permalink: /day3/
     <tr>
       <td class="time">9:30–10:00</td>
       <td>
+        <strong>Franziska Foerster</strong><br>
+        <i>Friedrich-Schiller-Universität Jena</i><br>
+        Real-Life Digital Literacy Practices of Arabic-Speaking Adult Migrants in Germany
+      </td>
       <td>
         <strong>Linda Evenstad Emilsen* & Ann-Kristin Gujord°</strong><br>
         <i>*Høgskolen i Østfold, °Universitetet i Bergen</i><br>
@@ -100,20 +104,12 @@ permalink: /day3/
     </tr>
 
     <tr>
-      <td class="time">10:00–10:30</td>
-      <td>
-        <strong>Franziska Foerster</strong><br>
-        <i>Friedrich-Schiller-Universität Jena</i><br>
-        Real-Life Digital Literacy Practices of Arabic-Speaking Adult Migrants in Germany
-      </td>
-      <td>&nbsp;</td>
+      <td class="time">10:00–10:30</td>        
       <td>
         <strong>Live Grinden</strong><br>
         <i>Western Norway University of Applied Sciences</i><br>
         The distribution of burdens within Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship.
-      </td>
-      <td>
-
+      </td>   
     <tr>
       <td class="time">10:30–11:00</td>
       <td colspan="4"><i>Coffee break</i></td>
