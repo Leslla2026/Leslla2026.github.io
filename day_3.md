@@ -84,7 +84,7 @@ permalink: /day3/
       <td>
         <strong>Franziska Foerster</strong><br>
         <i>Friedrich-Schiller-Universität Jena</i><br>
-        Real-Life Digital Literacy Practices of Arabic-Speaking Adult Migrants in Germany
+        Real-life digital literacy practices of Arabic-speaking adult migrants in Germany
       </td>
       <td>
         <strong>Linda Evenstad Emilsen* & Ann-Kristin Gujord°</strong><br>
@@ -163,7 +163,7 @@ permalink: /day3/
       <td class="time">15:00–16:00</td>
       <td colspan="4">
         <strong>Markéta Hajská & Pavel Kubaník</strong> (CUNI-Univerzita Karlova, Prague)<br>
-        <i>Romani: One Language, Two Stories</i>
+        <i>Romani: one language, two stories</i>
       </td>
     </tr>
 

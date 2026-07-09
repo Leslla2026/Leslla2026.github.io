@@ -78,18 +78,18 @@ permalink: /day2/
       </td>
       <td>
         <strong>Belma Haznedar* & Elifcan Oztekin°</strong><br> <i> *Boğaziçi Universitesi, Istanbul, °Universidad de Granada </i><br>
-        Exploring Teacher Candidates’ Attitudes Toward Multilingualism in the Turkish Context
+        Exploring teacher candidates’ attitudes toward multilingualism in the Turkish context
       </td>
       <td>
         <strong>Enas Filinban</strong><br> <i> Umm Al-Qura University </i><br>
-        AI-Mediated Arabic Learning for Low-Literate Adult Migrants in Saudi Arabia
+        AI-mediated Arabic learning for low-Literate adult migrants in Saudi Arabia
       </td>
     </tr>
     <tr>
       <td class="time">10:45-11:15</td>
       <td>
         <strong>Clelia Farina</strong> <br> <i> Università di Palermo </i> <br>
-        Observing Competence and Performance in Talk-in-Interaction: Notes from an Italian LA Course with Newly Arrived Learners
+        Observing competence and performance in talk-in-interaction: notes from an Italian LA course with newly arrived learners
       </td>
       <td>
         <strong>Ann-Kristin Helland Gujord* & Linda Emilsen°</strong><br> <i> *Universitetet i Bergen, °Høgskolen i Østfold </i><br>
@@ -97,11 +97,11 @@ permalink: /day2/
       </td>
       <td>
         <strong>Carl Laberge</strong><br> <i> Université Laval </i><br>
-        LESLLA learners’ plurilingual development: A funds of knowledge approach to uncover their perspectives
+        LESLLA learners’ plurilingual development: a funds of knowledge approach to uncover their perspectives
       </td>
       <td>
         <strong>Nadja Kerschhofer-Puhalo</strong><br> <i> Universität Hamburg </i><br>
-        Views in*2 Literacies-a multimodal text collection on a participatory web-platform 
+        Views in*2 literacies-a multimodal text collection on a participatory web-platform 
       </td>
     </tr>
     <tr>
@@ -118,7 +118,7 @@ permalink: /day2/
   </tr>    
     <tr>
       <td class="time">13:15–13:45</td>
-      <td colspan="4"><strong>Adult Migrants Learning Literacy in a New Language: Book Launch and Raffle </strong>(De Gruyter, 2026)<br> Christine Czinglar* & Karen Schramm^<i> *Universität Jena, ^Universität Wien </i><br> </td>
+      <td colspan="4"><strong>Adult migrants learning literacy in a new language: book launch and raffle </strong>(De Gruyter, 2026)<br> Christine Czinglar* & Karen Schramm^<i> *Universität Jena, ^Universität Wien </i><br> </td>
     </tr>
     <tr>
       <td class="time">13:45–15:00</td>

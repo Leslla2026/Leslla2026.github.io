@@ -39,11 +39,11 @@ permalink: /day1/
       <td class="time">9:30-10:00</td>
       <td>
         <strong>Bart Siekman, Sybren Spit, Josje Verhagen & Sible Andringa</strong><br> <i>Universiteit van Amsterdam </i><br>
-        The Name Game: Measuring metalinguistic awareness in LESLLA learners
+        The Name Game: measuring metalinguistic awareness in LESLLA learners
       </td>
       <td>
         <strong>Manuela Pinto, Darin Nshiwi, Ali Işık & Birgen Işık</strong><br> <i> Universiteit Utrecht </i><br>
-        A Dream Too Far: Dutch Learning Needs of Asylum Seekers and Current Dutch Learning Policy and Practices at the Asylum Seeker Center
+        A dream too far: dutch learning needs of asylum seekers and current dutch learning policy and practices at the Asylum Seeker Center
       </td>
     </tr>
 
@@ -55,7 +55,7 @@ permalink: /day1/
       </td>
       <td>
         <strong>Katharina Obens, Ioanna Liakou & David Zimmermann</strong><br> <i> Humboldt-Universität zu Berlin </i><br>
-        A Participatory Design-Based Research Approach to the Professionalisation of Inclusive Language Education for Adult Refugees with Learning Difficulties
+        A participatory design-based research approach to the professionalisation of inclusive language education for adult refugees with learning difficulties
       </td>
     </tr>
 
@@ -72,7 +72,7 @@ permalink: /day1/
       </td>
       <td>
         <strong>Kathrin Drews & Ina-Maria Maahs</strong><br> <i> Mercator-Institut für Mehrsprachigkeit und sprachliche Bildung, Universität zu Köln </i><br>
-        From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling
+        From needs analysis to module design: digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling
       </td>
     </tr>
 
@@ -132,7 +132,7 @@ permalink: /day1/
       </td>
       <td>
         <strong>Brian Hibbs</strong><br> <i> Dalton State College </i><br>
-        Advancing Pre-Service ESOL Teachers’ Beliefs Concerning Social Justice and Advocacy through Translanguaging
+        Advancing pre-service ESOL teachers’ beliefs concerning social justice and advocacy through translanguaging
       </td>
       <td></td>
     </tr>
@@ -142,7 +142,7 @@ permalink: /day1/
       <td><strong></strong><br><i></i><br></td>
       <td>
         <strong>Erika Husby</strong><br> <i> University of Massachusetts, Boston, and the Rohingya Culture Center </i><br>
-        U.S. Citizenship: The Gap between Policy and Lived Reality
+        U.S. citizenship: the gap between policy and lived reality
       </td>
       <td>
         <strong>Catherine Maynard*, Véronique Fortier*, Suzie Beaulieu° & Valérie Amireault*</strong><br> <i> *Université du Québec à Montréal, Canada; °Université Laval, Canada </i><br>
@@ -150,7 +150,7 @@ permalink: /day1/
       </td>
       <td>
         <strong>Vincent Bédard</strong><br> <i> Université du Québec à Montréal </i><br>
-        Beyond Deficit Lens: Making Visible LESLLA Learners’ Second Language Use Practices
+        Beyond deficit lens: making visible LESLLA Learners’ second language use practices
       </td>
     </tr>
 
@@ -159,15 +159,15 @@ permalink: /day1/
       <td><strong></strong><br> <i> </i><br></td>
       <td>
         <strong>Elif Varlik</strong><br> <i> University of Illinois at Urbana-Champaig </i><br>
-        Building Critical Multilingual Awareness through Collaborative Online Study Sessions: A Multiple Case Study of LESLLA Teachers
+        Building critical multilingual awareness through collaborative online study sessions: a multiple case study of LESLLA teachers
       </td>
       <td>
         <strong>Melissa Hauber-Özer & Kelly Leavitt </strong><br> <i> University of Missouri, Columbia </i><br>
-        Digital Storytelling as Critical Multiliteracies Pedagogy
+        Digital storytelling as critical multiliteracies pedagogy
       </td>
       <td>
         <strong>Eda Yildirimer</strong><br> <i> University of Arizona </i><br>
-        MA TESOL Student Teachers’ Preparation, Challenges, and Growth in Community Based Teaching with Afghan Refugee Women
+        MA TESOL student teachers’ preparation, challenges, and growth in community based teaching with Afghan refugee women
       </td>
     </tr>
     <tr>
@@ -175,15 +175,15 @@ permalink: /day1/
       <td><strong></strong><br> <i></i><br> </td>
       <td>
         <strong>Marie Fontaine</strong><br> <i> Assist Community Services Centre, Edmonton, Alberta </i><br>
-        Finding Meaning Through Drawing: Art-Based Task Assessment for Literacy and Plurilingual Learners
+        Finding meaning through drawing: art-based task assessment for literacy and plurilingual learners
       </td>
       <td>
         <strong>Victoria Lyasota</strong><br> <i> ASSIST Community Services </i><br>
-        Integrating Multicultural Art into a Literacy Classroom
+        Integrating multicultural art into a literacy classroom
       </td>
       <td>
         <strong>Marilyn L. Abbott & Kent K. Lee</strong><br> <i> University of Alberta </i><br>
-        Shared Metacognition in a LESLLA Teacher Journal Club
+        Shared metacognition in a LESLLA teacher journal club
       </td>
     </tr>
         <tr>
