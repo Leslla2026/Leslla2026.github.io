@@ -115,7 +115,7 @@ permalink: /day1/
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
-    <strong>Ginger Kosobucki</strong> - Immigrant Welcome Center, Indianapolis <br> <i>What is fair assessment for LESLLA learners?</i>
+    <i>What is fair assessment for LESLLA learners?</i>
     </span>
 </td>
       <th class="session">Session 1</th>
@@ -125,10 +125,13 @@ permalink: /day1/
 
     <tr>
       <td class="time">14:30-15:00</td>
-      <td><strong></strong><br><i></i><br></td>
+      <td><strong>Ginger Kosobucki</strong><br><i>Immigrant Welcome Center, Indianapolis</i><br>Introduction<br>
+      <strong>Martina Franz dos Santos</strong><br><i></i>          
+      </td>
+      
       <td>
         <strong>Anna Mendoza*, Elif Varlik* & Eda Yildirimer°</strong><br> <i> University of Illinois at Urbana-Champaign; °University of Arizona </i><br>
-        Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest
+        Akogare (English learning as Leisure and Desire) in adult community English classes in the US Midwest
       </td>
       <td>
         <strong>Brian Hibbs</strong><br> <i> Dalton State College </i><br>
@@ -139,7 +142,8 @@ permalink: /day1/
 
     <tr>
       <td class="time">15:00-15:30</td>
-      <td><strong></strong><br><i></i><br></td>
+      <td><strong>Christine Czinglar & Katharina Karges</strong><br><i></i><br></td>
+      <strong>Marie-Anne Morand</strong><br><i></i><br></td>
       <td>
         <strong>Erika Husby</strong><br> <i> University of Massachusetts, Boston, and the Rohingya Culture Center </i><br>
         U.S. citizenship: the gap between policy and lived reality
@@ -156,7 +160,9 @@ permalink: /day1/
 
     <tr>
       <td class="time">15:30-16:00</td>
-      <td><strong></strong><br> <i> </i><br></td>
+      <td><strong>Marie-Anne Morand</strong><br><i></i><br>
+      <td><strong>Jennifer Christenson</strong><br><i></i><br>
+      </td>
       <td>
         <strong>Elif Varlik</strong><br> <i> University of Illinois at Urbana-Champaig </i><br>
         Building critical multilingual awareness through collaborative online study sessions: a multiple case study of LESLLA teachers
@@ -172,7 +178,7 @@ permalink: /day1/
     </tr>
     <tr>
       <td class="time">16:00-16:30</td>
-      <td><strong></strong><br> <i></i><br> </td>
+      <td><i>Discussion</i><br> </td>
       <td>
         <strong>Marie Fontaine</strong><br> <i> Assist Community Services Centre, Edmonton, Alberta </i><br>
         Finding meaning through drawing: art-based task assessment for literacy and plurilingual learners
