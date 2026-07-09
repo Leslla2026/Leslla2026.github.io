@@ -105,11 +105,14 @@ permalink: /day3/
 
     <tr>
       <td class="time">10:00–10:30</td>        
+      <td><strong></strong><br><i></i><br></td>
+      <td><strong></strong><br><i></i><br></td>
       <td>
         <strong>Live Grinden</strong><br>
         <i>Western Norway University of Applied Sciences</i><br>
         The distribution of burdens within Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship.
-      </td>   
+      </td>
+      <td><strong></strong><br><i></i><br></td>   
     <tr>
       <td class="time">10:30–11:00</td>
       <td colspan="4"><i>Coffee break</i></td>
