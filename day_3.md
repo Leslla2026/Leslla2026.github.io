@@ -80,7 +80,7 @@ permalink: /day3/
     </tr>
 
     <tr>
-      <td class="time">9:30–10:30</td>
+      <td class="time">9:30–10:00</td>
       <td>
       <td>
         <strong>Linda Evenstad Emilsen* & Ann-Kristin Gujord°</strong><br>
@@ -100,7 +100,7 @@ permalink: /day3/
     </tr>
 
     <tr>
-      <td class="time">9:30–10:00</td>
+      <td class="time">10:00–10:30</td>
       <td>
         <strong>Franziska Foerster</strong><br>
         <i>Friedrich-Schiller-Universität Jena</i><br>

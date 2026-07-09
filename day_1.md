@@ -38,7 +38,7 @@ permalink: /day1/
     <tr>
       <td class="time">9:30-10:00</td>
       <td>
-        <strong>Bart Siekman, Sybren Spit, Josje Verhagen & Sible Andringa</strong><br> <i>  Universiteit van Amsterdam </i><br>
+        <strong>Bart Siekman, Sybren Spit, Josje Verhagen & Sible Andringa</strong><br> <i>Universiteit van Amsterdam </i><br>
         The Name Game: Measuring metalinguistic awareness in LESLLA learners
       </td>
       <td>
