@@ -88,7 +88,7 @@ permalink: /day1/
       </td>
     </tr>
     <tr>
-      <td class="time">12:30-14:30</td>
+      <td class="time">12-14:30</td>
       <td colspan="3"> <i> Lunch </i> </td>
     </tr>
 
