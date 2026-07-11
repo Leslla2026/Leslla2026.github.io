@@ -214,6 +214,7 @@ Stirling, A. (2015), Employment outcomes for migrants in European labour markets
 - [Anna Mendoza](#anna-mendoza,-the-university-of-illinois-at-urbana-champaign.), [Elif Varlik](#elif-varlik,-the-university-of-illinois-at-urbana-champaign.), [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest_
 - [Fernanda Minuz](#fernanda-minuz,-independent-researcher-and-consultant,-bologna,-italy.), [Alessandro Borri](#alessandro-borri,-CPIA-Montagna,-Castel-di-Casio,-Italy.), _Unaccompanied minors in adult education: listening to their voices_
 - [Marie-Anne Morand](#marie-anne-morand,-university-of-fribourg.), [Claudia Kossinna](#claudia-kossinna,-university-of-fribourg.), _Word stress identification by LESLLA learners and second-script learners_
+- [Davide Schirò](#davide-schirò,-università-di-palermo.), _Using picturebooks in plurilingual contexts: potentials and risks_
 -  [David Stops](#david-stops,-indepented-researcher.), _In the shoes of our learners: AI learner personas as a thinking tool in lesson planning for literacy_
 - [Marieke Vanbuel](#marieke-vanbuel,-KU-Leuven-&-Ghent-University.), _How do LESLLA learners process multimodal texts?_
 - [Elif Varlik](#elif-varlik,-university-of-Illinois-at-Urbana-Champaign.), _Building Critical Multilingual Awareness through Collaborative Online Study Sessions: A Multiple Case Study of LESLLA Teachers_
@@ -823,6 +824,32 @@ Santagati, M. e Barzaghi, A., 2021. Studio conoscitivo sui minori stranieri non 
 Trenta, G., 2025. Diritto all’istruzione: Il caso dei minori non accompagnati. Diritto, Immigrazione e Cittadinanza, 3, 1–16.
 
 
+### Davide Schirò, Università di Palermo.
+### _Using picturebooks in plurilingual contexts: potentials and risks_
+Picturebooks provide multimodal input that combines text, images, and graphic design, stimulating comprehension, engagement, and the use of learners’ linguistic repertoires, even when language competences are still emerging. As noted by Arizpe and Styles (2003), reading picturebooks is an interpretative process that integrates verbal and visual cues, fostering narrative and inferential skills that support language learning.
+In plurilingual contexts, valuing the learner’s entire linguistic repertoire means moving beyond monolingual approaches. Translanguaging enables the use of students’ languages as a resource, encouraging authentic communicative strategies (García & Wei, 2014). Picturebooks thus become a space for negotiating meaning, comparing repertoires, and developing intercultural competences (Hartmann & McGillicuddy, 2025).
+At the same time, every picturebook conveys implicit representations of norms, belonging, and difference. It can support inclusive processes or reproduce unexamined cultural and linguistic hierarchies. A conscious and guided analysis of picturebooks is therefore essential to transform them into effective and inclusive teaching tools.
+
+Objectives
+● Promote critical awareness regarding the use of picturebooks
+● Identify the potentials and risks of multimodal input
+● Provide replicable tools for plurilingual contexts
+Structure (120 minutes)
+
+1. Introduction and individual selection of a picturebook for a teaching proposal (20 min)
+2. Plenary brainstorming: selection and observation criteria (20 min)
+3. Focus on multimodality and levels of analysis with examples (20 min)
+4. Guided analysis in small groups using an observation grid (40 min)
+o Texts: content analysis
+o Images: representations and stereotypes
+o Graphics: linguistic landscape
+5. Plenary feedback and final reflection (20 min)
+ 
+References
+
+Arizpe, E., & Styles, M. (2003). Children Reading Picturebooks: Interpreting Visual Texts. RoutledgeFalmer.
+García, O., & Wei, L. (2014). Translanguaging: Language, Bilingualism and Education. Palgrave Macmillan.
+Hartmann, E. C., & McGillicuddy, Á. (Eds.). (2025). Creative Readings of Multilingual Picturebooks: International and Transdisciplinary Perspectives. Routledge.
 
 
 ### David Stops, Independent Researcher.
