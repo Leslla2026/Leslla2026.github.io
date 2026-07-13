@@ -11,7 +11,7 @@ permalink: /book_abstracts/
 
 ### Opening Session 1
 
-- [Bart Siekman, Sybren Spit, Josje Verhagen](#Bart-Siekman,-Sybren-Spit,-Josje-Verhagen,-Sible-Andringa,-University-of-Amsterdam), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
+- [Bart Siekman, Sybren Spit, Josje Verhagen](#bart-siekman,-sybren-spit,-josje-verhagen,-sible-andringa,-university-of-amsterdam), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
 - Fatma ZAhri MISSING
 - [Lotta Aunio](#lotta-aunio,-univeristy-of-helsinki.), _Language learning without literacy?_
 - [Friederike Lüpke](#friederike-lüpke,-university-of-helsinki.), _Lead language writing as an adaptive infrastructure for multilingual literacy development_
