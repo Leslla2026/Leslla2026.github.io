@@ -11,14 +11,14 @@ permalink: /book_abstracts/
 
 ### Opening Session 1
 
-- [Bart Siekman](#bart-siekman,-university-of-amsterdam.), [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Josje Verhagen](#josje-verhagen,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
+- [Bart Siekman, Sybren Spit, Josje Verhagen](#Bart-Siekman,-Sybren-Spit,-Josje-Verhagen,-Sible-Andringa,-University-of-Amsterdam), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
 - Fatma ZAhri MISSING
 - [Lotta Aunio](#lotta-aunio,-univeristy-of-helsinki.), _Language learning without literacy?_
 - [Friederike Lüpke](#friederike-lüpke,-university-of-helsinki.), _Lead language writing as an adaptive infrastructure for multilingual literacy development_
 - [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), [Judith Rispens](#judith-rispens,-university-of-amsterdam.), _Word learning in emergent readers: to what extent does written input help?_
   
 
-### Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa, University of Amsterdam. 
+### Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa, University of Amsterdam 
 ### _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
 This study investigates metalinguistic awareness (MLA) in LESLLA (Literacy Education and Second Language Learning for Adults) learners. LESLLA learners are adult L2 learners who are emergent readers in their L1 and/or in their L2. Previous research LESLLA learners has shown that emergent literacy levels coincide with low levels of MLA (Kolinsky & Morais, 2018; Kurvers, 2002; Kurvers et al., 2006). MLA refers to the ability to reflect on the formal properties of language, such as phonemes, words and grammatical structures (Gombert, 1992; Homer, 2009). However, Siekman et al (2025) showed that participants’ literacy skills have been measured predominantly in the L1 and that MLA tasks have primarily focused on phonological and lexical awareness. In addition, many designs make use of question answer formats that rely heavily on metalinguistic terminology such as word, suffix, or sentence. Such formats can be disadvantageous for participants who have less experience with testing and the use of metalinguistic terminology (Hamnes Carlsen, 2017). 
 This study makes use of a research design that addresses these methodological shortcomings by measuring both L1 and L2 literacy skills and using a concrete naming task, the Name Game, for measuring MLA. The rationale behind the name game is to apply the concept of metatalk, a form of thinking out aloud. The major advantage of metatalk is that instructions need not be technical and are suitable for prompting understanding of language forms (Gonzalves, 2021; Swain, 2006). The central research question of this study therefore is: What is the relation between LESLLA learners’ L1 literacy skills, L2 literacy skills, and metalinguistic awareness prompted in a metatalk conversation?
