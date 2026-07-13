@@ -125,7 +125,7 @@ permalink: /day1/
 
     <tr>
       <td class="time">14:30-15:00</td>
-      <td><strong>Panel organiser: Ginger Kosobucki</strong>, Immigrant Welcome Center, Indianapolis <br> Panellists: Martina Franz dos Santos, Christine Czinglar & Katharina Karges; Marie-Anne Morand; Jennifer Christenson<br></td>
+      <td>Panel organiser: <strong>Ginger Kosobucki</strong>, <i> Immigrant Welcome Center, Indianapolis <i> <br> Panellists: Martina Franz dos Santos, Christine Czinglar & Katharina Karges; Marie-Anne Morand; Jennifer Christenson<br></td>
       <td>
         <strong>Anna Mendoza*, Elif Varlik* & Eda Yildirimer°</strong><br> <i> University of Illinois at Urbana-Champaign; °University of Arizona </i><br>
         Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest
