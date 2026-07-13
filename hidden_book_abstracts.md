@@ -6,6 +6,7 @@ permalink: /book_abstracts/
 
 {% include site-logo.html %}
 {% include page-header.html %}
+
 ## Book of abstracts
 
 ### Opening Session 1
