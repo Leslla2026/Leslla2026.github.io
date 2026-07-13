@@ -126,6 +126,7 @@ permalink: /day3/
 
     <tr>
       <td class="time">11:00–13:00</td>
+      <td>  
         <strong>Eva Malessa*, Live Grinden°, Skye Playsted* & Jemima Rillera Kempster^</strong><br>
         <i>*Turun Yliopisto, Finland; ° Høgskolen på Vestlandet, Norway; The University of Queensland (Australia), *Australian Catholic University, Australia</i><br>
         Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders. <br> <strong> Only in presence.</strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.
