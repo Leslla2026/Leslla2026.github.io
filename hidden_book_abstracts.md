@@ -7,13 +7,11 @@ permalink: /book_abstracts/
 {% include site-logo.html %}
 {% include page-header.html %}
 
-## Book of abstracts
-
 ### Opening Session 1
 
 - [Bart Siekman, Sybren Spit, Josje Verhagen](#siekman), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
 - Fatma ZAhri MISSING
-- [Lotta Aunio](#lotta-aunio,-univeristy-of-helsinki.), _Language learning without literacy?_
+- [Lotta Aunio](#aunio), _Language learning without literacy?_
 - [Friederike Lüpke](#friederike-lüpke,-university-of-helsinki.), _Lead language writing as an adaptive infrastructure for multilingual literacy development_
 - [Sybren Spit](#sybren-spit,-university-of-amsterdam.), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), [Judith Rispens](#judith-rispens,-university-of-amsterdam.), _Word learning in emergent readers: to what extent does written input help?_
   
@@ -25,24 +23,33 @@ This study makes use of a research design that addresses these methodological sh
 The name game measures the ability to reflect on phonological word length and morphological word forms. Participants see physical pairs of novel objects and hear two novel labels. Subsequently, they are asked to map the labels to the objects. The novel objects are based on the Novel Object and Unusual Names Database (Horst & Hout, 2016). In a first series of items, the two objects are identical apart from their size (see example below in figure 1). The labels consist of a long and short word form (e.g. laas and laasaapaa). 
 In a second series, participants see two sets of similar objects differing only in number (one object versus multiple objects). The novel words involve labels such as ziemie and ziemiepoe. In each series, the final three items are used to ask questions. For instance, when laas is mapped to the large object, the experimenter asks: “how do you know that laas goes to this one?” This question does not rely on metalinguistic terminology and invites participants to reflect on their choice.
 We will present the data of 77 LESLLA participants that are currently being analyzed. We will also reflect on the use of a novel, artificial language for investigating metalinguistic awareness in LESLLA participants.
- 
-References
+
+### References
 Gombert, J. (1992). Metalinguistic Development. Exeter: BPCC Wheatons Ltd.  
+
 Gonzalves, L. (2021). Development and demonstration of metalinguistic awareness in adult ESL learners with emergent literacy. Language Awareness, 30(2), 134-151. https://doi.org/10.1080/09658416.2020.1776721 
- Hamnes Carlsen, C. (2017). Giving LESLLA learners a fair chance in testing. In M. Sosiński (ed.), Alfabetización y Aprendizaje de Idiomas por Adultos: Investigación, Política Educativa y Práctica Docente. Literacy Education and Second Language Learning by Adults: Research, Policy and Practice. Proceedings of the 12th LESLLA Symposium (pp. 135-148). Granada: EUG. https://doi.org/10.5281/zenodo.8058941  
- Homer, B.D. (2009). Literacy and metalinguistic development. In D. Olsen & N. Torrance (eds.), The Cambridge Handbook of Literacy (pp. 487-500). Cambridge: Cambridge University Press. https://doi.org/10.1017/CBO9780511609664.027  
- Horst, J. S., & Hout, M. C. (2016). The Novel Object and Unusual Name (NOUN) Database: A collection of novel images for use in experimental research. Behavior research methods. 48(4), 1393-1409. https://doi.org/10.3758/s13428-015-0647-3. 
- Kolinsky, R., & Morais, J. (2018). The worries of wearing literate glasses. L’Année Psychologique 4(118), 321-347.https://doi.org/10.3917/anpsy1.184.0321  
- Kurvers, J. (2002). Met ongeletterde ogen. Kennis van taal en schrift van analfabeten. Amsterdam: Askant Academic Publishers.
- Kurvers, J., Vallen, T., & Hout, R. V. (2006). Discovering features of language: Metalinguistic awareness of adult illiterates. LOT Occasional Series, 6, 69-88.
+
+Hamnes Carlsen, C. (2017). Giving LESLLA learners a fair chance in testing. In M. Sosiński (ed.), Alfabetización y Aprendizaje de Idiomas por Adultos: Investigación, Política Educativa y Práctica Docente. Literacy Education and Second Language Learning by Adults: Research, Policy and Practice. Proceedings of the 12th LESLLA Symposium (pp. 135-148). Granada: EUG. https://doi.org/10.5281/zenodo.8058941  
+
+Homer, B.D. (2009). Literacy and metalinguistic development. In D. Olsen & N. Torrance (eds.), The Cambridge Handbook of Literacy (pp. 487-500). Cambridge: Cambridge University Press. https://doi.org/10.1017/CBO9780511609664.027  
+
+Horst, J. S., & Hout, M. C. (2016). The Novel Object and Unusual Name (NOUN) Database: A collection of novel images for use in experimental research. Behavior research methods. 48(4), 1393-1409. https://doi.org/10.3758/s13428-015-0647-3. 
+
+Kolinsky, R., & Morais, J. (2018). The worries of wearing literate glasses. L’Année Psychologique 4(118), 321-347.https://doi.org/10.3917/anpsy1.184.0321  
+
+Kurvers, J. (2002). Met ongeletterde ogen. Kennis van taal en schrift van analfabeten. Amsterdam: Askant Academic Publishers.
+
+Kurvers, J., Vallen, T., & Hout, R. V. (2006). Discovering features of language: Metalinguistic awareness of adult illiterates. LOT Occasional Series, 6, 69-88.
+
 Siekman, B., Spit, S., Verhagen, J., & Andringa, S. (2025). Metalinguistic awareness in adult emergent readers. A scoping literature review of empirical studies. Language Awareness, 1-21. 
-Swain, M. (2006). Verbal protocols: What does it mean for research to use speaking as a data collection tool? In M. Chalhoub-Deville, C. A. Chapelle, & P. A. Duff (Eds.), Inference and generalizability in applied linguistics: Multiple perspectives (pp. 97–114). John Benjamins Publishing Company.
 
+Swain, M. (2006). Verbal protocols: What does it mean for research to use speaking as a data collection tool? In M. Chalhoub-Deville, C. A. 
+Chapelle, & P. A. Duff (Eds.), Inference and generalizability in applied linguistics: Multiple perspectives (pp. 97–114). John Benjamins Publishing Company.
 
-
-
+<a id="aunio"></a>
 ### Lotta Aunio, University of Helsinki. 
 ### _Language learning without literacy?_
+
 In the Western world, literacy is often regarded as a prerequisite for language learning. This is reflected, for example, in efforts to teach illiterate migrants to read in order to facilitate their language learning in a new environment. In addition, language teaching frequently assumes that spoken language corresponds closely to written language, resulting in classroom instruction that presents spoken language merely as an oral version of the written form (Dufva, Aro, Suni & Salo, 2011). However, in many contexts around the world, learners’ needs center primarily on oral communication skills, and having to overcome the challenges of literacy and written language before being able to communicate can unnecessarily prolong the language learning process.
 At the university level, our main challenge in teaching nonEuropean languages has been students’ limited opportunities to hear and speak these languages outside the classroom. As a result, their oral skills have often lagged behind, despite numerous attempts to both encourage and facilitate oral communication during lessons. Yet research in language learning shows that Willingness to Communicate is also one of the strongest affective predictors of overall success in language learning (MacIntyre, 2007).
 Since there is considerable evidence –for example from various regions in Africa – that both adults and children acquire new languages orally, and given that children in Western societies also learn their first languages through oral communication before entering school, a new approach to beginnerlevel language instruction has been developed at the University of Helsinki. This approach is based on the “strong form” of Communicative Language Teaching (CLT): using the language in order to acquire it (Littlewood, 1981; Thornbury, 2016). Although CLT has been part of language pedagogy for decades, it is often applied in only its “weak form”, where communicativeness is viewed solely as a goal of learning rather than as a means. In such cases, oral practice typically involves repeating set dialogues or participating in conversation tasks built around grammar points, with a strong emphasis on written language. A more radical –yet often overlooked – principle of communicativeness is that language can be learned through use, even without explicit grammar instruction. Accordingly, these courses focused exclusively on oral skills and on methods that support learning through listening and speaking alone.
