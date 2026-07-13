@@ -28,7 +28,7 @@ permalink: /day3/
     </tr>
 
     <tr>
-      <th class="time">&nbsp;</th>
+      <th class="time"></th>
       <th class="session">
         <span style="display:block;">Session 1</span>
         <span style="display:block; border-top:1px solid #999; margin:0.4rem 0; padding-top:0.4rem;">
@@ -119,11 +119,9 @@ permalink: /day3/
     </tr>
 
     <tr>
-      <th class="time">&nbsp;</th>
-      <th class="session">Workshop 1</th>
-      <th class="session">Workshop 2</th>
-      <th class="session">Workshop 3</th>
-      <th class="session"></th>
+      <th class="time"></th>
+      <th class="session">colspan="2">Workshop 1</th>
+      <th class="session">colspan="2">Workshop 2</th>
     </tr>
 
     <tr>
@@ -137,8 +135,6 @@ permalink: /day3/
         <i>Università di Palermo</i><br>
         From the other side of the desk. <br> <strong> Only in presence.</strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.
       </td>
-      <td></td>
-      <td></td>
     </tr>
 
 
