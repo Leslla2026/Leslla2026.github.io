@@ -107,12 +107,12 @@ permalink: /day3/
       <td class="time">10:00–10:30</td>        
       <td><strong></strong><br><i></i><br></td>
       <td><strong></strong><br><i></i><br></td>
-      <td>
-        <strong>Live Grinden</strong><br>
+      <td><strong>Live Grinden</strong><br>
         <i>Western Norway University of Applied Sciences</i><br>
         The distribution of burdens within Norwegian integration policy: An exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship.
       </td>
       <td><strong></strong><br><i></i><br></td>   
+    </tr>
     <tr>
       <td class="time">10:30–11:00</td>
       <td colspan="4"><i>Coffee break</i></td>
@@ -120,15 +120,15 @@ permalink: /day3/
 
     <tr>
       <th class="time"></th>
-      <th class="session">colspan="2">Workshop 1</th>
-      <th class="session">colspan="2">Workshop 2</th>
+      <th class="session" colspan="2">Workshop 1</th>
+      <th class="session" colspan="2">Workshop 2</th>
     </tr>
 
     <tr>
       <td class="time">11:00–13:00</td>
       <td>  
         <strong>Eva Malessa*, Live Grinden°, Skye Playsted* & Jemima Rillera Kempster^</strong><br>
-        <i>*Turun Yliopisto, Finland; ° Høgskolen på Vestlandet, Norway; The University of Queensland (Australia), *Australian Catholic University, Australia</i><br>
+        <i>*Turun Yliopisto, Finland; °Høgskolen på Vestlandet, Norway; The University of Queensland (Australia), *Australian Catholic University, Australia</i><br>
         Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders. <br> <strong> Only in presence.</strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.
       </td>
       <td>
