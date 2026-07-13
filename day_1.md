@@ -115,7 +115,7 @@ permalink: /day1/
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
-    <strong>Ginger Kosobucki</strong> - Immigrant Welcome Center, Indianapolis <br> <i>What is fair assessment for LESLLA learners?</i>
+    <i>What is fair assessment for LESLLA learners?</i>
     </span>
 </td>
       <th class="session">Session 1</th>
@@ -125,7 +125,7 @@ permalink: /day1/
 
     <tr>
       <td class="time">14:30-15:00</td>
-      <td><strong></strong><br><i></i><br></td>
+      <td><strong>Panel organiser: Ginger Kosobucki</strong>, Immigrant Welcome Center, Indianapolis <br> Panellists: Martina Franz dos Santos, Christine Czinglar & Katharina Karges; Marie-Anne Morand; Jennifer Christenson<br></td>
       <td>
         <strong>Anna Mendoza*, Elif Varlik* & Eda Yildirimer°</strong><br> <i> University of Illinois at Urbana-Champaign; °University of Arizona </i><br>
         Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest
