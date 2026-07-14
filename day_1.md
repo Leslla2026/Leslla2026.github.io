@@ -150,7 +150,7 @@ permalink: /day1/
       </td>
       <td>
         <strong>Vincent Bédard</strong><br> <i> Université du Québec à Montréal </i><br>
-        Beyond deficit lens: making visible LESLLA Learners’ second language use practices
+        Beyond deficit lens: making visible LESLLA learners’ second language use practices
       </td>
     </tr>
 
