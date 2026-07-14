@@ -92,7 +92,7 @@ permalink: /day2/
         Observing competence and performance in talk-in-interaction: notes from an Italian LA course with newly arrived learners
       </td>
       <td>
-        <strong>Ann-Kristin Helland Gujord* & Linda Emilsen°</strong><br> <i> *Universitetet i Bergen, °Høgskolen i Østfold </i><br>
+        <strong>Ann-Kristin Helland Gujord* & Linda Evenstad Emilsen°</strong><br> <i> *Universitetet i Bergen, °Høgskolen i Østfold </i><br>
         What characterises research on L2 learners with limited prior schooling? 
       </td>
       <td>
