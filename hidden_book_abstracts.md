@@ -230,11 +230,10 @@ Stirling, A. (2015), Employment outcomes for migrants in European labour markets
 - [Anna Mendoza](#anna-mendoza,-the-university-of-illinois-at-urbana-champaign.), [Elif Varlik](#elif-varlik,-the-university-of-illinois-at-urbana-champaign.), [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _Akogare (English learning as leisure and desire) in adult community English classes in the US Midwest_
 - [Fernanda Minuz](#fernanda-minuz,-independent-researcher,-bologna,-italy.), [Alessandro Borri](#alessandro-borri,-CPIA-Montagna,-Castel-di-Casio,-Italy.), _Unaccompanied minors in adult education: listening to their voices_
 - [Marie-Anne Morand](#marie-anne-morand,-Université-de-Fribourg.), [Claudia Kossinna](#claudia-kossinna,-Université-de-Fribourg.), _Word stress identification by LESLLA learners and second-script learners_
-- [Davide Schirò](#davide-schirò,-università-di-palermo.), _Using picturebooks in plurilingual contexts: potentials and risks_
-- [David Stops](#david-stops,-indepented-researcher.), _In the shoes of our learners: AI learner personas as a thinking tool in lesson planning for literacy_
-- [Marieke Vanbuel](#marieke-vanbuel,-KU-Leuven-&-Ghent-University.), _How do LESLLA learners process multimodal texts?_
-- [Elif Varlik](#elif-varlik,-university-of-Illinois-at-Urbana-Champaign.), _Building Critical Multilingual Awareness through Collaborative Online Study Sessions: A Multiple Case Study of LESLLA Teachers_
-- [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _MATESOL Student Teachers' Preparation, Challenges, and Growth in Community-Based Teaching with Afghan Refugee Women_
+- [Davide Schirò](#davide-schirò,-università-di-palermo.), _Using picturebooks in plurilingual contexts: potentialities and risks_
+- [Marieke Vanbuel](#marieke-vanbuel,-Universiteit-Gent.), _How do LESLLA learners process multimodal texts?_
+- [Elif Varlik](#elif-varlik,-university-of-Illinois-at-Urbana-Champaign.), _Building critical multilingual awareness through collaborative online study sessions: a multiple case study of LESLLA teachers_
+- [Eda Yildirimer](#eda-yildirimer,-the-university-of-arizona.), _MA TESOL student teachers' preparation, challenges, and growth in community-based teaching with Afghan refugee women_
 - [Marta Young-Scholten](#marta-young-scholten,-newcastle-university.,-university-of-washington.), _Ineke van de Craats and Heide Wringley and the studies that created LESLLA_
   
 - [Author](#author,-university.), _Title_
@@ -846,7 +845,7 @@ Peirce, J., Gray, J. R., Simpson, S., MacAskill, M., Höchenberger, R., Sogo, H.
 
 
 ### Davide Schirò, Università di Palermo.
-### _Using picturebooks in plurilingual contexts: potentials and risks_
+### _Using picturebooks in plurilingual contexts: potentialities and risks_
 Picturebooks provide multimodal input that combines text, images, and graphic design, stimulating comprehension, engagement, and the use of learners’ linguistic repertoires, even when language competences are still emerging. As noted by Arizpe and Styles (2003), reading picturebooks is an interpretative process that integrates verbal and visual cues, fostering narrative and inferential skills that support language learning.
 In plurilingual contexts, valuing the learner’s entire linguistic repertoire means moving beyond monolingual approaches. Translanguaging enables the use of students’ languages as a resource, encouraging authentic communicative strategies (García & Wei, 2014). Picturebooks thus become a space for negotiating meaning, comparing repertoires, and developing intercultural competences (Hartmann & McGillicuddy, 2025).
 At the same time, every picturebook conveys implicit representations of norms, belonging, and difference. It can support inclusive processes or reproduce unexamined cultural and linguistic hierarchies. A conscious and guided analysis of picturebooks is therefore essential to transform them into effective and inclusive teaching tools.
@@ -873,27 +872,9 @@ García, O., & Wei, L. (2014). Translanguaging: Language, Bilingualism and Educa
 Hartmann, E. C., & McGillicuddy, Á. (Eds.). (2025). Creative Readings of Multilingual Picturebooks: International and Transdisciplinary Perspectives. Routledge.
 
 
-### David Stops, Independent Researcher.
-### _In the shoes of our learners: AI learner personas as a thinking tool in lesson planning for literacy_
-What if learners were included in lesson planning as real people with a biography and everyday life? How would teaching change if teachers took this change of perspective seriously?
-In this workshop, participants work with (AI) learner personas: they create a fictional but realistic and multi-layered character who represents their learners. A learner persona offers the opportunity to think specifically about your own learners when planning lessons, in addition to content or level appropriateness: what makes learning easier for my learners, what makes it more difficult for them? What are the individual needs of my learners and how can I meet them?
-Participants collaboratively and dialogically develop a sample persona for a prototypical learner, i.e., an adult with primary or functional illiteracy and limited and interrupted formal education, in order to highlight typical areas of tension and sharpen awareness of the diversity of participants. 
-Participants will receive step-by-step instructions for constructing a learner persona and a master prompt (for a chatbot) that brings the persona to life virtually.
-Furthermore, in a repetitive process, participants will plan their first teaching idea, incorporating the persona they have created and basing their adjustments on it.
-The workshop will also include time for discussion, brief reflection, and initial transfer.
-The learning objectives of the workshop are:
-Participants will gain an overview of the purpose and benefits of learner personas for lesson planning.
-Participants will use the learner persona to develop an initial lesson plan through an iterative process.
-A learner persona template and the master prompt will be provided as resources. I will also create a prototype learner and bring it with me. This prototype can be expanded or adapted during the discussion if desired. Using the master prompt, each participant should then create an AI learner persona that closely resembles their own learners.
-The workshop is scheduled to last 120 minutes (as stated in the call for proposals).
-The workshop is aimed at teachers, researchers, and individuals involved in educational planning.
-
-REFERENCES? 
 
 
-
-
-### Marieke Vanbuel, KU Leuven & Ghent University. 
+### Marieke Vanbuel, Universiteit Gent. 
 ### _How do LESLLA learners process multimodal texts?_
 Texts for beginning second language (L2) learners are often multimodal, i.e., they combine text and images (Montero Perez, 2020). While images have been found to support reading comprehension and incidental vocabulary acquisition in L1 and L2 contexts (Guo et al., 2020), little is known about how multimodal texts are processed by LESLLA learners. For emergent readers, multimodal texts may be particularly beneficial because they facilitate the decoding process. At the same time, however, multimodality may induce a split-attention effect, diverting focus from the text and hindering comprehension and learning (Mayer & Moreno, 1998). This effect may be more pronounced under complex task conditions (e.g., reading to locate multiple specific pieces of information instead of a single piece) (Sweller, 1988). However, complexity may also encourage careful reading, potentially enhancing comprehension and vocabulary acquisition (Jung & Lee, 2023; Jung & Révész, 2018). Since research on LESLLA reading processes in multimodal conditions is lacking, no findings on the presence or impact of these effects are available. 
 In this talk, I present findings from an eye tracking study that examines how LESLLA learners (N = 27) process multimodal texts under simple and complex task conditions, focusing on their attention to images versus text. Texts also included 8 novel target words. Comprehension and incidental vocabulary learning (form recognition, form recall and meaning recognition) were assessed. Eye movements were recorded with an Eyelink Portable Duo (SR Research). Results show no sign of a split attention effect: learners predominantly focused on text, regardless of condition, in line with findings for other L2 learners (Pellicer-Sánchez, 2022). However, reading patterns varied. While some participants integrated information from text, images and target words, others attended to images only before or after reading, or predominantly focused on the novel words. Learners who managed to integrate the information from all the different sources at the appropriate moments achieved higher comprehension scores and greater gains in meaning recognition than those who primarily focused on the text and only briefly attended the images. These findings underscore the importance of teaching LESLLA learners to apply reading strategies to integrate information from different input sources in order to effectively navigate multimodal texts, and to design tasks that require and facilitate such integration.
@@ -902,7 +883,7 @@ In this talk, I present findings from an eye tracking study that examines how 
 
 
 ### Elif Varlik, University of Illinois at Urbana-Champaign. 
-### _Building Critical Multilingual Awareness through Collaborative Online Study Sessions: A Multiple Case Study of LESLLA Teachers_
+### _Building critical multilingual awareness through collaborative online study sessions: a multiple case study of LESLLA teachers_
 LESLLA is a specialized field that addresses the complex needs of adult learners who are developing developing foundational literacy while simultaneously acquiring a second language. Given learners’ limited L1 textual literacy and metalinguistic awareness (van de Craats et al., 2006), LESLLA teachers require sustained professional development (PD) that goes beyond foundational reading instruction. Although existing PD initiatives (Kiramba & Trainin, 2025; Tammelin-Laine et al., 2021) often emphasize phonics and whole-part-whole approaches, they frequently overlook structured opportunities for reflective engagement with critical multilingual awareness. Research suggests that contextualized, collaborative inquiry, particularly in teacher-led study groups, can promote deeper professional learning (Farrelly, 2017; Maynard et al., 2024; Vinogradov & Liden, 2009). Drawing on the tradition of teacher study circles (Egan & Echelberger, 2023; Vinogradov, 2012; Young, 2009), this study conceptualized PD as sustained virtual study sessions. 
 This qualitative multiple case study (Merriam, 1998) explored how participation in six weeks of synchronous online study sessions influenced the perceptions and preparedness of three in-service veteran LESLLA teachers in North America. Framed by critical multilingual language awareness (García, 2017) and guided by Liu’s (2013) critical reflection framework, the sessions addressed translanguaging, identity texts, trauma-informed pedagogy, pleasure reading, technology integration, and gender issues. Each session combined accessible research readings with structured dialogue and opportunities for participants to connect theoretical concepts to their own classroom contexts. Teachers were encouraged to reflect on their instructional assumptions, share classroom dilemmas, and consider practical adaptations for multilingual adult learners with limited formal education. Data from pre- and post-questionnaires, session discussions, and semi-structured interviews were analyzed thematically using an open–focused–selective coding process adapted from Charmaz’s (2014) constructivist grounded theory. Multiple cycles of analysis allowed for the identification of shifts in pedagogical awareness, areas of sustained uncertainty, and the perceived affordances of sustained virtual professional dialogue (Creswell, 2013; Saldaña, 2013). 
 Findings indicate that the study sessions enhanced teachers’ awareness of multilingual pedagogies and deepened their understanding of the linguistic, cultural, and sociopolitical complexities shaping LESLLA classrooms. Participants described becoming more intentional in validating learners’ full linguistic repertoires and more reflective about how English-dominant norms can unintentionally marginalize adult emergent readers. Several teachers reported adapting materials and approaches shared during the sessions, such as incorporating translanguaging, identity texts, and using digital tools to support adult learners.  
@@ -931,7 +912,7 @@ Young, S. (2009). Supporting and supervising teachers working with adults learni
 
 
 ### Eda Yildirimer, The University of Arizona. 
-### _MATESOL Student Teachers’ Preparation, Challenges, and Growth in Community-Based Teaching with Afghan Refugee Women_
+### _MA TESOL student teachers’ preparation, challenges, and growth in community-based teaching with Afghan refugee women_
 TESOL/SLA research has rarely studied learners without textual literacy skills in their L1, known as LESLLA learners (Vinogradov, 2012). Often from refugee backgrounds with limited access to formal education (Flores et al., 2019), these learners face challenges in acquiring L2 literacy due to limited print awareness, unfamiliarity with formal schooling practices, and interrupted educational histories, compounded by a lack of teacher training focused on their needs (Young-Scholten et al., 2015). Although service learning is a solution widely used in TESOL practica to cope with this issue (Ferrari & Chapman, 2014), a gap remains in understanding how it supports teacher development for LESLLA contexts, particularly in preparing teachers to address the linguistic, social, and affective needs of this population.
 To address this gap, this longitudinal multiple case study investigated the impact of a TESOL practicum course in which MATESOL students engaged in service learning by teaching Afghan refugee women. The three focal participants came from diverse transnational backgrounds, with one participant from Brazil, another from Nigeria, and another from South Korea, allowing the study to consider prior educational and cultural experiences. Guided by the CAELA Network’s (2010) Framework for Quality Professional Development, the study situated teacher candidates in an authentic LESLLA context to examine how the course prepared, or in some cases did not fully prepare, MATESOL candidates to teach this unique group of learners, as well as the challenges they encountered in the classroom and how these experiences shaped their teacher identities. Data collection lasted one academic semester and included three semi structured interviews with the course instructor, a pre semester questionnaire, two written reflections, three individual interviews with each MATESOL candidate, and two focus group interviews. The data are currently being analyzed thematically using Saldaña’s (2013) two cycle coding method, moving from descriptive coding to pattern coding to identify emerging themes.
 Preliminary findings indicate that participants experienced tensions related to both the content and context dimensions of professional development. Many reported insufficient preparation regarding LESLLA learner profiles and literacy development for adults without prior schooling, which left them feeling underprepared to design instruction. Structurally, while the team teaching model fostered collaboration and peer support, limitations within the practicum and limited scaffolding contributed to uncertainty, frustration, and burnout. Participants navigated linguistic barriers, cultural differences, and emotionally demanding classroom dynamics, at times feeling overwhelmed by the responsibility of teaching a highly vulnerable population. At the same time, they described significant professional growth, increased pedagogical awareness, and a strong sense of emotional reward. 
@@ -954,7 +935,7 @@ In 2025 we bid farewell to two women without whom LESLLA likely wouldn’t exist
 The findings from these studies, including responses to audience members at LESLLA symposia where they were presented, have over the last 20+ years given rise to the need to consider at a microscopic level what internal factors involve, and to step back to take a wider perspective for the role played by a range of external factors some of which practitioners can control.   
 As I provide an overview of the studies in which Heide and Ineke were involved, I will ask the audience to make a list of two or three pedagogical implications/applications emerging from these studies. I’ll then share a list of research questions and issues which the findings from these studies have allowed us to ask and to pursue over the last 20+ years. I will wrap up by asking the audience what implications/applications they have listed, that is how Ineke and Heide have changed what we do in the classroom.  
 
-REFERNCES?
+REFERENCES?
 
 
 
@@ -966,9 +947,9 @@ Abstract text
 
 ## Posters
 - [Lorenzo Albanesi](#lorenzo-albanesi,-Masarykova-univerzita.), [Kristýna Lorenzová](#Kristýna-Lorenzová,-Masarykova-univerzita.) _If you are waiting for literacy and input: do analytic constructions emerge?_
-- [Tsun Yang Chuang](#tsun-yang-chuang,-ku-leuven-university-of-lille.), [Emanuelle Canut](#emanuelle-canut,-university-of-lille.), [Morgane Jourdain](#morgane-jourdain,-ku-leuven.) _Understanding the Non-Comprehension of Instructions among Learners with Limited Schooling: A Comparative Conversation Analysis of French Language Integration Classes_
-- [Martina Franz dos Santos](#martina-franz-dos-santos,-Philipps-Universität-Marburg.), _Real Literacies in Adult Second Language Literacy Instruction: An Intervention Study_
-- [Rebecca Hayes Laughton](#rebecca-hayes-laughton,-Kings-College-London-Women-for-Refugee-Women-London.), _Devising a radical grammar: grassroots drama as pedagogical tool_
+- [Tsun Yang Chuang](#tsun-yang-chuang,-ku-leuven.), [Emanuelle Canut](#emanuelle-canut,-université-de-lille.), [Morgane Jourdain](#morgane-jourdain,-ku-leuven.) _Understanding the non-comprehension of instructions among learners with limited schooling: a comparative conversation analysis of french language integration classes_
+- [Martina Franz dos Santos](#martina-franz-dos-santos,-Philipps-Universität-Marburg.), _Real literacies in adult second language literacy instruction: an intervention study_
+- [Rebecca Hayes Laughton](#rebecca-hayes-laughton,-Kings-College.), _Devising a radical grammar: grassroots drama as pedagogical tool_
 
 ### Lorenzo Albanesi, Masarykova Univerzita. 
 ### Kristýna Lorenzová, Masarykova Univerzita.
@@ -1009,8 +990,8 @@ Vainikka, A., Young-Scholten, M., Ijuin, C., & Jarad, S. (2017). Literacy in the
 
 
 
-### Tsun Yang Chuang, KU Leuven, University of Lille. 
-### Emanuelle Canut, University of Lille. 
+### Tsun Yang Chuang, KU Leuven. 
+### Emanuelle Canut, Université de Lille. 
 ### Morgane Jourdain, KU Leuven. 
 ### _Understanding the Non-Comprehension of Instructions among Learners with Limited Schooling: A Comparative Conversation Analysis of French Language Integration Classes_ 
 Pedagogical tasks are central to language acquisition, yet their success depends on the teacher’s ability to provide clear task instructions (Van Den Branden, 2009). Existing research has shown how task instructions are constructed (Markee, 2015) and how learners respond when they have difficulties in comprehending them (Sert & Jacknick, 2015; Somuncu & Sert, 2019). However, which aspects of task instruction delivery and designs lead to learner comprehension difficulties in L2 classrooms remains underexplored.
@@ -1056,7 +1037,7 @@ Street, Brian (2012): New Literacy Studies. In: Michael Grenfell, David Bloome, 
 
 
 
-### Rebecca Hayes Laughton, Kings College, Women for refugee women, London. 
+### Rebecca Hayes Laughton, Kings College, London. 
 ### _Devising a radical grammar: grassroots drama as pedagogical tool_
 This poster presentation draws on a ten-year drama project at the charity Women for Refugee Women in London, UK, to show how drama techniques can support language acquisition for refugee women with emerging literacy and help participants feel welcome in new educational environments. It examines the ethical framework of the drama project and introduces two models developed through the work: Drama for Life and Drama for Performance. Together, these approaches offer personalised and reparative language learning that challenges the bureaucratic and often discriminatory narrative structures and demands of the UK state asylum process.  Language teaching that welcomes this “radical grammar” (Reed & Hayes Laughton 2023) deliberately breaks with the epistemic expectations of juridical, humanitarian, and state institutions.  It can enable participants to learn language that articulates their experiences in forms that exceed institutional legibility and introduces critical thinking in pedagogical environments.  
 The project builds on Creative ESOL methods (Cox & Dix 2012) and is informed by grounded theory (Charmaz 2006, 2020), trauma-informed practice (Lewis Herman 1992, De Haere et al., 2010) and sensory ethnography (Pink 2021). Examples from the Drama for Life workshops illustrate creative session planning and games based on low-stakes collaboration, the development of foundational English vocabulary, and personalised creative goals. These sessions prioritise care and healing for women newly arrived in the UK.  The Drama for Performance pathway invites participants to devise scenes and create short narratives in English with methods blending the spoken, the written and the enacted.  This pathway encourages regular attendance and culminates in public performances, where participants practise speaking and performing in English and other languages as an ensemble. Weekly classes provide an inclusive environment for women from diverse national, religious, educational, and socio-economic backgrounds to collaborate and negotiate creative ideas and support one another’s learning. This paper foregrounds the importance of radical care (Low 2021) in the hosting of these activities, and the teaching environment of safety and choice for participants.  Increased participant well-being, both the hedonic elements, related to enjoyment, and the eudaemonic, related to purpose and achievement (Fancourt 2026), mean higher success in integration into classroom settings and future engagement with formal learning. 
