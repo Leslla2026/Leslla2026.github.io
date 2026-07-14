@@ -155,7 +155,7 @@ permalink: /day3/
     <tr>
       <td class="time">15:00–16:00</td>
       <td colspan="4">
-        <strong>Markéta Hajská & Pavel Kubaník</strong> (CUNI-Univerzita Karlova, Prague)<br>
+        <strong>Markéta Hajská & Pavel Kubaník</strong> (CUNI-Univerzita Karlova, Praha)<br>
         <i>Romani: one language, two stories</i>
       </td>
     </tr>
