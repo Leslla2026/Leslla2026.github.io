@@ -45,21 +45,24 @@ Siekman, B., Spit, S., Verhagen, J., & Andringa, S. (2025). Metalinguistic aware
 Swain, M. (2006). Verbal protocols: What does it mean for research to use speaking as a data collection tool? In M. Chalhoub-Deville, C. A. 
 Chapelle, & P. A. Duff (Eds.), Inference and generalizability in applied linguistics: Multiple perspectives (pp. 97–114). John Benjamins Publishing Company.
 
+
 <a id="aunio"></a>
 ### Lotta Aunio, Helsingin Yliopisto. 
 ### _Language learning without literacy?_
-
 In the Western world, literacy is often regarded as a prerequisite for language learning. This is reflected, for example, in efforts to teach illiterate migrants to read in order to facilitate their language learning in a new environment. In addition, language teaching frequently assumes that spoken language corresponds closely to written language, resulting in classroom instruction that presents spoken language merely as an oral version of the written form (Dufva, Aro, Suni & Salo, 2011). However, in many contexts around the world, learners’ needs center primarily on oral communication skills, and having to overcome the challenges of literacy and written language before being able to communicate can unnecessarily prolong the language learning process.
 At the university level, our main challenge in teaching nonEuropean languages has been students’ limited opportunities to hear and speak these languages outside the classroom. As a result, their oral skills have often lagged behind, despite numerous attempts to both encourage and facilitate oral communication during lessons. Yet research in language learning shows that Willingness to Communicate is also one of the strongest affective predictors of overall success in language learning (MacIntyre, 2007).
 Since there is considerable evidence –for example from various regions in Africa – that both adults and children acquire new languages orally, and given that children in Western societies also learn their first languages through oral communication before entering school, a new approach to beginnerlevel language instruction has been developed at the University of Helsinki. This approach is based on the “strong form” of Communicative Language Teaching (CLT): using the language in order to acquire it (Littlewood, 1981; Thornbury, 2016). Although CLT has been part of language pedagogy for decades, it is often applied in only its “weak form”, where communicativeness is viewed solely as a goal of learning rather than as a means. In such cases, oral practice typically involves repeating set dialogues or participating in conversation tasks built around grammar points, with a strong emphasis on written language. A more radical –yet often overlooked – principle of communicativeness is that language can be learned through use, even without explicit grammar instruction. Accordingly, these courses focused exclusively on oral skills and on methods that support learning through listening and speaking alone.
 The aims of the courses – to identify ways of supporting the development of communicative language competence and to equip students for lifelong language learning – were achieved beyond expectations. Because the courses concentrated on oral language skills, students’ threshold for speaking decreased after just a couple of lessons, and their Willingness to Communicate emerged naturally. When students focused on listening and repeating instead of reading, their pronunciation became much more natural than in more traditional courses, and the pursuit of correct grammatical forms did not impede interaction. Even in short courses, students began to develop an intuitive sense of the target language’s grammar through use, reinforcing the communicative notion that literacy or grammatical mastery does not need to precede actual language use.
 
-References
-Dufva, H., Aro, M., Suni, M., & Salo, O.-P. (2011). Onko kieltä olemassa? Teoreettinen kielitiede, soveltava kielitiede ja kielen oppimisen tutkimus. [Does language exist? Theoretical linguistics, applied linguistics, and second language acquisition research] AFinLA-teema, 3, 22–34. https://journal.fi/afinla/article/view/4454
-Littlewood, W. (1981). Communicative language teaching: An introduction. The New Directions in Language Teaching. Cambridge: Cambridge University Press.
-Macintyre, P. D. (2007). Willingness to communicate in the second language: Understanding the decision to speak as a volitional process. The Modern Language Journal, 91(4), 564–576. https://doi.org/10.1111/j.1540-4781.2007.00623.x
-Thornbury, S. (2016). Communicative language teaching in theory and practice. In: G. Hall (ed.), The Routledge handbook of English language teaching (s. 224–237). Routledge Handbooks in Applied Linguistics. London: Routledge.
+### References
+Dufva, H., Aro, M., Suni, M., & Salo, O.-P. (2011). Onko kieltä olemassa? Teoreettinen kielitiede, soveltava kielitiede ja kielen oppimisen tutkimus. Does language exist? Theoretical linguistics, applied linguistics, and second language acquisition research, AFinLA-teema, 3, 22–34. https://journal.fi/afinla/article/view/4454
 
+Littlewood, W. (1981). Communicative language teaching: An introduction. The New Directions in Language Teaching. Cambridge: Cambridge University Press.
+
+Macintyre, P. D. (2007). Willingness to communicate in the second language: Understanding the decision to speak as a volitional process. The Modern Language Journal, 91(4), 564–576. https://doi.org/10.1111/j.1540-4781.2007.00623.x
+
+
+Thornbury, S. (2016). Communicative language teaching in theory and practice. In: G. Hall (ed.), The Routledge handbook of English language teaching (s. 224–237). Routledge Handbooks in Applied Linguistics. London: Routledge.
 
 
 <a id="lüpke"></a>
@@ -67,18 +70,25 @@ Thornbury, S. (2016). Communicative language teaching in theory and practice. In
 ### _Lead language writing as an adaptive infrastructure for multilingual literacy development_
 Lead language writing (Lüpke 2018) is a globally common but marginalised type of grassroots writing (Blommaert 2006). The term designates the use of the sound-grapheme associations of focal languages of literacy for writing entire repertoires. This type of writing occurs in multilingual contexts where one language-based literacy and its orthographic conventions dominate the education system. Multilingual writers use these writing conventions to write parts of their repertoires in which they do not receive formal literacy education, not through reproducing linguistic standards but transcribing oral language forms in their full variability. Lead language writing is very common in postcolonial contexts where languages of colonial provenance continue to be used in formal education. For instance, West African writers may use French orthography as a model for the writing of Wolof and other national languages in Senegal or Bambara in Mali (Lüpke 2020, 2021). So-called Ajami writing, the writing of languages other than Arabic in the Arabic script, and using the spelling conventions of Arabic, is also a form of lead language writing that emerged in the context of Qur’anic instruction and has a long tradition and continuing uses ( (Lüpke 2004; Lüpke and Bao-Diop 2014). Lead language writing is a robust language-independent infrastructure that minimises learning efforts in environments characterised by high individual and societal multilingualism and variation, since only one system of sound-grapheme correspondences needs to be learned and can be transferred without limits and without recurrence to on-existing standard languages, and conventions emerge through shared practice rather than being enforced. This talk explores the utility of lead language writing in literacy learning for adults in the LILIEMA programme (Weidl et al. 2022; Lüpke et al. 2021) and its potential for training future teachers of national languages in multilingual environments. LILIEMA is not based on the conventions of French, the official language of Senegal, where it was created, but the spelling conventions for national languages of Senegal. These are largely based on the orthography for Wolof, the country’s lingua franca, and thus constitute a type of lead language writing themselves, since they share not only the bulk of graphemes, but also their sound values, as is also the case for many newly developed orthographies of West Africa (Pasch 2008). In this talk, I discuss ongoing applied linguistic research to extend the LILIEMA method for the training of future teachers and teacher trainers in national languages teaching and for literacy development in mother-tongue based multilingual education in the Gambia. This West African country is moving away from an English-only education system and is implementing national languages in primary education. However, neither teachers nor teacher trainers or linguists have received training or formal education in national languages themselves, and the training offered so far takes place exclusively in English, due to the hegemony of English in formal education and the involvement of international experts without knowledge of national languages. I report on a pilot based on LILIEMA teaching of and in national languages to teacher trainers as concrete transformative practice.
 
-References
+### References
 Blommaert, Jan (2006): Writing as a problem: African grassroots writing, economies of literacy, and globalization. In Language in Society 33 (05), pp. 643–671. DOI: 10.1017/S0047404504045014.
+
 Lüpke, Friederike (2004): Language planning in West Africa -- who writes the script? In Language Documentation and Description 2, pp. 90–107, checked on 2/21/2014.
+
 Lüpke, Friederike (2018): Escaping the tyranny of writing. West African regimes of writing as a model for multilingual literacy. In Kasper Juffermans, Constanze Weth (Eds.): The tyranny of writing revisited. Ideologies of the written word. London: Bloomsbury, pp. 129–148.
+
 Lüpke, Friederike (2020): The writing's on the wall. Spaces for language-independent and language-based literacies. In International Journal of Multilingualism 17 (3), pp. 382–403.
+
 Lüpke, Friederike (2021): Standardization in highly multilingual contexts: the shifting interpretations, limited reach, and great symbolic power of ethnonationalist visions. In Wendy Ayres-Bennett, John Bellamy (Eds.): The Cambridge handbook of language standardization. Cambridge: Cambridge University Press, pp. 139–169.
+
 Lüpke, Friederike; Bao-Diop, Sokhna (2014): Beneath the surface - contemporary Ajami writing in West Africa exemplified through Wolofal. In Yonas Mesfun Asfaha, Kasper Juffermans (Eds.): African literacies. Cambridge: Cambridge Scholars, pp. 86–114.
+
 Lüpke, Friederike; Biagui, Aimé Césaire; Biai, Landing; Diatta, Julienne; Mané, Alpha; Preira, Gérard et al. (2021): Language-independent literacies for inclusive education in multilingual areas (LILIEMA). In Philip Harding-Esch, Hywel Coleman (Eds.): Language and the sustainable development goals. Selected papers from the 12th Language and Development Conference. 12th Language and Development Conference. Dakar, November 27-29 2017. British Council: The British Council, pp. 65– 75.
+
 Pasch, Helma (2008): Competing scripts: the introduction of the Roman alphabet in Africa. In International Journal of the Sociology of Language (191), pp. 65–109.
+
 Weidl, Miriam; Lüpke, Friederike; Mané, Alpha Naby; Sagna, Jérémi Fahed (2022): LILIEMA: a
 sustainable educational programme promoting African languages and multilingualism according to the social realities of speakers and writers. In Journal of Multilingual and Multicultural Development. DOI: 10.1080/01434632.2022.2118754.
-
 
 
 <a id="spit"></a>
@@ -90,8 +100,9 @@ Bayesian mixed effects models indicate that experienced readers are better able 
 Apart from these results, we also learned some valuable lessons in how experimental procedures can be adapted to be more inclusive, even though this was not the main study objective. We did this in three ways: 1) our experimenters joined as co-teacher, which allowed them to build a trust relationship with participants and made them at ease to participate in this study; 2) we gave the L1 of the participants a central role in the experimental procedure, for example by providing instructions and consent procedures in Arabic; 3) our word learning experiment was set up in such a way that it was a realistic scenario to learn new ‘words’. 
 In this presentation, I will discuss our experimental study, which aimed to get a first grip of the effect of learning to read and write on acquiring a novel language, and its results, but I will also touch upon the practical lessons that we learned while doing so (see, Spit et al., 2025 for the full study).
 
-References 
+### References 
 Demoulin, C., & Kolinsky, R. (2016). Does learning to read shape verbal working memory?. Psychonomic Bulletin & Review, 23(3), 703–722. https://doi.org/10.3758/s13423-015-0956-7
+
 Spit, S., Andringa, S., & Rispens, J. (2025). Word learning in emergent readers: to what extent does written input help? Applied Psycholinguistics, 46, e50. doi:10.1017/S0142716425100362 
 
 
@@ -115,12 +126,17 @@ The findings suggest that both groups of learners are highly motivated to learn 
 More importantly, however, the conversations with participants allowed us to move beyond merely confirming the insufficient practical conditions for learning Dutch as a second language. They revealed that language deprivation within the asylum system affects people’s ability to sustain or reconstruct a coherent social identity. Our participants are not simply “motivated learners”; they are individuals whose social identities and life trajectories have been profoundly disrupted and who perceive Dutch as a gateway to recognition, participation, autonomy, and self-esteem. They seek to “invest” in the acquisition of Dutch as an L2 because Dutch represents access to society, dignity, parenthood, employment, and self-esteem (Norton, 2016, 2019). Yet, the asylum system structurally obstructs this investment.
 The paper therefore examines the effects of limited language access, temporal suspension, and social invisibility on processes of identity reconstruction among asylum seekers residing in asylum seeker centers in the Netherlands.
 
-References
+### References
 McAdams, D. P. 2001. The psychology of life stories. Review of general psychology, 5(2), 100-122.
+
 Griffiths, M. 2014. Out of time: The temporal uncertainties of refused asylum seekers and immigration detainees. Journal of ethnic and migration studies, 40(12), 1991-2009.
+
 Honneth, A. 2001. Invisibility: On the Epistemology of Recognition. Proceedings of the Aristotelian Society 75 (1): 111–126.
+
 Norton, B. 2016. Identity and language learning: Back to the future. TESOL Quarterly, 50(2), 475-479.
+
 Norton, B. 2019. Identity and language learning: A 2019 retrospective account. Canadian Modern Language Review, 75(4), 299-307.
+
 Pozzo, M. (2022). Moving on from Dutch to English: young refugees feeling betrayed by the Dutch language integration policy and seeking for more inclusive environments. Journal of Refugee Studies, 35(1), 348-367.
 
 
@@ -141,17 +157,26 @@ teachers. At the same time, the findings point to the need for educational appro
 address psychosocial vulnerability beyond narrowly defined disability categories. This
 contribution aims to advance debates on inclusion and trauma-informed professionalisation in adult language education.
 
-References
+### References
 Baier-Klenkert, A. (2021). Sprachaneignung bei Geflüchteten. Individuelle und institutionelle Einflussfaktoren sowie die Wirkung von integrationspolitischen Maßnahmen, Springer VS Wiesbaden. https://doi.org/10.1007/978-3-658-34267-8
+
 Czinglar, C., Förster, F., Steinbock, D., Schroeder, C., & Feldmeier García, A. (2025). Country report: Germany. In V. Fortier & H. Finn (Eds.), Literacy education and second language learning for adults (LESLLA): Proceedings of the 20th Anniversary LESLLA Symposium (LESLLA Symposium Proceedings, Vol. 20, No. 1, pp. 53–67).
 Dos Santos, M. F. (2024). Messung schriftsprachlicher Kompetenzen bei gering literalisierten Lernenden. In Empirische Unterrichtsforschung in DaFZ (pp. 61–75). Uni Press.
+
 Feick, D. (2018). Diagnostik in der Erwachsenenbildung. In A. Siebert & A. Godau-Schüttke (Eds.), Schreiben in der Zweitsprache Deutsch: Theorien – Forschung – Praxis (Vol. 1, pp. 301–318). De Gruyter. https://doi.org/10.1515/9783110354577-017
+
 Feldmeier García, A. (2021). Rahmencurriculum für Alphabetisierungskurse. Österreichischer Integrationsfonds.
+
 Henkelmann, J.-R., de Best, S., Deckers, C., Jensen, K., Shahab, M., Elzinga, B., & Molendijk, M. (2020). Anxiety, depression and post-traumatic stress disorder in refugees resettling in high-income countries: A systematic review and meta-analysis. BJPsych Open, 6(e68), 1–8. https://doi.org/10.1192/bjo.2020.54.
+
 Keilson, H. (2005). Sequentielle Traumatisierung bei Kindern: Untersuchung zum Schicksal jüdischer Kriegswaisen. Psychosozial-Verlag.
+
 Schramm, K. (2021). Towards the development of supranational descriptors for second language literacy: The Council of Europe’s LASLLIAM project. Informationen Deutsch als Fremdsprache, 48(6), 571–581.
+
 Strube, S., Van de Craats, I., & van Hout, R. (2013). Grappling with oral skills: The learning processes of the low-educated adult second language and literacy learner. LESLLA Symposium Proceedings, 8(1), pp. 87–108.
+
 Tofani, M., Marceca, M., Valente, D., Galeoto, G., Ben Zina, M. A., Salhi, I. S., Elmadmad, K., Tak Tak, H., Gosling, J., Mishra, S., Gazzaniga, V., Cilione, M., & Iorio, S. (2025). Disability and migration routes: An explorative analysis among refugees hosted in Italy. International Journal of Public Health, 69, Article 1607821. https://doi.org/10.3389/ijph.2024.1607821.
+
 Wilson, Victoria. 2023. Nothing about us without us: An investigation into trauma-informed teaching of English to speakers of other languages at universities in south-east Queensland. PhD Thesis Doctor of Philosophy. University of Queensland. https://doi.org/10.14264/87822a6
 Zimmermann, D. (2016). Migration und Trauma: Pädagogische Konsequenzen und Ausblick (4th ed., Vol. 38). Psychosozial-Verlag.
 
@@ -165,9 +190,11 @@ In order to tailor the content of such a self-learning programme to the specific
 The presentation will briefly introduce the project and its objectives, before addressing
 specific findings from the needs assessment that are particularly relevant to the target group of multilingual adolescents and young adults with limited and/or interrupted education. The module design will then be presented with a focus on the module for students with limited and/or interrupted education. Theoretical considerations of didactic planning will be explained and insights into the concrete implementation of media didactics will be provided. Finally, the potential and limitations of corresponding professionalisation offers for this target group will be discussed, which allow for a great deal of flexibility but little interaction.
 
-References
+### References
 Bellenberg, G., im Brahm, G., Demski, D., Koch, S., & Weegen, M. (2019). Bildungsverläufe an Abendgymnasien und Kollegs (Zweiter Bildungsweg) (Working Paper Forschungsförderung, 115). Hans-Böckler-Stiftung. https://d-nb.info/1186739916/34
+
 Kinner, J. E. (2018). Weiterbildungskollegs in Nordrhein-Westfalen. Die zweite Chance. nds. Die Zeitschrift der Bildungsgewerkschaft, 1(18), 16–17.
+
 Ständige Wissenschaftliche Kommission der Kultusministerkonferenz (SWK) (2022). Digitalisierung im Bildungssystem: Gutachten. https://www.pedocs.de/volltexte/2022/25273/pdf/SWK_2022_Digitalisierung_im_Bildungss ystem.pdf
 von Maurice, J., & Will, G. (2021). Geflüchtete Kinder und Jugendliche im deutschen Bildungssystem Zentrale Befunde der Studie ReGES (Nr. 2; Forschung kompakt).LIfBi. https://www.lifbi.de/Portals/2/Publikationen/Transferberichte/LIfBi%20Forschung%20 kompakt/LIfBi-Forschung-kompakt_02_ReGES.pdf?ver=SuOttv-xVVnUfPzpWHh8SA%3d%3d
 
@@ -182,8 +209,9 @@ A way out of this trap is supporting L2 development at work. There is evidence t
 Such L2 offers put high and often new demands on providers and teachers. These must cooperate with new partners such as labor market actors. They also need competences such as carrying out demand and need analysis of the language requirements and needs of a specific group of learners in a specific company or branch. They have to develop then customized trainings accordingly.  
 This contribution presents MITSPRACHE (Language for Co-decision) consisting of a training scheme for L2 providers and teachers as well as awareness raising events for employers, trade unions and workers’ representatives. It aims to provide pedagogical staff with strategic and didactic tools and to stimulate critical reflection on effective cooperation with labour market actors.
 
-References
+### References
 Braddell, A. and Miller, L. (2017), Supporting migrants in low‐paid, low‐skilled employment in London to improve their English. In Beacco, J-C., Krumm, H-J., Little, D. and Thalgott, P. (eds) (2017), The Linguistic Integration of Adult Migrants, Some lessons from research  / L’intégration linguistique des migrants adultes, Les enseignements de la recherche. Berlin: De Gruyter Mouton / Council of Europe. 
+
 OECD (2023), Introduction Measures for Newly-Arrived Migrants, Making Integration Work. Paris: OECD Publishing. https://doi.org/10.1787/5aeddbfe-en
 Stirling, A. (2015), Employment outcomes for migrants in European labour markets. London: IPPR
 
@@ -238,12 +266,17 @@ Stirling, A. (2015), Employment outcomes for migrants in European labour markets
 We report on a study exploring how the use of a metacognitive tracking tool can help LESLLA teachers collaboratively integrate information from peer-reviewed journal articles with their professional experience to develop practical solutions to real-world educational challenges. Metacognition, often described as thinking about one’s own thinking (Flavell, 1979), is a key process that supports continuing professional development (CPD) because it enables teachers to critically examine the reasons behind their pedagogical practices, evaluate the (in)effectiveness of their approaches, and identify solutions that help them adapt and grow professionally. Our research specifically focused on the use of an online collaborative productivity tool that we developed to enhance shared metacognition in a teacher-led journal club. Shared metacognition (SM) is an awareness of one's learning while constructing meaning and understanding in association with both self and others (Garrison, 2022); therefore, SM has the potential to foster the collaborative co-construction of innovative, evidence-informed solutions to professional challenges and is integral to the collaborative learning process in journal clubs. In the field of language teaching, the reading and discussion of peer-reviewed articles in journal clubs have been found to foster collaborative learning by drawing on the group’s collective knowledge, skills, and experiences to address members’ CPD needs and goals (Abbott & Lee, 2022; Lee & Abbott, 2021). To our knowledge, the ways in which SM can be supported in a teacher-led LESLLA journal club remain to be explored. 
 To investigate how members of a teacher-led LESLLA journal club develop and share metacognition over time, and how a metacognitive tracking tool supports the collaborative co-construction of innovative, evidence-informed solutions to professional challenges, we asked the members to record their monthly group discussions and use the tool to plan, monitor, and evaluate the implementation of innovative ideas gleaned from the journal articles and their journal club dialogue. Thirteen LESLLA instructors participated in 18 cycles of article reading, discussion, and tool use. To analyze the discussion and tracking tool data, we conducted a qualitative inquiry thread analysis (Zhang et al., 2007). An inquiry thread is a series of comments that share a distinct line of inquiry and map onto a particular concept or practical problem. Inquiry threads were identified by linking each entry in the tracking tool to all instances in the discussion transcripts and the journal articles. Then the threads were used as the units of analysis in a qualitative content analysis (Williamson et al., 2018) to examine how the LESLLA teachers used SM (i.e., planning, monitoring, and evaluating) to adapt the information from the articles and their group discussions to address their shared CPD needs. Results suggest that SM drives collaborative learning and knowledge development and can be enhanced by the tracking of content understanding and collaborative reflection to resolve practice-related issues such as how to promote self-regulation, fairness in assessment, and plurilingualism in the LESLLA classroom. Our findings have the potential to inform effective teacher CPD initiatives. We conclude with suggestions for future research on SM and the use of a shared metacognitive tracking tool.
  
-References
+### References
 Abbott, M. L., & Lee, K. K. (2022). Researcher-supported professional learning and development for instructors in adult L2 programs: Factors leading to ongoing communities of practice. The Modern Language Journal, 106(3), 617–634. https://doi.org/10.1111/modl.12793
+
 Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. American Psychologist, 34(10), 906–911. https://doi.org/10.1037/0003-066x.34.10.906
+
 Garrison, D. R. (2022). Shared metacognition in a community of inquiry. Online Learning, 26(1), 6–18. https://doi.org/10.24059/olj.v26i1.3023
+
 Lee, K. K., & Abbott, M. L. (2021). Knowledge co-construction in professional reading group discussions. ELT Journal, 75(4), 471–481. https://doi.org/10.1093/elt/ccab025
+
 Williamson, K., Given, L. M., & Scifleet, P. (2018). Qualitative data analysis. In K. Willamson & G. Johanson (Eds.), Research methods: Information, systems, and contexts (2nd ed., pp. 453–476). Elsevier. https://doi.org/10.1016/B978-0-08-102220-7.00019-4
+
 Zhang, J., Scardamalia, M., Lamon, M., Messina, R., & Reeve, R. (2007). Socio-cognitive dynamics of knowledge building in the work of 9- and 10-year-olds. Education Technology Research and Development, 55, 117–145. https://doi.org/10.1007/s11423-006-9019-0
 
 
@@ -265,19 +298,30 @@ The aim is to support students as bearers of meanings and stories, endowed with 
 This approach brings the language learning context closer to that of spontaneous acquisition in use, where language is not an objective in itself, but a means to achieve another non-linguistic goal (at least superficially) and returns to being a tool for social interaction in which "learning can maintain that implicit character typical of spontaneous acquisition, which guarantees a deeper internalization of the linguistic structures practiced than occurs in an explicit instruction context" (Mocciaro 2019: 270). A multimodal and plurilingual approach has proven particularly fertile and inclusive, especially with illiterate or low-literacy students, who can participate without being restricted to writing, or using multilingual writing. Images support narrative expression and serve as a tool for developing oral discourse, mediation processes, and the search for synthesis in writing, starting with significant keywords whose meanings may be interesting for the class to discuss through mediation and translation.
 In this workshop, we will experiment with an activity on linguistic autobiography through the construction of an image and interactive activities. We will share the narrative of our linguistic repertoires through the metaphorization offered by the work. We will examine materials (transcriptions, images of works, and audiovisuals) on the collection of linguistic autobiography using the same method in a course on Italian as an additional language for refugees and asylum seekers at the Asinitas association in Rome. We will reflect on the construction of a plurilingual and multimodal educational setting, on the use of images to represent the plurilingual self, and on the narrative of the linguistic repertoire as a "lived" experience.
 
-References
+### References
 Bartoli C. & Lòtano L. (2024). Il laboratorio espressivo-narrativo come dispositivo per lo sviluppo di processi di mediazione in contesti multilingue. Italiano LinguaDue V. 17 N.2
+
 Bartoli, C. (2025). The school that cares: Plurilingualism and multimodality for narration in Italian as a non-native language classes. QTimes Journal of Education, Technology and Social Studies, 17(2)
+
 Bonvino E. & Jamet M.C. (Eds.) (2016) Intercomprensione: lingue, processi e percorsi SAIL Studi sull’apprendimento e l’insegnamento linguistico. Venezia, Edizioni Ca’ Foscari. URL http://edizionicafoscari.unive.it/it/edizioni/collane/sail/
+
 Busch B. (2020) Discourse, Emotions and Embodiment in The Cambridge Handbook of Discourse Studies Edited by Anna De Fina, Alexandra Georgakopoulou. Cambridge University Press
+
 Cognigni, E. (2020) Il plurilinguismo come risorsa. Prospettive teoriche, politiche educative e pratiche didattiche Edizioni ETS
+
 Cummins, J. (2019) The Emergence of Translanguaging Pedagogy: A Dialogue between Theory and Practice. Journal of Multilingual Education Research: Vol. 9, Article 13.
+
 Curci, A. M. (2012). IL QUADRO DI RIFERIMENTO DEGLI APPROCCI PLURALI ALLE  LINGUE E ALLE CULTURE (CARAP). Italiano LinguaDue, 4(2), i-ix. https://doi.org/10.13130/2037-3597/2824
+
 D’Agostino, M. (2022) Multilingual Young African Migrants: Between Mobility and Immobility. In A. De Fina & G. Mazzaferro (Ed.), Exploring (Im)mobilities: Language Practices, Discourses and Imaginaries (pp. 17-37). Bristol, Blue Ridge Summit: Multilingual Matters
 Fontana S. & Mignosi E. (2023) Tra esplicito e implicito: comunicazione multimodale e relazione intersoggettiva nei contesti di apprendimento. Italiano LinguaDue 2. 2023 (pp.154 163)
+
 García O. & Wei L. (2014) Translanguaging: Language, bilingualism and education. London, UK: Palgrave Macmillan.
+
 Kramsch C. (2006) The Multilingual Subject. International Journal of Applied Linguistics w Vol. 16 No. 1
+
 Mocciaro, E. (2019) La morfologia nominale nell’italiano L2 di minori stranieri non accompagnati: analfabetismo, acquisizione, didattica. In B. Moretti, A. Kunz, S. Natale, & E. Krakenberger (Eds.), Le tendenze dell’italiano contemporaneo rivisitate. Atti del LII Congresso Internazionale di Studi della Società di Linguistica Italiana (Berna, 6–8 settembre 2018) (pp. 257–272). OfficinaVentuno.
+
 Piccardo E., The Mediated Nature of Plurilingualism in Piccardo E., Germain-Rutherford A., Geoff L. (2022). The routledge handbook of plurilingual language education. Edited by Routledge.
 
 
@@ -288,16 +332,22 @@ Piccardo E., The Mediated Nature of Plurilingualism in Piccardo E., Germain-Ruth
 In Quebec, Canada's French-speaking province, a growing dichotomy appears to be emerging between migration policies and governmental discourse. On the one hand, immigration is framed as a key solution to the province’s labour shortage (ministère de l’Emploi et de la Solidarité sociale, 2025). On the other hand, it is portrayed as problematic or even threatening: for example, Jean Boulet, former Quebec Minister of Immigration, stated that “80% of immigrants […] do not work, do not speak French, or do not adhere to the values of Quebec society.” (Plourde, 2024, translated from French). Although Mr. Boulet was not explicitly referring to the LESLLA context, such claims reflect a broader deficit perspective that persists not only in public discourse but also in LESLLA research and practice. This viewpoint frames learners in terms of what they don’t know or don’t do (Browder et al., 2022), potentially obscuring how they learn and use a second language (L2) (DeCapua and Marshall, 2015). In response, a growing number of scholars, including ourselves, seeks to foreground LESLLA learners’ existing capacities, practices, and knowledge. One promising avenue for moving beyond deficit perspective is to better understand learners’ everyday lived experiences in order to design instruction grounded in their realities (e.g., Kidwell, 2022; Piccinin and Dal Maso, 2021).
 Guided by this objective, we conducted a descriptive ethnographic case study with one LESLLA learner (N = 1) to document the diverse (and sometimes invisible) ways this individual engages with French as a L2 in his everyday life outside the classroom. To this end, we developed the concept of second language use practices that we drew from the New Literacy Studies’ literacy practices (see, e.g., Street, 2003) by adapting it to explore L2 use (e.g., Mitchell et al., 2019) rather than literacy itself. The aim of our presentation is therefore twofold: first, outline our new concept of second language use practices; and second, present the results derived from it. Data were generated through semi-structured interviews and observations. Findings indicate that, contrary to Mr. Boulet’s assumptions, the participant use French as a L2 in a wide range of life domains including employment, health, personal life, social and school. Pedagogical implications will be discussed to envision ways of adapting and enriching L2 instruction in closer alignment with LESLLA learners’ everyday realities in this L2.
 
-References
+### References
 Browder, C., Pentón Herrera, L. J. et Franco, J. (2022). Advancing the conversation: Humanizing and problematizing the conversation about the students we call SLIFE. Dans L. J. Pentón Herrera (dir.), English and students with limited or interrupted formal education: Global perspectives on teacher preparation and classroom practices (p. 9-21). Springer.
-DeCapua, A. et Marshall, H. W. (2015). Reframing the conversation about students with limited or interrupted formal education: From achievement gap to cultural dissonance. NASSP Bulletin, 99(4), 356-370. https://doi.org/10.1177/0192636515620662
-Kidwell, T. (2022). “We should learn English to solve our problems”: Strategies to support adult ESL learners with emergent literacy. Dans L. J. Pentón Herrera (dir.), English and Students with Limited or Interrupted Formal Education (vol. 54, p. 341‑355). Springer International Publishing.
-Ministère de l’Emploi et de la Solidatiré sociale (2025) Manque de main-d’œuvre, https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/emploi-solidarite-sociale/publications-adm/rapport/Diagnostic_516_Professions_VF.pdf
-Mitchell, R., Myles, F. et Marsden, E. (2019). Sociocultural perspectives on second language learning. Dans Second Language Learning Theories (p. 287‑325). Routledge.
-Piccinin, S. et Dal Maso, S. (2021). Promoting literacy in adult second language learners: A systematic review of effective practices. Languages, 6(3), 127. https://doi.org/10.3390/languages6030127 
-Plourde, A. (2024). Les fausses nouvelles du gouvernement Legault sur l’immigration. Institut de recherche et d’informations socioéconomique (IRIS). https://iris-recherche.qc.ca/blogue/immigration/legault-immigration-bouc-emissaire/
-Street, B. (2003). What’s ‘new’ in new literacy studies? Critical approaches to literacy in theory and practice. Current Issues in Comparative Education, 5(2), 77‑91. https://doi.org/10.52214/cice.v5i2.11369
 
+DeCapua, A. et Marshall, H. W. (2015). Reframing the conversation about students with limited or interrupted formal education: From achievement gap to cultural dissonance. NASSP Bulletin, 99(4), 356-370. https://doi.org/10.1177/0192636515620662
+
+Kidwell, T. (2022). “We should learn English to solve our problems”: Strategies to support adult ESL learners with emergent literacy. Dans L. J. Pentón Herrera (dir.), English and Students with Limited or Interrupted Formal Education (vol. 54, p. 341‑355). Springer International Publishing.
+
+Ministère de l’Emploi et de la Solidatiré sociale (2025) Manque de main-d’œuvre, https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/emploi-solidarite-sociale/publications-adm/rapport/Diagnostic_516_Professions_VF.pdf
+
+Mitchell, R., Myles, F. et Marsden, E. (2019). Sociocultural perspectives on second language learning. Dans Second Language Learning Theories (p. 287‑325). Routledge.
+
+Piccinin, S. and Dal Maso, S. (2021). Promoting literacy in adult second language learners: A systematic review of effective practices. Languages, 6(3), 127. https://doi.org/10.3390/languages6030127 
+
+Plourde, A. (2024). Les fausses nouvelles du gouvernement Legault sur l’immigration. Institut de recherche et d’informations socioéconomique (IRIS). https://iris-recherche.qc.ca/blogue/immigration/legault-immigration-bouc-emissaire/
+
+Street, B. (2003). What’s ‘new’ in new literacy studies? Critical approaches to literacy in theory and practice. Current Issues in Comparative Education, 5(2), 77‑91. https://doi.org/10.52214/cice.v5i2.11369
 
 
 <a id="christenson"></a>
@@ -338,12 +388,17 @@ asymmetries. Integrating mediation into assessment practices allows for an addit
 perspective on learners’ plurilingual repertoires, understood as expressions of agency rather than deficits. In contexts of superdiversity, such an approach has the potential to support social participation, inclusion and cohesion.The study adopts a mixed-methods research design conducted in third-sector organizations in Central and Southern Italy. Data collection includes non-participant classroom observations in literacy and pre-A1 courses, semi-structured interviews with teachers and course organizers, and biographical-narrative tools inspired by the CARAP framework. The analysis focuses on three interconnected dimensions: emerging mediation strategies in classroom interaction; teachers’ perceptions of current language tests, literacy processes, and plurilingual practices; learners’ use of their plurilingual repertoires in everyday communicative contexts, to identify their communicative needs from a mediation-oriented perspective.
 Preliminary findings highlight both the misalignment between standardized test demands and LESLLA learners’ profiles, particularly with respect to implicit literacy and test awareness requirements, and the potential of mediation-oriented practices. By documenting situated forms of mediation and plurilingual resource mobilization, the study contributes initial empirical insights for the development of a mediation-integrated assessment construct. Such a construct aims to better reflect LESLLA learners’ communicative competences and to contribute to more equitable assessment practices. 
 
-References
+### References
 Bachman, L. F. (2010). Fundamental considerations in language testing (1. publ., 11. [print.]).Oxford University Press.
+
 Camilleri-Grime, A., Castellotti, V., de Pietro, J.-F., Lőrincz, I., Meiẞner, F.-J., Noguerol, A., & Schröder-Sura, A. (con un contributo di Molinié, M.). (2012). IL CARAP, UN QUADRO DI RIFERIMENTO PER GLI APPROCCI PLURALI ALLE LINGUE E ALLE CULTURE. COMPETENZE E RISORSE (M. Candelier, A c. Di; Vol. 2). https://doi.org/10.13130/2037-3597/2823
+
 Council of Europe. (2020). Common European Framework of Reference for Languages: Learning, teaching, assessment—Companion volume. Council of Europe Publishing.
+
 Minuz, F., Kurvers, J., Schramm, K., Rocca, L., & Naeb, R. (con un contributo di Feldmeier
+
 García, A., Tammelin-Laine, T., & Europarat). (2022). Literacy and second language learning for the linguistic integration of adult migrants: Reference guide. Council of Europe Publishing.
+
 Rocca, L., Carlsen, H. C., & Deygers, B. (2020). Linguistic integration of Adult migrants: Requirements and learning opportunities. Report on the 2018 Council of Europe and ALTE survey on language and knowledge of society policies for migrants. Council of Europe Publishing.
 
 
@@ -356,12 +411,14 @@ My presentation draws on almost twenty years of research with a population that 
 Working alongside these learners has gradually led us to recognize a learner profile that challenges many of the assumptions underlying second language acquisition research and language education. These are young multilingual speakers who have grown up in fluid multilingual environments, where linguistic resources are not organized according to clear hierarchies and where language socialization takes place across complex family and community networks. Although many have had little or no access to formal schooling, they often possess extensive experience of digital communication and digital literacy, and they demonstrate a remarkable capacity to expand and reshape their linguistic repertoires throughout their lives. 
 Drawing on the experience developed within the ItaStra "laboratory", I will argue that these learner trajectories invite us to reconsider not only our pedagogical practices but also the theoretical frameworks through which we understand multilingualism, language learning, and linguistic repertoires. Rethinking learner profiles requires us to rethink our models, our teaching materials, our curricula, and, ultimately, the assumptions that continue to shape research in applied linguistics. Such a shift, I suggest, can only emerge through sustained dialogue across disciplinary traditions and educational contexts. 
 
-References
+### References
 D’Agostino, Mari. 2021. Noi che siamo passati dalla Libia. Giovani in viaggio fra alfabeti e 
 multilinguismo. Bologna: Il Mulino. 
-D’Agostino Mari, Farina Clelia, Ba Aliou. 2025. Bridging plurilingualism: from orality to writing. A 
+
+D’Agostino, Mari, Farina, Clelia, Ba, Aliou. 2025. Bridging plurilingualism: from orality to writing. A 
 model of multilingual literacy for newly arrived migrants in Palermo. In Fortier, V., & Finn, H., eds, Literacy Education and Second Language Learning for Adults (LESLLA): Proceedings of the 20th Anniversary LESLLA Symposium. https://lesllasp.journals.publicknowledgeproject.org/index.php/lesllasp/index 
-D’Agostino Mari, Mocciaro Egle, Ba Aliou. 2026. Emerging literacy in multilingual digital practices of young adult African learners, in Czinglar Christine/ Perry Kristen/Schramm, Karen, eds, Adult Migrants Learning Literacy in a New Language, De Gruyter Mouton Trends in Applied Linguistics, 2026. 
+
+D’Agostino, Mari, Mocciaro Egle, Ba Aliou. 2026. Emerging literacy in multilingual digital practices of young adult African learners, in Czinglar Christine/ Perry Kristen/Schramm, Karen, eds, Adult Migrants Learning Literacy in a New Language, De Gruyter Mouton Trends in Applied Linguistics, 2026. 
 
 
 <a id="dalderop"></a>
@@ -381,14 +438,21 @@ input for LESLLA’s research agenda, explicitly grounded in practitioners’ ne
  
 The workshop aims to support more sustainable and ethically informed collaboration between research and practice, ultimately contributing to more effective teaching for LESLLA learners. 
 
-References 
+### References 
 Fox, A., Baker, S., Charitonos, K., Jack, V., & Moser-Mercer, B. (2020). Ethics-in-practice in fragile contexts: Research in education for displaced persons, refugees and asylum seekers. British Educational Research Journal, 46(4), 829–847. https://doi.org/10.1002/berj.3618 
+
 Michaud, A. H., Fortier, V., & Amireault, V. (2022). “Do I have to sign my real name?” Ethical and methodological challenges in multilingual research with adult SLIFE learning French as a second language. Languages, 7(126), 1–16. https://doi.org/https://doi.org/10.3390/languages7020126 
+
 Sato, M., & Loewen, S. (2022). The research-practice dialogue in second language learning and teaching: past, present and future. The Modern Language Journal, 106(3), 509–527. https://doi.org/10.1111/modl.12791 
+
 Shepperd, L., & Dalderop, K. (2026). Why should I care? Research ethics in the field of adult L2 literacy. Dutch Journal of Applied Linguistics, 1–17. https://doi.org/10.51751/dujal60196 
+
 Fox, A., Baker, S., Charitonos, K., Jack, V., & Moser-Mercer, B. (2020). Ethics-in-practice in fragile contexts: Research in education for displaced persons, refugees and asylum seekers. British Educational Research Journal, 46(4), 829–847. https://doi.org/10.1002/berj.3618 
+
 Michaud, A. H., Fortier, V., & Amireault, V. (2022). “Do I have to sign my real name?” Ethical and methodological challenges in multilingual research with adult SLIFE learning French as a second language. Languages, 7(126), 1–16. https://doi.org/https://doi.org/10.3390/languages7020126 
+
 Sato, M., & Loewen, S. (2022). The research-practice dialogue in second language learning and teaching: past, present and future. The Modern Language Journal, 106(3), 509–527. https://doi.org/10.1111/modl.12791 
+
 Shepperd, L., & Dalderop, K. (2026). Why should I care? Research ethics in the field of adult L2 literacy. Dutch Journal of Applied Linguistics, 1–17. https://doi.org/10.51751/dujal60196 
 
  
@@ -400,7 +464,7 @@ Shepperd, L., & Dalderop, K. (2026). Why should I care? Research ethics in the f
 Since its inception, Heide Spruck Wrigley has been instrumental in advocating for policy and practice that acknowledge the unique strengths and needs of LESLLA learners. Over the years, her writing, materials development, guidance and hands-on support to practitioners around the world have been critical in furthering understanding of and approaches to design and implementation of learner-centered strategies enabling practitioners to develop and utilize classroom practices specifically suited to LESLLA learners.
 Facilitated by colleagues of Dr. Wrigley, this workshop will focus on strategies and materials that carry her work and scholarship forward by centering learners’ strengths, cultivating learner authority and agency, and grounding instruction in evidence-based research and practices. Sharing materials and processes that have worked in classrooms situated in various contexts, presenters will demonstrate classroom activities and approaches informed by our knowledge of language and literacy development, including elements of translanguaging, development of literacy in first and additional languages.  Participants are invited to share their own strategies in this interactive session.
 
- References? 
+References? 
 
 
 
@@ -410,16 +474,23 @@ Facilitated by colleagues of Dr. Wrigley, this workshop will focus on strategies
 This paper aims to revisit the relationship between competence and performance in Italian LA learning and use among newly arrived migrants, treating both as situated and co-constructed in and through talk-in-interaction and learners’ participation in classroom discursive practices (Young, 2009). It draws on a micro-corpus of audio-recorded classroom oral interactions—spontaneous and teacher-guided—from an Italian LA course with recently arrived plurilingual minors with limited experience of formal schooling and emergent literacy. For these learners, oral interaction is not one among several channels of acquisition but its primary site, a condition that makes the analysis of classroom talk particularly consequential (Tarone et Al., 2009).In particular, a comparative analysis of participation frameworks (teacher–student; peer–peer) and language regimes (monolingual/multilingual) is used to explore how target-language output—and thus what becomes recognisable as “performance” and inferable as “competence”—may vary across interactional contexts (Goodwin & Duranti, 1992).
 The paper takes as its starting point an observed discontinuity between the growing pedagogical legitimacy of multilingual approaches and translanguaging in SLA and LA teaching practice, and the persistence of largely monolingual orientations in the assessment of oral skills. In assessment, rating scales are often organised around criteria such as grammatical accuracy, lexical range, and degree of control. Taken together, these criteria implicitly frame oral output in target/non-target-like terms and can encourage a view of competence as an objectively observable property that a learner either possesses or lacks — a stance that New Literacies Studies and LESLLA research have shown to be particularly inadequate for learners whose language acquisition is primarily oral and interactionally grounded (Tarone, Bigelow & Hansen, 2009). Drawing on this body of research, the classroom evidence presented here takes Young's interactional perspective and work on participation frameworks (2009) as its analytical point of departure, suggesting that what learners can do is contingent on the social relations that organise participation and shape classroom talk (Seedhouse, 2009; Schegloff, 1991). In Italian LA classrooms with newly arrived youths, shared sociolinguistic experiences (i.e. undocumented mobility, fluid multilingualism, age proximity, shared religious affiliations, and co-residence in hosting centres) can be recontextualised in interaction. The relationships that develop, then, may shape the classroom as a community of practice and foster distinctive ways of participating in classroom talk. As noted by other scholars (D’Agostino, 2021; Mocciaro, 2022), prevailing assessment metrics are therefore descriptively and epistemologically inadequate for this learner profile, primarily because they under-represent the (multilingual) discursive practices that often constitute the interactional infrastructure of Italian LA learning among LESLLA learners (cf. D’Agostino, 2023; D’Agostino, Mocciaro & Ba, 2026). Ignoring this interplay of variables and dimensions risks isolating the learner and their performance, while overlooking the dense web of social relations that makes language learning possible. While the scope of this study remains necessarily modest, it is hoped that close attention to interaction data of this kind may offer a contribution to the understanding of how additional language learning unfolds for plurilingual LESLLA learners.
 
-References
+### References
 Tarone, E. Bigelow, M., Hansen , K. (2009). Literacy and Second Language Tracy, Oxford University Press.
+
 D’Agostino, M. (2021). Noi che siamo passati dalla Libia. Il Mulino.
+
 D’Agostino, M. (2023). Comunicazione multilingue fra apprendimento e uso. In Italia ma senza italiani. Italiano LinguaDue, 15(1), 326–337.
+
 D’Agostino, M., Mocciaro, E., & Ba, A. (2026). Emerging literacy in multilingual digital practices of young adult African learners. In C. Czinglar, K. 
+
 H. Perry, & K. Schramm (Eds.) (2026), Adult migrants learning literacy in a new language (pp. 85–116). De Gruyter Mouton.
 Goodwin, C., & Duranti, A. (Eds.) (1992). Rethinking context: Language as an interactive phenomenon. Cambridge University Press.
+
 Mocciaro, E. (2022). Acquisizione della lingua seconda e alfabetizzazione: un caso di studio a Palermo. Italiano LinguaDue, 14(1), 28–39.
 Schegloff, E. A. (1991). Reflections on talk and social structure. In D. Boden & D. H. Zimmerman (Eds.), Talk and social structure: Studies in ethnomethodology and conversation analysis (pp. 44–70). Polity Press.
+
 Seedhouse, P. (2009). The interactional architecture of the language classroom. Bellaterra: Journal of Teaching & Learning Language & Literature, 1(1), 1–13.
+
 Young, R. F. (2009). Discursive practice in language learning and teaching. Wiley-Blackwell.
 
 
@@ -429,15 +500,23 @@ Young, R. F. (2009). Discursive practice in language learning and teaching. Wile
 ### _From the other side of the desk: experiencing a repertoire-based approach to additional language literacy_
 The aim of this workshop is to foreground the limitations of monolingual approaches to additional language (AL) literacy and to demonstrate, by engaging participants in a simulated literacy lesson, how plurilingual teaching practices can more effectively support literacy development. Over the past two decades, research across SLA, applied linguistics, and sociolinguistics has consistently shown that multilingualism and translanguaging practices constitute central resources in language acquisition and education (García & Kano, 2014; Piccardo, 2024; D’Agostino & Mocciaro, 2021; D’Agostino, Mocciaro & Ba, 2026). Yet, despite various applied projects (Piccardo et al., 2022; Ortega, forthcoming, among others), the theoretical and empirical advances in this line of work have, to date, had only limited uptake in AL literacy provision for young and young adult multilingual LESLLA learners. Even when lingua francas such as English or French mediate classroom interaction, programme design—and the instructional materials through which it is enacted—often remains organised around the target language. For newly arrived migrant learners, this creates a dual demand: they must develop basic decoding and encoding skills in an AL to which they have had little or no prior exposure, while simultaneously building the vocabulary needed to participate in and make sense of literacy activities designed for/in that same language. Within this framework, literacy and language development therefore unfold in tandem, placing substantial cognitive loads on learners. To address these theoretical and pedagogical challenges, the workshop draws on an action-research project conducted in Palermo, which led to the development of a repertoire-based plurilingual literacy model for Italian AL. The model builds on phonemes shared across learners’ repertoires to establish phoneme–grapheme correspondences in the Roman alphabet, strengthening early alphabetic skills and phonological awareness  (cf. D’Agostino et al., 2025). Participants will take part in a simulated initial literacy lesson in Arabic. Arabic is selected because it is unfamiliar to most participants, providing an experiential point of entry into the challenges faced by newly arrived learners who must engage with a new language and, for many (i. e. Bangla and Arabic speakers), an unfamiliar script. The workshop is organised in two phases. In Phase 1, participants are introduced to a small set of syllables through a strictly monolingual approach designed to foreground the disorientation and cognitive strain often reported in the initial stages of LESLLA literacy learning, (cf. Farina, forthcoming). In Phase 2, the same content is revisited through a plurilingual approach that mobilises participants’ dominant and shared languages (e.g., Romance and Germanic languages, and if relevant Slavic languages). By moving participants to the other side of the desk, the workshop seeks to create a shared experiential basis for collective reflection on how teaching choices constrain or enable what learners do and, more broadly, their participation at the outset of LA literacy—and how a repertoire-based approach can shift both the learning process and its early outcomes. 
 
-References 
-García, O. & Kano, N. (2014). Translanguaging as process and pedagogy: Developing the English writing of Japanese students in the US. In Jo Conteh &Gabriela Meier (Eds.), The multilingual turn in languages education: Opportunities and challenges (pp. 258–277). Multilingual Matters. https://doi.org/10.21832/9781783092246-018
+### References 
+García, O. & Kano, N. (2014). Translanguaging as process and pedagogy: Developing the English writing of Japanese students in the US. In Jo Conteh & Gabriela Meier (Eds.), The multilingual turn in languages education: Opportunities and challenges (pp. 258–277). Multilingual Matters. https://doi.org/10.21832/9781783092246-018
+
 D’Agostino, M, & Mocciaro, E. (2021). Literacy and literacy practices: Plurilingual connected migrants and emerging literacy. Journal of Second Language Writing, 51, 100792. https://doi.org/10.1016/j.jslw.2021.100792
+
 D’Agostino, M., Mocciaro, E., &  Ba, A. (2026). Emerging literacy in multilingual digital practices of young adult African learners. In Christine Czinglar, Kristen H. Perry, & Karen Schramm (Eds.), Adult migrants learning literacy in a new language (pp. 85–116). De Gruyter Mouton. https://doi.org/10.1515/9783111403878-004
+
 D’Agostino, M., Farina, C., & Ba, A. (2025). Bridging plurilingualism: From orality to writing across languages: A model of multilingual literacy for newly arrived migrants in Palermo. LESLLA Symposium Proceedings, 20(1), 1–20. https://doi.org/10.5281/zenodo.17297678
-Farina, C. (forthcoming). Imparare ad leggere e scrivere in una lingua aggiunta: RIFLESSIONI preliminari SU due sperimentazioni con apprendenti neoarrivati LESLLA. In Mari D’agostino, & Fabiana Fusco (Eds.), Camminare attraverso tante lingue. Il plurilinguismo in contesti multilingui tra didattica, ricerca e formazione.
+
+Farina, C. (forthcoming). Imparare a leggere e scrivere in una lingua aggiunta: RIFLESSIONI preliminari SU due sperimentazioni con apprendenti neoarrivati LESLLA. In Mari D’agostino, & Fabiana Fusco (Eds.), Camminare attraverso tante lingue. Il plurilinguismo in contesti multilingui tra didattica, ricerca e formazione.
+
 Ortega, L. (forthcoming). A conversation with Lourdes Ortega [Interview]. In Mari D’Agostino & Fabiana Fusco (Eds.), Camminare attraverso tante lingue: Il plurilinguismo in contesti multilingui tra didattica, ricerca e formazione.
+
 Piccardo, E. (2024). Mediation for plurilingual competence: Synergies and implications. In Bessie Dendrinos (Ed.), Mediation as negotiation of meanings, plurilingualism and language education (pp. 27–52). Routledge. https://doi.org/10.4324/9781003032069-2 
+
 Piccardo, E., Lawrence, G., Germain-Rutherford, A., & Galante, A. (Eds.). (2022). Activating linguistic and cultural diversity in the language classroom (Educational Linguistics, Vol. 55). Springer. https://doi.org/10.1080/15348458.2023.2274862
+
 Weidl, M., Lüpke, F., Mané, A. N., & Sagna, J. F. (2023). LILIEMA: a sustainable educational programme promoting African languages and multilingualism according to the social realities of speakers and writers. Journal of Multilingual and Multicultural Development, 44(9), 827–845. https://doi.org/10.1080/01434632.2022.2118754
 
 
@@ -458,9 +537,11 @@ In what ways do art-based tasks support plurilingual meaning-making?
 How might drawing-based assessments transfer to other real-world literacy tasks?
 By framing drawing within established research on multimodality and adult literacy, this presentation offers a classroom-ready approach that validates learners’ plurilingual repertoires and provides meaningful, creative ways to assess comprehension while engaging learners as producers of art and meaning.
 
-References
+### References
 Bigelow, M. (2010). Mogadishu on the Mississippi: Language, racialized identity, and education in a new land. Wiley-Blackwell.
+
 Terada, Y. (2015). The Science of Drawing and Memory. Edutopia. Kress, G. (2010). Multimodality: A Social Semiotic Approach to Contemporary Communication. 
+
 Wrigley, H. S. (2014). Adult ESL Literacy: Findings and Recommendations from the Field. LESLLA.
 
 
@@ -474,13 +555,19 @@ Digital literacy practices can be conceptualized in two complementary ways. Firs
 This presentation adopts an emic perspective to examine how learners navigate digital practices and texts in everyday life, namely searching employment via online job advertisements, registering for a COVID-19 test, and participating in chat-based communication. The study draws on qualitative-reconstructive data from a recent PhD project on everyday literacy practices of Arabic-speaking adult migrants learning German as a second language. The 12 participants have at least six years of schooling and benefit from moderate to good first-language literacy skills. Nevertheless, their experiences with (digital) literacy practices highlight the considerable challenges of everyday literacy demands—challenges that are likely even greater for LESLLA learners. Methodologically, the study is based on ethnographic, multilingual interviews grounded in a view of literacy as a social and cultural practice. Participants recounted personal literacy events and shared relevant literacy artifacts. The reconstructive and detailed analysis draws on literacy practices research (Purcell-Gates et al., 2011), text linguistics, and multimodality (e.g., Brinker et al., 2024; Beißwenger, 2020). The findings underscore the need to treat digitality as a core analytical category in literacy and text-linguistic research, as it fundamentally shapes textual structures and modes of presentation. Engaging with digital texts requires not only operational digital skills but also experiential “written genre knowledge” (Perry, 2009). Furthermore, everyday literacy practices rarely consist of isolated reader–text interactions; rather, they are embedded in complex communicative situations involving face-to-face interaction, multilingual negotiation of meaning, and the simultaneous use of digital devices.
 The presentation concludes by situating its findings within broader theoretical debates. It argues for a practice-oriented understanding of literacy that fully acknowledges the complexity of digitally mediated interactions in second language and literacy acquisition contexts.
 
-References
+### References
 Beißwenger, M. (2020): Internetbasierte Kommunikation als Textformen-basierte Interaktion: ein neuer Vorschlag zu einem alten Problem. In Marx Konstanze, Lobin Henning & Schmidt Axel (Hrsg.): Deutsch in Sozialen Medien: Interaktiv – multimodal – vielfältig. Berlin: De Gruyter, 291– 318.
+
 Brinker, K., Pappert, S., & Cölfen, H. (2024). Linguistische Textanalyse. Eine Einführung in Grundbegriffe und Methoden. 10., neu bearbeitete Auflage. Berlin: Erich Schmidt Verlag.
+
 Eilola, L. E., & Lilja, N. S. (2021). The Smartphone as a Personal Cognitive Artifact Supporting Participation in Interaction. The Modern Language Journal, 105, 294–316. https://doi.org/10.1111/modl.12697
+
 Förster, F., Aboamer, Y., & Czinglar, C. (2026). “Yes, I know these things, but the difficult things, I don't know” - Everyday literacy practices of Arabic speaking adult migrants learning German as a Second Language. In C. Czinglar, K. H. Perry, & K. Schramm (Eds.), Adult Migrants Learning Literacy in a New Language. Berlin, Boston: De Gruyter Mouton, 45-84. https://doi.org/10.1515/9783111403878-003
+
 Guichon, N. (2024). Reviewing research methods on adult migrants’ digital literacy: What insights for additional language teaching? Apples - Journal of Applied Language Studies, 18(1), 67-89.https://doi.org/10.47862/apples.137177
+
 Perry, K. H. (2009). Genres, Contexts, and Literacy Practices: Literacy Brokering Among Sudanese Refugee Families. Reading Research Quarterly, 44(3), 256–276. https://doi.org/10.1598/RRQ.44.3.2
+
 Purcell-Gates, V., Perry, K. H., & Briseño, A. (2011). Analyzing Literacy Practice: Grounded Theory to Model. Research in the Teaching of English, 45(4), 439–458. URL: https://www.jstor.org/stable/23050582.
 
 
@@ -492,16 +579,25 @@ Research in LESLLA contexts has received increased attention in the past years, 
 In response to this need, we conducted an action research study taking the form of a living library project (BAnQ, 2017), in which the students had to produce multilingual identity texts (Cummins and Early, 2011) and to share them during the public event. The project took place in two adult education centres in the province of Québec, Canada. In this presentation, we will report on the teaching practices adopted by three focal teachers while carrying the project with their own learners. We collected data through video recordings of classroom activities over four to six lessons, each lasting between one and three hours. They were then analysed thematically (Paillé & Mucchielli, 2021) to identify the different teacher’s practices along a continuum from code-based to meaning-based.
 Our results showed that the balance between code-based and meaning-based practices varied among teachers, whose interventions during the project tended to be anchored more strongly in one orientation than the other. The study therefore reveals different teacher profiles and degrees of uptake of the balanced literacy approach, while nevertheless resulting in comparable final products.
 
-References
+### References
 Bibliothèque et Archives nationales du Québec (BANQ). (2017). L’organisation d’une bibliothèque vivante (Fiche d’information no 9). https://www.banq.qc.ca/documents/services/espace_professionnel/milieux_doc/ressources/bibliotheque_vivante/bibliotheque_vivante.pdf
+
 Choi, J., & Ziegler, G. (2015). Literacy education for low-educated second language learning adults in multilingual contexts: The case of Luxembourg. Multilingual Education, 5(1), 4. https://doi.org/10.1186/s13616-015-0024-7
+
 Cummins, J., & Early, M. (2011). Identity texts: The collaborative creation of power in multilingual schools. Trentham Books.
+
 Moore, L. C. (1999). Language socialization research and French language education in Africa: A Cameroonian case study. Canadian Modern language review, 56(2), 329-350. https://doi.org/10.3138/cmlr.56.2.329
+
 North, A. (2017). What kind of literacy? Reflections on the experiences of migrant domestic workers negotiating learning in London. European Education, 49 (2-3), 184–200, https://doi.org./10.1080/10564934.2017.1340800
+
 Ollerhead, S. (2012). Passivity or potential? Teacher responses to learner identity in the low-level adult ESL literacy classroom. Literacy at Numeracy Studies, 20(1), 63–84. https://doi.org/10.1080/10564934.2017.1340800
+
 Paillé, P. et Mucchielli, A. (2021). L’analyse qualitative en sciences humaines et sociales (5e éd.). Armand Colin. 
+
 Piccinin, S., & Dal Maso, S. (2021). Promoting literacy in adult second language learners: A systematic review of effective practices. Languages, 6(3), 127. https://doi.org/10.3390/languages6030127
+
 Vinogradov, P. (2010). Balancing top and bottom: Learner-generated texts for teaching phonics. LESLLA Symposium Proceedings, 5(1), 3–14. https://doi.org/10.5281/zenodo.8004038
+
 Young-Scholten, M. (2021). What do we know from 1 1⁄ 2 decades of LESLLA symposia? LESLLA Symposium Proceedings, 14(1), 69-82.
 
 
@@ -530,15 +626,22 @@ REFERNCES?
 Rapidly shifting policies and increased polarization around immigration in many historic refugee (re)settlement contexts underscore the need for classroom practices that foster inclusion and resilience, enabling LESLLA learners to navigate complex sociopolitical landscapes in a new language. This presentation, resulting from an ongoing university-community partnership between a faculty member with a background in adult literacy and ESL and a non-profit organization providing post-resettlement services in the midwestern United States, examines how digital storytelling pedagogy can support LESLLA learners’ language and literacy development. The partnership employs community-based participatory research, which is rooted in Freire’s (1972) critical pedagogy and goes beyond documenting a problem to work toward a solution in partnership with those most impacted (Fals-Borda & Rahman, 1991). To address the priorities of the local refugee community, the team established a community-based adult English for Speakers of Other Languages (ESOL) program in 2023 which incorporates participatory, arts-infused, and storytelling pedagogies centering learners’ lives as curriculum (Bryers et al., 2014). 
 In 2025, the team implemented a digital storytelling workshop designed to foster multiple forms of literacy (Cacicio et al., 2023; New London Group, 1996) through a scaffolded process of knowledge creation. Nine adult learner participants began with a 4-week photovoice workshop (Wang & Redwood-Jones, 2001) in which they paired a single still image with descriptive text. A six-week digital storytelling workshop followed, adding complexity through a series of images depicting a narrative with accompanying text and audio narration (Lambert & Hessler, 2020; Linville & Vinogradova, 2024). Reflexive thematic analysis (Braun & Clarke, 2006) of facilitator field notes, instructional materials, and participant-created media revealed that digital storytelling pedagogy enabled learners to develop their print and digital literacies, critical consciousness, and self-efficacy. These findings, which include an example of a LESLLA learner’s completed digital story, demonstrate how participatory and arts-based pedagogies can strengthen refugee adults’ agency, engagement, and wellbeing amidst anti-immigrant policy and rhetoric.
 
-References
+### References
 Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology; London, 3(2), 77–101. http://dx.doi.org/10.1191/1478088706qp063oa 
+
 Bryers, D., Winstanley, B., & Cooke, M. (2014). Participatory ESOL. In D. Mallows (Ed.), Language issues in migration and integration: Perspectives from teachers and learners (pp. 9–19). The British Council.
+
 Cacicio, S., Cote, P., & Bigger, K. (2023). Investing in multiple literacies for individual and  collective empowerment. ALL IN: The Adult Literacy & Learning Impact Network.
+
 Fals-Borda, O., & Rahman, M.  A. (1991). Action and knowledge: Breaking the monopoly with participatory action-research, Apex Press.
+
 Freire, P. (1972). Pedagogy of the oppressed. Herder and Herder.
+
 Lambert, J., & Hessler, B. (2020). Digital storytelling: Story work for urgent times (6th ed.). Digital Diner Press.
+
 Linville, H., & Vinogradova, P. (2024). Digital storytelling as translanguaging: A practical guide for language educators. Routledge. 
 The New London Group. (1996). A pedagogy of multiliteracies: Designing social futures. Harvard Educational Review, 66(1), 60–93.
+
 Wang, C. C., & Redwood-Jones, Y. A. (2001). Photovoice ethics: Perspectives from Flint Photovoice. Health Education & Behavior, 28(5), 560–572. https://doi.org/10.1177/109019810102800504
 
 
@@ -550,12 +653,17 @@ Wang, C. C., & Redwood-Jones, Y. A. (2001). Photovoice ethics: Perspectives from
 ### _Exploring teacher candidates’ attitudes toward multilingualism in the Turkish context_
 Multilingualism, linguistic diversity, and cultural diversity have received significant attention in recent years, particularly in educational contexts due to increased mobility and the growing numbers of migrant students with diverse needs in classrooms worldwide (e.g. Cenoz & Gorter, 2015; Dockrell et al, 2022; Phipps, 2019). While much recent empirical work has addressed teachers’ beliefs regarding multilingualism and multiculturalism (Abacioglu et al., 2022; Knudsen et al., 2021), critics often emphasize the challenges teachers are face with, particularly with regard to their preparedness to meet the needs of students (Dotzel et al., 2021). Due to large migration flows to and from the country, the linguistic make-up of Turkey has been changing over last 15 years. Following the open door policy which took effect in the early 2010s, Turkey has become a host country for millions of refugees and migrants from various countries such as Syria, Afghanistan, Ukraine. The aim of this study is to explore teacher candidates’ attitudes towards multilingualism in a context where they lack systematic training to meet the needs of migrant and multilingual/multicultural learners. A questionnaire study based on an adapted version of the Multilingual Classroom Questionnaire devised by the European Literacy Network (Dockrell et al., 2022) was conducted to identify how attitudes of teacher candidates developed towards multilingualism and teaching bi/multilingual migrant learners. The questionnaire was responded by 90 teacher candidates attending a state university in Istanbul, majoring in Physics, Chemistry, Mathematics, Computer Technologies, and Language Teaching during spring term of 2025. Adopting a quantitative approach, our study utilized questionnaire data to explore the teacher candidates’ attitude towards the use of first and/or second language in classrooms, their views on multilingualism and literacy instruction based on their practicum teaching experiences at various levels. The teacher candidates most frequently reported four to six months of observation and micro teaching experience in their practicum schools. The preliminary findings reveal that the participants express highly positive opinions about multilingual policies in education and beneficial effect of bilingualism in literacy instruction. However, this positive stance was clearly reduced about the use of first language in classroom although they still agreed that the first language can support teaching a second language through awareness of similarities and differences between languages. The results highlight that the participants more clearly value representing multilingualism as a supporting quality in education and literacy, and they are more positive about using the first language in second language teaching to enhance linguistic awareness. However, they demonstrate greater hesitation regarding the recognition and visibility of the first language in classroom instruction involving migrant learners, an issue that warrants in-depth examination given the increasingly diverse nature of contemporary classrooms.
 
-References
+### References
 Abacioglu, C. S., Fischer, A. H., & Volman, M. (2022). Professional development in multicultural education: What can we learn from the Australian context? Teaching and Teacher Education, 114, 103701. 
+
 Cenoz, J. & Gorter, D. (2015). Towards a holistic approach in the study of multilingual education. In Cenoz, J. & Gorter, D. (Eds.), Multilingual education: Between language learning and translanguaging (pp.1-15). Cambridge Univeristy Press.
+
 Dockrell, J. E., et al., (2022). Teaching and learning in a multilingual Europe: findings from a cross-European study. European Journal of Psychology of Education, 37, 293–320.
+
 Dotzel, S., Bonefeld, M., & Karst, K. (2021). The impact of linguistic diversity on students’ reading comprehension using different diversity measures and its’ differential effects depending on students’ migration background. International Journal of Educational Research, 109, 101796.
+
 Knudsen, H. B. S., Donau, P. S., L. Mifsud, C., Papadopoulos, T. C., & Dockrell, J. E. (2021). Multilingual classrooms-Danish teachers' practices, beliefs and attitudes. Scandinavian Journal of Educational Research, 65(5), 767–782.
+
 Phipps, A. (2019). Decolonising multilingualism: Struggles to decreate. Multilingual Matters.
 
 
@@ -571,12 +679,17 @@ To handle these challenges, we adopt an approach centered on the use of nouns. T
 Overall, the quantitative analyses point to clear expansion in production from DP1 to DP2, coupled with a shift away from isolated noun realisations towards longer, structurally richer (though still often nonclausal) strings. At the same time, the results underscore that development is uneven: variability between learners is substantially greater at DP2, suggesting diverging trajectories rather than uniform growth across the dataset
 The study provides a much-needed empirical account of how morphological and syntactic knowledge emerges in learners with a non-academic background.  In addition, the study contributed in methodological developments for grammatical analyses in non-academic samples of early language. This knowledge will expand the theoretical understanding of the emergence of grammar and the factors that create variation among learners. 
 
-References
+### References
 Andringa, S. & Godfroid, A. (2020). Sampling bias and the problem of generalizability in applied linguistics. Annual Review of Applied Linguistics, 40, 134–142. https://doi.org/10.1017/S0267190520000033
+
 Bigelow, M., & Tarone, E. (2004). The role of literacy level in second language acquisition: Doesn't who we study determine what we know?. TESOL quarterly, 38(4), 689-700.
+
 Bylund, E., Khafif, Z., & Berghoff, R. (2024). Linguistic and geographic diversity in research on second language acquisition and multilingualism: An analysis of selected journals. Applied Linguistics, 45(2), 308-329.
+
 Emilsen, L. E. & Gujord, A. K. H. (forthcoming). Traces of emerging grammar. A case study. 
+
 Ortega, L. (2019). SLA and the study of equitable multilingualism. The Modern Language Journal, 103, 23-38.
+
 Plonsky, L. (2023). Sampling and generalizability in Lx research: A second-order synthesis. Languages, 8(1), 75.
 
 
@@ -591,9 +704,11 @@ The main objective is to answer the following research question: What are the re
 Stage 1 coding recorded basic bibliographic details, the presence of linguistic measures, and whether the study explicitly focused on loweducated or lowliterate adults. On that basis, we identified a set of studies with a clear, explicit focus on the target group. Step 2 examined these studies in greater depth. We distinguished between empirical and nonempirical contributions and grouped research purposes under several broad headings: (a) instructional practice; (b) the impact of schooling/literacy on L2 acquisition; (c) methodological and ethical issues; and (d) linguistic development. For empirical work, we additionally documented participant types, recruitment and selection information, research contexts, methodological approaches, and data types. This mapping illuminates both the thematic emphasis and the methodological breadth that characterise current research on LESLLA learners.
 Our analyses indicate substantial growth in research on this population, with a marked rise in publications from 2019 onwards. Notably, a large proportion of recent studies explicitly targets loweducated adult learners, suggesting that the broader SLA field is increasingly incorporating more inclusive learner profiles and learning contexts. The result is a more representative evidence base—one that responds to longstanding calls to broaden SLA research beyond Englishdominant and WEIRD populations. In the presentation, we will synthesise what characterises research conducted up to 2025 and identify key gaps that remain in the field.
 
-References
+### References
 Arksey, H., & O’Malley, L. (2005). Scoping studies: Towards a methodological framework. International Journal of Social Research Methodology, 8(1), 19–32. 
+
 Nordanger, M., Carlsen, C. H., & Bugge, E. (2024). Research on simultaneous second language and literacy acquisition in adults: A scoping review of the LESLLA Symposium Proceedings. LESLLA Symposium Proceedings, 19(1), 2024.
+
 YoungScholten, M. (2018, October 4–6). What do we know from 1½ decades of LESLLA symposia? In M. D’Agostino & E. Mocciaro (Eds.), Research, practice and policy: Selected papers from the 14th Annual Symposium of LESLLA (pp. 69–84). Palermo University.
 
 
@@ -619,8 +734,9 @@ The morphological test was a picture-selection task assessing sensitivity to nom
 Participant performance on the sound discrimination task was better, though still imperfect. Using sound discrimination as a predictor of morphological performance yielded a significant but modest effect, indicating that perceiving sounds (input) does not guarantee their use in detecting meaning distinctions (intake). We will discuss how these results relate to current theories of morphological acquisition in low-educated adult L2 learners.
 Our findings underscore the profound challenges faced by low-educated adult learners in acquiring morphological inflection, even when phonological perception is relatively intact. This disconnect between input and intake highlights the need for targeted pedagogical approaches that go beyond phonetic training and address deeper cognitive and educational constraints. Understanding these mechanisms is crucial for developing effective language programs that promote linguistic equity for migrant populations.
 
-References
+### References
 Oldenkamp, L. (2013). The Trouble with Inflection of Adult Learners of Dutch. A Study on the L1 L2 Interplay of Morphosyntactic and Phonetic-Phonological Factors. PhD thesis, Radboud University, Nijmegen.
+
 Mocciaro, E. & M. Young-Scholten (2026). Literacy and L2 adults’ acquisition of L2 linguistic morphosyntax. In J. Herschensohn et al. (Eds), The Cambridge Handbook of Second Language Acquisition, 2nd Ed. Cambridge: CUP.
 
 
@@ -638,7 +754,7 @@ The challenge of teaching to the test while building a critical awareness of a h
 The importance of ongoing teacher education that allows teachers to share their knowledge and materials with each other
 This paper presentation will summarize the research I conducted and discuss its relevance to international practice and policy concerned with LESLLA learners.
 
-References 
+### References 
 Dana, N.F. and Yendel-Hoppey, D. (2019). The reflective educator’s guide to classroom research: Learning to teach and teaching to learn through practitioner inquiry. Corwin. 
 
 
@@ -676,16 +792,25 @@ In order to report on how LESLLA learners participating or having participated i
 In this presentation, we will discuss preliminary findings from our thematic analysis (Paillé & Mucchielli, 2021) regarding the participants’ languages and perspective on language. Using data from all data sources previously mentioned, we will present 1) how LESLLA learners and their networks talk about languages, 2) how these perspectives may have shifted over their migration and schooling processes, 3) what plurilingualism represents for the participants, and 4) their plurilingual repertoires and language brokering practices, including the ways in which they impact their linguistic and social integration.
 Overall, findings from our study shed a new light on who LESLLA learners are by focusing on their perspectives outside of language and literacy classes, as well as treating them as active agents and full members of society instead of research subjects (Gani & Khan, 2024).
 
-References
+### References
 Asta, G., & Pugliese, R. (2021). Linguistic repertoires in Italian L2 classes: Implications of the use of pidgin languages for learning and teaching. LESLLA Symposium Proceedings, 14(1), 85–110.
+
 Bigelow, M., & Tarone, E. (2004). The role of literacy level in second language acquisition: Doesn’t who we study determine what we know?. TESOL Quarterly, 38(4), 689-700. https://doi.org/10.2307/3588285 
+
 Browder, C., Pentón Herrera, L. J., & Franco, J. (2022). Advancing the conversation: Humanizing and problematizing the conversation about the students we call SLIFE. Dans L. J. Pentón Herrera (Ed.), English and students with limited or interrupted formal education: Global perspectives on teacher preparation and classroom practices (p. 9-21). Springer.
+
 Duran, C. S. (2019). ‘I have so many things to tell you, but I don’t know English’: Linguistic challenges and language brokering. Dans D. S. Warriner et M. Bigelow (Eds.), Critical reflections on research methods. Power and equity in complex multilingual contexts (p.13-30). Multilingual Matters.
+
 Gani, J. K., & Khan, R. M. (2024). Positionality statements as a function of coloniality: Interrogating reflexive methodologies. International Studies Quarterly, 68(2). https://doi.org/10.1093/isq/sqae038 
+
 Godfroid, A., & Andringa, S. (2023). Uncovering sampling biases, advancing inclusivity, and rethinking theoretical accounts in Second Language acquisition: Introduction to the special issue SLA for all?. Language Learning, 73(4), 981-1002. https://doi.org/10.1111/lang.12620 
+
 Hooft, H. (2024). Learning inside and outside school. Adult migrants’ experiences of language and literacy learning in differently institutionalized environments. LESLLA Symposium Proceedings, 19(1), 23-38. https://doi.org/10.5281/zenodo.14140517
+
 Maynard, C., Beaulieu, S., Fortier, V., & Laberge, C. (2024). Towards the adoption of a balanced approach to literacy instruction in LESLLA classrooms in Québec, Canada. APPLES – Journal of Applied Language Studies, 18(2), 21-28. https://doi.org/10.47862/apples.132066 
+
 Moll, L.C., Amanti, C., Neff, D., & González, N. (1992). Funds of knowledge for teaching: Using a qualitative approach to connect homes and classrooms. Theory Into Practice, 31(2), 132-141. https://doi.org/10.1080/00405849209543534
+
 Moll, L. C., Soto-Santiago, S. L., & Schwartz, L. (2013). Funds of knowledge in changing communities. Dans K. Hall, T. Cremin, B. Comber et L. C. Moll (Eds.), International handbook of research on children’s literacy, learning, and culture (p. 172-183). Wiley-Blackwell.
 Paillé, P., & Mucchielli, A. (2021). L’analyse qualitative en sciences humaines et sociales (5th ed.). Armand Colin.
 
@@ -716,15 +841,23 @@ The qualitative analysis of the graphic strategies used by each learner in their
 Despite limited formal education and precarious living conditions linked to recent arrival or refugee status, participants demonstrate considerable linguistic capital. On average, literacy learners report five languages in their repertoires, including heritage languages, official national languages, lingua francas, regional dialect/s and languages acquired in transit countries. Through the metaphor of the body, learners were also able to report how they flexibly employ different (oral) resources in various communicative contexts and to express the complexity and difficulties of their literacy development in a second language and as adults.
 The specific characteristics of the portraits of literacy learners within the surveys conducted in the two Italian regions will be discussed in detail, along with some critical issues relating to the use of this task with this peculiar target group.
 
-References
+### References
 Beacco, J. C., Byram, M., Cavalli, M., Coste, D., Egli Cuenat M., Goullier F., Panthier, J. 2016. Guide for the development and implementation of curricula for plurilingual and intercultural education. Council of Europe. 
+
 Bush, B. 2012. The Linguistic Repertoire Revisited. Applied Linguistics 33(5). 503-523.
+
 Cavagnoli, S. 2014. L’autobiografia linguistica a scuola tra plurilinguismo e affettività. In Landolfi, L. (a cura di), Crossroads languages in (e)motion, 179-188. Napoli, Photocity Edizioni.
+
 Cognigni, E. 2007. Vivere la migrazione tra e con le lingue: funzioni del racconto e dell’analisi biografica dell’italiano come lingua seconda. Porto S. Elpidio, Wizards. ​
+
 Carbonara V. 2023. The effects of multilingual pedagogies on language awareness: A longitudinal analysis of students’ language portraits, Linguistics and Education, 78, 101244.
+
 De Mauro T. 2018, L’educazione linguistica democratica, Roma-Bari, Laterza.
+
 Grosjean, F. (2010). Bilingual: Life and Reality. Cambridge (MA), Harvard University Press.
+
 Maffia M., Noschese M. P., 2024, Ritratti e racconti del corpus GULP. Rappresentazioni multimodali di repertori linguistici plurali di immigrati adulti, in Cirillo L., Nodari R. (a cura di), Contesti, pratiche e risorse della comunicazione multimodale, Milano, AItLA. 
+
 Savy, R. 2006. Specifiche per la trascrizione annotata ortografica dei testi. In Albano Leoni, F. & Giordano, R. (a cura di). Italiano parlato. Analisi di un dialogo. Napoli, Liguori. 1-37.​
 
 
@@ -737,15 +870,23 @@ Savy, R. 2006. Specifiche per la trascrizione annotata ortografica dei testi. In
 In recent years, ethical considerations relating to LESLLA learner populations have increasingly been addressed and problematized, see e.g., Gujord et al. (2023); Michaud et al. (2022); Norlund Shaswar et al. (2024), as evidenced by the call for LESLLA focused research methodologies in the recently developed LESLLA Manifesto. In this workshop we first introduce the audience to such LESLLA-specific research ethics discussions, including informed consent and voluntary participation, e.g., Bigelow & Pettitt (2016); Malessa et al. (2026); Shepperd & Dalderop (2026). Compared to Western-based researchers, LESLLA learners most often have distinctly different backgrounds in multiple ways, including their limited experience with formal schooling, their cultural historical contexts, their linguistic repertoires, and, for many, their experiences of displacement. Responding meaningfully to these dimensions requires approaches that are sensitive to asymmetries in power, knowledge, and lived experience. 
 We then present case studies and research practices with LESLLA stakeholders regarding ethical issues from various multilingual research contexts, e.g., Australia, Finland and Norway, as a starting point for discussions and workshop activities that might draw on participants' experiences with their previous research projects. We hope to provide a space for questions/provocations/puzzling over existing ethics-related issues and practices. With this workshop, we endeavour to open up conversations that could contribute to a LESLLA community-led creation of practical research ethics guidelines for current and future LESLLA stakeholders that ideally could support particularly early career researchers and consequently also encourage more experimental LESLLA studies. The aim of this workshop is thus to initiate the co-creation of LESLLA-specific research ethics guidelines, similarly to guidelines that are LESLLA-relevant, but not LESLLA-specific see e.g., BERA (2018), Harley & Wazefadost (2023) and Krause et al. (2024), based on LESLLA-specific case studies and practices and find partners to follow-up this workshop’s output for continuing discussions and dissemination.
 
-References
+### References
 Bigelow, M., & Pettitt, N. (2016). Narrative of ethical dilemmas in research with immigrants with limited formal schooling. In P. I. De Costa (Ed.), Ethics in applied linguistics research: Language researcher narratives (pp. 66–82). Routledge.
+
 British Educational Research Association (BERA). (2018). Ethical guidelines for educational research (4th ed.). https://www.bera.ac.uk/publication/ethical-guidelines-for-educational-research- 2018
+
 Gujord, A.-K. H., Søfteland, Å., & Emilsen, L. E. (2023). Å forske på språkutviklinga hos innlærere med begrensa skolebakgrunn – metodiske valg og problemstillinger. Nordand, 18(2), 125–139. https://doi.org/10.18261/nordand.18.2.4 
+
 Harley, T., & Wazefadost, N. (2023). Guidelines for co-produced research with refugees and other people with lived experience of displacement. Kaldor Centre for International Refugee Law, Asia Pacific Network of Refugees and Act for Peace. https://doi.org/10.26190/GHNC-SY80 
+
 Krause, U., Zanker, F., & Fröhlich, U. (2024). Ethics guidelines of the German Network for Forced Migration Studies. German Network for Forced Migration Studies. https://fluchtforschung.net/wp-content/uploads/2024/09/NWFF-Ethics-Guidelines-engl.pdf 
+
 Malessa, E., Playsted, S., Rillera Kempster, J., & Grinden, L. (2026). Gatekeeping and gate-opening: Ethical and reflexive research with LESLLA stakeholders: A response to “Why should I care? Research ethics in the field of adult L2 literacy”. Dutch Journal of Applied Linguistics, 15. https://doi.org/10.51751/dujal24695
+
 Michaud, A. H., Fortier, V., & Amireault, V. (2022). “Do I have to sign my real name?” Ethical and methodological challenges in multilingual research with adult SLIFE learning French as a second language. Languages, 7(2), 126. https://doi.org/10.3390/languages7020126
+
 Norlund Shaswar, A., Ljung Egeland, B., Rosén, J., & Wedin, Å. (2024). Ethical dilemmas of translanguaging pedagogy in L2 and basic literacy education for adults: Social justice and ethics of care. Ethnography and Education, 1–18. https://doi.org/10.1080/17457823.2024.2390946 
+
 Shepperd, L., & Dalderop, K. (2026). Why should I care? Research ethics in the field of adult L2 Literacy. Dutch Journal of Applied Linguistics, 15. https://doi.org/10.51751/dujal23614 
 
 
@@ -758,12 +899,17 @@ Instructional practices used to support the literacy development of LESLLA learn
 To understand the reasons underlying teachers’ preference for code-oriented practices, we drew on the construct of relationship to reading and writing, developed in French first-language education (Barré-de Miniac, 2015; Chartrand & Blaser, 2008) and more recently adopted in additional-language pedagogy (Delebarre, 2022). This construct probes teachers' conceptions of written language and its learning, the value they assign to it, their affective relationship to reading and writing, as well as the print literacy practices they privilege, thus offering a lens through which to explain pedagogical choices. Our presentation therefore addresses the following question: What relationship to reading and writing do LESLLA teachers in Québec hold?
 To answer this question, we collected data from six LESLLA teachers working in two adult education centres in Québec. We conducted individual interviews with each participant to document their relationship to reading and writing using an adapted version of the protocol developed by Maynard and Armand (2016). Through thematic analysis, we linked participants’ conceptions with their reported practices. The analysis revealed two teacher profiles in which beliefs and instructional practices were aligned: one associated with a restrictive relationship to reading and writing and the other with an emancipatory relationship to reading and writing.
 
-References
+### References
 Barré-De Miniac, C. (2015). Le rapport à l’écriture. Aspects théoriques et didactiques (2e éd.). Presses universitaires du Septentrion. 
+
 Chartrand, S.-G. et Blaser, C. (2008). Le rapport à l’écrit : une notion pour enseigner de l’école à l’université. Presses universitaires de Namur. 
+
 Delebarre, J. (2022). Explorer le rapport à l’écrit en français langue seconde par une approche diachronique et contextualisante : Le cas d’élèves locuteurs de langues africaines de tradition orale [doctoral dissertation, Université Paul Valéry Montpellier III]. HAL Thèses. https://theses.hal.science/tel-03478498/
+
 Maynard, C., Beaulieu, S., Fortier, V., et Laberge, C. (2024). Towards the adoption of a balanced approach to literacy instruction in LESLLA classrooms in Québec, Canada. Apples - Journal of Applied Language Studies, 18(2), 21–38.
+
 Ollerhead, S. (2012). Passivity or potential? Teacher responses to learner identity in the low-level adult ESL literacy classroom. Literacy at Numeracy Studies, 20(1), 63–84.
+
 Reder, S. (2015). Expanding emergent literacy practices: Busy intersections of context and practice. Dans M. G. Santos et A. Whiteside (dir.), Low-educated second language and literacy acquisition (LESLLA): Proceedings of the 9th symposium (p. 1-29). Lulu Publishing Services.
 Vinogradov, P. (2013). Defining the LESLLA teacher knowledge base. LESLLA Symposium Proceedings, 8(1), 9–24. https://doi.org/10.5281/zenodo.8021806 
 
@@ -775,11 +921,15 @@ Vinogradov, P. (2013). Defining the LESLLA teacher knowledge base. LESLLA Sympos
 ### _Akogare (English learning as leisure and desire) in adult community English classes in the US Midwest_
 This paper presentation introduces the construct of akogare (Kubota, 2011) to examine the English learning of women from Afghanistan taught by MA TESOL practicum students and volunteers in a small Midwestern US city. The women’s oral English proficiency ranged from A1 to A2, and phonemic awareness such as blending letters and recognizing sight words was still emergent for most of the class. In Japan, akogare illustrated how learners, particularly women, took conversational EFL classes for leisure and to enjoy socializing with White, often male, native speaker teachers, who represented a romantic fantasy removed from daily life. In this study that draws on teacher reflections and analyzes audio-recorded, transcribed classroom talk, we ask the research question: “How can akogare also be demonstrated to exist in a second language setting where access to target language speakers, career development, and spatial mobility are restricted by gendered cultural norms (Pavlenko & Piller, 2001)?” The study found that 1) teachers as objects of desire are not necessarily stereotypical “White native speakers” but can have any intersectional identity representing learners’ desires (Motha & Lin, 2014), for example, “educated, English-fluent female friends”, and that 2) good attendance, teacher-student rapport, and affective engagement do not necessarily lead to self-study or target language use outside of class. When language learning is defined by leisure and desire, we ask how learners and teachers can regain criticality (Crookes, 2021; Morgan, 2002) by re-centering both language acquisition (teaching phonics according to a systematic, comprehensive curriculum and guiding learners to amass a critical amount of vocabulary) and the Freirean problem-posing necessary to address the linguistic and structural barriers that hinder learners’ functional independence, social integration, and economic mobility.
 
-References
+### References
 Crookes, G. V. (2021). Critical language pedagogy: An introduction to principles and values. ELT Journal, 75(3), 247-255. https://doi.org/10.1093/elt/ccab020
+
 Kubota, R. (2011). Learning a foreign language as leisure and consumption: Enjoyment, desire, and the business of eikaiwa. International Journal of Bilingual Education and Bilingualism, 14(4), 473-488. https://doi.org/10.1080/13670050.2011.573069
+
 Morgan, B. D. (2002). Critical practice in community-based ESL programs: A Canadian perspective. Journal of Language, Identity, and Education, 1(2), 141-162. https://doi.org/10.1207/S15327701JLIE0102_03
+
 Motha, S., & Lin, A. (2014). “Non‐coercive rearrangements”: Theorizing desire in TESOL. TESOL Quarterly, 48(2), 331-359. https://doi.org/10.1002/tesq.126
+
 Pavlenko, A., & Piller, I. (2001). New directions in the study of multilingualism, second language learning, and gender. In A. Pavlenko (Ed.), Multilingualism, second language learning, and gender (pp. 17-52). De Gruyter.
 
 
@@ -808,17 +958,27 @@ The methodology of the ongoing research is qualitative. The research phases were
 
 The research was conducted in accordance with the code of ethics for research with minors, and constant contact was maintained with the tutors at the host reception centres.
 
-References
+### References
 Baruzzi, F., Galli, D., e Sodano, V., 2020. Il ruolo dell’inserimento nei CPIA nel processo di crescita e autonomia dei MSNA (No. 7; Approfondimento). CESPI - Osservatorio Nazionale sui Minori Non Accompagnati. https://www.cespi.it/sites/default/files/osservatori/allegati/approf._7_cpia.pdf
+
 Borri, A., Minuz, F. e Pugliese, R., 2026. Plurilinguismo e lingue prime nell’educazione degli adulti e nella formazione professionale. Loescher. In print.
+
 Cerrocchi, L. e Porcaro, E. (a cura di), 2023. Minori Stranieri Non Accompagnati: Orientamenti e materiali, strumenti e strategie per l’inclusione nel sistema scolastico. Franco Angeli. https://iris.uniroma1.it/handle/11573/1682149?mode=complete
+
 Chevalier, J. M., 2019. Participatory Action Research: Theory and Methods for Engaged Inquiry (2nd edn). Routledge. https://doi.org/10.4324/9781351033268
+
 D’Agostino, M., 2022. Giovani in movimento: multilingui, connessi, spesso analfabeti. Una nuova migrazione fra risorse e bisogni. Italiano LinguaDue, 14(1). https://doi.org/10.54103/2037-3597/18148
+
 DeCapua, A. e Marshall, H. W., 2022. Making Space for Students with Limited or Interrupted Formal Education in Teacher Education. https://doi.org/10.1007/978-3-030-86963-2_8
+
 Heinemann, A. M. B. e Vogt, L., 2021. „Berufsschule auch ist nicht so wie Deutschkurs …“ – Der Lernort Berufsschule aus der Sicht von jugendlichen Geflüchteten. Sprache Im Beruf, 4(1), 70–86. https://doi.org/10.25162/sprib-2021-0004
+
 ML - Ministero del lavoro e delle politiche sociali., 2025a. I Minori Stranieri Non Accompagnati (MSNA) in Italia. Rapporto di approfondimento semestrale. Dati al 30 giugno 2025. Ministero del Lavoro e delle Politiche Sociali. https://www.lavoro.gov.it/documenti/report-approfondimento-semestrale-msna-30-giugno-2025-bis
+
 ML - Ministero del lavoro e delle politiche sociali., 2025b. Dati mensili sui Minori Stranieri Non Accompagnati (MSNA). https://analytics.lavoro.gov.it/t/PublicSIM/views/HomePage/HomePage-SIM?%3Aembed=y&%3Aiid=1&%3AisGuestRedirectFromVizportal=y
+
 Santagati, M. e Barzaghi, A., 2021. Studio conoscitivo sui minori stranieri non accompagnati in Italia e l’accesso all’istruzione. Rapporto ISMU 2021. Fondazione ISMU. https://www.ismu.org/wp-content/uploads/2021/11/Report-Studio-conoscivo_sint_Miur-Msna.pdf 
+
 Trenta, G., 2025. Diritto all’istruzione: Il caso dei minori non accompagnati. Diritto, Immigrazione e Cittadinanza, 3, 1–16.
 
 
@@ -828,10 +988,13 @@ Trenta, G., 2025. Diritto all’istruzione: Il caso dei minori non accompagnati.
 Phonological awareness is seen as a cornerstone of alphabetic reading development, and it
 might be a very good predictor for written language acquisition by adults with limited literacy skills and/or adults with competence in a non-Latin writing system (Landgraf et al. 2012). However, in German-speaking Switzerland, it is neither systematically taught nor used in literacy course allocations. According to the Austrian Rahmencurriculum für Alphabetisier- ungskurse (ÖIF 2022), participants of literacy courses should be able to recognize bisyllabic word stress after level 1 courses and multisyllabic word stress after level 2. If participants are able to recognize word stress, they can use it as a writing strategy. Trochaic words (bisyllabic words stressed on the first syllable) are much more frequent in German than iambic ones (e.g., Dohmas et al. 2008). In those words, the vowel in the unstressed syllable is almost always an <e>. Trisyllabic words are frequently stressed on the second (penultimate) syllable. Here, too, the final unstressed syllable often contains an <e>. To what extent are participants of literacy courses in German-speaking Switzerland able to recognize word stress in bisyllabic and trisyllabic pseudowords? Which factors might influence the development of this skill in LESLLA learners and second-script learners (e.g., age or first language)? To address these research questions, the data from 50 participants (24 women, 26 men; mean age = 30 years, SD = 10 years, 2 unknown) was analyzed. The stated first languages are: Farsi/Dari (n = 19), Kurdish (n = 10), Pashto (n = 6), Arabic (n =4), Tigrinya (n = 3), and others (n = 8). The analyzed sample consists of 8 participants at the lowest level (Alpha 1), 25 participants at the medium level (Alpha 2), and 17 participants at the highest level (Alpha 3). They heard 5 bi- and 5 trisyllabic pseudowords in random order and had to decide whether they are stressed on the first, second, or (for trisyllabic words) on the third syllable. The task was part of a bigger experiment conducted using PsychoPy (Peirce et al. 2019) and pavlovia.org. A paired-samples t-test showed that scores for recognizing word stress in bisyllabic pseudowords (M = 54.61 %, SD = 29.39 %) were significantly higher than those for recognizing word stress in trisyllabic pseudowords (M = 36.99 %, SD = 23.74 %), t(50) = 3.42, p < .001 (one-tailed). For both tasks, participants’ average performance was consistent with chance-level responding. To explore which factors are associated with task performance, a series of follow-up calculations were performed. Thus, the difference between the two scores was, for example, bigger for men (65.26 % vs. 33.04 %) than for women (44.21 % vs. 44.55 %). Furthermore, participants in Alpha 1 courses performed equally in both tasks (32.26 % vs. 35.90 %), participants in Alpha 2 courses showed the biggest difference between the two tasks (64.21 %vs. 38.26 %), and participants in Alpha 3 courses performed slightly better in the task with bisyllabic pseudowords (51.56 % vs. 40.85 %).
 
-References
+### References
 Dohmas, U., Wiese, R., Bornkessel-Schlesewsky, I., & Schlesewsky, M. (2008). The processing of German word stress: evidence for the prosodic hierarchy. Phonology, 25(1), 1–36. https://doi.org/10.1017/S0952675708001383
+
 Landgraf, S., Beyer, R., Hild, I., Schneider, N., Horn, E., Schaadt, G., Foth, M., Pannekamp, A., & van der Meer, E. (2012). Impact of phonological processing skills on written language acquisition in illiterate adults. Developmental Cognitive Neuroscience, 2S. 129–138.
+
 ÖIF (2022). Rahmencurriculum für Alphabetisierungskurse. https://www.integrationsfonds.at/fileadmin/user_upload/Rahmencurriculum_fuer_Alphabetisierung skurse_2022.pdf
+
 Peirce, J., Gray, J. R., Simpson, S., MacAskill, M., Höchenberger, R., Sogo, H., Kastman, E., & Lindeløv, J. K. (2019). PsychoPy2. Experiments in behavior made easy. Behavior Research Methods, 51. 195–203.
 
 
@@ -859,10 +1022,11 @@ o Images: representations and stereotypes
 o Graphics: linguistic landscape
 5. Plenary feedback and final reflection (20 min)
  
-References
-
+### References
 Arizpe, E., & Styles, M. (2003). Children Reading Picturebooks: Interpreting Visual Texts. RoutledgeFalmer.
+
 García, O., & Wei, L. (2014). Translanguaging: Language, Bilingualism and Education. Palgrave Macmillan.
+
 Hartmann, E. C., & McGillicuddy, Á. (Eds.). (2025). Creative Readings of Multilingual Picturebooks: International and Transdisciplinary Perspectives. Routledge.
 
 
@@ -884,22 +1048,37 @@ Findings indicate that the study sessions enhanced teachers’ awareness of mult
 The virtual format fostered a collaborative community of practice that reduced professional isolation and supported dialogue across diverse teaching contexts. Teachers emphasized the value of having dedicated time to discuss classroom dilemmas specific to their teaching context, an opportunity often absent in traditional PD. While participants demonstrated strong expertise in translanguaging, identity texts, and technology integration, they expressed greater uncertainty regarding including trauma-informed pedagogy, gender-related participation barriers, and the implementation of pleasure reading in low-literacy settings. These findings highlight the importance of reflective, dialogue-based professional development models that move beyond technical literacy instruction and intentionally address critical multilingual awareness within LESLLA practice. 
 
  
- References 
+### References 
 Charmaz, K. (2014). Grounded theory in global perspective: Reviews by international researchers. Qualitative Inquiry, 20(9), 1074–1084. https://doi.org/10.1177/1077800414545235  
+
 Creswell, J. W. (2013). Qualitative inquiry and research design: Choosing among five approaches (3rd ed.). SAGE.  
+
 Egan, P., & Echelberger, A. (2023). Professionalizing English instruction for adult immigrants and refugees in the United States: One state’s work in teacher development. In A. Cirocki, R. Farrelly, & H. Buchanan (Eds.), Continuing professional development of TESOL practitioners: A global landscape (pp. 303–323). Springer International Publishing. https://doi.org/10.1007/978-3-031-42675-9_13  
+
 Farrelly, R. (2017). Collaborative inquiry in the LESLLA context: Reflecting on self to make sense of practice. The European Journal of Applied Linguistics and TEFL, 6(2), 41–63.  
+
 García, O., & Lin, A. M. Y. (2017). Translanguaging in bilingual education. In S. May (Ed.), Bilingual and multilingual education (pp. 117–130). Springer. https://doi.org/10.1007/978-3-319-02258-1_9   
+
 Kiramba, L. K., & Trainin, G. (2025). “I just don’t know what to do!” Teacher preparedness for multilingual students of immigrant and refugee background. The Urban Review. https://doi.org/10.1007/s11256-025-00748-6  
+
 Liu, K. (2013). Critical reflection as a framework for transformative learning in teacher education. Educational Review, 67(2), 135–157. https://doi.org/10.1080/00131911.2013.839546  
+
 Merriam, S. B. (1998). Qualitative research and case study applications in education. Jossey-Bass.  
+
 Maynard, C., Beaulieu, S., Fortier, V., & Laberge, C. (2024). Towards the adoption of a balanced approach to literacy instruction in LESLLA classrooms in Québec, Canada. Apples - Journal of Applied Language Studies, 18(2), 21–38. https://doi.org/10.47862/apples.132066  
+
 Saldaña, J. (2021). The coding manual for qualitative researchers. SAGE.  
+
 Tammelin-Laine, T., Bogdanoff, M., Vaarala, H., Mustonen, S., & Karkkainen, K. (2021). “Getting a grip on basic skills”. Toward professional development of LESLLA teachers. LESLLA Symposium Proceedings, 14(1), 471–488.  
+
 van de Craats, I., Kurvers, J., & Young-Scholten, M. (2006). Research on low-educated second language and literacy acquisition. LESLLA Symposium Proceedings, 1(1), 7–23.  
+
 Vinogradov, P. (2012). Professional development for LESLLA teachers: A status report. MinneTESOL/WITESOL Journal, 29, 92–103.  
+
 Vinogradov, P., Echelberger, A., & Perry, K. (2013). Study circle guide for teachers of low-literacy adult ESL students (Rev. ed.). ATLAS: Hamline University.  
+
 Vinogradov, P., & Liden, A. (2009). Principled training for LESLLA instructors. LESLLA Symposium Proceedings, 4(1), 133–144. https://doi.org/10.5281/zenodo.8003946  
+
 Young, S. (2009). Supporting and supervising teachers working with adults learning English [Brief]. Center for Applied Linguistics. https://www.cal.org/caelanetwork/pdfs/SupportingSupervisingFinalWeb.pdf  
 
 
@@ -913,11 +1092,14 @@ Preliminary findings indicate that participants experienced tensions related to 
 Based on the findings, it is evident that teacher development is heavily impacted by context informed pedagogical preparation and teachers’ critical awareness of their own identities alongside their learners’ linguistic and cultural backgrounds. Such awareness fosters intercultural and linguistic sensitivity and supports more responsive and ethical teaching practices. These insights highlight the need to rethink TESOL practica by strengthening preparation through coursework in adult emergent literacy and trauma informed pedagogy, as better alignment with the realities of LESLLA contexts is essential for fostering teacher growth and equipping educators to effectively serve linguistically and culturally diverse learners.
 
 
-References
+### References
 Altherr Flores, J., Fogel, L., Shufflebarger Snell, A. M., & von Roekel, K. (2019). Teaching and Tutoring Adult Emergent Readers with Refugee Backgrounds: Implementing a Training Program for Community Volunteers . LESLLA Symposium Proceedings, 13(1), 1–18. https://doi.org/10.5281/zenodo.8104645 
+
 Center for Adult English Language Acquisition (CAELA) Network, Center for Applied Linguistics, & Landreth. (2010). Framework for quality Professional development for practitioners working with adult English language learners. Center for Applied Linguistics. https://www.cal.org/caelanetwork/profdev/framework/FrameworkNew.pdf 
+
 Ferrari, J. R., & Chapman, J. G. (2014). Educating students to make a difference: Community-based service learning (Vol. 18, No. 1-2). Routledge.
 Vinogradov, Patsy. (2012). Professional development for LESSLA teachers: a status report. Retrieved from the University Digital Conservancy, https://hdl.handle.net/11299/162761. 
+
 Young-Scholten, M., Peyton, J. K., Sosinski, M., & Cabeza, A. M. (2015). LESLLA Teachers’ Views of the Knowledge and Skills They Need: An International Study. LESLLA Symposium Proceedings, 10(1), 165–185. https://doi.org/10.5281/zenodo.8024410 
 
 
@@ -963,23 +1145,41 @@ Following Mocciaro (2025), we test the hypothesis that these contexts constitute
 The findings are expected to contribute to a broader understanding of the mechanisms of morphosyntactic development in L2 acquisition under constrained conditions, and to refine methodological reflections on how the data collection methods play a role in the construction of the data itself (Albanesi & Lorenzová 2025).  
 This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726). 
 
-References 
+### References 
 Albanesi, L., & Lorenzová, K. (2025, September 30–October 1). Data in context: Where do analytical constructions emerge? [Poster presentation]. Developing New Languages in Migration Contexts, Brno, Czech Republic. 
+
 Benazzo, S., & Starren, M. (2007). L’émergence de moyens grammaticaux pour exprimer les relations temporelles en L2. Aile, 25, 129–157. 
+
 Bernini, G. (2003). The copula in learner Italian: Finiteness and verbal inflection. In C. Dimroth & M. Starren (Eds.), Information structure, linguistic structure and the dynamics of language acquisition (pp. 159–185). Amsterdam: John Benjamins. 
+
 Berruto, G. (2003). Sul parlante nativo (di italiano). In H.-I. Radaz & R. Schlösser (Eds.), Donum grammaticorum: Festschrift für Harro Stammerjohann (pp. 1–14). Berlin: Walter de Gruyter. 
+
 Coulmas, F. (1996). The Blackwell encyclopedia of writing systems. Oxford: Blackwell. 
+
 Davies, A. (2013). Native speakers and native users: Loss and gain. Cambridge: Cambridge University Press. 
+
 Feldweg, H. (1991). The European Science Foundation Second Language Database. Nijmegen: Max Planck Institute for Psycholinguistics. 
+
 Julien, M., van Hout, R., & van de Craats, I. (2016). Meaning and function of dummy auxiliaries in adult acquisition of Dutch as an additional language. Second Language Research, 32(1), 49–73. 
+
 Klein, W., & Perdue, C. (1997). The Basic Variety (or: Couldn’t natural languages be much simpler?). Second Language Research, 13(4), 301–347. 
+
 Lorenzová, K. (in prep.). The development of discourse markers in the interlanguages of Slavic learners of Italian as a non-mother tongue: A longitudinal study (Doctoral thesis). Masaryk University, Brno. 
+
 Mauri, C., Ballarè, S., & Zucchini, E. (2026). Parlare italiano in contesto migratorio: il corpus Stra-ParlaBO. Études Romanes de Brno, 47(1). 
+
 Mocciaro, E. (2020). The development of L2 Italian morphosyntax in adult learners with limited literacy. Palermo: UniPa Press. 
-Mocciaro, E. (2025). Proto-ausiliari e verbi supporto nella costruzione dell’interlingua di migranti adulti con alfabetismo limitato. In C. De Santis, N. Grandi, F. Masini, & F. Tamburini (Eds.), CLUB Working Papers in Linguistics (Vol. 9, pp. 81–98). Bologna: CLUB – Circolo Linguistico dell’Università di Bologna. https://doi.org/10.6092/unibo/amsacta/8647 
+
+Mocciaro, E. (2025). Proto-ausiliari e verbi supporto nella costruzione dell’interlingua di migranti adulti con alfabetismo limitato. In C. De Santis, 
+
+N. Grandi, F. Masini, & F. Tamburini (Eds.), CLUB Working Papers in Linguistics (Vol. 9, pp. 81–98). Bologna: CLUB – Circolo Linguistico dell’Università di Bologna. https://doi.org/10.6092/unibo/amsacta/8647 
+
 Perdue, C. (Ed.). (1993). Adult language acquisition. Vol. 1: Field methods. Cambridge: Cambridge University Press. 
+
 Pfaff, C. W. (1992). The issue of grammaticalization in early German second language. Studies in Second Language Acquisition, 14, 273–296. 
+
 Starren, M. (2001). The second time: The acquisition of temporality in Dutch and French as a second language. Utrecht: LOT. 
+
 Vainikka, A., Young-Scholten, M., Ijuin, C., & Jarad, S. (2017). Literacy in the development of L2 English morphosyntax. In M. Sosiński (Ed.), Literacy education and second language learning for adults: Research, policy and practice (pp. 239–250). Granada: Universidad de Granada. 
 
 
@@ -994,12 +1194,19 @@ Addressing these two gaps, this study investigates interactional sources that hi
 Our analysis shows that learners with less schooling depend on immediate, explicit, and multimodally supported instructions. In successful sequences, the teacher coupled verbal instructions with embodied actions, such as making circles on the exercise or pointing to the relevant exercise, enabling learners to trace down the correct exercise. Non-comprehension emerged when instructional delivery was delayed, such as when materials were distributed among learners without immediate instructions. In these cases, learners with less schooling initiated the exercise with a different task modality. For example, they circled answers prior to listening in a listening comprehension activity with multiple-choice questions. In contrast, learners with more schooling proceeded with the exercise and showed no signs of non-comprehension when the instruction was implicit or delayed.
 By analysing instructional sequences in situ, this study illustrates how instructions can lead to problems of non-comprehension for L2 learners with limited schooling. The findings suggest that the fewer years of schooling learners have, the more L2 teachers need to segment instructions and minimize the time lapse between each instructional step and its execution. These results resonate with Glaser (2020), who showed that sequencing and breaking down instructions enhance their followability among beginning L2 children learners. Overall, the study underscores the importance of treating instruction-giving as a central site of pedagogical intervention in L2 classrooms involving learners with limited schooling, and highlights the need for teacher training that foregrounds explicit, timely, and multimodal instructional design.
 
-References
+### References
 Glaser, K. (2020). Instruction-giving in the primary English classroom–creating or obstructing learning opportunities. Instruction-Giving in the Primary English Classroom: Creating or Obstructing Learning Opportunities. https://www.researchgate.net/profile/Karen-Glaser-3/publication/341272506_Instruction-giving_in_the_primary_English_classroom_-_creating_or_obstructing_learning_opportunities/links/5f0eb68b45851512999b0f7d/Instruction-giving-in-the-primary-English-classroom-creating-or-obstructing-learning-opportunities.pdf
+
 Macbeth, D. (2011). Understanding understanding as an instructional matter. Journal of Pragmatics, 43(2), 438–451.
+
 Markee, N. (2015). Giving and Following Pedagogical Instructions in Task-Based Instruction. Palgrave Macmillan UK. https://doi.org/10.1057/9781137340733
+
 Sert, O., & Jacknick, C. M. (2015). Student smiles and the negotiation of epistemics in L2 classrooms. Journal of Pragmatics, 77, 97–112.
-Somuncu, D., & Sert, O. (2019). 5. EFL Trainee Teachers’ Orientations to Students’ Non-understanding: A Focus on Task Instructions. In H. T. Nguyen & T. Malabarba (Eds.), Conversation Analytic Perspectives on English Language Learning, Teaching and Testing in Global Contexts (pp. 110–131). Multilingual Matters. https://doi.org/10.21832/9781788922890-007
+
+Somuncu, D., & Sert, O. (2019). 5. EFL Trainee Teachers’ Orientations to Students’ Non-understanding: A Focus on Task Instructions. In H. T. Nguyen & 
+
+T. Malabarba (Eds.), Conversation Analytic Perspectives on English Language Learning, Teaching and Testing in Global Contexts (pp. 110–131). Multilingual Matters. https://doi.org/10.21832/9781788922890-007
+
 Van Den Branden, K. (2009). Mediating between predetermined order and chaos: The role of the teacher in task‐based language education. International Journal of Applied Linguistics, 19(3), 264–285. https://doi.org/10.1111/j.1473-4192.2009.00241.x
 
 
@@ -1017,15 +1224,25 @@ The study addresses the following research questions:
 The study is designed as a mixed-methods intervention study employing a quasi-experimental pre–post design. Sixteen LESLLA learners participate in two intervention groups within a German literacy course. Group A participates in instruction based on the Real Literacies approach, while Group B receives strategy-focused learning counselling targeting mainly cognitive subskills such as decoding and encoding (Markov, Scheithauer & Schramm, 2015). The interventions are conducted by the researcher herself and take place over a 15-week period with two additional instructional hours per week. 
 Pre- and post-testing are conducted individually in a one-to-one setting using a criterion-referenced, LASLLIAM-based performance test developed specifically for LESLLA learners (Franz dos Santos, 2023). The test assesses both technical and functional literacy through authentic everyday tasks presented orally and in learners’ L1. In addition to the analysis of test results, the data are further examined through qualitative multiple case studies based on video recordings of test administrations and intervention sessions as well as semi-structured interviews conducted after the intervention phase. The qualitative analysis focuses on how learners approach authentic literacy tasks, which linguistic and multimodal resources they draw on, and how participation in different instructional settings shapes the development of functional literacy. The presentation will discuss first empirical insights and their implications for adult second language literacy instruction and assessment. 
 
-References 
+### References 
 Allemano, Jane (2013): Testing the Reading Ability of Low Educated ESOL Learners. In: LESLLA Symposium Proceedings 8 (1), S. 127–144. 
-Franz dos Santos, Martina (2026): “Assessing LESLLA learners’ functional literacy competences”. In: Czinglar, Christine; Perry, Kristen & Schramm, Karen (Hrsg.): Adult Migrants Acquiring Oral and Basic Literacy Skills in a Second Language: Literacy Events, Language Learning and Formative Assessment. Berlin: De Gruyter. 
+
+Franz dos Santos, Martina (2026): “Assessing LESLLA learners’ functional literacy competences”. In: Czinglar, Christine; Perry, Kristen & Schramm, 
+
+Karen (Hrsg.): Adult Migrants Acquiring Oral and Basic Literacy Skills in a Second Language: Literacy Events, Language Learning and Formative Assessment. Berlin: De Gruyter. 
+
 Lave, Jean; Wenger-Trayner, Étienne (2020): Situated learning. Legitimate peripheral participation. 31st printing. Cambridge: Cambridge Univ. Press (Learning in doing). 
+
 Maddox, Bryan; Esposito, Lucio (2011): Sufficiency Re-examined: A Capabilities Perspective on the Assessment of Functional Adult Literacy. In: Journal of Development Studies 47 (9), S. 1–17. DOI: 10.1080/00220388.2010.509788. 
+
 Markov, Stefan; Scheithauer, Christiane; Schramm, Karen (2015): Lernberatung für Teilnehmende in DaZ-Alphabetisierungskursen – Handreichungen für Lernberatende und Lehrkräfte. Münster / New York: Waxmann. 
+
 Minuz, Fernanda, Jeanne Kurvers, Karen Schramm, Lorenzo Rocca & Rola Naeb (2022): Literacy and Second Language Learning for the Linguistic Integration of Adult Migrants. Reference guide. Strasbourg: Council of Europe. 
+
 Papen, Uta (2005): Adult literacy as social practice. More than skills. London, New York: Routledge (New Approaches to Adult Language, Literacy and Numeracy). 
+
 Rogers, Alan (1999): Improving the quality of adult literacy programs in developing countries: the ‘real literacies’ approach. In: Int. J. of Educational Development 19, S. 219–234. 
+
 Street, Brian (2012): New Literacy Studies. In: Michael Grenfell, David Bloome, Cheryl Hardy, Kate Pahl, Jennifer Rowsell und Brian Street (Hg.): Language, ethnography, and education. Bridging new literacy studies and Bourdieu. New York NY: Routledge. 
 
 
@@ -1037,17 +1254,25 @@ This poster presentation draws on a ten-year drama project at the charity Women 
 The project builds on Creative ESOL methods (Cox & Dix 2012) and is informed by grounded theory (Charmaz 2006, 2020), trauma-informed practice (Lewis Herman 1992, De Haere et al., 2010) and sensory ethnography (Pink 2021). Examples from the Drama for Life workshops illustrate creative session planning and games based on low-stakes collaboration, the development of foundational English vocabulary, and personalised creative goals. These sessions prioritise care and healing for women newly arrived in the UK.  The Drama for Performance pathway invites participants to devise scenes and create short narratives in English with methods blending the spoken, the written and the enacted.  This pathway encourages regular attendance and culminates in public performances, where participants practise speaking and performing in English and other languages as an ensemble. Weekly classes provide an inclusive environment for women from diverse national, religious, educational, and socio-economic backgrounds to collaborate and negotiate creative ideas and support one another’s learning. This paper foregrounds the importance of radical care (Low 2021) in the hosting of these activities, and the teaching environment of safety and choice for participants.  Increased participant well-being, both the hedonic elements, related to enjoyment, and the eudaemonic, related to purpose and achievement (Fancourt 2026), mean higher success in integration into classroom settings and future engagement with formal learning. 
 Featuring links to our performance poetry videos, and activities from the Drama Games of Welcome book, the poster presentation shares insights from ten years of our classes. It also invites teachers and practitioners to critique methods, successes and challenges as part of the wider LESLLA community of teachers and learners. 
 
-References
+### References
 Charmaz, K. (2006) Constructing Grounded Theory, London: SAGE Publications Ltd 
+
 Charmaz, K. (2020) ‘With constructivist grounded theory you can’t hide, Social justice research and critical inquiry in the public sphere’. Qualitative Inquiry Vol 26 (2) pp.165–76 
+
 Cocks, E. & Dix, T. (2012) ‘Creative ESOL: the power of participatory arts in language acquisition’, British Council Innovations Series, British Council 
+
 De Haere, L. Grietens, H. Verschueren, K. (2010) ‘Holding Harm: Narrative 
 Methods in Mental Health Research on Refugee Trauma’, Qualitative Health 
 Research, Vol 20, pp.1664–1676 
+
 Fancourt, D. (2026) Art Cure: The Science of How the Arts Transform Our Health, London, Penguin Random House 
+
 Lewis Herman, J. (1992) Trauma and Recovery: The aftermath of Violence – from Domestic Abuse to Political Terror, New York: Basic Books 
+
 Low, K. (2021) ‘The Potential of Radical Kindness as a Methodology in Applied Theatre in Arts and Health’, Performance Paradigm: A Journal of Performance and Contemporary Culture, Vol 16, pp. 164-182 
+
 Pink, S. (2021) Doing Sensory Ethnography, 3rd edition, London: SAGE. 
+
 Reed, H. & Hayes Laughton, R. (2023) ‘Testimony on Whose Terms? The Cultural Politics of Forced Migration Testimony’, in Jones, S. & Woods, R. (eds.) The Palgrave Handbook of Testimony and Culture. Cham: Palgrave Macmillan, pp.539-565 
 
  
