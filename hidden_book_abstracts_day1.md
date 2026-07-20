@@ -7,7 +7,7 @@ permalink: /book_abstracts_day1/
 {% include site-logo.html %}
 {% include page-header.html %}
 
-### Opening Session 1
+## List of abstracts
 
 - [Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa](#siekman), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
 - [Lotta Aunio](#aunio), _Language learning without literacy?_
