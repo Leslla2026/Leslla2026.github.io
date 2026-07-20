@@ -83,7 +83,7 @@ permalink: /day1/
         Word learning in emergent readers: to what extent does written input help?
       </td>
       <td>
-        <strong>Matilde Grünhage-Monetti*, Silvia Miglio*, Olessia Götzinger°</strong><br> <i> * Language for Work, European Cente of Modern Languages, Council of Europe; °Bildungszentrum Oberjosbach </i><br>
+        <strong>Matilde Grünhage-Monetti*, Silvia Miglio*, Olessia Götzinger°</strong><br> <i> * Language for Work, European Centre of Modern Languages, Council of Europe; °Bildungszentrum Oberjosbach </i><br>
         Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants
       </td>
     </tr>
@@ -127,7 +127,7 @@ permalink: /day1/
       <td class="time">14:30-15:00</td>
       <td>Panel organiser: <strong>Ginger Kosobucki</strong>, <i> Immigrant Welcome Center, Indianapolis </i> <br> Panellists: Martina Franz dos Santos, Christine Czinglar & Katharina Karges; Marie-Anne Morand; Jennifer Christenson<br></td>
       <td>
-        <strong>Anna Mendoza*, Elif Varlik* & Eda Yildirimer°</strong><br> <i> University of Illinois at Urbana-Champaign; °University of Arizona </i><br>
+        <strong>Anna Mendoza*, Elif Varlik* & Eda Yildirimer°</strong><br> <i> *University of Illinois at Urbana-Champaign; °University of Arizona </i><br>
         Akogare (English Learning as Leisure and Desire) in Adult Community English Classes in the US Midwest
       </td>
       <td>
@@ -150,7 +150,7 @@ permalink: /day1/
       </td>
       <td>
         <strong>Vincent Bédard</strong><br> <i> Université du Québec à Montréal </i><br>
-        Beyond deficit lens: making visible LESLLA Learners’ second language use practices
+        Beyond deficit lens: making visible LESLLA learners’ second language use practices
       </td>
     </tr>
 

@@ -127,8 +127,8 @@ permalink: /day3/
     <tr>
       <td class="time">11:00–13:00</td>
       <td colspan="2">  
-        <strong>Eva Malessa*, Live Grinden°, Skye Playsted* & Jemima Rillera Kempster^</strong><br>
-        <i>*Turun Yliopisto, Finland; °Høgskolen på Vestlandet, Norway; The University of Queensland (Australia), *Australian Catholic University, Australia</i><br>
+        <strong>Eva Malessa*, Live Grinden°, Skye Playsted^ & Jemima Rillera Kempster°°</strong><br>
+        <i>*Turun Yliopisto, Finland; °Høgskolen på Vestlandet, Norway; ^The University of Queensland (Australia); °°Australian Catholic University, Australia</i><br>
         Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders. <br> <strong> Only in presence.</strong> <br> Click <a href="https://forms.office.com/e/bvR5X488zc">here</a> to register.
       </td>
       <td colspan="2">
@@ -155,7 +155,7 @@ permalink: /day3/
     <tr>
       <td class="time">15:00–16:00</td>
       <td colspan="4">
-        <strong>Markéta Hajská & Pavel Kubaník</strong> (CUNI-Univerzita Karlova, Prague)<br>
+        <strong>Markéta Hajská & Pavel Kubaník</strong> (CUNI-Univerzita Karlova, Praha)<br>
         <i>Romani: one language, two stories</i>
       </td>
     </tr>
