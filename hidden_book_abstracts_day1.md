@@ -40,7 +40,7 @@ Kurvers, J. (2002). Met ongeletterde ogen. Kennis van taal en schrift van analfa
 
 Kurvers, J., Vallen, T., & Hout, R. V. (2006). Discovering features of language: Metalinguistic awareness of adult illiterates. LOT Occasional Series, 6, 69-88.
 
-Siekman, B., Spit, S., Verhagen, J., & Andringa, S. (2025). Metalinguistic awareness in adult emergent readers. A scoping literature review of empirical studies. Language Awareness, 1-21. 
+Siekman, B., Spit, S., Verhagen, J., & Andringa, S. (2025). Metalinguistic awareness in adult emergent readers. A scoping literature review of empirical studies. Language Awareness, 1-21.
 
 Swain, M. (2006). Verbal protocols: What does it mean for research to use speaking as a data collection tool? In M. Chalhoub-Deville, C. A. 
 Chapelle, & P. A. Duff (Eds.), Inference and generalizability in applied linguistics: Multiple perspectives (pp. 97–114). John Benjamins Publishing Company.
@@ -540,7 +540,7 @@ By framing drawing within established research on multimodality and adult litera
 ### References
 Bigelow, M. (2010). Mogadishu on the Mississippi: Language, racialized identity, and education in a new land. Wiley-Blackwell.
 
-Terada, Y. (2015). The Science of Drawing and Memory. Edutopia. Kress, G. (2010). Multimodality: A Social Semiotic Approach to Contemporary Communication. 
+Terada, Y. (2015). The Science of Drawing and Memory. Edutopia.Kress, G. (2010). Multimodality: A Social Semiotic Approach to Contemporary Communication. 
 
 Wrigley, H. S. (2014). Adult ESL Literacy: Findings and Recommendations from the Field. LESLLA.
 

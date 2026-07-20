@@ -52,37 +52,34 @@ permalink: /organising_committee/
   <p>Assistant language instructor and PhD student</p>
 </div>
 
-</div>
-
-  <!-- SEZIONE PHD STUDENTS -->
-
-  <h2 class="phd-title">PhD Students</h2>
-  <div class="committee-grid">
-
 <div class="member">
     <img src="/media/foto_kristyna.jpg" alt="Kristyna">
     <h3>Kristýna Lorenzová</h3>
+    <p>PhD student</p>
 </div>
 
 <div class="member">
     <img src="/media/foto_lorenzo.jpg" alt="Lorenzo">
     <h3>Lorenzo Albanesi</h3>
+    <p>PhD student</p>
 </div>
     
 <div class="member">
     <img src="/media/foto_andrea.jpg" alt="Andrea">
     <h3>Andrea Lukšíková</h3>
+    <p>PhD student</p>
 </div>
 
 <div class="member">
     <img src="/media/foto_adela.jpg" alt="Adela">
     <h3>Adéla Dvořáková</h3>
+    <p>PhD student</p>
 </div>
+
 <div class="member">
     <img src="/media/foto_clelia.jpg" alt="Clelia">
     <h3>Clelia Farina</h3>
+    <p>PhD student</p>
 </div>
-
-  </div>
 
 </section>
