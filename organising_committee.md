@@ -7,7 +7,6 @@ permalink: /organising_committee/
 {% include site-logo.html %}
 {% include page-header.html %}
 
-<section class="committee">
 <div class="committee-grid">
 
   <div class="member">
@@ -81,4 +80,3 @@ permalink: /organising_committee/
     <h3>Clelia Farina</h3>
     <p>PhD student</p>
 </div>
-</section>
