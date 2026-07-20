@@ -12,7 +12,7 @@ permalink: /book_abstracts/
 - [Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa](#siekman), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
 - [Lotta Aunio](#aunio), _Language learning without literacy?_
 - [Friederike Lüpke](#lüpke), _Lead language writing as an adaptive infrastructure for multilingual literacy development_
-- [Sybren Spit](#spit), [Sible Andringa](#sible-andringa,-university-of-amsterdam.), [Judith Rispens](#judith-rispens,-university-of-amsterdam.), _Word learning in emergent readers: to what extent does written input help?_
+- [Sybren Spit, Sible Andringa, Judith Rispens](#spit), _Word learning in emergent readers: to what extent does written input help?_
   
 <a id="siekman"></a>
 ### Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa, Universiteit van Amsterdam. 
