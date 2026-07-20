@@ -81,5 +81,4 @@ permalink: /organising_committee/
     <h3>Clelia Farina</h3>
     <p>PhD student</p>
 </div>
-
 </section>
