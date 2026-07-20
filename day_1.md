@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Provisional schedule - day 1
+title: Schedule - Day 1
 permalink: /day1/
 ---
 
@@ -88,7 +88,7 @@ permalink: /day1/
       </td>
     </tr>
     <tr>
-      <td class="time">12-14:30</td>
+      <td class="time">12:00-14:30</td>
       <td colspan="3"> <i> Lunch </i> </td>
     </tr>
 

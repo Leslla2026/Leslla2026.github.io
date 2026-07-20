@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Provisional schedule - day 2
+title: Schedule - Day 2
 permalink: /day2/
 ---
 
