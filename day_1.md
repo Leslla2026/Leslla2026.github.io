@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Schedule - Day 1
-permalink: /day1/
+title: Schedule - 20 August
+permalink: /20_August/
 ---
 
 {% include site-logo.html %}

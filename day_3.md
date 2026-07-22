@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Schedyle - Day 3
-permalink: /day3/
+title: Schedyle - 22 August
+permalink: /22_August/
 ---
 
 {% include site-logo.html %}
