@@ -28,8 +28,17 @@
       </ul>
     </li>
 
-    <li><a href="{{ '/keynote_speakers' | relative_url }}">Keynote speakers</a></li>
-    <li><a href="{{ '/organising_committee' | relative_url }}">Organising Committee</a></li>
+    <li class="dropdown">
+      <button class="dropdown-toggle" type="button"
+              aria-haspopup="true" aria-expanded="false">
+        People ▾
+      </button>
+      <ul class="dropdown-menu">
+        <li><a href="{{ '/keynote_speakers' | relative_url }}">Keynote speakers</a></li>
+        <li><a href="{{ '/organising_committee' | relative_url }}">Organising Committee</a></li>        
+      </ul>
+    </li>   
+    
     <li><a href="{{ '/venue' | relative_url }}">Venue and accommodation</a></li>
   </ul>
 </nav>
