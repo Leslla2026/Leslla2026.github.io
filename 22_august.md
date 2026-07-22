@@ -6,6 +6,7 @@ permalink: /22_August/
 
 {% include site-logo.html %}
 {% include page-header.html %}
+
 <table class="schedule-table">
 
   <colgroup>
