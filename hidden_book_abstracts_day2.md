@@ -8,8 +8,8 @@ permalink: /book_abstracts_day2/
 {% include page-header.html %}
 
 ### Index
+
 - [Mari D'Agostino](#d'agostino), _Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte_
-Session 1
 - [Véronique Fortier, Catherine Maynard, Suzie Beaulieu, Valérie Amireault](#fortier), _Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project_
 - [Clelia Farina](#farina), _Observing competence and performance in talk-in-interaction: notes from an italian LA course with newly arrived plurilingual learners_
 - [Patsy Egan, Janet Isserlis](#egan), _Lifelong learning: practitioners celebrate the work of Heide Wrigley in the best way we know how_
