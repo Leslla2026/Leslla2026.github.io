@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Schedyle - 22 August
+title: Schedule - 22 August
 permalink: /22_August/
 ---
 
