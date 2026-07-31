@@ -127,8 +127,9 @@ permalink: /20_August/
       <td class="time">14:30-15:00</td>
       <td>Panel organiser: <strong>Ginger Kosobucki</strong>, <i> Immigrant Welcome Center, Indianapolis </i> <br> Panelists: 
       <ul>
-        <li>Martina Franz dos Santos, Christine Czinglar & Katharina Karges;</li>
-        <li>Marie-Anne Morand;</li>
+        <li>Martina Franz dos Santos</li>
+        <li>Christine Czinglar & Katharina Karges</li> 
+        <li>Marie-Anne Morand</li>
         <li>Jennifer Christenson</li>
       </ul><br>
       </td>
