@@ -97,10 +97,10 @@ permalink: /20_August/
 
   <colgroup>
     <col style="width:10%">
-    <col style="width:21.25%">
-    <col style="width:21.25%">
-    <col style="width:21.25%">
-    <col style="width:21.25%">
+    <col style="width:22.5%">
+    <col style="width:22.5%">
+    <col style="width:22.5%">
+    <col style="width:22.5%">
   </colgroup>
  <tbody> 
     <tr class="schedule-section">
