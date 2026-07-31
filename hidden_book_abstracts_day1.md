@@ -27,7 +27,7 @@ permalink: /book_abstracts_day1/
 - [Catherine Maynard, Véronique Fortier, Suzie Beaulieu, Valérie Amireault](#maynard), _LESLLA teachers' relationship to reading and writing in adult French L2 literacy classrooms_
 - [Victoria Lyasota](#lyasota), _Integrating multicultural art into a literacy classroom_
 - [Eda Yildirimer](#yildirimer), _MA TESOL student teachers' preparation, challenges, and growth in community-based teaching with Afghan refugee women_
-- [Marta Young-Scholten](#young-scholten), _Ineke van de Craats and Heide Wringley and the studies that created LESLLA_
+- [Martha Young-Scholten](#young-scholten), _Ineke van de Craats and Heide Wringley and the studies that created LESLLA_
 
 
 ###  Session 1
@@ -398,7 +398,7 @@ Vinogradov, P. (2012). Professional development for LESLLA teachers: A status re
 Young-Scholten, M., Peyton, J. K., Sosinski, M., & Cabeza, A. M. (2015). LESLLA teachers' views of the knowledge and skills they need: An international study. LESLLA Symposium Proceedings, 10(1), 165–185. https://doi.org/10.5281/zenodo.8024410
 
 <a id="young-scholten"></a>
-### Marta Young-Scholten, Newcastle University and University of Washington. 
+### Martha Young-Scholten, Newcastle University and University of Washington. 
 ### _Ineke van de Craats and Heide Wrigley and the studies that created LESLLA_
 In 2025 we bid farewell to two women without whom LESLLA likely wouldn’t exist: Ineke van de Craats in the Netherlands and Heide Spruck Wrigley in the USA. Two years before the very first LESLLA symposium in 2005, Larry Condelli along with Heide and several others had published the results of a longitudinal study of 496 students in the USA from Mexico, Central and South American countries, South East Asian countries and East and West African countries.   They looked at both internal (literacy; oral language; age; native language) and external variables (instruction; program) pertaining to the 15 to 82 year-old learners of English in the study. A key finding was that adults with limited or no home language literacy progress the slowest. In complementary studies by Ineke van de Craats’ and main collaborators Jeanne Kurvers and Roeland van Hout worked with large numbers of study participants mostly from Morocco and Turkey to include external variables but to focus more on internal factors such as metalinguistic awareness. These studies, too, paint  similarly slow progress for LESLLA learners. The research they were involved in feeds into LESLLA’s current Vision Statement, namely “a world where LESLLA learners access high-quality, research-based, second language and literacy education that empowers them to pursue their own life goals.”  
 The findings from these studies, including responses to audience members at LESLLA symposia where they were presented, have over the last 20+ years given rise to the need to consider at a microscopic level what internal factors involve, and to step back to take a wider perspective for the role played by a range of external factors some of which practitioners can control.   

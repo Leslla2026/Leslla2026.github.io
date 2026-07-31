@@ -20,7 +20,7 @@ permalink: /book_abstracts_day3/
 - [Franziska Förster](#förster), _Real-Life digital literacy practices of Arabic-speaking adult migrants in Germany_
 
 - [Live Grinden](#grinden), _The distribution of burdens within Norwegian integration policy: an exploration of how LESLLA learners are impacted by language requirements for Norwegian permanent residence and citizenship_
-- [Markéta Hajská, Pavel Kubanik],(#Hajská), _Romani: one language, two stories_
+- [Markéta Hajská, Pavel Kubanik](#Hajská), _Romani: one language, two stories_
 
 - [Belma Haznedar, Elifcan Öztekin](#haznedar), _Exploring teacher candidates' attitudes toward multilingualism in the Turkish context_
 - [Ann-Kristin Helland Gujord, Linda Evenstad Emilsen ](#helland-gujord), _Early grammatical development in a non-academic sample_
