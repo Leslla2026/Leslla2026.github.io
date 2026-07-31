@@ -146,8 +146,7 @@ Romani has several million speakers worldwide, with hundreds of thousands in the
 
 
 <a id="kurvers"></a>
-### Jeanne Kurvers, Universiteit van Tilburg. 
-### Roeland van Hout, Centre for Language Studies, Radboud Universiteit Nijmegen.
+### Jeanne Kurvers, Universiteit van Tilburg;  Roeland van Hout, Centre for Language Studies, Radboud Universiteit Nijmegen.
 ### _Bridging the gap between everyday reasoning and logical deduction in emergent readers: updating Vygotsky_
 Does being literate make us smarter? Plato once doubted this. In Phaedrus he quotes Socrates who argues that the written word appears to speak with wisdom but remains silent when questioned for clarification. While written language can only repeat itself, teachers in an oral culture can explain, clarify, paraphrase, and provide examples. Over time, the evaluation of the value of writing changed radically. Literacy became a global technology, central to education and a defining feature of modern societies.
 The Russian scientist Vygotsky argued that writing not only transforms our knowledge, but also how our mind works. His colleague Luria tested the idea that cultural tool such as written language foster the development of ‘higher psychological processes’. He found that literacy supports more abstract and logical reasoning, especially in tasks like syllogisms. A syllogism is a structured form of reasoning, for example: “All humans are mortal. Socrates is a human. Therefore, Socrates is mortal.” Decades of research across cultures and time periods show a consistent pattern: adults without literacy skills approach syllogisms differently from those who can read and write. Literate adults tend to follow the deductive rules of logical argumentation. Non-literate adults often rely instead on personal experience and everyday knowledge, answering in ways that make sense within their lived context. This contrast has been documented repeatedly (Luria, 1976; Scribner & Cole, 1981; Oesterdiekhoff, 2022; Ong, 1982; Olson, 1994; Kurvers & Van Hout, 2026).
@@ -160,10 +159,7 @@ By integrating Wittgenstein and Bayesian reasoning, we aim to develop a more nua
 
 
 <a id="maffia"></a>
-### Marta Maffia, Università di Napoli L'Orientale.
-### Raymond Siebetcheu, Università per Stranieri di Siena.
-### Anna De Meo, Università di Napoli L'Orientale.
-### Noemi Lari, Università per Stranieri di Siena.
+### Marta Maffia, Università di Napoli L'Orientale; Raymond Siebetcheu, Noemi Lari, Università per Stranieri di Siena; Anna De Meo, Università di Napoli L'Orientale.
 ### _Embodied plurilingualism in adult literacy learners: insights from language portraits across Italy_
 
 Adult literacy education in migration contexts is now faced with increasingly diverse scenarios, in which the intrinsic value of plurilingualism, understood as a dynamic and integrated repertoire of multiple linguistic codes (Grosjean, 2010), has yet to be fully recognized. Especially in LESLLA settings, adult learners with limited or interrupted schooling are often mistakenly viewed through a deficit-oriented lens that implicitly associates social marginalization and low literacy with limited linguistic resources. However, according to the framework of democratic language education (De Mauro, 2018) and the principles of plurilingual and intercultural education (Beacco et al., 2016), recognizing and valuing learners’ entire linguistic competences and their complex communicative practices supports social integration and facilitates a non-traumatic reconfiguration of individual linguistic repertoires after migration.
@@ -196,9 +192,7 @@ Savy, R. (2006). Specifiche per la trascrizione annotata ortografica dei testi. 
 
 
 <a id="malessa"></a>
-### Eva Malessa, Turun Yliopisto, Finland. 
-### Live Grinder, Høgskolen på Vestlandet, Norway. 
-### Skye Playsted, Jemima Riller Kempster, The University of Queensland. 
+### Eva Malessa, Turun Yliopisto, Finland; Live Grinder, Høgskolen på Vestlandet, Norway; Skye Playsted, Jemima Riller Kempster, The University of Queensland. 
 ### _Co-creating LESLLA-specific research ethics guidelines with and for LESLLA stakeholders_
 In recent years, ethical considerations relating to LESLLA learner populations have increasingly been addressed and problematized, see e.g., Gujord et al. (2023); Michaud et al. (2022); Norlund Shaswar et al. (2024), as evidenced by the call for LESLLA focused research methodologies in the recently developed LESLLA Manifesto. In this workshop we first introduce the audience to such LESLLA-specific research ethics discussions, including informed consent and voluntary participation, e.g., Bigelow & Pettitt (2016); Malessa et al. (2026); Shepperd & Dalderop (2026). Compared to Western-based researchers, LESLLA learners most often have distinctly different backgrounds in multiple ways, including their limited experience with formal schooling, their cultural historical contexts, their linguistic repertoires, and, for many, their experiences of displacement. Responding meaningfully to these dimensions requires approaches that are sensitive to asymmetries in power, knowledge, and lived experience. 
 We then present case studies and research practices with LESLLA stakeholders regarding ethical issues from various multilingual research contexts, e.g., Australia, Finland and Norway, as a starting point for discussions and workshop activities that might draw on participants' experiences with their previous research projects. We hope to provide a space for questions/provocations/puzzling over existing ethics-related issues and practices. With this workshop, we endeavour to open up conversations that could contribute to a LESLLA community-led creation of practical research ethics guidelines for current and future LESLLA stakeholders that ideally could support particularly early career researchers and consequently also encourage more experimental LESLLA studies. The aim of this workshop is thus to initiate the co-creation of LESLLA-specific research ethics guidelines, similarly to guidelines that are LESLLA-relevant, but not LESLLA-specific see e.g., BERA (2018), Harley & Wazefadost (2023) and Krause et al. (2024), based on LESLLA-specific case studies and practices and find partners to follow-up this workshop’s output for continuing discussions and dissemination.
@@ -226,8 +220,7 @@ Shepperd, L., & Dalderop, K. (2026). Why should I care? Research ethics in the f
 
 
 <a id="minuz"></a>
-### Fernanza Minuz, Independent Researcher, Bologna. 
-### Alessandro Borri, CPIA Montagna, Castel di Casio, Italy. 
+### Fernanza Minuz, Independent Researcher, Bologna; Alessandro Borri, CPIA Montagna, Castel di Casio (Bologna), Italy. 
 ### _Unaccompanied minors in adult education: listening to their voices_
 Unaccompanied minor refugees in Italy represent a constantly growing group in a particularly vulnerable situation (ML, 2025a). Under current legal provisions, after the age of 15, they are usually enrolled in the first cycle of CPIAs (State Adult Education centres) (aiming for the middle school diploma), often in heterogeneous classes not specifically targeted to them. Some of them attend vocational training courses alongside this.
 The still-inadequate national and international research on the educational environments in their host countries highlights the specific difficulties they face and the ways these contribute to the school dropout rate. Among the obstacles are poor knowledge of the school language, especially formal/academic registers, and the imposition of a uniform educational path independent of previous education and aspirations (Baruzzi et al., 2020; Borri et al., 2025; Cerrocchi e Porcaro, 2023; D’Agostino, 2022; DeCapua e Marshall, 2022; Heinemann e Vogt, 2021; Santagati e Barzaghi, 2021). 
@@ -274,7 +267,8 @@ Trenta, G. (2025). Diritto all’istruzione: Il caso dei minori non accompagnati
 
 <a id="van hout"></a>
 ### Roeland van Hout, Centre for Language Studies, Radboud Universiteit Nijmegen. 
-### Low-Educated Adult Second Language Learners and their Low Sensitivity to L2 Inflectional Morphology: Effects of Sound Discrimination, Learner and Target Word Characteristics
+### _Low-Educated Adult Second Language Learners and their Low Sensitivity to L2 Inflectional Morphology: Effects of Sound Discrimination, Learner and Target Word Characteristics_
+
 Mocciaro and Young-Scholten (2026) conclude  that low-literate, low-educated adults may need up to eight times longer than literate adults to acquire a new language. Among available learner samples, inconsistent or absent use of inflectional suffixes has been frequently observed. Such patterns raise the question of whether low-educated learners’ inflectional systems differ qualitatively from those of highly educated learners. Competing explanations include the Basic Language Variety, the Missing Surface Inflection Hypothesis, and the Prosodic Transfer Hypothesis.
 Research on low-educated adult L2 learners deserves renewed attention. Most of these learners today are migrants, making the acquisition of morphological inflection particularly relevant again: what do they learn, and how? To address this, we re-analyzed an older dataset from Oldenkamp (2013), which included an impressive large sample of 130 low-educated adult learners of Dutch: 44 native speakers of Turkish, 44 of Moroccan Arabic, and 42 of Mandarin Chinese. Participants were evenly distributed across three proficiency levels (A1, A2, B1).
 Learners completed two tasks: a morpheme discrimination test and a sound discrimination test, focusing on the Dutch suffix sounds /ə/ (schwa) and /t/. We applied new statistical techniques—d’ combined with generalized linear mixed models (GLMM)—and introduced a novel perspective by using sound discrimination performance as a predictor of morpheme discrimination.
@@ -286,10 +280,6 @@ Our findings underscore the profound challenges faced by low-educated adult lear
 Oldenkamp, L. (2013). The Trouble with Inflection of Adult Learners of Dutch. A Study on the L1 L2 Interplay of Morphosyntactic and Phonetic-Phonological Factors. PhD thesis, Radboud University, Nijmegen.
 
 Mocciaro, E. & M. Young-Scholten (2026). Literacy and L2 adults’ acquisition of L2 linguistic morphosyntax. In J. Herschensohn et al. (Eds), The Cambridge Handbook of Second Language Acquisition, 2nd Ed. Cambridge: CUP.
-
-
-
-
 
 <a id="vanbuel"></a>
 ### Marieke Vanbuel, Universiteit Gent. 
