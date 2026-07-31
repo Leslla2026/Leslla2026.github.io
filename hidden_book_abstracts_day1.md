@@ -11,20 +11,20 @@ permalink: /book_abstracts_day1/
 ### Index
 
 - [Bart Siekman, Sybren Spit, Josje Verhagen, Sible Andringa](#siekman), _The Name Game: Measuring metalinguistic awareness in LESLLA learners_
-- [Manuela Pinto, Darin Nshiwi, Ali Işik, Birgen Işik ](#pinto), _A Dream Too Far: Dutch Learning Needs of Asylum Seekers and Current Dutch Learning Policy and Practices at the Asylum Seeker Center_
+- [Manuela Pinto, Darin Nshiwi, Ali Işik, Birgen Işik](#pinto), _A Dream Too Far: Dutch Learning Needs of Asylum Seekers and Current Dutch Learning Policy and Practices at the Asylum Seeker Center_
 - [Lotta Aunio](#aunio), _Language learning without literacy?_
 - [Friederike Lüpke](#lüpke), _Lead language writing as an adaptive infrastructure for multilingual literacy development_
 - [Sybren Spit, Sible Andringa, Judith Rispens](#spit), _Word learning in emergent readers: to what extent does written input help?_
 - [Katharina Obens, Ioanna Liakou, David Zimmermann](#obens), _A Participatory Design-Based Research Approach to the Professionalisation of Inclusive Language Education for Adult Refugees with Learning Difficulties_
-- [Kathrin Drews, Ina-Maria Maahs ](#drews), _From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling_
+- [Kathrin Drews, Ina-Maria Maahs](#drews), _From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling_
 - [Matilde Grünhage-Monetti, Silvia Miglio, Olessia Götzinger](#grünhage-monetti), _Empowering L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants_
-- [Marilyn L. Abott, Kent K. Lee](#abott), _Shared ,etacognition in a LESLLA teacher journal club_
+- [Marilyn L. Abott, Kent K. Lee](#abott), _Shared metacognition in a LESLLA teacher journal club_
 - [Vincent Bédard](#bédard), _Beyond deficit lens: making visible LESLLA learners' second language use practices_
 - [Melissa Hauber-Özer, Kelly Leavitt](#hauber-özer), _Digital storytelling as critical multiliteracies pedagogy_
 - [Brian Hibbs](#hibbs), _Advancing pre-service ESOL teachers' beliefs concerning social justice through translanguaging_
 - [Erika Husby](#husby), _U.S. citizenship: the gap between policy and lived reality_
 - [Anna Mendoza, Elif Varlik, Eda Yildirimer](#mendoza), _Akogare (English learning as leisure and desire) in adult community English classes in the US Midwest_
-- [Catherine Maynard, Véronique Fortier, Suzie Beaulieu, Valérie Amireault ](#maynard), _LESLLA teachers' relationship to reading and writing in adult French L2 literacy classrooms_
+- [Catherine Maynard, Véronique Fortier, Suzie Beaulieu, Valérie Amireault](#maynard), _LESLLA teachers' relationship to reading and writing in adult French L2 literacy classrooms_
 - [Victoria Lyasota](#lyasota), _Integrating multicultural art into a literacy classroom_
 - [Eda Yildirimer](#yildirimer), _MA TESOL student teachers' preparation, challenges, and growth in community-based teaching with Afghan refugee women_
 - [Marta Young-Scholten](#young-scholten), _Ineke van de Craats and Heide Wringley and the studies that created LESLLA_
@@ -209,8 +209,7 @@ Ständige Wissenschaftliche Kommission der Kultusministerkonferenz. (2022). Digi
 von Maurice, J., & Will, G. (2021). Geflüchtete Kinder und Jugendliche im deutschen Bildungssystem: Zentrale Befunde der Studie ReGES (Forschung kompakt No. 2). LIfBi. https://www.lifbi.de/Portals/2/Publikationen/Transferberichte/LIfBi%20Forschung%20kompakt/LIfBi-Forschung-kompakt_02_ReGES.pdf
 
 <a id="grünhage-Monetti"></a>
-### Matilde Grünhage-Monetti, Siliva Miglio, ⁠⁠Language for Work, European Centre of Modern Languages, Council of Europe.
-### Olessia Götzinger, Bildungszentrum Oberjosbach. 
+### Matilde Grünhage-Monetti, Silva Miglio, ⁠⁠Language for Work, European Centre of Modern Languages, Council of Europe; Olessia Götzinger, Bildungszentrum Oberjosbach. 
 ### _Empowering  L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants_
 The issue of linguistic capital for sustainable employability and equitable economic inclusion is of growing importance in the context of migration in Europe. Communication is a key employability skill in today’s work world. For adult migrants this means competence in the language(s) of the host country (L2). For many, this implies learning a new language.  But the primary goal of the majority is finding work and not learning a language. Many find occupations requiring limited L2 skills and remain then stuck in the low-skilled-, low-paid-job trap with negative consequences for them, their families, the host country’s economy and society.
 A way out of this trap is supporting L2 development at work. There is evidence that L2 offers tailored to the requirements of the workplace and the company as well as to the language and learning needs of the learners are effective both for employees and employers.  However, migrants need more than functional L2 skills to stand up against racism and exert democratic rights like participation and co-determination for sustainable work and active citizenship (not only) in the vital context of work. 
@@ -229,7 +228,7 @@ Stirling, A. (2015). Employment outcomes for migrants in European labour markets
 
 
 
-### Panels
+### Panel session
 
 <a id="bédard"></a>
 ### Vincent Bédard, Université du Québec à Montréal. 
@@ -295,8 +294,7 @@ Equity, Diversity, and Inclusion are part of the Language Instruction for Newcom
 
  
 <a id="maynard"></a>
-### Catherine Maynard, Véronique Fortier, Valérie Amireault, Université du Québec à Montréal. 
-### Suzie Beaulieu, Université Laval. 
+### Catherine Maynard, Véronique Fortier, Valérie Amireault, Université du Québec à Montréal; Suzie Beaulieu, Université Laval. 
 ### _LESLLA teachers’ relationship to reading and writing in adult French L2 literacy classrooms_
 Instructional practices used to support the literacy development of LESLLA learners across educational contexts often have a limited scope (Reder, 2015). These practices tend to focus on the code, particularly on the study of grapheme–phoneme correspondences and the development of technical skills (Ollerhead, 2012), a pattern also observed in the French-speaking Canadian province of Québec (Maynard et al., 2024). Yet, a more balanced approach to literacy instruction is recommended (Vinogradov, 2013), one that combines code-focused activities with meaning-based practices, such as reading for pleasure, writing for authentic purposes, and engaging with texts connected to learners' lived experiences.
 To understand the reasons underlying teachers’ preference for code-oriented practices, we drew on the construct of relationship to reading and writing, developed in French first-language education (Barré-de Miniac, 2015; Chartrand & Blaser, 2008) and more recently adopted in additional-language pedagogy (Delebarre, 2022). This construct probes teachers' conceptions of written language and its learning, the value they assign to it, their affective relationship to reading and writing, as well as the print literacy practices they privilege, thus offering a lens through which to explain pedagogical choices. Our presentation therefore addresses the following question: What relationship to reading and writing do LESLLA teachers in Québec hold?
@@ -318,8 +316,9 @@ Reder, S. (2015). Expanding emergent literacy practices: Busy intersections of c
 Vinogradov, P. (2013). Defining the LESLLA teacher knowledge base. LESLLA Symposium Proceedings, 8(1), 9–24. https://doi.org/10.5281/zenodo.8021806
 
 
-<a id="mendoza"></a>
-### Anna Mendoza, Elif Varlik, The University of Illinois at Urbana-Champaign.
+<!-- <a id="mendoza"></a> 
+### Anna Mendoza, Elif Varlik, The University of Illinois at Urbana-Champaign. -->
+
 ### Eda Yildirimer, The University of Arizona. 
 ### _Akogare (English learning as leisure and desire) in adult community English classes in the US Midwest_
 This paper presentation introduces the construct of akogare (Kubota, 2011) to examine the English learning of women from Afghanistan taught by MA TESOL practicum students and volunteers in a small Midwestern US city. The women’s oral English proficiency ranged from A1 to A2, and phonemic awareness such as blending letters and recognizing sight words was still emergent for most of the class. In Japan, akogare illustrated how learners, particularly women, took conversational EFL classes for leisure and to enjoy socializing with White, often male, native speaker teachers, who represented a romantic fantasy removed from daily life. In this study that draws on teacher reflections and analyzes audio-recorded, transcribed classroom talk, we ask the research question: “How can akogare also be demonstrated to exist in a second language setting where access to target language speakers, career development, and spatial mobility are restricted by gendered cultural norms (Pavlenko & Piller, 2001)?” The study found that 1) teachers as objects of desire are not necessarily stereotypical “White native speakers” but can have any intersectional identity representing learners’ desires (Motha & Lin, 2014), for example, “educated, English-fluent female friends”, and that 2) good attendance, teacher-student rapport, and affective engagement do not necessarily lead to self-study or target language use outside of class. When language learning is defined by leisure and desire, we ask how learners and teachers can regain criticality (Crookes, 2021; Morgan, 2002) by re-centering both language acquisition (teaching phonics according to a systematic, comprehensive curriculum and guiding learners to amass a critical amount of vocabulary) and the Freirean problem-posing necessary to address the linguistic and structural barriers that hinder learners’ functional independence, social integration, and economic mobility.

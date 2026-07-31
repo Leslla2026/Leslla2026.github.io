@@ -14,13 +14,13 @@ permalink: /book_abstracts_day2/
 - [Clelia Farina](#farina), _Observing competence and performance in talk-in-interaction: notes from an italian LA course with newly arrived plurilingual learners_
 - [Patsy Egan, Janet Isserlis](#egan), _Lifelong learning: practitioners celebrate the work of Heide Wrigley in the best way we know how_
 - [Marie-Anne Morand, Claudia Kossinna](#morand), _Word stress identification by LESLLA learners and second-script learners_
-- [Ann-Kristin Helland Gujord, Linda Evenstad Emilsen ](#helland-gujord), _What characterises research on L2 learners with limited prior schooling?_
+- [Ann-Kristin Helland Gujord, Linda Evenstad Emilsen](#helland-gujord), _What characterises research on L2 learners with limited prior schooling?_
 - [Belma Haznedar, Elifcan Öztekin](#haznedar), _Exploring teacher candidates' attitudes toward multilingualism in the Turkish context_
 - [Carl Laberge](#laberge), _LESLLA learners' plurilingual development: a funds of knowledge approach to uncover their perspectives_
 - [Nadja Kerschhofer-Puhalo](#kerschhofer-puhalo), _Views in*2 Literacies – a multimodal text collection on a participatory web-platform_
 - [Cecilia Bartoli, Kristýna Lorenzová](#bartoli), _Representing the multilingual self: multimodal practices for linguistic autobiography in migration contexts_
 - [Davide Schirò](#schirò), _Using picturebooks in plurilingual contexts: potentialities and risks_
-- [Kaatje Dalderop, Annemarie Nuwenhoud ](#dalderop), _Research-based practice, practice-based research; bridging the gap_
+- [Kaatje Dalderop, Annemarie Nuwenhoud](#dalderop), _Research-based practice, practice-based research; bridging the gap_
 
 ## Posters
 - [Lorenzo Albanesi, Kristýna Lorenzová](#albanesi), _If you are waiting for literacy and input: do analytic constructions emerge?_
@@ -47,7 +47,8 @@ D'Agostino, M., Mocciaro, E., & Ba, A. (2026). Emerging literacy in multilingual
 
 
 <a id="fortier"></a>
-### Véronique Fortier, Catherine Maynard, Suzie Beaulieu, Valérie Amireault,  Université du Québec à Montréal. 
+### Véronique Fortier, Catherine Maynard, Suzie Beaulieu, Valérie Amireault,  Université du Québec à Montréal.
+
 ### _Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project_
 Research in LESLLA contexts has received increased attention in the past years, yet more classroom-based research is needed to identify practices that best support the development of emerging literacy skills with these particular learners (Young-Scholten, 2021). Empirical evidence available to date suggests that instructional practices with LESLLA learners are largely code-based, focusing on the development of mechanical and technical skills mainly through decontextualized and teacher-centered activities (Choi & Ziegler, 2015; Moore, 1999; North, 2017; Ollerhead, 2012). However, little is known about how to implement a more balanced approach to literacy development, one that also includes meaning-based practices, essential to literacy development (Vinogradov, 2010; Piccinin & Dal Maso, 2021). 
 In response to this need, we conducted an action research study taking the form of a living library project (BAnQ, 2017), in which the students had to produce multilingual identity texts (Cummins and Early, 2011) and to share them during the public event. The project took place in two adult education centres in the province of Québec, Canada. In this presentation, we will report on the teaching practices adopted by three focal teachers while carrying the project with their own learners. We collected data through video recordings of classroom activities over four to six lessons, each lasting between one and three hours. They were then analysed thematically (Paillé & Mucchielli, 2021) to identify the different teacher’s practices along a continuum from code-based to meaning-based.
@@ -98,11 +99,9 @@ Schegloff, E. A. (1991). Reflections on talk and social structure. In D. Boden &
 Seedhouse, P. (2009). The interactional architecture of the language classroom. Bellaterra Journal of Teaching & Learning Language & Literature, 1(1), 1–13.
 Young, R. F. (2009). Discursive practice in language learning and teaching. Wiley-Blackwell.
 
-
 <a id="egan"></a>
-### Patsy Egan, Hamline University. 
-### Janet Isserlis, Brown University.
-### _Lifelong learning: practitioners celebrate the work of Heide Wrigley in the best way we know how
+### Patsy Egan, Hamline University; Janet Isserlis, Brown University.
+### _Lifelong learning: practitioners celebrate the work of Heide Wrigley in the best way we know how_
 Since its inception, Heide Spruck Wrigley has been instrumental in advocating for policy and practice that acknowledge the unique strengths and needs of LESLLA learners. Over the years, her writing, materials development, guidance and hands-on support to practitioners around the world have been critical in furthering understanding of and approaches to design and implementation of learner-centered strategies enabling practitioners to develop and utilize classroom practices specifically suited to LESLLA learners.
 Facilitated by colleagues of Dr. Wrigley, this workshop will focus on strategies and materials that carry her work and scholarship forward by centering learners’ strengths, cultivating learner authority and agency, and grounding instruction in evidence-based research and practices. Sharing materials and processes that have worked in classrooms situated in various contexts, presenters will demonstrate classroom activities and approaches informed by our knowledge of language and literacy development, including elements of translanguaging, development of literacy in first and additional languages.  Participants are invited to share their own strategies in this interactive session.
 
@@ -124,8 +123,7 @@ Peirce, J., Gray, J. R., Simpson, S., MacAskill, M., Höchenberger, R., Sogo, H.
 
 
 <a id="gujord"></a>
-### Ann-Kristin Helland Gujord, Universitetet i Bergen.
-### Linda Evenstad Emilsen, Høgskolen i Østfold. 
+### Ann-Kristin Helland Gujord, Universitetet i Bergen; Linda Evenstad Emilsen, Høgskolen i Østfold. 
 ### _What characterises research on L2 learners with limited prior schooling?_
 This presentation introduces a scoping review (cf. Arksey & O’Malley, 2005) designed to map the research base on lesseducated or lowliterate adult L2 learners (LESLLA learners). Earlier overviews of this population exist (Nordanger et al, 2024; YoungScholten, 2018), but they primarily synthesise studies appearing in the LESLLA symposium proceedings. While those reviews have provided valuable, fieldspecific insight into themes, methods, and practitioner concerns circulating within the LESLLA community, their venuebounded scope means that relevant, peerreviewed work published elsewhere remains underrepresented. Our review addresses this limitation by expanding the search across multiple scholarly databases.
 The main objective is to answer the following research question: What are the research priorities in studies of loweducated adult L2 learners? In collaboration with a specialist librarian, we developed targeted search strings and ran systematic searches in six databases, restricting results to publications available up to 2025. The searches yielded a large initial pool that we reduced through stepwise screening. 
@@ -139,11 +137,8 @@ Nordanger, M., Carlsen, C. H., & Bugge, E. (2024). Research on simultaneous seco
 
 YoungScholten, M. (2018, October 4–6). What do we know from 1½ decades of LESLLA symposia? In M. D’Agostino & E. Mocciaro (Eds.), Research, practice and policy: Selected papers from the 14th Annual Symposium of LESLLA (pp. 69–84). Palermo University.
 
-
-
 <a id="haznedar"></a>
-### Belma Haznedar, Boğaziçi Universitesi, Istanbul.
-### Elifcan Öztekin, Universidad de Granada. 
+### Belma Haznedar, Boğaziçi Universitesi, Istanbul; Elifcan Öztekin, Universidad de Granada. 
 ### _Exploring teacher candidates’ attitudes toward multilingualism in the Turkish context_
 Multilingualism, linguistic diversity, and cultural diversity have received significant attention in recent years, particularly in educational contexts due to increased mobility and the growing numbers of migrant students with diverse needs in classrooms worldwide (e.g. Cenoz & Gorter, 2015; Dockrell et al, 2022; Phipps, 2019). While much recent empirical work has addressed teachers’ beliefs regarding multilingualism and multiculturalism (Abacioglu et al., 2022; Knudsen et al., 2021), critics often emphasize the challenges teachers are face with, particularly with regard to their preparedness to meet the needs of students (Dotzel et al., 2021). Due to large migration flows to and from the country, the linguistic make-up of Turkey has been changing over last 15 years. Following the open door policy which took effect in the early 2010s, Turkey has become a host country for millions of refugees and migrants from various countries such as Syria, Afghanistan, Ukraine. The aim of this study is to explore teacher candidates’ attitudes towards multilingualism in a context where they lack systematic training to meet the needs of migrant and multilingual/multicultural learners. A questionnaire study based on an adapted version of the Multilingual Classroom Questionnaire devised by the European Literacy Network (Dockrell et al., 2022) was conducted to identify how attitudes of teacher candidates developed towards multilingualism and teaching bi/multilingual migrant learners. The questionnaire was responded by 90 teacher candidates attending a state university in Istanbul, majoring in Physics, Chemistry, Mathematics, Computer Technologies, and Language Teaching during spring term of 2025. Adopting a quantitative approach, our study utilized questionnaire data to explore the teacher candidates’ attitude towards the use of first and/or second language in classrooms, their views on multilingualism and literacy instruction based on their practicum teaching experiences at various levels. The teacher candidates most frequently reported four to six months of observation and micro teaching experience in their practicum schools. The preliminary findings reveal that the participants express highly positive opinions about multilingual policies in education and beneficial effect of bilingualism in literacy instruction. However, this positive stance was clearly reduced about the use of first language in classroom although they still agreed that the first language can support teaching a second language through awareness of similarities and differences between languages. The results highlight that the participants more clearly value representing multilingualism as a supporting quality in education and literacy, and they are more positive about using the first language in second language teaching to enhance linguistic awareness. However, they demonstrate greater hesitation regarding the recognition and visibility of the first language in classroom instruction involving migrant learners, an issue that warrants in-depth examination given the increasingly diverse nature of contemporary classrooms.
 
@@ -233,8 +228,7 @@ Reed, H., & Hayes Laughton, R. (2023). Testimony on whose terms? The cultural po
  
 
 <a id="bartoli"></a>
-### Cecilia Bartoli, Università di Palermo, APS Asinitas Roma. 
-### Kristýna Lorenzová, Masarykova univerzita
+### Cecilia Bartoli, Università di Palermo, APS Asinitas Roma; Kristýna Lorenzová, Masarykova univerzita
 ### _Representing the multilingual self: multimodal practices for linguistic autobiography in migration contexts_
 "Travellers between languages can, like the tricksters of folk tales, play with double meanings in the interstices between words and codes. They can imagine possible scenarios based on cross-linguistic connotations; they can draw on the sounds and forms of different languages to evoke imaginary worlds inaccessible to the monolingual traveller." (Kramsch 2006)
 Linguistic Autobiography (LA) has seen comparatively fewer experimental applications in migration contexts, despite the heterogeneous and complex linguistic backgrounds of individuals who have grown up in multilingual settings. In such contexts, rich semiotic repertoires, intercomprehension, and communicative creativity are used productively or receptively to navigate everyday interactions, while schooling often takes place within colonial languages and educational systems. Migration itself may constitute an experience that enriches individuals’ linguistic repertoires (D’Agostino 2022). The “éveil aux langues” approach (CARAP 2012) promotes activities that are directed not only at languages of schooling but also at the varieties spoken in everyday environments, within families, and in the wider world. Within a pedagogical and didactic perspective oriented toward a complex and composite competence – plurilingual, pluricultural, and communicative – requiring a positive cognitive and metacognitive disposition toward diversity as a paradigm (Cognigni 2020), LA emerges as a particularly valuable tool for:
@@ -308,8 +302,7 @@ Hartmann, E. C., & McGillicuddy, Á. (Eds.). (2025). Creative readings of multil
 
 
 <a id="dalderop"></a>
-### Kaatje Dalderop, Indipendent researcher.
-### Annemarie Nuwenhoud, Vrije Universiteit, Amsterdam.
+### Kaatje Dalderop, Indipendent researcher; Annemarie Nuwenhoud, Vrije Universiteit, Amsterdam.
 ### _Research-based practice, practice-based research; bridging the gap_
 Research and practice in adult second language and literacy education are often described as operating in separate worlds. Researchers and practitioners typically work in different institutional settings, on different locations, and within their own professional networks. Yet, both groups share the common goal of improving teaching and learning (Sato & Loewen, 2022). In the LESLLA field, where learners are often vulnerable and educational resources can be limited, effective collaboration between research and practice is particularly important. 
 LESLLA explicitly promotes research-based practice (www.leslla.org). However, not all research leads to immediate or visible benefits for learners. This may raise ethical questions when LESLLA learners are involved as participants in research projects (e.g. Fox et al., 2020; Michaud et al., 2022; Shepperd & Dalderop, 2026). How do we balance the need for rigorous research with the responsibility to protect and support learners? How can research projects be shaped in ways that are both scientifically relevant and meaningful for classroom practice? 
@@ -390,8 +383,7 @@ Vainikka, A., Young-Scholten, M., Ijuin, C., & Jarad, S. (2017). Literacy in the
 
 
 <a id="chuang"></a>
-### Tsun Yang Chuang, Morgane Jourdain, KU Leuven. 
-### Emanuelle Canut, Université de Lille.  
+### Tsun Yang Chuang, Morgane Jourdain, KU Leuven; Emanuelle Canut, Université de Lille.  
 ### _Understanding the Non-Comprehension of Instructions among Learners with Limited Schooling: A Comparative Conversation Analysis of French Language Integration Classes_ 
 Pedagogical tasks are central to language acquisition, yet their success depends on the teacher’s ability to provide clear task instructions (Van Den Branden, 2009). Existing research has shown how task instructions are constructed (Markee, 2015) and how learners respond when they have difficulties in comprehending them (Sert & Jacknick, 2015; Somuncu & Sert, 2019). However, which aspects of task instruction delivery and designs lead to learner comprehension difficulties in L2 classrooms remains underexplored.
 Moreover, research on task instructions has predominantly examined learners with established schooling backgrounds (e.g., secondary students), resulting in limited insight into how learners with little or no formal education engage with instructions. For these learners, their comprehension can be constrained by a lack of familiarity with school-based literacy practices and task formats commonly presupposed in language teaching materials and methods (Ahmad Yar & Jourdain, 2018; Carroll, 2024). 
