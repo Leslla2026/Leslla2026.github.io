@@ -7,7 +7,7 @@ permalink: /book_abstracts_day2/
 {% include site-logo.html %}
 {% include page-header.html %}
 
-### Index
+### Contents
 
 - [Cecilia Bartoli, Kristýna Lorenzová](#bartoli), _Representing the multilingual self: multimodal practices for linguistic autobiography in migration contexts_
 - [Mari D'Agostino](#d'agostino), _Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte_

@@ -8,7 +8,7 @@ permalink: /book_abstracts_day3/
 {% include page-header.html %}
 
 
-### Index
+### Contents
 
 - [Valentina Cotesta](#cotesta), _Mediation and plurilingual repertoires in LESLLA contexts: a preliminary study on inclusive language assessment in Italy_
 - [Clelia Farina](#farina), _From the other side of the desk: experiencing a repertoire-based approach to additional language literacy_

@@ -7,7 +7,7 @@ permalink: /book_abstracts_day1/
 {% include site-logo.html %}
 {% include page-header.html %}
 
-### Index
+### Contents
 
 - [Marilyn L. Abott, Kent K. Lee](#abott), _Shared metacognition in a LESLLA teacher journal club_
 - [Lotta Aunio](#aunio), _Language learning without literacy?_
