@@ -202,4 +202,4 @@ permalink: /20_August/
     </tr>
     <tr>
       <td class="time">17:00–18:00</td>
-      <td colspan="5"> <strong>Martha Young-Sholten (University of Washington, Seattle) </strong> <br> <i> Ineke van de Craats and Heide Wrigley and the studies that created LESLLA. </i> </td>
+      <td colspan="5"> <strong> <a href="https://leslla2026.github.io/book_abstracts_day1/#young-scholten">Martha Young-Sholten </a> (University of Washington, Seattle) </strong> <br> <i> Ineke van de Craats and Heide Wrigley and the studies that created LESLLA. </i> </td>
