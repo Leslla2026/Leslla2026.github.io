@@ -83,7 +83,7 @@ The panel will begin with a brief introduction by the moderator, situating the d
 
 The remainder of the session will be devoted to an open discussion with participants, in which the issues raised by the panelists - such as defining and measuring literacy constructs, ensuring reliability and validity, and addressing potential consequences of assessment practices - will be taken up and explored further across contexts. The panel will conclude with final reflections from the moderator
 
-REFERENCES? 
+<!-- REFERENCES? -->
 
 
 
