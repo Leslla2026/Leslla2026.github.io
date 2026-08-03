@@ -125,7 +125,7 @@ permalink: /20_August/
 
     <tr>
       <td class="time">14:30-15:00</td>
-      <td rowspan="4">Panel organiser: <strong>Ginger Kosobucki</strong>, <i> Immigrant Welcome Center, Indianapolis </i> <br> Panelists: 
+      <td>Panel organiser: <strong>Ginger Kosobucki</strong>, <i> Immigrant Welcome Center, Indianapolis </i> <br> Panelists: 
       <ul>
         <li>Martina Franz dos Santos</li>
         <li>Christine Czinglar & Katharina Karges</li> 
