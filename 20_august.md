@@ -125,7 +125,7 @@ permalink: /20_August/
 
     <tr>
       <td class="time">14:30-15:00</td>
-      <td>Panel organiser: <strong>Ginger Kosobucki</strong>, <i> Immigrant Welcome Center, Indianapolis </i> <br> Panelists: 
+      <td rowspan="4">Panel organiser: <strong>Ginger Kosobucki</strong>, <i> Immigrant Welcome Center, Indianapolis </i> <br> Panelists: 
       <ul>
         <li>Martina Franz dos Santos</li>
         <li>Christine Czinglar & Katharina Karges</li> 
@@ -146,7 +146,6 @@ permalink: /20_August/
 
     <tr>
       <td class="time">15:00-15:30</td>
-      <td><strong></strong><br><i></i><br></td>
       <td>
         <strong>Erika Husby</strong><br> <i> University of Massachusetts, Boston, and the Rohingya Culture Center </i><br>
         U.S. citizenship: the gap between policy and lived reality
@@ -163,7 +162,6 @@ permalink: /20_August/
 
     <tr>
       <td class="time">15:30-16:00</td>
-      <td><strong></strong><br> <i> </i><br></td>
       <td>
         <strong>Elif Varlik</strong><br> <i> University of Illinois at Urbana-Champaig </i><br>
         Building critical multilingual awareness through collaborative online study sessions: a multiple case study of LESLLA teachers
@@ -179,7 +177,6 @@ permalink: /20_August/
     </tr>
     <tr>
       <td class="time">16:00-16:30</td>
-      <td><strong></strong><br> <i></i><br> </td>
       <td>
         <strong>Marie Fontaine</strong><br> <i> Assist Community Services Centre, Edmonton, Alberta </i><br>
         Finding meaning through drawing: art-based task assessment for literacy and plurilingual learners
