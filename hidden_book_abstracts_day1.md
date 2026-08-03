@@ -9,7 +9,7 @@ permalink: /book_abstracts_day1/
 
 ### Contents
 
-<!-- -[Marilyn L. Abott, Kent K. Lee](#abott), _Shared metacognition in a LESLLA teacher journal club --> 
+<!-- -[Marilyn L. Abbott, Kent K. Lee](#abbott), _Shared metacognition in a LESLLA teacher journal club --> 
 - [Lotta Aunio](#aunio), _Language learning without literacy?_
 - [Vincent Bédard](#bédard), _Beyond deficit lens: making visible LESLLA learners' second language use practices_
 - [Kathrin Drews, Ina-Maria Maahs](#drews), _From needs analysis to module design: Digital teacher training for the literacy of multilingual learners with limited and/or interrupted schooling_
@@ -30,7 +30,7 @@ permalink: /book_abstracts_day1/
  
 
 
-<!-- ABOTT MISSING -->
+<!-- ABBOTT MISSING -->
 
 <a id="aunio"></a>
 ### Lotta Aunio, Helsingin Yliopisto. 

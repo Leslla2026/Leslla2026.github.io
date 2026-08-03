@@ -15,7 +15,7 @@ permalink: /book_abstracts_day2/
 - [Patsy Egan, Janet Isserlis](#egan), _Lifelong learning: practitioners celebrate the work of Heide Wrigley in the best way we know how_
 - [Clelia Farina](#farina), _Observing competence and performance in talk-in-interaction: notes from an italian LA course with newly arrived plurilingual learners_
 - [Véronique Fortier, Catherine Maynard, Suzie Beaulieu, Valérie Amireault](#fortier), _Exploring teaching approaches to support the development of literacy among LESLLA learners through a living library project_
-- [Ann-Kristin Helland Gujord, Linda Evenstad Emilsen](#helland-gujord), _What characterises research on L2 learners with limited prior schooling?_
+- [Ann-Kristin Helland Gujord, Linda Evenstad Emilsen](#gujord), _What characterises research on L2 learners with limited prior schooling?_
 - [Belma Haznedar, Elifcan Öztekin](#haznedar), _Exploring teacher candidates' attitudes toward multilingualism in the Turkish context_
 - [Nadja Kerschhofer-Puhalo](#kerschhofer-puhalo), _Views in*2 Literacies – a multimodal text collection on a participatory web-platform_
 - [Carl Laberge](#laberge), _LESLLA learners' plurilingual development: a funds of knowledge approach to uncover their perspectives_
@@ -287,9 +287,9 @@ In plurilingual contexts, valuing the learner’s entire linguistic repertoire m
 At the same time, every picturebook conveys implicit representations of norms, belonging, and difference. It can support inclusive processes or reproduce unexamined cultural and linguistic hierarchies. A conscious and guided analysis of picturebooks is therefore essential to transform them into effective and inclusive teaching tools.
 
 Objectives
-● Promote critical awareness regarding the use of picturebooks
-● Identify the potentials and risks of multimodal input
-● Provide replicable tools for plurilingual contexts
+- Promote critical awareness regarding the use of picturebooks
+- Identify the potentials and risks of multimodal input
+- Provide replicable tools for plurilingual contexts
 Structure (120 minutes)
 
 1. Introduction and individual selection of a picturebook for a teaching proposal (20 min)
@@ -320,8 +320,7 @@ Studies on naturalistic second language acquisition in migration contexts have d
 
 Against this background, we will compare the contexts in which non-target analytical constructions occur by reviewing three corpora featuring various communicative tasks (e.g., interviews, narratives, picture-based descriptions), but representing different learner populations: 
 European Science Foundation (ESF) corpus (Feldweg 1991; Perdue 1993), a longitudinal collection of oral data from 40 adult migrants in Europe acquiring second languages in informal immersion contexts with sporadic interaction in the L2. For this study, L1 Italian – L2 German; L1 Punjabi – L2 English; L1 Spanish – L2 French; L1 Turkish – L2 German; 
-Stra-ParlaBO (Mauri et al., in press): Ukrainian, Moroccan, Chinese and Albanian speaker of L2 Italian; 
-BRITA corpus, a longitudinal corpus of L2 Italian from Slavic learners (L1 Czech, Slovak and Russian.) in a university setting, with limited naturalistic input and classroom-bound L2 exposure (Lorenzová 2027, in prep.). 
+Stra-ParlaBO (Mauri et al., in press): Ukrainian, Moroccan, Chinese and Albanian speaker of L2 Italian; BRITA corpus, a longitudinal corpus of L2 Italian from Slavic learners (L1 Czech, Slovak and Russian.) in a university setting, with limited naturalistic input and classroom-bound L2 exposure (Lorenzová 2027, in prep.). 
 
 The two learner groups (that is, those in (1)-(2) and in (3)) differ in a crucial respect: the presence (3) or absence of different levels of literacy (1-2). Nevertheless, the degree of literacy can only be inferred rather than assessed properly, because this condition has not been assumed as an explicit variable in the corpora in question.  
 Moreover, the access of these learners to input reveals a more complex picture. Migrant learners, although immersed in the target‑language environment, often receive naturalistic input only sporadically and almost exclusively in oral form, because of social marginalization and, therefore, low interaction with locals. University learners, by contrast, have very little exposure to naturalistic spoken input; most of what they receive is text‑based and mediated through textbooks, with only marginal contact with spontaneous L2 use outside the class. 
