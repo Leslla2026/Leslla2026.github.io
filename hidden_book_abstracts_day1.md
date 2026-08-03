@@ -30,7 +30,7 @@ permalink: /book_abstracts_day1/
  
 
 
-ABOTT MISSING
+<!-- ABOTT MISSING -->
 
 <a id="aunio"></a>
 ### Lotta Aunio, Helsingin Yliopisto. 
