@@ -92,7 +92,7 @@ Ständige Wissenschaftliche Kommission der Kultusministerkonferenz. (2022). Digi
 von Maurice, J., & Will, G. (2021). Geflüchtete Kinder und Jugendliche im deutschen Bildungssystem: Zentrale Befunde der Studie ReGES (Forschung kompakt No. 2). LIfBi. https://www.lifbi.de/Portals/2/Publikationen/Transferberichte/LIfBi%20Forschung%20kompakt/LIfBi-Forschung-kompakt_02_ReGES.pdf
 
 
-<a id="grünhage-Monetti"></a>
+<a id="grünhage-monetti"></a>
 ### Matilde Grünhage-Monetti, Silva Miglio, ⁠⁠Language for Work, European Centre of Modern Languages, Council of Europe; Olessia Götzinger, Bildungszentrum Oberjosbach. 
 ### _Empowering  L2 practitioners and labor market actors to support work-related language and literacy development by adult migrants_
 The issue of linguistic capital for sustainable employability and equitable economic inclusion is of growing importance in the context of migration in Europe. Communication is a key employability skill in today’s work world. For adult migrants this means competence in the language(s) of the host country (L2). For many, this implies learning a new language.  But the primary goal of the majority is finding work and not learning a language. Many find occupations requiring limited L2 skills and remain then stuck in the low-skilled-, low-paid-job trap with negative consequences for them, their families, the host country’s economy and society.
@@ -109,7 +109,7 @@ Stirling, A. (2015). Employment outcomes for migrants in European labour markets
 
 
 
-<a id="hauber-Özer"></a>
+<a id="hauber-özer"></a>
 ### Melissa Hauber-Özer, Kelly Leavitt University of Missouri, Columbia.
 ### _Digital storytelling as critical multiliteracies pedagogy_
 Rapidly shifting policies and increased polarization around immigration in many historic refugee (re)settlement contexts underscore the need for classroom practices that foster inclusion and resilience, enabling LESLLA learners to navigate complex sociopolitical landscapes in a new language. This presentation, resulting from an ongoing university-community partnership between a faculty member with a background in adult literacy and ESL and a non-profit organization providing post-resettlement services in the midwestern United States, examines how digital storytelling pedagogy can support LESLLA learners’ language and literacy development. The partnership employs community-based participatory research, which is rooted in Freire’s (1972) critical pedagogy and goes beyond documenting a problem to work toward a solution in partnership with those most impacted (Fals-Borda & Rahman, 1991). To address the priorities of the local refugee community, the team established a community-based adult English for Speakers of Other Languages (ESOL) program in 2023 which incorporates participatory, arts-infused, and storytelling pedagogies centering learners’ lives as curriculum (Bryers et al., 2014). 
@@ -149,9 +149,9 @@ The purpose of this study was thus to explore the relationships between these co
 My research examines the U.S. naturalization test, particularly the process that immigrants especially from a background of low formal education with low literacy and language levels go through as they prepare for naturalization. This research builds upon existing scholarship on citizenship that has focused on analysis of the U.S. naturalization test, study materials, naturalization ceremonies, and comparisons of policy between various Western nations. What this study contributes is an update to the discussion of USCIS policies as well as a documentation of the experiences of citizenship teachers and students navigating the test preparation process. Following guidance from Dana and Yendol-Hoppey (2019) on teacher inquiry, this study examines the context of my own practice to explore how de facto and de jure policy compares with the lived realities of my students and colleagues. This project offers a grounded ethnographic study of the perceptions of and discourse around naturalization. I examine United States Citizenship and Immigration Services (USCIS) published materials including the test materials, study materials, and public communications. From the fall of 2024 to the fall of 2025, I conducted semi-structured interviews with 14 citizenship teachers, tutors, and relevant experts, and observed 5 citizenship classes. I also kept a reflective journal on my own experiences teaching citizenship class. 
 Major takeaways from my research include:
 
-The role of testing in legitimizing state authority over academic knowledge 
-The challenge of teaching to the test while building a critical awareness of a high-stakes test itself and the socio-political context of the test
-The importance of ongoing teacher education that allows teachers to share their knowledge and materials with each other
+- The role of testing in legitimizing state authority over academic knowledge 
+- The challenge of teaching to the test while building a critical awareness of a high-stakes test itself and the socio-political context of the test
+- The importance of ongoing teacher education that allows teachers to share their knowledge and materials with each other
 This paper presentation will summarize the research I conducted and discuss its relevance to international practice and policy concerned with LESLLA learners.
 
 ### References 
@@ -212,9 +212,8 @@ Reder, S. (2015). Expanding emergent literacy practices: Busy intersections of c
 Vinogradov, P. (2013). Defining the LESLLA teacher knowledge base. LESLLA Symposium Proceedings, 8(1), 9–24. https://doi.org/10.5281/zenodo.8021806
 
 
-
-### Anna Mendoza, Elif Varlik, The University of Illinois at Urbana-Champaign. 
-### Eda Yildirimer, The University of Arizona. 
+<a id="mendoza"></a>
+### Anna Mendoza, Elif Varlik, The University of Illinois at Urbana-Champaign. Eda Yildirimer, The University of Arizona. 
 ### _Akogare (English learning as leisure and desire) in adult community English classes in the US Midwest_
 This paper presentation introduces the construct of akogare (Kubota, 2011) to examine the English learning of women from Afghanistan taught by MA TESOL practicum students and volunteers in a small Midwestern US city. The women’s oral English proficiency ranged from A1 to A2, and phonemic awareness such as blending letters and recognizing sight words was still emergent for most of the class. In Japan, akogare illustrated how learners, particularly women, took conversational EFL classes for leisure and to enjoy socializing with White, often male, native speaker teachers, who represented a romantic fantasy removed from daily life. In this study that draws on teacher reflections and analyzes audio-recorded, transcribed classroom talk, we ask the research question: “How can akogare also be demonstrated to exist in a second language setting where access to target language speakers, career development, and spatial mobility are restricted by gendered cultural norms (Pavlenko & Piller, 2001)?” The study found that 1) teachers as objects of desire are not necessarily stereotypical “White native speakers” but can have any intersectional identity representing learners’ desires (Motha & Lin, 2014), for example, “educated, English-fluent female friends”, and that 2) good attendance, teacher-student rapport, and affective engagement do not necessarily lead to self-study or target language use outside of class. When language learning is defined by leisure and desire, we ask how learners and teachers can regain criticality (Crookes, 2021; Morgan, 2002) by re-centering both language acquisition (teaching phonics according to a systematic, comprehensive curriculum and guiding learners to amass a critical amount of vocabulary) and the Freirean problem-posing necessary to address the linguistic and structural barriers that hinder learners’ functional independence, social integration, and economic mobility.
 
