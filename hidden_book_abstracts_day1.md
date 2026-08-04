@@ -30,7 +30,31 @@ permalink: /book_abstracts_day1/
  
 
 
-<!-- ABBOTT MISSING -->
+<a id="abbott"></a>
+
+### Marilyn L. Abbott, University of Alberta, Canada; Kent K. Lee, University of Alberta, Canada
+### _Shared Metacognition in a LESLLA Teacher Journal Club_
+
+We report on a study exploring how the use of a metacognitive tracking tool can help LESLLA teachers collaboratively integrate information from peer-reviewed journal articles with their professional experience to develop practical solutions to real-world educational challenges. Metacognition, often described as thinking about one’s own thinking (Flavell, 1979), is a key process that supports continuing professional development (CPD) because it enables teachers to critically examine the reasons behind their pedagogical practices, evaluate the (in)effectiveness of their approaches, and identify solutions that help them adapt and grow professionally. Our research specifically focused on the use of an online collaborative productivity tool that we developed to enhance shared metacognition in a teacher-led journal club. Shared metacognition (SM) is an awareness of one's learning while constructing meaning and understanding in association with both self and others (Garrison, 2022); therefore, SM has the potential to foster the collaborative co-construction of innovative, evidence-informed solutions to professional challenges and is integral to the collaborative learning process in journal clubs. In the field of language teaching, the reading and discussion of peer-reviewed articles in journal clubs have been found to foster collaborative learning by drawing on the group’s collective knowledge, skills, and experiences to address members’ CPD needs and goals (Abbott & Lee, 2022; Lee & Abbott, 2021). To our knowledge, the ways in which SM can be supported in a teacher-led LESLLA journal club remain to be explored. 
+
+To investigate how members of a teacher-led LESLLA journal club develop and share metacognition over time, and how a metacognitive tracking tool supports the collaborative co-construction of innovative, evidence-informed solutions to professional challenges, we asked the members to record their monthly group discussions and use the tool to plan, monitor, and evaluate the implementation of innovative ideas gleaned from the journal articles and their journal club dialogue. Thirteen LESLLA instructors participated in 18 cycles of article reading, discussion, and tool use. To analyze the discussion and tracking tool data, we conducted a qualitative inquiry thread analysis (Zhang et al., 2007). An inquiry thread is a series of comments that share a distinct line of inquiry and map onto a particular concept or practical problem. Inquiry threads were identified by linking each entry in the tracking tool to all instances in the discussion transcripts and the journal articles. Then the threads were used as the units of analysis in a qualitative content analysis (Williamson et al., 2018) to examine how the LESLLA teachers used SM (i.e., planning, monitoring, and evaluating) to adapt the information from the articles and their group discussions to address their shared CPD needs. Results suggest that SM drives collaborative learning and knowledge development and can be enhanced by the tracking of content understanding and collaborative reflection to resolve practice-related issues such as how to promote self-regulation, fairness in assessment, and plurilingualism in the LESLLA classroom. Our findings have the potential to inform effective teacher CPD initiatives. We conclude with suggestions for future research on SM and the use of a shared metacognitive tracking tool.
+ 
+### References
+
+Abbott, M. L., & Lee, K. K. (2022). Researcher-supported professional learning and development for instructors in adult L2 programs: Factors leading to ongoing communities of practice. The Modern Language Journal, 106(3), 617–634. https://doi.org/10.1111/modl.12793
+
+Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. American Psychologist, 34(10), 906–911. https://doi.org/10.1037/0003-066x.34.10.906
+
+Garrison, D. R. (2022). Shared metacognition in a community of inquiry. Online Learning, 26(1), 6–18. https://doi.org/10.24059/olj.v26i1.3023
+
+Lee, K. K., & Abbott, M. L. (2021). Knowledge co-construction in professional reading group discussions. ELT Journal, 75(4), 471–481. https://doi.org/10.1093/elt/ccab025
+
+Williamson, K., Given, L. M., & Scifleet, P. (2018). Qualitative data analysis. In K. Willamson & G. Johanson (Eds.), Research methods: Information, systems, and contexts (2nd ed., pp. 453–476). Elsevier. https://doi.org/10.1016/B978-0-08-102220-7.00019-4
+
+Zhang, J., Scardamalia, M., Lamon, M., Messina, R., & Reeve, R. (2007). Socio-cognitive dynamics of knowledge building in the work of 9- and 10-year-olds. Education Technology Research and Development, 55, 117–145. https://doi.org/10.1007/s11423-006-9019-0
+
+
+
 
 <a id="aunio"></a>
 ### Lotta Aunio, Helsingin Yliopisto. 
