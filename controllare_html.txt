@@ -1,0 +1,43 @@
+Fatto
+
+  - book_abstracts_day1.html rigenerato (ora include anche l'abstract di Abbott, che era segnato come "MISSING" ma in realtà era presente nel
+  .md sorgente).
+  - book_abstracts_day2.html creato nuovo (16 talk + sezione Posters con 4 poster).
+  - book_abstracts_day3.html creato nuovo (12 talk).
+
+  Tutti e tre seguono lo stesso stile CSS del file originale (con due piccole aggiunte: una classe .boa-section-title per la sezione Posters, e
+  .abstract-keynote-note per segnalare il keynote).
+
+  Problemi e incongruenze nei sorgenti (da verificare con gli autori/organizzatori)
+
+  Nomi probabilmente errati (li ho lasciati come nel sorgente, non corretti automaticamente):
+  - Day 3, abstract "malessa": l'intestazione riporta "Live Grinder" e "Jemima Riller Kempster", ma nei riferimenti bibliografici dello stesso
+  abstract compaiono correttamente "Grinden" e "Rillera Kempster" (nomi coerenti col resto del programma).
+  - Day 3, abstract "minuz": intestazione riporta "Fernanza Minuz", ma nel sommario originale e nei riferimenti è "Fernanda Minuz".
+
+  Titoli disallineati tra sommario e testo (ho usato il titolo del corpo come fonte primaria, rigenerando il sommario da lì):
+  - Day 2, "d'agostino": il sommario originale annunciava "Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte", ma
+  il titolo effettivo dell'abstract è "Rethinking linguistic research in the context of contemporary migration" — sembra proprio un talk
+  diverso.
+
+  Refusi (typo) da correggere alla fonte:
+  - Day 3, "cotesta": "assesment" nel titolo (nel sommario originale era scritto correttamente "assessment").
+  - Day 3, "minuz": "scienceand" (manca lo spazio) in un elenco puntato.
+  - Day 3, "gujord": una frase finisce senza punto prima della successiva ("...across the dataset The study provides...").
+
+  Anchor/link rotti nel sorgente, corretti nella conversione:
+  - Day 3: l'id era <a id="van hout"> (con uno spazio, HTML non valido) → normalizzato in van-hout.
+  - Day 3: l'id Hajská era con maiuscola, incoerente con lo stile minuscolo usato ovunque altrove → normalizzato in hajská.
+  - Day 3, "gujord": nel sommario il link puntava a #helland-gujord, ma l'anchor reale nel corpo era #gujord — link rotto nell'originale.
+
+  Struttura irregolare, normalizzata automaticamente:
+  - Day 3, "gujord": i due autori erano su due righe ### separate invece che unite — le ho unite in un'unica riga.
+  - Day 2 "dos-santos" e Day 3 "van-hout": i titoli non erano in corsivo (_..._) come tutti gli altri, e sono in Title Case anziché in stile
+  frase come il resto del sommario — li ho resi in corsivo per coerenza visiva, ma ho lasciato la capitalizzazione originale.
+  - Day 2, "kerschhofer-puhalo": il titolo compare come "Views in*2 literacies" — la formattazione con l'asterisco sembra un errore di
+  battitura/refuso, ma non essendo sicura del nome corretto del progetto l'ho lasciato testuale.
+  - Day 3, "Hajská": è l'unico abstract etichettato KEYNOTE nel testo — l'ho reso con un badge apposito, verifica se è corretto che sia l'unico.
+
+  Nota di formattazione: un paio di elenchi molto irregolari nei sorgenti (es. Day 2 "schirò": una lista puntata seguita da una lista numerata
+  con sotto-punti introdotti da "o ...") sono stati "appiattiti" in una singola lista numerata continua — il contenuto è tutto presente ma la
+  numerazione non rispecchia esattamente la gerarchia originale a due livelli.
