@@ -156,7 +156,7 @@ permalink: /22_August/
     <tr>
       <td class="time">15:00–16:00</td>
       <td colspan="4">
-        <strong> <a href="https://leslla2026.github.io/html_book_abstracts_day3/#Hajská"> Markéta Hajská & Pavel Kubaník </a> </strong> (CUNI-Univerzita Karlova, Praha)<br>
+        <strong> <a href="https://leslla2026.github.io/book_abstracts_day3/#Hajská"> Markéta Hajská & Pavel Kubaník </a> </strong> (CUNI-Univerzita Karlova, Praha)<br>
         <i>Romani: one language, two stories</i>
       </td>
     </tr>

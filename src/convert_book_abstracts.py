@@ -445,9 +445,9 @@ if __name__ == '__main__':
     with open(f'{BASE}/hidden_book_abstracts_day3.md', encoding='utf-8') as f:
         md3 = f.read()
 
-    html1 = build_html('day1', 'Book of abstracts - day 1', '/html_book_abstracts_day1/', md1, DAY1_TOC)
-    html2 = build_html('day2', 'Book of abstracts - day 2', '/html_book_abstracts_day2/', md2, DAY2_TOC)
-    html3 = build_html('day3', 'Book of abstracts - day 3', '/html_book_abstracts_day3/', md3, DAY3_TOC,
+    html1 = build_html('day1', 'Book of abstracts - day 1', '/book_abstracts_day1/', md1, DAY1_TOC)
+    html2 = build_html('day2', 'Book of abstracts - day 2', '/book_abstracts_day2/', md2, DAY2_TOC)
+    html3 = build_html('day3', 'Book of abstracts - day 3', '/book_abstracts_day3/', md3, DAY3_TOC,
                         header_line_overrides=DAY3_HEADER_OVERRIDES)
 
     import os
