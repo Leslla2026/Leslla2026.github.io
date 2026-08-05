@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Book of abstracts - day 3
-permalink: /book_abstracts_day3/
+permalink:
 ---
 
 {% include site-logo.html %}
