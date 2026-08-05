@@ -30,7 +30,7 @@ permalink: /21_August/
     </tr>
     <tr>
       <td class="time">9:15–10:15</td>
-      <td colspan="4"> <strong> <a href="https://leslla2026.github.io/book_abstracts_day2/#d'agostino"> Mari D'Agostino </a>   (Università di Palermo) </strong> <br> <i> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
+      <td colspan="4"> <strong> <a href="https://leslla2026.github.io/html_book_abstracts_day2/#d'agostino"> Mari D'Agostino </a>   (Università di Palermo) </strong> <br> <i> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
     </tr>
     <tr class="schedule-section">
       <td colspan="5">Morning session</td>
