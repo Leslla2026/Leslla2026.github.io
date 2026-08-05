@@ -35,10 +35,8 @@ permalink: /book_abstracts_day2/
 "Travellers between languages can, like the tricksters of folk tales, play with double meanings in the interstices between words and codes. They can imagine possible scenarios based on cross-linguistic connotations; they can draw on the sounds and forms of different languages to evoke imaginary worlds inaccessible to the monolingual traveller." (Kramsch 2006)
 Linguistic Autobiography (LA) has seen comparatively fewer experimental applications in migration contexts, despite the heterogeneous and complex linguistic backgrounds of individuals who have grown up in multilingual settings. In such contexts, rich semiotic repertoires, intercomprehension, and communicative creativity are used productively or receptively to navigate everyday interactions, while schooling often takes place within colonial languages and educational systems. Migration itself may constitute an experience that enriches individuals’ linguistic repertoires (D’Agostino 2022). The “éveil aux langues” approach (CARAP 2012) promotes activities that are directed not only at languages of schooling but also at the varieties spoken in everyday environments, within families, and in the wider world. Within a pedagogical and didactic perspective oriented toward a complex and composite competence – plurilingual, pluricultural, and communicative – requiring a positive cognitive and metacognitive disposition toward diversity as a paradigm (Cognigni 2020), LA emerges as a particularly valuable tool for:
 - Bringing to light students’ plurilingual, communicative, and semiotic repertoires;
-- Expanding plurilingual and pluricultural competence as it emerges from students’
-narratives of multiple belongings;
-- Uncovering social representations of languages as they are internalized and
-emotionally experienced (Busch 2020);
+- Expanding plurilingual and pluricultural competence as it emerges from students’narratives of multiple belongings;
+- Uncovering social representations of languages as they are internalized and emotionally experienced (Busch 2020);
 - Fostering the development of metalinguistic awareness.
 
 The aim is to support students as bearers of meanings and stories, endowed with a repertoire of linguistic, cultural, and social experiences. This perspective contributes to improved educational outcomes (Cummins 2019) and initiates as well as sustains plurilingual processes such as intercomprehension (Bonvino 2016), mediation (Piccardo 2020), and spontaneous translation (García & Wei 2014). 

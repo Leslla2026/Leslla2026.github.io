@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-import re, sys, io
+import re, sys, io, os
 
-BASE = "/Users/ludovica/Documents/Leslla2026.github.io"
+BASE = "/Users/eleon/Leslla2026.github.io"
 
 STYLE_BLOCK = """<style>
   .boa-content {
@@ -13,8 +13,8 @@ STYLE_BLOCK = """<style>
     margin-bottom: 1em;
   }
 
-  .boa-content ul.boa-list,
-  .boa-content ol.boa-list {
+  .abstract-entry ul,
+  .abstract-entry ol {
     text-align: left;
     margin: 0 0 1em 0;
   }
@@ -59,16 +59,7 @@ STYLE_BLOCK = """<style>
   }
 
   .abstract-authors {
-    margin-bottom: 0.2em;
-  }
-
-  .abstract-keynote-note {
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    font-weight: 700;
-    font-size: 0.85em;
-    color: #555;
-    margin: 0 0 0.5em 0;
+    margin-bottom: 0.8em;
   }
 
   .abstract-title {
@@ -192,7 +183,7 @@ def render_body(blocks):
         if kind == 'p':
             out.append(f'  <p>{process_text(content)}</p>')
         elif kind in ('ul', 'ol'):
-            out.append(f'  <{kind} class="boa-list">')
+            out.append(f'  <{kind}>')
             for item in content:
                 out.append(f'    <li>{process_text(item)}</li>')
             out.append(f'  </{kind}>')
@@ -285,7 +276,7 @@ ID_FIXES = {
 }
 
 
-def build_html(day_key, title, permalink, md_text, toc_map, header_line_overrides=None):
+def build_html(day_key, title, permalink, md_text, toc_map, header_line_overrides=None, standalone=False):
     entries = parse_entries(md_text)
     id_fixes = ID_FIXES.get(day_key, {})
     header_line_overrides = header_line_overrides or {}
@@ -308,14 +299,11 @@ def build_html(day_key, title, permalink, md_text, toc_map, header_line_override
         blocks = parse_body_blocks(e.body_lines)
         refs = parse_refs(e.ref_lines)
 
-        keynote_html = '  <p class="abstract-keynote-note">Keynote</p>\n' if e.keynote else ''
-
         entry_html = (
             f'<!-- {anchor.upper()} -->\n'
             f'<div class="abstract-entry">\n'
             f'  <a id="{anchor}"></a>\n'
             f'  <h3 class="abstract-authors">{authors_html}</h3>\n'
-            f'{keynote_html}'
             f'  <h3 class="abstract-title"><em>{title_html}</em></h3>\n\n'
             f'{render_body(blocks)}\n'
         )
@@ -347,6 +335,31 @@ def build_html(day_key, title, permalink, md_text, toc_map, header_line_override
         body_parts.append('<h2 class="boa-section-title">Posters</h2>')
         body_parts += [h for _, h in poster_entries]
 
+    content_block = f"""<div class="boa-content">
+
+{chr(10).join(toc_lines)}
+
+{chr(10).join(2*chr(10)+e for e in [''])[2:]}
+{(chr(10)+chr(10)).join(body_parts)}
+
+</div>"""
+
+    if standalone:
+        html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{title}</title>
+{STYLE_BLOCK}
+</head>
+<body>
+<h1 class="boa-main-title">{title}</h1>
+{content_block}
+</body>
+</html>
+"""
+        return html
+
     html = f"""---
 layout: default
 title: {title}
@@ -358,14 +371,7 @@ permalink: {permalink}
 
 {STYLE_BLOCK}
 
-<div class="boa-content">
-
-{chr(10).join(toc_lines)}
-
-{chr(10).join(2*chr(10)+e for e in [''])[2:]}
-{(chr(10)+chr(10)).join(body_parts)}
-
-</div>
+{content_block}
 """
     return html
 
@@ -437,7 +443,46 @@ DAY3_HEADER_OVERRIDES = {
     ],
 }
 
+def generate_pdfs(out_dir=None):
+    """Genera i PDF direttamente dalla versione HTML prodotta localmente
+    dallo script (nessun accesso al sito online)."""
+    try:
+        from weasyprint import HTML
+    except ImportError:
+        sys.exit(
+            "weasyprint non e' installato. Installa con:\n"
+            "  pip install weasyprint\n"
+            "(su macOS serve anche: brew install pango)"
+        )
+
+    with open(f'{BASE}/hidden_book_abstracts_day1.md', encoding='utf-8') as f:
+        md1 = f.read()
+    with open(f'{BASE}/hidden_book_abstracts_day2.md', encoding='utf-8') as f:
+        md2 = f.read()
+    with open(f'{BASE}/hidden_book_abstracts_day3.md', encoding='utf-8') as f:
+        md3 = f.read()
+
+    pages = [
+        ('day1', 'Book of abstracts - day 1', md1, DAY1_TOC, None),
+        ('day2', 'Book of abstracts - day 2', md2, DAY2_TOC, None),
+        ('day3', 'Book of abstracts - day 3', md3, DAY3_TOC, DAY3_HEADER_OVERRIDES),
+    ]
+
+    out_dir = out_dir or os.path.dirname(os.path.abspath(__file__))
+    for day_key, title, md_text, toc_map, overrides in pages:
+        html = build_html(day_key, title, '', md_text, toc_map,
+                           header_line_overrides=overrides, standalone=True)
+        out_path = os.path.join(out_dir, f'book_abstracts_{day_key}.pdf')
+        print(f'Genero {out_path}')
+        HTML(string=html).write_pdf(out_path)
+    print('PDF completati.')
+
+
 if __name__ == '__main__':
+    if len(sys.argv) > 1 and sys.argv[1] == 'pdf':
+        generate_pdfs()
+        sys.exit(0)
+
     with open(f'{BASE}/hidden_book_abstracts_day1.md', encoding='utf-8') as f:
         md1 = f.read()
     with open(f'{BASE}/hidden_book_abstracts_day2.md', encoding='utf-8') as f:
@@ -450,7 +495,6 @@ if __name__ == '__main__':
     html3 = build_html('day3', 'Book of abstracts - day 3', '/html_book_abstracts_day3/', md3, DAY3_TOC,
                         header_line_overrides=DAY3_HEADER_OVERRIDES)
 
-    import os
     OUT = os.path.dirname(os.path.abspath(__file__))
     with open(f'{OUT}/out_day1.html', 'w', encoding='utf-8') as f:
         f.write(html1)

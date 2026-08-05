@@ -11,9 +11,9 @@ Fatto
   Problemi e incongruenze nei sorgenti (da verificare con gli autori/organizzatori)
 
   Nomi probabilmente errati (li ho lasciati come nel sorgente, non corretti automaticamente):
-  - Day 3, abstract "malessa": l'intestazione riporta "Live Grinder" e "Jemima Riller Kempster", ma nei riferimenti bibliografici dello stesso
+  - Day 3, abstract "malessa": l'intestazione riporta "Live Grinder" e "Jemima Rillera Kempster", ma nei riferimenti bibliografici dello stesso
   abstract compaiono correttamente "Grinden" e "Rillera Kempster" (nomi coerenti col resto del programma).
-  - Day 3, abstract "minuz": intestazione riporta "Fernanza Minuz", ma nel sommario originale e nei riferimenti è "Fernanda Minuz".
+  - Day 3, abstract "minuz": intestazione riporta "fernanda Minuz", ma nel sommario originale e nei riferimenti è "Fernanda Minuz".
 
   Titoli disallineati tra sommario e testo (ho usato il titolo del corpo come fonte primaria, rigenerando il sommario da lì):
   - Day 2, "d'agostino": il sommario originale annunciava "Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte", ma
@@ -21,8 +21,8 @@ Fatto
   diverso.
 
   Refusi (typo) da correggere alla fonte:
-  - Day 3, "cotesta": "assesment" nel titolo (nel sommario originale era scritto correttamente "assessment").
-  - Day 3, "minuz": "scienceand" (manca lo spazio) in un elenco puntato.
+  - Day 3, "cotesta": "assessment" nel titolo (nel sommario originale era scritto correttamente "assessment").
+  - Day 3, "minuz": "science and" (manca lo spazio) in un elenco puntato.
   - Day 3, "gujord": una frase finisce senza punto prima della successiva ("...across the dataset The study provides...").
 
   Anchor/link rotti nel sorgente, corretti nella conversione:
