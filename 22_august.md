@@ -83,7 +83,7 @@ permalink: /22_August/
     <tr>
       <td class="time">9:30–10:00</td>
       <td>
-        <strong>Franziska Foerster</strong><br>
+        <strong>Franziska Förster</strong><br>
         <i>Friedrich-Schiller-Universität Jena</i><br>
         Real-life digital literacy practices of Arabic-speaking adult migrants in Germany
       </td>
