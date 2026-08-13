@@ -81,7 +81,7 @@ permalink: /21_August/
         Exploring teacher candidates’ attitudes toward multilingualism in the Turkish context
       </td>
       <td>
-        <strong>Enas Filinban</strong><br> <i> Umm Al-Qura University </i><br>
+        <strong>Enas Filimban</strong><br> <i> Umm Al-Qura University </i><br>
         AI-mediated Arabic learning for low-Literate adult migrants in Saudi Arabia
       </td>
     </tr>
