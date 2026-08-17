@@ -31,25 +31,25 @@ permalink: /22_August/
     <tr>
       <th class="time"></th>
       <th class="session">
-        <span style="display:block;">Session 1</span>
+        <span style="display:block;">Session 1 <br><span style="color:#0066cc; font-weight:bold;">Room B2.21</span></span>
         <span style="display:block; border-top:1px solid #999; margin:0.4rem 0; padding-top:0.4rem;">
           <i>Co-constructed educational attitudes, approaches and practices</i>
         </span>
       </th>
       <th class="session">
-        <span style="display:block;">Session 2</span>
+        <span style="display:block;">Session 2<br><span style="color:#0066cc; font-weight:bold;">Room B2.22</span>
         <span style="display:block; border-top:1px solid #999; margin:0.4rem 0; padding-top:0.4rem;">
           <i>Additional languages and phono-morphological awareness</i>
         </span>
       </th>
       <th class="session">
-        <span style="display:block;">Session 3</span>
+        <span style="display:block;">Session 3 <br><span style="color:#0066cc; font-weight:bold;">Room B2.13</span>
         <span style="display:block; border-top:1px solid #999; margin:0.4rem 0; padding-top:0.4rem;">
           <i>Voices from inside: learners' and teachers' views on languages and literacy</i>
         </span>
       </th>
       <th class="session">
-        <span style="display:block;">Session 4</span>
+        <span style="display:block;">Session 4 <br><span style="color:#0066cc; font-weight:bold;">Room B2.23</span>
         <span style="display:block; border-top:1px solid #999; margin:0.4rem 0; padding-top:0.4rem;">
           <i>Voices from outside: views on literacy (and its consequences)</i>
         </span>
@@ -121,8 +121,8 @@ permalink: /22_August/
 
     <tr>
       <th class="time"></th>
-      <th class="session" colspan="2">Workshop 1</th>
-      <th class="session" colspan="2">Workshop 2</th>
+      <th class="session" colspan="2">Workshop 1<br><span style="color:#0066cc; font-weight:bold;">Room B2.21</th>
+      <th class="session" colspan="2">Workshop 2<br><span style="color:#0066cc; font-weight:bold;">Room B2.22</th>
     </tr>
 
     <tr>

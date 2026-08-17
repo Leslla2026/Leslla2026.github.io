@@ -23,21 +23,21 @@ permalink: /21_August/
   <tbody>
     <tr>
       <td class="time">9:00-9:15</td>
-      <td colspan="4"> <i> Opening session  </i> <br> Egle Mocciaro (Masarykova Univerzita; LESLLA past president) <br> Kaatje Dalderop (LESLLA President) Gabriela Jessome (LESLLA Vice President) <br> MUNI delegates <br> <strong> Room B2.13 </strong> </td>
+      <td colspan="4"> <i> Opening session  </i> <br> Egle Mocciaro (Masarykova Univerzita; LESLLA past president) <br> Kaatje Dalderop (LESLLA President) Gabriela Jessome (LESLLA Vice President) <br> MUNI delegates <br><span style="color:#0066cc; font-weight:bold;">Room B2.13</span></td>
     </tr>
     <tr class="schedule-section">
     <td colspan="5"> Keynote Speech</td>
     </tr>
     <tr>
       <td class="time">9:15–10:15</td>
-      <td colspan="4"> <strong> <a href="https://leslla2026.github.io/book_abstracts_day2/#d'agostino"> Mari D'Agostino </a>   (Università di Palermo) </strong> <br> <i> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> <br> <strong> Room B2.13 </strong> </td>
+      <td colspan="4"> <strong> <a href="https://leslla2026.github.io/book_abstracts_day2/#d'agostino"> Mari D'Agostino </a>   (Università di Palermo) </strong> <br> <i> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> <br> <span style="color:#0066cc; font-weight:bold;">Room B2.13</span> </td>
     </tr>
     <tr class="schedule-section">
       <td colspan="5">Morning session</td>
     </tr>
 <tr>
       <th class="time"></th>
-  <th class="session"><span style="display:block;"> Session 1 <br> Room B2.21</span>
+  <th class="session"><span style="display:block;"> Session 1 <br> <span style="color:#0066cc; font-weight:bold;">Room B2.21</span></span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
@@ -51,7 +51,7 @@ permalink: /21_August/
                padding-top: 0.4rem;">
     <i>Additional languages and morphological awareness</i>
     </span></th>
-  <th class="session" colspan = "2"><span style="display:block;"> Session 3 </span>
+  <th class="session" colspan = "2"><span style="display:block;"> Session 3 <span style="color:#0066cc; font-weight:bold;">Room B2.23</span></span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
@@ -103,11 +103,11 @@ permalink: /21_August/
   </tr>    
     <tr>
       <td class="time">13:15–13:45</td>
-      <td colspan="4"><strong>Adult migrants learning literacy in a new language: book launch and raffle </strong>(De Gruyter, 2026)<br> Christine Czinglar* & Karen Schramm^<i> *Universität Jena, ^Universität Wien </i><br> </td>
+      <td colspan="4"><strong>Adult migrants learning literacy in a new language: book launch and raffle </strong>(De Gruyter, 2026)<br> Christine Czinglar* & Karen Schramm^<i> *Universität Jena, ^Universität Wien </i><br><span style="color:#0066cc; font-weight:bold;">Room B2.13</span> </td>
     </tr>
     <tr>
       <td class="time">13:45–15:00</td>
-      <td colspan="4">General assembly</td>
+      <td colspan="4">General assembly <br> <span style="color:#0066cc; font-weight:bold;">Room B2.13</span> </td>
     </tr>
     <tr>
       <td class="time">15:00–15:30</td>
@@ -115,10 +115,10 @@ permalink: /21_August/
     </tr>
     <tr>
       <th class="time"></th>
-      <th class="session">Workshop 1</th>
-      <th class="session">Workshop 2</th>
-      <th class="session">Workshop 3</th>
-      <th class="session">Workshop 4</th>
+      <th class="session">Workshop 1 <br> <span style="color:#0066cc; font-weight:bold;">Room B2.13</span> </th>
+      <th class="session">Workshop 2<br> <span style="color:#0066cc; font-weight:bold;">Room B2.21</span></th>
+      <th class="session">Workshop 3<br> <span style="color:#0066cc; font-weight:bold;">Room B2.22</span></th>
+      <th class="session">Workshop 4<br> <span style="color:#0066cc; font-weight:bold;">Room B2.23</th>
     </tr>
     <tr>
       <td class="time">15:30-17:30</td>
