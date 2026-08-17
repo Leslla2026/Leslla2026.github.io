@@ -30,10 +30,10 @@ permalink: /21_August/
     </tr>
     <tr>
       <td class="time">9:15–10:15</td>
-      <td colspan="3"> <strong> <a href="https://leslla2026.github.io/book_abstracts_day2/#d'agostino"> Mari D'Agostino </a>   (Università di Palermo) </strong> <br> <i> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
+      <td colspan="4"> <strong> <a href="https://leslla2026.github.io/book_abstracts_day2/#d'agostino"> Mari D'Agostino </a>   (Università di Palermo) </strong> <br> <i> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
     </tr>
     <tr class="schedule-section">
-      <td colspan="3">Morning session</td>
+      <td colspan="5">Morning session</td>
     </tr>
 <tr>
       <th class="time"></th>
@@ -51,7 +51,7 @@ permalink: /21_August/
                padding-top: 0.4rem;">
     <i>Additional languages and morphological awareness</i>
     </span></th>
-  <th class="session"><span style="display:block;"> Session 3 </span>
+  <th class="session"; colspan = "2"><span style="display:block;"> Session 3 </span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
@@ -68,7 +68,7 @@ permalink: /21_August/
         <strong>Marie-Anne Morand & Claudia Kossinna</strong><br> <i> Université de Fribourg </i><br>
         Word stress identification by LESLLA learners and second-script learners
       </td>
-      <td>
+      <td colspan = "2">
         <strong>Nadja Kerschhofer-Puhalo</strong><br> <i> Universität Hamburg</i><br>
         Views in*2 literacies-a multimodal text collection on a participatory web-platform
       </td>
@@ -82,7 +82,7 @@ permalink: /21_August/
         <strong>Ann-Kristin Helland Gujord* & Linda Evenstad Emilsen°</strong><br> <i> *Universitetet i Bergen, °Høgskolen i Østfold </i><br>
         What characterises research on L2 learners with limited prior schooling? 
       </td>
-      <td>
+      <td colspan = "2">
         <strong>Carl Laberge</strong><br> <i> Université Laval </i><br>
         LESLLA learners’ plurilingual development: a funds of knowledge approach to uncover their perspectives
       </td>
