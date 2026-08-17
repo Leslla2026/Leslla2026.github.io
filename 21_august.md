@@ -37,14 +37,14 @@ permalink: /21_August/
     </tr>
 <tr>
       <th class="time"></th>
-  <th class="session"><span style="display:block;"> Session 1 <br> Room 2.21</span>
+  <th class="session"><span style="display:block;"> Session 1 <br> Room B2.21</span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
                padding-top: 0.4rem;">
     <i>Co-constructed educational attitudes, approaches and pratices</i>
     </span></th>
-    <th class="session"><span style="display:block;"> Session 2 </span>
+    <th class="session"><span style="display:block;"> Session 2 <br> <span style="color:#0066cc; font-weight:bold;">Room B2.22</span> </span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
