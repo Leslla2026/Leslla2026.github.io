@@ -58,7 +58,6 @@ permalink: /21_August/
                padding-top: 0.4rem;">
     <i>Voices from inside: learners' and teachers' views on languages and literacy</i>
     </span></th>
-  <th class="session"><span style="display:block;"> Session 4 </span>
     <tr>
       <td class="time">10:15-10:45</td>
       <td>
