@@ -32,6 +32,11 @@ permalink: /organising_committee/
   <h3>Marcela Opršalová</h3>
   <p>Secretary of the Department of Romance Languages and literatures</p>
 </div>
+<div class="member">
+  <img src="/media/foto_liba.jpg" alt="Liba">
+  <h3>Libuše Svobodová</h3>
+  <p>Secretary of the Department of Romance Languages and literatures</p>
+</div>
 
 <div class="member">
   <img src="/media/foto_eleonora.jpg" alt="Eleonora">
