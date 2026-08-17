@@ -22,7 +22,7 @@ permalink: /21_August/
   <tbody>
     <tr>
       <td class="time">9:00-9:15</td>
-      <td colspan="3"> <i> Opening session  </i> <br> Egle Mocciaro (Masarykova Univerzita; LESLLA past president) <br> Kaatje Dalderop (LESLLA President) Gabriela Jessome (LESLLA Vice President) <br> Petr Dytrt, Vice-Dean for Internationalization (Masarykova Univerzita) <br><span style="color:#0066cc; font-weight:bold;">Room B2.13</span></td>
+      <td colspan="3"> <i> Opening session  </i> <br> Egle Mocciaro (Masarykova Univerzita; LESLLA past president) <br> Kaatje Dalderop (LESLLA President) <br> Gabriela Jessome (LESLLA Vice President) <br> Petr Dytrt, Vice-Dean for Internationalization (Masarykova Univerzita) <br><span style="color:#0066cc; font-weight:bold;">Room B2.13</span></td>
     </tr>
     <tr class="schedule-section">
     <td colspan="4"> Keynote Speech</td>
