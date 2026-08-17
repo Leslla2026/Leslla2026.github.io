@@ -30,10 +30,10 @@ permalink: /21_August/
     </tr>
     <tr>
       <td class="time">9:15–10:15</td>
-      <td colspan="4"> <strong> <a href="https://leslla2026.github.io/book_abstracts_day2/#d'agostino"> Mari D'Agostino </a>   (Università di Palermo) </strong> <br> <i> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
+      <td colspan="3"> <strong> <a href="https://leslla2026.github.io/book_abstracts_day2/#d'agostino"> Mari D'Agostino </a>   (Università di Palermo) </strong> <br> <i> Altre literacies? Plurilinguismo e nuovi processi migratori attraverso le rotte </i> </td>
     </tr>
     <tr class="schedule-section">
-      <td colspan="5">Morning session</td>
+      <td colspan="4">Morning session</td>
     </tr>
 <tr>
       <th class="time"></th>
@@ -59,13 +59,6 @@ permalink: /21_August/
     <i>Voices from inside: learners' and teachers' views on languages and literacy</i>
     </span></th>
   <th class="session"><span style="display:block;"> Session 4 </span>
-  <span style="display:block;
-               border-top: 1px solid #999;
-               margin: 0.4rem 0;
-               padding-top: 0.4rem;">
-    <i>Tools and resources</i>
-    </span></th>
-    </tr>
     <tr>
       <td class="time">10:15-10:45</td>
       <td>
@@ -77,14 +70,9 @@ permalink: /21_August/
         Word stress identification by LESLLA learners and second-script learners
       </td>
       <td>
-        <strong>Belma Haznedar* & Elifcan Oztekin°</strong><br> <i> *Boğaziçi Universitesi, Istanbul, °Universidad de Granada </i><br>
-        Exploring teacher candidates’ attitudes toward multilingualism in the Turkish context
+        <strong>Nadja Kerschhofer-Puhalo</strong><br> <i> Universität Hamburg</i><br>
+        Views in*2 literacies-a multimodal text collection on a participatory web-platform
       </td>
-      <td>
-        <strong>Enas Filimban</strong><br> <i> Umm Al-Qura University </i><br>
-        AI-mediated Arabic learning for low-Literate adult migrants in Saudi Arabia
-      </td>
-    </tr>
     <tr>
       <td class="time">10:45-11:15</td>
       <td>
@@ -98,10 +86,6 @@ permalink: /21_August/
       <td>
         <strong>Carl Laberge</strong><br> <i> Université Laval </i><br>
         LESLLA learners’ plurilingual development: a funds of knowledge approach to uncover their perspectives
-      </td>
-      <td>
-        <strong>Nadja Kerschhofer-Puhalo</strong><br> <i> Universität Hamburg </i><br>
-        Views in*2 literacies-a multimodal text collection on a participatory web-platform 
       </td>
     </tr>
     <tr>
