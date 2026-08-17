@@ -7,7 +7,7 @@ permalink: /20_August/
 {% include site-logo.html %}
 {% include page-header.html %}
 
-<!-- <p>Download the conference schedule in pdf <a href="/media/leslla2026_schedule.pdf" alt="pdf">here</a></p> -->
+<p>Download the conference schedule in pdf <a href="/media/schedule_full.pdf" alt="pdf">here</a></p>
 
 <table class="schedule-table">
 
