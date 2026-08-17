@@ -51,7 +51,7 @@ permalink: /21_August/
                padding-top: 0.4rem;">
     <i>Additional languages and morphological awareness</i>
     </span></th>
-  <th class="session" colspan = "2"><span style="display:block;"> Session 3 <span style="color:#0066cc; font-weight:bold;">Room B2.23</span></span>
+  <th class="session" colspan = "2"><span style="display:block;"> Session 3 <br> <span style="color:#0066cc; font-weight:bold;">Room B2.23</span></span>
   <span style="display:block;
                border-top: 1px solid #999;
                margin: 0.4rem 0;
@@ -118,7 +118,7 @@ permalink: /21_August/
       <th class="session">Workshop 1 <br> <span style="color:#0066cc; font-weight:bold;">Room B2.13</span> </th>
       <th class="session">Workshop 2<br> <span style="color:#0066cc; font-weight:bold;">Room B2.21</span></th>
       <th class="session">Workshop 3<br> <span style="color:#0066cc; font-weight:bold;">Room B2.22</span></th>
-      <th class="session">Workshop 4<br> <span style="color:#0066cc; font-weight:bold;">Room B2.23</th>
+      <th class="session">Workshop 4<br> <span style="color:#0066cc; font-weight:bold;">Room B2.23</span></th>
     </tr>
     <tr>
       <td class="time">15:30-17:30</td>
