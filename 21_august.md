@@ -89,7 +89,7 @@ permalink: /21_August/
     </tr>
     <tr>
       <td class="time">11:15-12:15 </td>
-      <td colspan="2"><i> Poster session with coffee</i></td>
+      <td colspan="1"><i> Poster session with coffee</i></td>
       <td colspan="2"><strong> Rebecca Hayes Laughton</strong> <i> King's College, London </i>  Devising radical grammar: grassroots drama as a pedagogical tool.<br>  <strong> Martina Franz dos Santos </strong> <i> Phillips University of Marburg</i>. Real literacies in adult second language literacy instruction: an intervention study. <br> <strong> Tsun Yang Chuang *°, Emanuelle Canut°, Morgane Jourdain* </strong> <i> *KU Leuven,°Université de Lille</i>. Understending the non-comprehension of instructions among learners with limited schooling: a comparative conversation analysis of French language integration classes. <br> <strong> Lorenzo Albanesi* & Kristýna Lorenzová* </strong> <i> *Masarykova Univerzita</i>. If you are waiting for literacy and input: do analytic constructions emerge? </td>    
     </tr>
     <tr>
