@@ -80,8 +80,10 @@ permalink: /21_August/
         Observing competence and performance in talk-in-interaction: notes from an Italian LA course with newly arrived learners
       </td>
       <td>
-        <strong>Ann-Kristin Helland Gujord* & Linda Evenstad Emilsen°</strong><br> <i> *Universitetet i Bergen, °Høgskolen i Østfold </i><br>
-        What characterises research on L2 learners with limited prior schooling? 
+        <del> <strong>Ann-Kristin Helland Gujord* & Linda Evenstad Emilsen°</strong><br> <i> *Universitetet i Bergen, °Høgskolen i Østfold </i><br>
+        What characterises research on L2 learners with limited prior schooling? </del><strong>Roeland van Hout</strong><br>
+        <i>Centre for Language Studies, Radboud Universiteit Nijmegen</i><br>
+        Low-educated adult second language learners and their low sensitivity to L2 inflectional morphology: effects of sound discrimination, learner and target word characteristics
       </td>
       <td>
         <strong>Carl Laberge</strong><br> <i> Université Laval </i><br>

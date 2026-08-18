@@ -64,9 +64,9 @@ permalink: /22_August/
         Mediation and plurilingual repertoires in LESLLA contexts: a preliminary study on inclusive language assessment in Italy
       </td>
       <td>
-        <strong>Roeland van Hout</strong><br>
+        <del> <strong>Roeland van Hout</strong><br>
         <i>Centre for Language Studies, Radboud Universiteit Nijmegen</i><br>
-        Low-educated adult second language learners and their low sensitivity to L2 inflectional morphology: effects of sound discrimination, learner and target word characteristics
+        Low-educated adult second language learners and their low sensitivity to L2 inflectional morphology: effects of sound discrimination, learner and target word characteristics </del>
       </td>
       <td>
         <strong>Fernanda Minuz* & Alessandro Borri°</strong><br>
@@ -88,9 +88,9 @@ permalink: /22_August/
         Real-life digital literacy practices of Arabic-speaking adult migrants in Germany
       </td>
       <td>
-        <strong>Linda Evenstad Emilsen* & Ann-Kristin Gujord°</strong><br>
+        <strong> <del> Linda Evenstad Emilsen* & Ann-Kristin Gujord°</strong><br>
         <i>*Høgskolen i Østfold, °Universitetet i Bergen</i><br>
-        Early grammatical development in a non-academic sample
+        Early grammatical development in a non-academic sample </del>
       </td>
       <td>
         <strong>Marta Maffia*,Raymond Siebetcheu°, Anna De Meo*, Noemi Lari°</strong><br>
