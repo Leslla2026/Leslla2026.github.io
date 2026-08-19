@@ -148,7 +148,7 @@ permalink: /21_August/
     </tr>
     <tr>
       <td class="time">19:00</td>
-      <td colspan="4"> <i> <strong>Social dinner at <a href="https://restauracejakoby.cz/">Jakoby </a> </strong> </i> </td>
+      <td colspan="4"> <i> <strong>Social dinner at <a href="https://restauracejakoby.cz/">Jakoby </a> </strong> </i> <br> <a href="https://www.google.com/maps/place/Restaurace+Jakoby/@49.1969752,16.6087064,20.5z/data=!4m15!1m8!3m7!1s0x4712945a13117247:0x78476e13863ec64b!2zSmFrdWJza8OpIG7DoW0uIDEyOC82LCA2MDIgMDAgQnJuby1txJtzdG8!3b1!8m2!3d49.1970072!4d16.6086486!16s%2Fg%2F11rp44mpxz!3m5!1s0x4712945a12fddfe9:0xcc077d4ca4136bf5!8m2!3d49.1969604!4d16.6086521!16s%2Fg%2F12mkz9h8h?hl=it&entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"> Address: Jakubské nám. 128/6</td>
     </tr>
     </tbody>
 </table>
