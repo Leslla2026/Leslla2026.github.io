@@ -147,7 +147,7 @@ permalink: /21_August/
       <td colspan="4"> <i> Walk to venue of social dinner through Brno city centre with Daniel Vázquez Touriño</i> </td>
     </tr>
     <tr>
-      <td class="time">19.00</td>
+      <td class="time">19:00</td>
       <td colspan="4"> <i> <strong>Social dinner at <a href="https://restauracejakoby.cz/">Jakoby </a> </strong> </i> </td>
     </tr>
     </tbody>
