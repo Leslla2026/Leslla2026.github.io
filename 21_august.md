@@ -128,7 +128,7 @@ permalink: /21_August/
     </tr>
     <tr>
       <th class="time"></th>
-      <th class="session">Workshop 1 <br> <span style="color:#0066cc; font-weight:bold;">Room B2.13</span> </th>
+      <th class="session">Workshop 1 <br> <span style="color:#0066cc; font-weight:bold;">Room <del> B2.13 </del> B2.22</span> </th>
       <th class="session">Workshop 2<br> <span style="color:#0066cc; font-weight:bold;">Room B2.21</span></th>
       <th class="session">Workshop 3<br> <span style="color:#0066cc; font-weight:bold;">Room B2.22</span></th>
       <th class="session">Workshop 4<br> <span style="color:#0066cc; font-weight:bold;">Room B2.23</span></th>

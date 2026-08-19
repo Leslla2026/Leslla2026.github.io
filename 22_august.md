@@ -43,7 +43,7 @@ permalink: /22_August/
         </span>
       </th>
       <th class="session">
-        <span style="display:block;">Session 3 <br><span style="color:#0066cc; font-weight:bold;">Room B2.13</span></span>
+        <span style="display:block;">Session 3 <br><span style="color:#0066cc; font-weight:bold;">Room <del> B2.13 </del> B2.22</span></span>
         <span style="display:block; border-top:1px solid #999; margin:0.4rem 0; padding-top:0.4rem;">
           <i>Voices from inside: learners' and teachers' views on languages and literacy</i>
         </span>
